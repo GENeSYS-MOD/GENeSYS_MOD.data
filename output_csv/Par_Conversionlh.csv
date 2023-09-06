@@ -1,0 +1,21 @@
+"Conversionlh{l in TIMESLICE, lh in DAILYTIMEBRACKET} ", , , , 
+Set equal to 1 to assign a particular time slice to a daily time bracket. Set equal to 0 in order not to assign a particular time slice to a daily time bracket., , , , 
+Unit: Binary, , , , 
+ ,N,M,P,A
+Timeslice,4,1,2,3
+Q1N,1, , , 
+Q1M, ,1, , 
+Q1P, , ,1, 
+Q1A, , , ,1
+Q2N,1, , , 
+Q2M, ,1, , 
+Q2P, , ,1, 
+Q2A, , , ,1
+Q3N,1, , , 
+Q3M, ,1, , 
+Q3P, , ,1, 
+Q3A, , , ,1
+Q4N,1, , , 
+Q4M, ,1, , 
+Q4P, , ,1, 
+Q4A, , , ,1
