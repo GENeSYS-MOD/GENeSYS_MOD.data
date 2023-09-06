@@ -2,7 +2,8 @@ EmissionContentPerFuel{f in FUEL, e in EMISSION}; ;
 Emission content per unit of energy per fuel; ; 
 Unit: Megatonnes/PJ; ; 
  ; ; 
-Hardcoal;CO2;0946
+Fuel;Emission;Value
+Hardcoal;CO2;946
 Lignite;CO2;0,101
 Gas_Natural;CO2;0,0561
 Oil;CO2;0,0733
