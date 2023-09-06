@@ -1,7 +1,7 @@
 OperationalLife{r in REGION, t in TECHNOLOGY}; ; ; ; ; 
 Operational lifespan of a process in years.; ; ; ; ; 
 Unit: Years; ; ; ; ; 
- ; ; ; ; ; 
+Region;Technology;Value; ; ; 
 DE;A_Rooftop_Commercial;101; ; ; 
 DE;A_Rooftop_Residential;101,0; ; ; 
 DE;D_Battery_Li-Ion;11,0; ; ; 

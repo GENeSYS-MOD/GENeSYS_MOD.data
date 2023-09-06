@@ -2,7 +2,7 @@ EmissionActivityRatio{r in REGION, t in TECHNOLOGY, e in EMISSION, m in MODEOFOP
 Emissions factor per unit of activity.; ; ; ; ; ; ; ; ; ; ; 
 Unit: Fraction; ; ; ; ; ; ; ; ; ; ; 
  ; ; ; ; ; ; ; ; ; ; ; 
- ; ; ; ;2018;2020;2025;2030;2035;2040;2045;2050
+Region;Technology;Emission;Mode of Operation;2018;2020;2025;2030;2035;2040;2045;2050
 DE;CHP_Coal_Hardcoal;CO2;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0
 DE;CHP_Coal_Lignite;CO2;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0
 DE;CHP_Gas;CO2;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0
