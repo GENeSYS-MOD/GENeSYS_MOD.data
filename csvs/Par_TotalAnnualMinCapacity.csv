@@ -1,0 +1,5 @@
+TotalAnnualMinCapacity{r in REGION, t in TECHNOLOGY, y in YEAR}; ; ; ; ; ; ; ; ; 
+Minimum total (residual and new) capacity each year.; ; ; ; ; ; ; ; ; 
+Unit: GW; ; ; ; ; ; ; ; ; 
+ ; ; ; ; ; ; ; ; ; 
+Region;Technology;2018;2020;2025;2030;2035;2040;2045;2050
