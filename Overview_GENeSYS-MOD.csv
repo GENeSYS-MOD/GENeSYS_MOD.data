@@ -1,0 +1,71 @@
+﻿Input,Description,Unit
+TS_PV_INF,Hourly data for PV inferior profile (average of 30% profiles with lowest average capacity factor),
+TS_PV_AVG,Hourly data for PV average profile (average of all profiles),
+TS_PV_OPT,Hourly data for PV optimal profile (average of 30% profiles with highest average capacity factor),
+TS_PV_BASE,Hourly data for PV … ,
+TS_PV_TRA,Hourly data for PV … ,
+TS_WIND_ONSHORE_INF,Hourly data for onshore wind inferior profile (average of 30% profiles with lowest average capacity factor),
+TS_WIND_ONSHORE_AVG,Hourly data for onshore wind average profile (average of all profiles),
+TS_WIND_ONSHORE_OPT,Hourly data for onshore wind (average of 30% profiles with highest average capacity factor),
+TS_WIND_ONSHORE_BASE,Hourly data for onshore wind … ,
+TS_HYDRO_ROR,Hourly data for hydro … ,
+TS_WIND_OFFSHORE_SHALLOW,Hourly data for offshore wind in shallow waters allowing bottom-fixed turbines,
+TS_WIND_OFFSHORE_DEEP,Hourly data for offshore wind in deep waters requiring floating turbines,
+TS_WIND_OFFSHORE,Hourly data for offshore wind … ,
+TS_WIND_OFFSHORE_BASE,Hourly data for offshore wind … ,
+TS_LOAD,Hourly data for load.,
+TS_MOBILITY_PSNG,Hourly data for passenger mobility.,
+TS_HEAT_HIGH,Hourly data for heat high.,
+TS_HEAT_LOW,Hourly data for heat low.,
+TS_HP_AIRSOURCE,Hourly data for air source heat pumps.,
+TS_HP_GROUNDSOURCE,Hourly data for ground source heat pumps.,
+Par_TradeRoute,"Defines trade links between regions for specific fuels. If r is linked to rr, rr has also to be linked with r. Symmetrical matrix with diagonal of zeroes",km
+Par_TradeCosts,Costs for trading a fuel from one region to another.,M€/PJ
+Par_TradeCapacity,Defines the capacities for trade between two regions in a specific year and for a specific fuel. ,"GW for Power, PJ for Gas"
+Par_TradeCapacityGrowthCosts,Costs of expanding trade capacity.,M€/GW
+Par_GrowthRateTradeCapacity,Defines by how much the trade capacity between two regions can grow,Factor
+Par_AnnualEmissionLimit,Limits the maximum amount of Emissions in a year.,Megatonnes
+Par_AnnualSectoralEmissionLimit,Limits the maximum amount of Emissions for a specific sector and region in a year.,Megatonnes
+Par_RegionalAnnualEmissionLimit,Limits the maximum amount of Emissions for a certain region in a year.,Megatonnes
+Par_EmissionActivityRatio,Emissions factor per unit of activity.,Fraction 
+Par_EmissionsPenalty,Externality cost per unit of emission.,M€/Megatonnes
+Par_SpecifiedAnnualDemand,The annual demand for each output fuel. Hourly Data parameters distribute this demand over the timesteps.,PJ/mtkm/mpkm
+Par_ReserveMargin,The reserve (installed) capacity required relative to the peak demand.,Ratio
+Par_InputActivityRatio,"The input (use) of fuel per unit of activity for each technology. Describes, in combination with the OutputActivityRatio, the efficiency of the technology.",Fraction
+Par_OutputActivityRatio,"Ratio of output to activity. Desribes, together with the InputActivityRatio, the efficiency of the technology.",Fraction
+Par_CapitalCost,Total capital cost (including interest paid during construction)per unit of capacity for new capacity additions,M€/GW
+Par_VariableCost,Cost per unit of activity of the technology.,M€/PJ
+Par_FixedCost,The annual cost per unit of capacity of a technology.,M€/GW
+Par_ResidualCapacity,The capacity left over from periods prior to the modeling period.,GW
+Par_AvailabilityFactor,Maximum time a technology may run for the whole year. Often used to simulate planned outages. GENeSYS-MOD will choose when to run or not run.,Fraction
+Par_TotalAnnualMaxActivity,Maximum total activity each year.,PJ
+Par_TotalAnnualMaxCapacity,Maximum total (residual and new) capacity each year.,GW
+Par_ModalSplitByFuel,Describes the distribution of technologies within a specific modal type.,Fraction
+Par_TechnologyToStorage,Connects Storaged to their respective dummy technologies and describes the efficiency of storage charging,Fraction
+Par_TechnologyFromStorage,Connects Storaged to their respective dummy technologies and describes the efficiency of storage discharging,Fraction
+Par_OperationalLifeStorage,Operational Life of Storages.,Years
+Par_RampingUpFactor,Ramping up factor.,
+Par_RampingDownFactor,Rampind down factor.,
+Par_ProductionChangeCost,Production change cost.,M€
+Par_EmissionContentPerFuel,Emission content per unit of energy per fuel.,Megatonnes/PJ
+Par_OperationalLife,Operational lifespan of a process in years.,Years
+Par_ModelPeriodActivityMaxLimit,Maximum total activity for the complete model period per region.,PJ
+Par_RegionalCCSLimit,Describes how much carbon can be stored per region.,Megatonnes
+Par_RegionalBaseYearProduction,Describes how much of a fuel has to be produced by specific technologies in the base year per region.,PJ
+Par_BaseYearProduction,Describes how much of a fuel has to be produced by specific technologies in the base year across all regions.,PJ
+Par_TagDemandFuelToSector,Assigns final demand fuels to the different sectors.,Binary
+Par_TagTechnologyToSector,Assigns Technologies to the different sectors.,Binary
+Par_TagElectricTechnology,"Indicates if a technology is considered to be ""direct electrification"".",Binary
+Par_ReserveMarginTagFuel,Indicates if the output fuel has a reserve margin associated with it,Binary
+Par_ReserveMarginTagTechnology,Amount the technology contributes to the reserve margin 1=100%  0.2=20%.,Fraction
+Par_EmissionPenaltyTagTech,Tags all technologies which produce emissions.,Binary
+Par_TagTechnologyToModalType,Tags technologies which belong to a certain modal type.,Binary
+Par_CapacityToActivityUnit,"Converts capacity to activity. Here we use a factor of 31.536, which is the level of energy production in PJ produced from 1 GW operating for 1 year (1GW * 8760 * 3600 / 10^6)",PJ/GW-YR
+Par_CapacityFactor,Indicates the maximum time technology may run in a given time slice.,Fraction
+Par_TotalAnnualMinActivity,Minimum total activity each year.,PJ
+Par_TotalAnnualMinCapacity,Minimum total (residual and new) capacity each year.,GW
+Par_MinStorageCharge,Lower bound (fraction) of total storage capacity which always has to be charged.,Fraction
+Par_CapitalCostStorage,Capital Cost of storages per energy content.,M€/PJ
+Par_ResidualStorageCapacity,Residual Storage Capacity.,PJ
+Par_AnnualExogenousEmission,Amount of external Emissions for a year in a certain region.,Megatonnes
+Par_StorageLevelStart,Defines the level of storage at the beginning of a year.,PJ
