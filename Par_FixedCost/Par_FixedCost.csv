@@ -55,18 +55,18 @@ World,PSNG_Road_ICE,2018,2.4,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2018,3.6,,MEUR/GW,,,
 World,RES_CSP,2018,193.496,,MEUR/GW,,,
 World,RES_CSP_Storage,2018,217.496,,MEUR/GW,,,
-World,RES_Geothermal,2018,80,,MEUR/GW,,,
+World,RES_Geothermal,2018,80,,MEUR/GW,Geothermal Power; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2018,22,,MEUR/GW,,,
 World,RES_Hydro_Small,2018,66,,MEUR/GW,,,
 World,RES_Ocean,2018,336.26,,MEUR/GW,,,
-World,RES_PV_Rooftop_Commercial,2018,27.5,,MEUR/GW,,,
-World,RES_PV_Rooftop_Residential,2018,26.2,,MEUR/GW,,,
-World,RES_PV_Utility_Avg,2018,17.34,,MEUR/GW,,,
-World,RES_PV_Utility_Inf,2018,17.34,,MEUR/GW,,,
-World,RES_PV_Utility_Opt,2018,17.34,,MEUR/GW,,,
-World,RES_Wind_Offshore_Transitional,2018,129.5,,MEUR/GW,,,
-World,RES_Wind_Offshore_Shallow,2018,110.075,,MEUR/GW,,,
-World,RES_Wind_Offshore_Deep,2018,148.925,,MEUR/GW,,,
+World,RES_PV_Rooftop_Commercial,2018,9.13,,MEUR/GW,PV rooftop – commercial; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Rooftop_Residential,2018,9.13,,MEUR/GW,PV rooftop – residential; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Avg,2018,7.76,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Inf,2018,7.76,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Opt,2018,7.76,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Transitional,2018,42,,MEUR/GW,Wind-offshore - shallow waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2018,33,,MEUR/GW,Wind-offshore - shallow waters; near-shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2018,55,,MEUR/GW,Wind-offshore - deep waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2018,25,,MEUR/GW,,,
 World,RES_Wind_Onshore_Inf,2018,25,,MEUR/GW,,,
 World,RES_Wind_Onshore_Opt,2018,25,,MEUR/GW,,,
@@ -167,7 +167,7 @@ DE,CHP_Hydrogen_FuelCell,2018,22,,MEUR/GW,,,
 DE,HLI_Convert_DH,2018,1,,MEUR/GW,,,
 DE,HLR_Convert_DH,2018,1,,MEUR/GW,,,
 DE,CHP_Oil,2018,32.55,,MEUR/GW,,,
-DE,RES_PV_Utility_Tracking,2018,18,,MEUR/GW,,,
+DE,RES_PV_Utility_Tracking,2018,8.54,,MEUR/GW,PV single-axis tracking; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2020,50.75,,MEUR/GW,,,
 World,CHP_Coal_Lignite,2020,50.75,,MEUR/GW,,,
 World,CHP_Nuclear,2020,115.101,,MEUR/GW,,,
@@ -224,18 +224,18 @@ World,PSNG_Road_ICE,2020,2.200122449,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2020,3.27604898,,MEUR/GW,,,
 World,RES_CSP,2020,188.404,,MEUR/GW,,,
 World,RES_CSP_Storage,2020,200.404,,MEUR/GW,,,
-World,RES_Geothermal,2020,80,,MEUR/GW,,,
+World,RES_Geothermal,2020,80,,MEUR/GW,Geothermal Power; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2020,22,,MEUR/GW,,,
 World,RES_Hydro_Small,2020,66,,MEUR/GW,,,
 World,RES_Ocean,2020,183.42,,MEUR/GW,,,
-World,RES_PV_Rooftop_Commercial,2020,22.5,,MEUR/GW,,,
-World,RES_PV_Rooftop_Residential,2020,22,,MEUR/GW,,,
-World,RES_PV_Utility_Avg,2020,10.3785,,MEUR/GW,,,
-World,RES_PV_Utility_Inf,2020,10.3785,,MEUR/GW,,,
-World,RES_PV_Utility_Opt,2020,10.3785,,MEUR/GW,,,
-World,RES_Wind_Offshore_Transitional,2020,84.37333333,,MEUR/GW,,,
-World,RES_Wind_Offshore_Shallow,2020,71.71733333,,MEUR/GW,,,
-World,RES_Wind_Offshore_Deep,2020,97.02933333,,MEUR/GW,,,
+World,RES_PV_Rooftop_Commercial,2020,9.13,,MEUR/GW,PV rooftop – commercial; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Rooftop_Residential,2020,9.13,,MEUR/GW,PV rooftop – residential; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Avg,2020,7.76,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Inf,2020,7.76,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Opt,2020,7.76,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Transitional,2020,42,,MEUR/GW,Wind-offshore - shallow waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2020,33,,MEUR/GW,Wind-offshore - shallow waters; near-shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2020,55,,MEUR/GW,Wind-offshore - deep waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2020,23,,MEUR/GW,,,
 World,RES_Wind_Onshore_Inf,2020,23,,MEUR/GW,,,
 World,RES_Wind_Onshore_Opt,2020,23,,MEUR/GW,,,
@@ -336,7 +336,7 @@ DE,CHP_Hydrogen_FuelCell,2020,21.14285714,,MEUR/GW,,,
 DE,HLI_Convert_DH,2020,1,,MEUR/GW,,,
 DE,HLR_Convert_DH,2020,1,,MEUR/GW,,,
 DE,CHP_Oil,2020,32.55,,MEUR/GW,,,
-DE,RES_PV_Utility_Tracking,2020,16.8,,MEUR/GW,,,
+DE,RES_PV_Utility_Tracking,2020,8.54,,MEUR/GW,PV single-axis tracking; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2025,50.75,,MEUR/GW,,,
 World,CHP_Coal_Lignite,2025,50.75,,MEUR/GW,,,
 World,CHP_Nuclear,2025,106.47,,MEUR/GW,,,
@@ -393,18 +393,18 @@ World,PSNG_Road_ICE,2025,2.000244898,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2025,2.952097959,,MEUR/GW,,,
 World,RES_CSP,2025,183.312,,MEUR/GW,,,
 World,RES_CSP_Storage,2025,191.312,,MEUR/GW,,,
-World,RES_Geothermal,2025,80,,MEUR/GW,,,
+World,RES_Geothermal,2025,80,,MEUR/GW,Geothermal Power; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2025,22,,MEUR/GW,,,
 World,RES_Hydro_Small,2025,66,,MEUR/GW,,,
 World,RES_Ocean,2025,164.3725,,MEUR/GW,,,
-World,RES_PV_Rooftop_Commercial,2025,21.375,,MEUR/GW,,,
-World,RES_PV_Rooftop_Residential,2025,20.9,,MEUR/GW,,,
-World,RES_PV_Utility_Avg,2025,8.738,,MEUR/GW,,,
-World,RES_PV_Utility_Inf,2025,8.738,,MEUR/GW,,,
-World,RES_PV_Utility_Opt,2025,8.738,,MEUR/GW,,,
-World,RES_Wind_Offshore_Transitional,2025,68.2,,MEUR/GW,,,
-World,RES_Wind_Offshore_Shallow,2025,57.97,,MEUR/GW,,,
-World,RES_Wind_Offshore_Deep,2025,78.43,,MEUR/GW,,,
+World,RES_PV_Rooftop_Commercial,2025,7.66,,MEUR/GW,PV rooftop – commercial; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Rooftop_Residential,2025,7.66,,MEUR/GW,PV rooftop – residential; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Avg,2025,6.51,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Inf,2025,6.51,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Opt,2025,6.51,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Transitional,2025,36.5,,MEUR/GW,Wind-offshore - shallow waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2025,30,,MEUR/GW,Wind-offshore - shallow waters; near-shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2025,49,,MEUR/GW,Wind-offshore - deep waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2025,21,,MEUR/GW,,,
 World,RES_Wind_Onshore_Inf,2025,21,,MEUR/GW,,,
 World,RES_Wind_Onshore_Opt,2025,21,,MEUR/GW,,,
@@ -505,7 +505,7 @@ DE,CHP_Hydrogen_FuelCell,2025,20.28571429,,MEUR/GW,,,
 DE,HLI_Convert_DH,2025,1,,MEUR/GW,,,
 DE,HLR_Convert_DH,2025,1,,MEUR/GW,,,
 DE,CHP_Oil,2025,32.55,,MEUR/GW,,,
-DE,RES_PV_Utility_Tracking,2025,13.2,,MEUR/GW,,,
+DE,RES_PV_Utility_Tracking,2025,7.16,,MEUR/GW,PV single-axis tracking; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2030,50.75,,MEUR/GW,,,
 World,CHP_Coal_Lignite,2030,50.75,,MEUR/GW,,,
 World,CHP_Nuclear,2030,98.154,,MEUR/GW,,,
@@ -562,18 +562,18 @@ World,PSNG_Road_ICE,2030,1.800367347,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2030,2.628146939,,MEUR/GW,,,
 World,RES_CSP,2030,178.22,,MEUR/GW,,,
 World,RES_CSP_Storage,2030,184.22,,MEUR/GW,,,
-World,RES_Geothermal,2030,80,,MEUR/GW,,,
+World,RES_Geothermal,2030,80,,MEUR/GW,Geothermal Power; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2030,22,,MEUR/GW,,,
 World,RES_Hydro_Small,2030,66,,MEUR/GW,,,
 World,RES_Ocean,2030,144.02,,MEUR/GW,,,
-World,RES_PV_Rooftop_Commercial,2030,20.25,,MEUR/GW,,,
-World,RES_PV_Rooftop_Residential,2030,19.8,,MEUR/GW,,,
-World,RES_PV_Utility_Avg,2030,7.65,,MEUR/GW,,,
-World,RES_PV_Utility_Inf,2030,7.65,,MEUR/GW,,,
-World,RES_PV_Utility_Opt,2030,7.65,,MEUR/GW,,,
-World,RES_Wind_Offshore_Transitional,2030,58.08,,MEUR/GW,,,
-World,RES_Wind_Offshore_Shallow,2030,49.368,,MEUR/GW,,,
-World,RES_Wind_Offshore_Deep,2030,66.792,,MEUR/GW,,,
+World,RES_PV_Rooftop_Commercial,2030,6.66,,MEUR/GW,PV rooftop – commercial; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Rooftop_Residential,2030,6.66,,MEUR/GW,PV rooftop – residential; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Avg,2030,5.66,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Inf,2030,5.66,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Opt,2030,5.66,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Transitional,2030,31,,MEUR/GW,Wind-offshore - shallow waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2030,27,,MEUR/GW,Wind-offshore - shallow waters; near-shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2030,43,,MEUR/GW,Wind-offshore - deep waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2030,20,,MEUR/GW,,,
 World,RES_Wind_Onshore_Inf,2030,20,,MEUR/GW,,,
 World,RES_Wind_Onshore_Opt,2030,20,,MEUR/GW,,,
@@ -674,7 +674,7 @@ DE,CHP_Hydrogen_FuelCell,2030,19.42857143,,MEUR/GW,,,
 DE,HLI_Convert_DH,2030,1,,MEUR/GW,,,
 DE,HLR_Convert_DH,2030,1,,MEUR/GW,,,
 DE,CHP_Oil,2030,32.55,,MEUR/GW,,,
-DE,RES_PV_Utility_Tracking,2030,12,,MEUR/GW,,,
+DE,RES_PV_Utility_Tracking,2030,6.23,,MEUR/GW,PV single-axis tracking; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2035,50.75,,MEUR/GW,,,
 World,CHP_Coal_Lignite,2035,50.75,,MEUR/GW,,,
 World,CHP_Nuclear,2035,89.586,,MEUR/GW,,,
@@ -731,18 +731,18 @@ World,PSNG_Road_ICE,2035,1.600489796,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2035,2.304195918,,MEUR/GW,,,
 World,RES_CSP,2035,170.582,,MEUR/GW,,,
 World,RES_CSP_Storage,2035,175.382,,MEUR/GW,,,
-World,RES_Geothermal,2035,80,,MEUR/GW,,,
+World,RES_Geothermal,2035,80,,MEUR/GW,Geothermal Power; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2035,22,,MEUR/GW,,,
 World,RES_Hydro_Small,2035,66,,MEUR/GW,,,
 World,RES_Ocean,2035,127.92375,,MEUR/GW,,,
-World,RES_PV_Rooftop_Commercial,2035,19.625,,MEUR/GW,,,
-World,RES_PV_Rooftop_Residential,2035,19.2,,MEUR/GW,,,
-World,RES_PV_Utility_Avg,2035,6.46,,MEUR/GW,,,
-World,RES_PV_Utility_Inf,2035,6.46,,MEUR/GW,,,
-World,RES_PV_Utility_Opt,2035,6.46,,MEUR/GW,,,
-World,RES_Wind_Offshore_Transitional,2035,52.2,,MEUR/GW,,,
-World,RES_Wind_Offshore_Shallow,2035,44.37,,MEUR/GW,,,
-World,RES_Wind_Offshore_Deep,2035,60.03,,MEUR/GW,,,
+World,RES_PV_Rooftop_Commercial,2035,5.88,,MEUR/GW,PV rooftop – commercial; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Rooftop_Residential,2035,5.88,,MEUR/GW,PV rooftop – residential; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Avg,2035,5,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Inf,2035,5,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Opt,2035,5,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Transitional,2035,30,,MEUR/GW,Wind-offshore - shallow waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2035,26.5,,MEUR/GW,Wind-offshore - shallow waters; near-shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2035,41.5,,MEUR/GW,Wind-offshore - deep waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2035,19,,MEUR/GW,,,
 World,RES_Wind_Onshore_Inf,2035,19,,MEUR/GW,,,
 World,RES_Wind_Onshore_Opt,2035,19,,MEUR/GW,,,
@@ -843,7 +843,7 @@ DE,CHP_Hydrogen_FuelCell,2035,18.57142857,,MEUR/GW,,,
 DE,HLI_Convert_DH,2035,1,,MEUR/GW,,,
 DE,HLR_Convert_DH,2035,1,,MEUR/GW,,,
 DE,CHP_Oil,2035,32.55,,MEUR/GW,,,
-DE,RES_PV_Utility_Tracking,2035,10.8,,MEUR/GW,,,
+DE,RES_PV_Utility_Tracking,2035,5.5,,MEUR/GW,PV single-axis tracking; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2040,50.75,,MEUR/GW,,,
 World,CHP_Coal_Lignite,2040,50.75,,MEUR/GW,,,
 World,CHP_Nuclear,2040,81.396,,MEUR/GW,,,
@@ -900,18 +900,18 @@ World,PSNG_Road_ICE,2040,1.400612245,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2040,1.980244898,,MEUR/GW,,,
 World,RES_CSP,2040,162.944,,MEUR/GW,,,
 World,RES_CSP_Storage,2040,166.944,,MEUR/GW,,,
-World,RES_Geothermal,2040,80,,MEUR/GW,,,
+World,RES_Geothermal,2040,80,,MEUR/GW,Geothermal Power; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2040,22,,MEUR/GW,,,
 World,RES_Hydro_Small,2040,66,,MEUR/GW,,,
 World,RES_Ocean,2040,102.125,,MEUR/GW,,,
-World,RES_PV_Rooftop_Commercial,2040,19,,MEUR/GW,,,
-World,RES_PV_Rooftop_Residential,2040,18.6,,MEUR/GW,,,
-World,RES_PV_Utility_Avg,2040,5.559,,MEUR/GW,,,
-World,RES_PV_Utility_Inf,2040,5.559,,MEUR/GW,,,
-World,RES_PV_Utility_Opt,2040,5.559,,MEUR/GW,,,
-World,RES_Wind_Offshore_Transitional,2040,47.88,,MEUR/GW,,,
-World,RES_Wind_Offshore_Shallow,2040,40.698,,MEUR/GW,,,
-World,RES_Wind_Offshore_Deep,2040,55.062,,MEUR/GW,,,
+World,RES_PV_Rooftop_Commercial,2040,5.26,,MEUR/GW,PV rooftop – commercial; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Rooftop_Residential,2040,5.26,,MEUR/GW,PV rooftop – residential; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Avg,2040,4.47,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Inf,2040,4.47,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Opt,2040,4.47,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Transitional,2040,29,,MEUR/GW,Wind-offshore - shallow waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2040,26,,MEUR/GW,Wind-offshore - shallow waters; near-shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2040,40,,MEUR/GW,Wind-offshore - deep waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2040,19,,MEUR/GW,,,
 World,RES_Wind_Onshore_Inf,2040,19,,MEUR/GW,,,
 World,RES_Wind_Onshore_Opt,2040,19,,MEUR/GW,,,
@@ -1012,7 +1012,7 @@ DE,CHP_Hydrogen_FuelCell,2040,17.71428571,,MEUR/GW,,,
 DE,HLI_Convert_DH,2040,1,,MEUR/GW,,,
 DE,HLR_Convert_DH,2040,1,,MEUR/GW,,,
 DE,CHP_Oil,2040,32.55,,MEUR/GW,,,
-DE,RES_PV_Utility_Tracking,2040,10.8,,MEUR/GW,,,
+DE,RES_PV_Utility_Tracking,2040,4.92,,MEUR/GW,PV single-axis tracking; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2045,50.75,,MEUR/GW,,,
 World,CHP_Coal_Lignite,2045,50.75,,MEUR/GW,,,
 World,CHP_Nuclear,2045,80.8605,,MEUR/GW,,,
@@ -1069,18 +1069,18 @@ World,PSNG_Road_ICE,2045,1.200734694,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2045,1.656293878,,MEUR/GW,,,
 World,RES_CSP,2045,156.579,,MEUR/GW,,,
 World,RES_CSP_Storage,2045,159.979,,MEUR/GW,,,
-World,RES_Geothermal,2045,80,,MEUR/GW,,,
+World,RES_Geothermal,2045,80,,MEUR/GW,Geothermal Power; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2045,22,,MEUR/GW,,,
 World,RES_Hydro_Small,2045,66,,MEUR/GW,,,
 World,RES_Ocean,2045,102.925,,MEUR/GW,,,
-World,RES_PV_Rooftop_Commercial,2045,18.5,,MEUR/GW,,,
-World,RES_PV_Rooftop_Residential,2045,18.1,,MEUR/GW,,,
-World,RES_PV_Utility_Avg,2045,5.0235,,MEUR/GW,,,
-World,RES_PV_Utility_Inf,2045,5.0235,,MEUR/GW,,,
-World,RES_PV_Utility_Opt,2045,5.0235,,MEUR/GW,,,
-World,RES_Wind_Offshore_Transitional,2045,41.8608,,MEUR/GW,,,
-World,RES_Wind_Offshore_Shallow,2045,35.58168,,MEUR/GW,,,
-World,RES_Wind_Offshore_Deep,2045,48.13992,,MEUR/GW,,,
+World,RES_PV_Rooftop_Commercial,2045,4.75,,MEUR/GW,PV rooftop – commercial; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Rooftop_Residential,2045,4.75,,MEUR/GW,PV rooftop – residential; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Avg,2045,4.04,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Inf,2045,4.04,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Opt,2045,4.04,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Transitional,2045,28.5,,MEUR/GW,Wind-offshore - shallow waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2045,26,,MEUR/GW,Wind-offshore - shallow waters; near-shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2045,39.5,,MEUR/GW,Wind-offshore - deep waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2045,18,,MEUR/GW,,,
 World,RES_Wind_Onshore_Inf,2045,18,,MEUR/GW,,,
 World,RES_Wind_Onshore_Opt,2045,18,,MEUR/GW,,,
@@ -1181,7 +1181,7 @@ DE,CHP_Hydrogen_FuelCell,2045,16.85714286,,MEUR/GW,,,
 DE,HLI_Convert_DH,2045,1,,MEUR/GW,,,
 DE,HLR_Convert_DH,2045,1,,MEUR/GW,,,
 DE,CHP_Oil,2045,32.55,,MEUR/GW,,,
-DE,RES_PV_Utility_Tracking,2045,9.6,,MEUR/GW,,,
+DE,RES_PV_Utility_Tracking,2045,4.44,,MEUR/GW,PV single-axis tracking; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2050,50.75,,MEUR/GW,,,
 World,CHP_Coal_Lignite,2050,50.75,,MEUR/GW,,,
 World,CHP_Nuclear,2050,75.6,,MEUR/GW,,,
@@ -1238,18 +1238,18 @@ World,PSNG_Road_ICE,2050,1.000857143,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2050,1.332342857,,MEUR/GW,,,
 World,RES_CSP,2050,152.76,,MEUR/GW,,,
 World,RES_CSP_Storage,2050,155.76,,MEUR/GW,,,
-World,RES_Geothermal,2050,80,,MEUR/GW,,,
+World,RES_Geothermal,2050,80,,MEUR/GW,Geothermal Power; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2050,22,,MEUR/GW,,,
 World,RES_Hydro_Small,2050,66,,MEUR/GW,,,
 World,RES_Ocean,2050,102.9,,MEUR/GW,,,
-World,RES_PV_Rooftop_Commercial,2050,18,,MEUR/GW,,,
-World,RES_PV_Rooftop_Residential,2050,17.6,,MEUR/GW,,,
-World,RES_PV_Utility_Avg,2050,4.539,,MEUR/GW,,,
-World,RES_PV_Utility_Inf,2050,4.539,,MEUR/GW,,,
-World,RES_PV_Utility_Opt,2050,4.539,,MEUR/GW,,,
-World,RES_Wind_Offshore_Transitional,2050,36.624096,,MEUR/GW,,,
-World,RES_Wind_Offshore_Shallow,2050,31.1304816,,MEUR/GW,,,
-World,RES_Wind_Offshore_Deep,2050,42.1177104,,MEUR/GW,,,
+World,RES_PV_Rooftop_Commercial,2050,4.36,,MEUR/GW,PV rooftop – commercial; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Rooftop_Residential,2050,4.36,,MEUR/GW,PV rooftop – residential; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Avg,2050,3.7,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Inf,2050,3.7,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Opt,2050,3.7,,MEUR/GW,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Transitional,2050,28,,MEUR/GW,Wind-offshore - shallow waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2050,26,,MEUR/GW,Wind-offshore - shallow waters; near-shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2050,39,,MEUR/GW,Wind-offshore - deep waters; distant from shore; high resource area; Power&Heat; EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2050,18,,MEUR/GW,,,
 World,RES_Wind_Onshore_Inf,2050,18,,MEUR/GW,,,
 World,RES_Wind_Onshore_Opt,2050,18,,MEUR/GW,,,
@@ -1350,4 +1350,4 @@ DE,CHP_Hydrogen_FuelCell,2050,16,,MEUR/GW,,,
 DE,HLI_Convert_DH,2050,1,,MEUR/GW,,,
 DE,HLR_Convert_DH,2050,1,,MEUR/GW,,,
 DE,CHP_Oil,2050,32.55,,MEUR/GW,,,
-DE,RES_PV_Utility_Tracking,2050,8.88,,MEUR/GW,,,
+DE,RES_PV_Utility_Tracking,2050,4.07,,MEUR/GW,PV single-axis tracking; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
