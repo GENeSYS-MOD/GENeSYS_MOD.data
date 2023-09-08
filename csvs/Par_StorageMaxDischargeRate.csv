@@ -1,0 +1,6 @@
+StorageMaxDischargeRate{r in REGION, s in STORAGE}; ; ; ; ; ; ; ; 
+Describes how much capacity the storage can give; ; ; ; ; ; ; ; 
+Unit: GW; ; ; ; ; ; ; ; 
+ ; ; ; ; ; ; ; ; 
+Region;S_PHS;S_Gas_H2;S_Gas_Methane;S_Battery_Li-Ion;S_Battery_Redox;S_Heat_HLI;S_CAES;S_Heat_HLR
+DE;50;1;1;3;42,7;1;100;1
