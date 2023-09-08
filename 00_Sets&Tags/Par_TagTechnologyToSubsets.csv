@@ -1,388 +1,444 @@
 ﻿Technology,Subset,Value,,Unit,Source,Updated at,Updated by
-RES_PV_Rooftop_Residential,Solar,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_PV_Rooftop_commercial,Solar,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_PV_utility_opt,Solar,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_PV_utility_avg,Solar,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_PV_utility_inf,Solar,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_CSP,Solar,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-HLR_Solar_Thermal,Solar,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-HLI_Solar_Thermal,Solar,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_PV_Utility_Tracking,Solar,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_Wind_Offshore_Deep,Wind,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_Wind_Offshore_Shallow,Wind,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_Wind_Offshore_Transitional,Wind,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_Wind_Onshore_opt,Wind,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_Wind_Onshore_avg,Wind,1,,Binary,not relevant,07.09.2023,Konstantin Löffler
-RES_Wind_Onshore_inf,Wind,1,,Binary,not relevant,08.09.2023,Konstantin Löffler
-RES_Wind_Offshore_Deep        ,Renewables,1,,Binary,not relevant,09.09.2023,Konstantin Löffler
-RES_Wind_Offshore_Shallow     ,Renewables,1,,Binary,not relevant,10.09.2023,Konstantin Löffler
-RES_Wind_Offshore_Transitional,Renewables,1,,Binary,not relevant,11.09.2023,Konstantin Löffler
-RES_Wind_Onshore_opt          ,Renewables,1,,Binary,not relevant,12.09.2023,Konstantin Löffler
-RES_Wind_Onshore_avg          ,Renewables,1,,Binary,not relevant,13.09.2023,Konstantin Löffler
-RES_Wind_Onshore_inf          ,Renewables,1,,Binary,not relevant,14.09.2023,Konstantin Löffler
-RES_PV_Rooftop_Residential    ,Renewables,1,,Binary,not relevant,15.09.2023,Konstantin Löffler
-RES_PV_Rooftop_commercial     ,Renewables,1,,Binary,not relevant,16.09.2023,Konstantin Löffler
-RES_PV_utility_opt            ,Renewables,1,,Binary,not relevant,17.09.2023,Konstantin Löffler
-RES_PV_utility_avg            ,Renewables,1,,Binary,not relevant,18.09.2023,Konstantin Löffler
-RES_PV_utility_inf            ,Renewables,1,,Binary,not relevant,19.09.2023,Konstantin Löffler
-RES_CSP                       ,Renewables,1,,Binary,not relevant,20.09.2023,Konstantin Löffler
-RES_Geothermal                ,Renewables,1,,Binary,not relevant,21.09.2023,Konstantin Löffler
-RES_Hydro_Small               ,Renewables,1,,Binary,not relevant,22.09.2023,Konstantin Löffler
-RES_Hydro_Large               ,Renewables,1,,Binary,not relevant,23.09.2023,Konstantin Löffler
-RES_Ocean                     ,Renewables,1,,Binary,not relevant,24.09.2023,Konstantin Löffler
-P_Biomass                     ,Renewables,1,,Binary,not relevant,25.09.2023,Konstantin Löffler
-P_Biomass_CCS                 ,Renewables,1,,Binary,not relevant,26.09.2023,Konstantin Löffler
-HLR_Biomass                   ,Renewables,1,,Binary,not relevant,27.09.2023,Konstantin Löffler
-HLR_Direct_Electric           ,Renewables,1,,Binary,not relevant,28.09.2023,Konstantin Löffler
-HLR_Solar_Thermal             ,Renewables,1,,Binary,not relevant,29.09.2023,Konstantin Löffler
-HLR_Heatpump_Aerial           ,Renewables,1,,Binary,not relevant,30.09.2023,Konstantin Löffler
-HLR_Heatpump_Ground           ,Renewables,1,,Binary,not relevant,01.10.2023,Konstantin Löffler
-HLR_Geothermal                ,Renewables,1,,Binary,not relevant,02.10.2023,Konstantin Löffler
-HLI_Biomass                   ,Renewables,1,,Binary,not relevant,03.10.2023,Konstantin Löffler
-HLI_Direct_Electric           ,Renewables,1,,Binary,not relevant,04.10.2023,Konstantin Löffler
-HLI_Solar_Thermal             ,Renewables,1,,Binary,not relevant,05.10.2023,Konstantin Löffler
-HLI_Fuelcell                  ,Renewables,1,,Binary,not relevant,06.10.2023,Konstantin Löffler
-HLI_Geothermal                ,Renewables,1,,Binary,not relevant,07.10.2023,Konstantin Löffler
-HMI_Biomass                   ,Renewables,1,,Binary,not relevant,08.10.2023,Konstantin Löffler
-HMI_Steam_Electric            ,Renewables,1,,Binary,not relevant,09.10.2023,Konstantin Löffler
-HHI_Scrap_EAF                 ,Renewables,1,,Binary,not relevant,10.10.2023,Konstantin Löffler
-HHI_H2DRI_EAF                 ,Renewables,1,,Binary,not relevant,11.10.2023,Konstantin Löffler
-HHI_Molten_Electrolysis       ,Renewables,1,,Binary,not relevant,12.10.2023,Konstantin Löffler
-HHI_Bio_BF_BOF                ,Renewables,1,,Binary,not relevant,13.10.2023,Konstantin Löffler
-HLR_H2_Boiler                 ,Renewables,1,,Binary,not relevant,14.10.2023,Konstantin Löffler
-HLI_H2_Boiler                 ,Renewables,1,,Binary,not relevant,15.10.2023,Konstantin Löffler
-CHP_Biomass_Solid             ,Renewables,1,,Binary,not relevant,16.10.2023,Konstantin Löffler
-CHP_Biomass_Solid_CCS         ,Renewables,1,,Binary,not relevant,17.10.2023,Konstantin Löffler
-CHP_Gas_CCGT_Biogas           ,Renewables,1,,Binary,not relevant,18.10.2023,Konstantin Löffler
-CHP_Gas_CCGT_SynGas           ,Renewables,1,,Binary,not relevant,19.10.2023,Konstantin Löffler
-CHP_Gas_CCGT_Biogas_CCS       ,Renewables,1,,Binary,not relevant,20.10.2023,Konstantin Löffler
-RES_PV_Utility_Tracking       ,Renewables,1,,Binary,not relevant,21.10.2023,Konstantin Löffler
-P_Biomass_CCS           ,CCS,1,,Binary,not relevant,22.10.2023,Konstantin Löffler
-HHI_BF_BOF_CCS          ,CCS,1,,Binary,not relevant,23.10.2023,Konstantin Löffler
-HHI_DRI_EAF_CCS         ,CCS,1,,Binary,not relevant,24.10.2023,Konstantin Löffler
-HMI_Gas_CCS             ,CCS,1,,Binary,not relevant,25.10.2023,Konstantin Löffler
-HMI_HardCoal_CCS        ,CCS,1,,Binary,not relevant,26.10.2023,Konstantin Löffler
-P_Coal_Hardcoal_CCS     ,CCS,1,,Binary,not relevant,27.10.2023,Konstantin Löffler
-P_Coal_Lignite_CCS      ,CCS,1,,Binary,not relevant,28.10.2023,Konstantin Löffler
-P_Gas_CCS               ,CCS,1,,Binary,not relevant,29.10.2023,Konstantin Löffler
-X_SMR_CCS               ,CCS,1,,Binary,not relevant,30.10.2023,Konstantin Löffler
-X_DAC_HT                ,CCS,1,,Binary,not relevant,31.10.2023,Konstantin Löffler
-X_DAC_LT                ,CCS,1,,Binary,not relevant,01.11.2023,Konstantin Löffler
-CHP_Biomass_Solid_CCS   ,CCS,1,,Binary,not relevant,02.11.2023,Konstantin Löffler
-CHP_Coal_Hardcoal_CCS   ,CCS,1,,Binary,not relevant,03.11.2023,Konstantin Löffler
-CHP_Coal_Lignite_CCS    ,CCS,1,,Binary,not relevant,04.11.2023,Konstantin Löffler
-CHP_Gas_CCGT_Natural_CCS,CCS,1,,Binary,not relevant,05.11.2023,Konstantin Löffler
-CHP_Gas_CCGT_Biogas_CCS ,CCS,1,,Binary,not relevant,06.11.2023,Konstantin Löffler
-X_FUEL_CELL,Transformation,1,,Binary,not relevant,07.11.2023,Konstantin Löffler
-X_Electrolysis,Transformation,1,,Binary,not relevant,08.11.2023,Konstantin Löffler
-X_Methanation,Transformation,1,,Binary,not relevant,09.11.2023,Konstantin Löffler
-X_Biofuel,Transformation,1,,Binary,not relevant,10.11.2023,Konstantin Löffler
-X_Powerfuel,Transformation,1,,Binary,not relevant,11.11.2023,Konstantin Löffler
-D_Battery_Li-Ion,Transformation,1,,Binary,not relevant,12.11.2023,Konstantin Löffler
-D_Battery_Redox,Transformation,1,,Binary,not relevant,13.11.2023,Konstantin Löffler
-D_Gas_Methane,Transformation,1,,Binary,not relevant,14.11.2023,Konstantin Löffler
-D_Gas_H2,Transformation,1,,Binary,not relevant,15.11.2023,Konstantin Löffler
-D_CAES,Transformation,1,,Binary,not relevant,16.11.2023,Konstantin Löffler
-D_Heat_HLI,Transformation,1,,Binary,not relevant,17.11.2023,Konstantin Löffler
-D_Heat_HLR,Transformation,1,,Binary,not relevant,18.11.2023,Konstantin Löffler
-D_PHS,Transformation,1,,Binary,not relevant,19.11.2023,Konstantin Löffler
-HLR_Gas_Boiler,Transformation,1,,Binary,not relevant,20.11.2023,Konstantin Löffler
-HLR_Biomass,Transformation,1,,Binary,not relevant,21.11.2023,Konstantin Löffler
-HLR_Hardcoal,Transformation,1,,Binary,not relevant,22.11.2023,Konstantin Löffler
-HLR_Lignite,Transformation,1,,Binary,not relevant,23.11.2023,Konstantin Löffler
-HLR_Direct_Electric,Transformation,1,,Binary,not relevant,24.11.2023,Konstantin Löffler
-HLR_Solar_Thermal,Transformation,1,,Binary,not relevant,25.11.2023,Konstantin Löffler
-HLR_Heatpump_Aerial,Transformation,1,,Binary,not relevant,26.11.2023,Konstantin Löffler
-HLR_Heatpump_Ground,Transformation,1,,Binary,not relevant,27.11.2023,Konstantin Löffler
-HLR_Geothermal,Transformation,1,,Binary,not relevant,28.11.2023,Konstantin Löffler
-HLR_Oil_Boiler,Transformation,1,,Binary,not relevant,29.11.2023,Konstantin Löffler
-HLR_H2_Boiler,Transformation,1,,Binary,not relevant,30.11.2023,Konstantin Löffler
-HLI_Gas_Boiler,Transformation,1,,Binary,not relevant,01.12.2023,Konstantin Löffler
-HLI_Biomass,Transformation,1,,Binary,not relevant,02.12.2023,Konstantin Löffler
-HLI_Hardcoal,Transformation,1,,Binary,not relevant,03.12.2023,Konstantin Löffler
-HLI_Lignite,Transformation,1,,Binary,not relevant,04.12.2023,Konstantin Löffler
-HLI_Direct_Electric,Transformation,1,,Binary,not relevant,05.12.2023,Konstantin Löffler
-HLI_Solar_Thermal,Transformation,1,,Binary,not relevant,06.12.2023,Konstantin Löffler
-HLI_Fuelcell,Transformation,1,,Binary,not relevant,07.12.2023,Konstantin Löffler
-HLI_Geothermal,Transformation,1,,Binary,not relevant,08.12.2023,Konstantin Löffler
-HLI_Oil_Boiler,Transformation,1,,Binary,not relevant,09.12.2023,Konstantin Löffler
-HLI_H2_Boiler,Transformation,1,,Binary,not relevant,10.12.2023,Konstantin Löffler
-HMI_Gas,Transformation,1,,Binary,not relevant,11.12.2023,Konstantin Löffler
-HMI_Biomass,Transformation,1,,Binary,not relevant,12.12.2023,Konstantin Löffler
-HMI_HardCoal,Transformation,1,,Binary,not relevant,13.12.2023,Konstantin Löffler
-HMI_Steam_Electric,Transformation,1,,Binary,not relevant,14.12.2023,Konstantin Löffler
-HMI_Oil,Transformation,1,,Binary,not relevant,15.12.2023,Konstantin Löffler
-HHI_BF_BOF,Transformation,1,,Binary,not relevant,16.12.2023,Konstantin Löffler
-HHI_DRI_EAF,Transformation,1,,Binary,not relevant,17.12.2023,Konstantin Löffler
-HHI_Scrap_EAF,Transformation,1,,Binary,not relevant,18.12.2023,Konstantin Löffler
-HHI_H2DRI_EAF,Transformation,1,,Binary,not relevant,19.12.2023,Konstantin Löffler
-HHI_Molten_Electrolysis,Transformation,1,,Binary,not relevant,20.12.2023,Konstantin Löffler
-HHI_Bio_BF_BOF,Transformation,1,,Binary,not relevant,21.12.2023,Konstantin Löffler
-HHI_BF_BOF_CCS,Transformation,1,,Binary,not relevant,22.12.2023,Konstantin Löffler
-HHI_DRI_EAF_CCS,Transformation,1,,Binary,not relevant,23.12.2023,Konstantin Löffler
-HMI_Gas_CCS,Transformation,1,,Binary,not relevant,24.12.2023,Konstantin Löffler
-HMI_HardCoal_CCS,Transformation,1,,Binary,not relevant,25.12.2023,Konstantin Löffler
-HLR_H2_Boiler,Transformation,1,,Binary,not relevant,26.12.2023,Konstantin Löffler
-HLI_H2_Boiler,Transformation,1,,Binary,not relevant,27.12.2023,Konstantin Löffler
-X_SMR,Transformation,1,,Binary,not relevant,28.12.2023,Konstantin Löffler
-X_SMR_CCS,Transformation,1,,Binary,not relevant,29.12.2023,Konstantin Löffler
-P_H2_OCGT,Transformation,1,,Binary,not relevant,30.12.2023,Konstantin Löffler
-CHP_Biomass_Solid,Transformation,1,,Binary,not relevant,31.12.2023,Konstantin Löffler
-CHP_Coal_Hardcoal,Transformation,1,,Binary,not relevant,01.01.2024,Konstantin Löffler
-CHP_Coal_Lignite,Transformation,1,,Binary,not relevant,02.01.2024,Konstantin Löffler
-CHP_Gas_CCGT_Natural,Transformation,1,,Binary,not relevant,03.01.2024,Konstantin Löffler
-CHP_Gas_CCGT_Biogas,Transformation,1,,Binary,not relevant,04.01.2024,Konstantin Löffler
-CHP_Gas_CCGT_SynGas,Transformation,1,,Binary,not relevant,05.01.2024,Konstantin Löffler
-CHP_Biomass_Solid_CCS,Transformation,1,,Binary,not relevant,06.01.2024,Konstantin Löffler
-CHP_Coal_Hardcoal_CCS,Transformation,1,,Binary,not relevant,07.01.2024,Konstantin Löffler
-CHP_Coal_Lignite_CCS,Transformation,1,,Binary,not relevant,08.01.2024,Konstantin Löffler
-CHP_Gas_CCGT_Natural_CCS,Transformation,1,,Binary,not relevant,09.01.2024,Konstantin Löffler
-CHP_Gas_CCGT_Biogas_CCS,Transformation,1,,Binary,not relevant,10.01.2024,Konstantin Löffler
-CHP_Hydrogen_FuelCell,Transformation,1,,Binary,not relevant,11.01.2024,Konstantin Löffler
-CHP_Oil,Transformation,1,,Binary,not relevant,12.01.2024,Konstantin Löffler
-R_Coal_Hardcoal,FossilFuelGeneration,1,,Binary,not relevant,13.01.2024,Konstantin Löffler
-R_Coal_Lignite,FossilFuelGeneration,1,,Binary,not relevant,14.01.2024,Konstantin Löffler
-R_Oil,FossilFuelGeneration,1,,Binary,not relevant,15.01.2024,Konstantin Löffler
-R_Nuclear,FossilFuelGeneration,1,,Binary,not relevant,16.01.2024,Konstantin Löffler
-R_Gas,FossilFuelGeneration,1,,Binary,not relevant,17.01.2024,Konstantin Löffler
-Z_Import_Gas,FossilFuelGeneration,1,,Binary,not relevant,18.01.2024,Konstantin Löffler
-Z_Import_Oil,FossilFuelGeneration,1,,Binary,not relevant,19.01.2024,Konstantin Löffler
-Z_Import_Hardcoal,FossilFuelGeneration,1,,Binary,not relevant,20.01.2024,Konstantin Löffler
-P_Coal_Hardcoal,FossilPower,1,,Binary,not relevant,21.01.2024,Konstantin Löffler
-P_Coal_Lignite,FossilPower,1,,Binary,not relevant,22.01.2024,Konstantin Löffler
-P_Nuclear,FossilPower,1,,Binary,not relevant,23.01.2024,Konstantin Löffler
-P_Oil,FossilPower,1,,Binary,not relevant,24.01.2024,Konstantin Löffler
-P_Coal_Hardcoal_CCS,FossilPower,1,,Binary,not relevant,25.01.2024,Konstantin Löffler
-P_Coal_Lignite_CCS,FossilPower,1,,Binary,not relevant,26.01.2024,Konstantin Löffler
-P_Gas_CCS,FossilPower,1,,Binary,not relevant,27.01.2024,Konstantin Löffler
-P_Gas_CCGT,FossilPower,1,,Binary,not relevant,28.01.2024,Konstantin Löffler
-P_Gas_OCGT,FossilPower,1,,Binary,not relevant,29.01.2024,Konstantin Löffler
-P_Gas_Engines,FossilPower,1,,Binary,not relevant,30.01.2024,Konstantin Löffler
-CHP_Coal_Hardcoal,FossilPower,1,,Binary,not relevant,31.01.2024,Konstantin Löffler
-CHP_Coal_Lignite,FossilPower,1,,Binary,not relevant,01.02.2024,Konstantin Löffler
-CHP_Gas_CCGT_Natural,FossilPower,1,,Binary,not relevant,02.02.2024,Konstantin Löffler
-CHP_Coal_Hardcoal_CCS,FossilPower,1,,Binary,not relevant,03.02.2024,Konstantin Löffler
-CHP_Coal_Lignite_CCS,FossilPower,1,,Binary,not relevant,04.02.2024,Konstantin Löffler
-CHP_Gas_CCGT_Natural_CCS,FossilPower,1,,Binary,not relevant,05.02.2024,Konstantin Löffler
-CHP_Oil,FossilPower,1,,Binary,not relevant,06.02.2024,Konstantin Löffler
-CHP_Biomass_Solid,CHP,1,,Binary,not relevant,07.02.2024,Konstantin Löffler
-CHP_Coal_Hardcoal,CHP,1,,Binary,not relevant,08.02.2024,Konstantin Löffler
-CHP_Coal_Lignite,CHP,1,,Binary,not relevant,09.02.2024,Konstantin Löffler
-CHP_Gas_CCGT_Natural,CHP,1,,Binary,not relevant,10.02.2024,Konstantin Löffler
-CHP_Gas_CCGT_Biogas,CHP,1,,Binary,not relevant,11.02.2024,Konstantin Löffler
-CHP_Gas_CCGT_SynGas,CHP,1,,Binary,not relevant,12.02.2024,Konstantin Löffler
-CHP_Biomass_Solid_CCS,CHP,1,,Binary,not relevant,13.02.2024,Konstantin Löffler
-CHP_Coal_Hardcoal_CCS,CHP,1,,Binary,not relevant,14.02.2024,Konstantin Löffler
-CHP_Coal_Lignite_CCS,CHP,1,,Binary,not relevant,15.02.2024,Konstantin Löffler
-CHP_Gas_CCGT_Natural_CCS,CHP,1,,Binary,not relevant,16.02.2024,Konstantin Löffler
-CHP_Gas_CCGT_Biogas_CCS,CHP,1,,Binary,not relevant,17.02.2024,Konstantin Löffler
-CHP_Hydrogen_FuelCell,CHP,1,,Binary,not relevant,18.02.2024,Konstantin Löffler
-CHP_Oil,CHP,1,,Binary,not relevant,19.02.2024,Konstantin Löffler
-HLI_Convert_DH,CHP,1,,Binary,not relevant,20.02.2024,Konstantin Löffler
-HLR_Convert_DH,CHP,1,,Binary,not relevant,21.02.2024,Konstantin Löffler
-FRT_Rail_Conv,Transport,1,,Binary,not relevant,22.02.2024,Konstantin Löffler
-FRT_Rail_Electric,Transport,1,,Binary,not relevant,23.02.2024,Konstantin Löffler
-FRT_Road_BEV,Transport,1,,Binary,not relevant,24.02.2024,Konstantin Löffler
-FRT_Road_H2,Transport,1,,Binary,not relevant,25.02.2024,Konstantin Löffler
-FRT_Road_ICE,Transport,1,,Binary,not relevant,26.02.2024,Konstantin Löffler
-FRT_Road_PHEV,Transport,1,,Binary,not relevant,27.02.2024,Konstantin Löffler
-FRT_Road_OH,Transport,1,,Binary,not relevant,28.02.2024,Konstantin Löffler
-FRT_Ship_Bio,Transport,1,,Binary,not relevant,29.02.2024,Konstantin Löffler
-FRT_Ship_Conv,Transport,1,,Binary,not relevant,01.03.2024,Konstantin Löffler
-PSNG_Air_Bio,Transport,1,,Binary,not relevant,02.03.2024,Konstantin Löffler
-PSNG_Air_Conv,Transport,1,,Binary,not relevant,03.03.2024,Konstantin Löffler
-PSNG_Air_H2,Transport,1,,Binary,not relevant,04.03.2024,Konstantin Löffler
-PSNG_Rail_Conv,Transport,1,,Binary,not relevant,05.03.2024,Konstantin Löffler
-PSNG_Rail_Electric,Transport,1,,Binary,not relevant,06.03.2024,Konstantin Löffler
-PSNG_Road_BEV,Transport,1,,Binary,not relevant,07.03.2024,Konstantin Löffler
-PSNG_Road_H2,Transport,1,,Binary,not relevant,08.03.2024,Konstantin Löffler
-PSNG_Road_ICE,Transport,1,,Binary,not relevant,09.03.2024,Konstantin Löffler
-PSNG_Road_PHEV,Transport,1,,Binary,not relevant,10.03.2024,Konstantin Löffler
-PSNG_Air_Bio,Passenger,1,,Binary,not relevant,11.03.2024,Konstantin Löffler
-PSNG_Air_Conv,Passenger,1,,Binary,not relevant,12.03.2024,Konstantin Löffler
-PSNG_Air_H2,Passenger,1,,Binary,not relevant,13.03.2024,Konstantin Löffler
-PSNG_Rail_Conv,Passenger,1,,Binary,not relevant,14.03.2024,Konstantin Löffler
-PSNG_Rail_Electric,Passenger,1,,Binary,not relevant,15.03.2024,Konstantin Löffler
-PSNG_Road_BEV,Passenger,1,,Binary,not relevant,16.03.2024,Konstantin Löffler
-PSNG_Road_H2,Passenger,1,,Binary,not relevant,17.03.2024,Konstantin Löffler
-PSNG_Road_ICE,Passenger,1,,Binary,not relevant,18.03.2024,Konstantin Löffler
-PSNG_Road_PHEV,Passenger,1,,Binary,not relevant,19.03.2024,Konstantin Löffler
-FRT_Rail_Conv,Freight,1,,Binary,not relevant,20.03.2024,Konstantin Löffler
-FRT_Rail_Electric,Freight,1,,Binary,not relevant,21.03.2024,Konstantin Löffler
-FRT_Road_BEV,Freight,1,,Binary,not relevant,22.03.2024,Konstantin Löffler
-FRT_Road_H2,Freight,1,,Binary,not relevant,23.03.2024,Konstantin Löffler
-FRT_Road_ICE,Freight,1,,Binary,not relevant,24.03.2024,Konstantin Löffler
-FRT_Road_PHEV,Freight,1,,Binary,not relevant,25.03.2024,Konstantin Löffler
-FRT_Road_OH,Freight,1,,Binary,not relevant,26.03.2024,Konstantin Löffler
-FRT_Ship_Bio,Freight,1,,Binary,not relevant,27.03.2024,Konstantin Löffler
-FRT_Ship_Conv,Freight,1,,Binary,not relevant,28.03.2024,Konstantin Löffler
-HLR_Gas_Boiler,Heat,1,,Binary,not relevant,29.03.2024,Konstantin Löffler
-HLR_Biomass,Heat,1,,Binary,not relevant,30.03.2024,Konstantin Löffler
-HLR_Hardcoal,Heat,1,,Binary,not relevant,31.03.2024,Konstantin Löffler
-HLR_Lignite,Heat,1,,Binary,not relevant,01.04.2024,Konstantin Löffler
-HLR_Direct_Electric,Heat,1,,Binary,not relevant,02.04.2024,Konstantin Löffler
-HLR_Solar_Thermal,Heat,1,,Binary,not relevant,03.04.2024,Konstantin Löffler
-HLR_Heatpump_Aerial,Heat,1,,Binary,not relevant,04.04.2024,Konstantin Löffler
-HLR_Heatpump_Ground,Heat,1,,Binary,not relevant,05.04.2024,Konstantin Löffler
-HLR_Geothermal,Heat,1,,Binary,not relevant,06.04.2024,Konstantin Löffler
-HLR_Oil_Boiler,Heat,1,,Binary,not relevant,07.04.2024,Konstantin Löffler
-HLI_Gas_Boiler,Heat,1,,Binary,not relevant,08.04.2024,Konstantin Löffler
-HLI_Biomass,Heat,1,,Binary,not relevant,09.04.2024,Konstantin Löffler
-HLI_Hardcoal,Heat,1,,Binary,not relevant,10.04.2024,Konstantin Löffler
-HLI_Lignite,Heat,1,,Binary,not relevant,11.04.2024,Konstantin Löffler
-HLI_Direct_Electric,Heat,1,,Binary,not relevant,12.04.2024,Konstantin Löffler
-HLI_Solar_Thermal,Heat,1,,Binary,not relevant,13.04.2024,Konstantin Löffler
-HLI_Fuelcell,Heat,1,,Binary,not relevant,14.04.2024,Konstantin Löffler
-HLI_Geothermal,Heat,1,,Binary,not relevant,15.04.2024,Konstantin Löffler
-HLI_Oil_Boiler,Heat,1,,Binary,not relevant,16.04.2024,Konstantin Löffler
-HMI_Gas,Heat,1,,Binary,not relevant,17.04.2024,Konstantin Löffler
-HMI_Biomass,Heat,1,,Binary,not relevant,18.04.2024,Konstantin Löffler
-HMI_HardCoal,Heat,1,,Binary,not relevant,19.04.2024,Konstantin Löffler
-HMI_Steam_Electric,Heat,1,,Binary,not relevant,20.04.2024,Konstantin Löffler
-HMI_Oil,Heat,1,,Binary,not relevant,21.04.2024,Konstantin Löffler
-HHI_BF_BOF,Heat,1,,Binary,not relevant,22.04.2024,Konstantin Löffler
-HHI_DRI_EAF,Heat,1,,Binary,not relevant,23.04.2024,Konstantin Löffler
-HHI_Scrap_EAF,Heat,1,,Binary,not relevant,24.04.2024,Konstantin Löffler
-HHI_H2DRI_EAF,Heat,1,,Binary,not relevant,25.04.2024,Konstantin Löffler
-HHI_Molten_Electrolysis,Heat,1,,Binary,not relevant,26.04.2024,Konstantin Löffler
-HHI_Bio_BF_BOF,Heat,1,,Binary,not relevant,27.04.2024,Konstantin Löffler
-HHI_BF_BOF_CCS,Heat,1,,Binary,not relevant,28.04.2024,Konstantin Löffler
-HHI_DRI_EAF_CCS,Heat,1,,Binary,not relevant,29.04.2024,Konstantin Löffler
-HMI_Gas_CCS,Heat,1,,Binary,not relevant,30.04.2024,Konstantin Löffler
-HMI_HardCoal_CCS,Heat,1,,Binary,not relevant,01.05.2024,Konstantin Löffler
-HLR_H2_Boiler,Heat,1,,Binary,not relevant,02.05.2024,Konstantin Löffler
-HLI_H2_Boiler,Heat,1,,Binary,not relevant,03.05.2024,Konstantin Löffler
-CHP_Biomass_Solid,Heat,1,,Binary,not relevant,04.05.2024,Konstantin Löffler
-CHP_Coal_Hardcoal,Heat,1,,Binary,not relevant,05.05.2024,Konstantin Löffler
-CHP_Coal_Lignite,Heat,1,,Binary,not relevant,06.05.2024,Konstantin Löffler
-CHP_Gas_CCGT_Natural,Heat,1,,Binary,not relevant,07.05.2024,Konstantin Löffler
-CHP_Gas_CCGT_Biogas,Heat,1,,Binary,not relevant,08.05.2024,Konstantin Löffler
-CHP_Gas_CCGT_SynGas,Heat,1,,Binary,not relevant,09.05.2024,Konstantin Löffler
-CHP_Biomass_Solid_CCS,Heat,1,,Binary,not relevant,10.05.2024,Konstantin Löffler
-CHP_Coal_Hardcoal_CCS,Heat,1,,Binary,not relevant,11.05.2024,Konstantin Löffler
-CHP_Coal_Lignite_CCS,Heat,1,,Binary,not relevant,12.05.2024,Konstantin Löffler
-CHP_Gas_CCGT_Natural_CCS,Heat,1,,Binary,not relevant,13.05.2024,Konstantin Löffler
-CHP_Gas_CCGT_Biogas_CCS,Heat,1,,Binary,not relevant,14.05.2024,Konstantin Löffler
-CHP_Hydrogen_FuelCell,Heat,1,,Binary,not relevant,15.05.2024,Konstantin Löffler
-CHP_Oil,Heat,1,,Binary,not relevant,16.05.2024,Konstantin Löffler
-HLI_Convert_DH,Heat,1,,Binary,not relevant,17.05.2024,Konstantin Löffler
-HLR_Convert_DH,Heat,1,,Binary,not relevant,18.05.2024,Konstantin Löffler
-Z_Import_Hardcoal,ImportTechnology,1,,Binary,not relevant,19.05.2024,Konstantin Löffler
-Z_Import_Oil,ImportTechnology,1,,Binary,not relevant,20.05.2024,Konstantin Löffler
-Z_Import_Gas,ImportTechnology,1,,Binary,not relevant,21.05.2024,Konstantin Löffler
-Z_Import_LNG,ImportTechnology,1,,Binary,not relevant,22.05.2024,Konstantin Löffler
-Z_Import_H2,ImportTechnology,1,,Binary,not relevant,23.05.2024,Konstantin Löffler
-D_Battery_Li-Ion,StorageDummies,1,,Binary,not relevant,24.05.2024,Konstantin Löffler
-D_Battery_Redox,StorageDummies,1,,Binary,not relevant,25.05.2024,Konstantin Löffler
-D_Gas_Methane,StorageDummies,1,,Binary,not relevant,26.05.2024,Konstantin Löffler
-D_Gas_H2,StorageDummies,1,,Binary,not relevant,27.05.2024,Konstantin Löffler
-D_Heat_HLI,StorageDummies,1,,Binary,not relevant,28.05.2024,Konstantin Löffler
-D_Heat_HLR,StorageDummies,1,,Binary,not relevant,29.05.2024,Konstantin Löffler
-D_PHS,StorageDummies,1,,Binary,not relevant,30.05.2024,Konstantin Löffler
-D_PHS_Residual,StorageDummies,1,,Binary,not relevant,31.05.2024,Konstantin Löffler
-D_CAES,StorageDummies,1,,Binary,not relevant,01.06.2024,Konstantin Löffler
-X_Electrolysis,PhaseInSet,1,,Binary,not relevant,02.06.2024,Konstantin Löffler
-X_Biofuel,PhaseInSet,1,,Binary,not relevant,03.06.2024,Konstantin Löffler
-D_Battery_Li-Ion,PhaseInSet,1,,Binary,not relevant,04.06.2024,Konstantin Löffler
-D_Battery_Redox,PhaseInSet,1,,Binary,not relevant,05.06.2024,Konstantin Löffler
-D_Gas_Methane,PhaseInSet,1,,Binary,not relevant,06.06.2024,Konstantin Löffler
-D_Gas_H2,PhaseInSet,1,,Binary,not relevant,07.06.2024,Konstantin Löffler
-D_CAES,PhaseInSet,1,,Binary,not relevant,08.06.2024,Konstantin Löffler
-D_Heat_HLR,PhaseInSet,1,,Binary,not relevant,09.06.2024,Konstantin Löffler
-D_Heat_HLI,PhaseInSet,1,,Binary,not relevant,10.06.2024,Konstantin Löffler
-D_PHS,PhaseInSet,1,,Binary,not relevant,11.06.2024,Konstantin Löffler
-HLR_Biomass,PhaseInSet,1,,Binary,not relevant,12.06.2024,Konstantin Löffler
-HLR_Direct_Electric,PhaseInSet,1,,Binary,not relevant,13.06.2024,Konstantin Löffler
-HLR_Solar_Thermal,PhaseInSet,1,,Binary,not relevant,14.06.2024,Konstantin Löffler
-HLR_Heatpump_Aerial,PhaseInSet,1,,Binary,not relevant,15.06.2024,Konstantin Löffler
-HLR_Heatpump_Ground,PhaseInSet,1,,Binary,not relevant,16.06.2024,Konstantin Löffler
-HLR_Geothermal,PhaseInSet,1,,Binary,not relevant,17.06.2024,Konstantin Löffler
-HLI_Biomass,PhaseInSet,1,,Binary,not relevant,18.06.2024,Konstantin Löffler
-HLI_Direct_Electric,PhaseInSet,1,,Binary,not relevant,19.06.2024,Konstantin Löffler
-HLI_Solar_Thermal,PhaseInSet,1,,Binary,not relevant,20.06.2024,Konstantin Löffler
-HLI_Fuelcell,PhaseInSet,1,,Binary,not relevant,21.06.2024,Konstantin Löffler
-HLI_Geothermal,PhaseInSet,1,,Binary,not relevant,22.06.2024,Konstantin Löffler
-HMI_Biomass,PhaseInSet,1,,Binary,not relevant,23.06.2024,Konstantin Löffler
-HMI_Steam_Electric,PhaseInSet,1,,Binary,not relevant,24.06.2024,Konstantin Löffler
-HHI_H2DRI_EAF,PhaseInSet,1,,Binary,not relevant,25.06.2024,Konstantin Löffler
-HHI_Scrap_EAF,PhaseInSet,1,,Binary,not relevant,26.06.2024,Konstantin Löffler
-HHI_Molten_Electrolysis,PhaseInSet,1,,Binary,not relevant,27.06.2024,Konstantin Löffler
-HHI_Bio_BF_BOF,PhaseInSet,1,,Binary,not relevant,28.06.2024,Konstantin Löffler
-Res_Wind_Offshore_Deep,PhaseInSet,1,,Binary,not relevant,29.06.2024,Konstantin Löffler
-Res_Wind_Offshore_Shallow,PhaseInSet,1,,Binary,not relevant,30.06.2024,Konstantin Löffler
-Res_Wind_Offshore_Transitional,PhaseInSet,1,,Binary,not relevant,01.07.2024,Konstantin Löffler
-Res_Wind_Onshore_opt,PhaseInSet,1,,Binary,not relevant,02.07.2024,Konstantin Löffler
-Res_Wind_Onshore_avg,PhaseInSet,1,,Binary,not relevant,03.07.2024,Konstantin Löffler
-Res_Wind_Onshore_inf,PhaseInSet,1,,Binary,not relevant,04.07.2024,Konstantin Löffler
-Res_PV_Rooftop_Residential,PhaseInSet,1,,Binary,not relevant,05.07.2024,Konstantin Löffler
-Res_PV_Rooftop_commercial,PhaseInSet,1,,Binary,not relevant,06.07.2024,Konstantin Löffler
-Res_PV_utility_opt,PhaseInSet,1,,Binary,not relevant,07.07.2024,Konstantin Löffler
-Res_PV_utility_avg,PhaseInSet,1,,Binary,not relevant,08.07.2024,Konstantin Löffler
-Res_PV_utility_inf,PhaseInSet,1,,Binary,not relevant,09.07.2024,Konstantin Löffler
-RES_PV_Utility_Tracking,PhaseInSet,1,,Binary,not relevant,10.07.2024,Konstantin Löffler
-Res_CSP,PhaseInSet,1,,Binary,not relevant,11.07.2024,Konstantin Löffler
-Res_Geothermal,PhaseInSet,1,,Binary,not relevant,12.07.2024,Konstantin Löffler
-Res_Hydro_Small,PhaseInSet,1,,Binary,not relevant,13.07.2024,Konstantin Löffler
-Res_Hydro_Large,PhaseInSet,1,,Binary,not relevant,14.07.2024,Konstantin Löffler
-Res_Ocean,PhaseInSet,1,,Binary,not relevant,15.07.2024,Konstantin Löffler
-P_Biomass,PhaseInSet,1,,Binary,not relevant,16.07.2024,Konstantin Löffler
-P_Biomass_CCS,PhaseInSet,1,,Binary,not relevant,17.07.2024,Konstantin Löffler
-X_SMR_CCS,PhaseInSet,1,,Binary,not relevant,18.07.2024,Konstantin Löffler
-X_DAC_LT,PhaseInSet,1,,Binary,not relevant,19.07.2024,Konstantin Löffler
-X_DAC_HT,PhaseInSet,1,,Binary,not relevant,20.07.2024,Konstantin Löffler
-HLR_H2_Boiler,PhaseInSet,1,,Binary,not relevant,21.07.2024,Konstantin Löffler
-HLI_H2_Boiler,PhaseInSet,1,,Binary,not relevant,22.07.2024,Konstantin Löffler
-FRT_Road_BEV,PhaseInSet,1,,Binary,not relevant,23.07.2024,Konstantin Löffler
-FRT_Road_H2,PhaseInSet,1,,Binary,not relevant,24.07.2024,Konstantin Löffler
-FRT_Road_PHEV,PhaseInSet,1,,Binary,not relevant,25.07.2024,Konstantin Löffler
-FRT_Road_OH,PhaseInSet,1,,Binary,not relevant,26.07.2024,Konstantin Löffler
-FRT_Ship_Bio,PhaseInSet,1,,Binary,not relevant,27.07.2024,Konstantin Löffler
-PSNG_Air_Bio,PhaseInSet,1,,Binary,not relevant,28.07.2024,Konstantin Löffler
-PSNG_Air_H2,PhaseInSet,1,,Binary,not relevant,29.07.2024,Konstantin Löffler
-PSNG_Road_BEV,PhaseInSet,1,,Binary,not relevant,30.07.2024,Konstantin Löffler
-PSNG_Road_H2,PhaseInSet,1,,Binary,not relevant,31.07.2024,Konstantin Löffler
-PSNG_Road_PHEV,PhaseInSet,1,,Binary,not relevant,01.08.2024,Konstantin Löffler
-P_H2_OCGT,PhaseInSet,1,,Binary,not relevant,02.08.2024,Konstantin Löffler
-CHP_Biomass_Solid,PhaseInSet,1,,Binary,not relevant,03.08.2024,Konstantin Löffler
-CHP_Gas_CCGT_Biogas,PhaseInSet,1,,Binary,not relevant,04.08.2024,Konstantin Löffler
-CHP_Gas_CCGT_SynGas,PhaseInSet,1,,Binary,not relevant,05.08.2024,Konstantin Löffler
-CHP_Biomass_Solid_CCS,PhaseInSet,1,,Binary,not relevant,06.08.2024,Konstantin Löffler
-CHP_Coal_Hardcoal_CCS,PhaseInSet,1,,Binary,not relevant,07.08.2024,Konstantin Löffler
-CHP_Coal_Lignite_CCS,PhaseInSet,1,,Binary,not relevant,08.08.2024,Konstantin Löffler
-CHP_Gas_CCGT_Natural_CCS,PhaseInSet,1,,Binary,not relevant,09.08.2024,Konstantin Löffler
-CHP_Gas_CCGT_Biogas_CCS,PhaseInSet,1,,Binary,not relevant,10.08.2024,Konstantin Löffler
-CHP_Hydrogen_FuelCell,PhaseInSet,1,,Binary,not relevant,11.08.2024,Konstantin Löffler
-P_Biomass_CCS           ,PhaseInSet,1,,Binary,not relevant,12.08.2024,Konstantin Löffler
-HHI_BF_BOF_CCS          ,PhaseInSet,1,,Binary,not relevant,13.08.2024,Konstantin Löffler
-HHI_DRI_EAF_CCS         ,PhaseInSet,1,,Binary,not relevant,14.08.2024,Konstantin Löffler
-HMI_Gas_CCS             ,PhaseInSet,1,,Binary,not relevant,15.08.2024,Konstantin Löffler
-HMI_HardCoal_CCS        ,PhaseInSet,1,,Binary,not relevant,16.08.2024,Konstantin Löffler
-P_Coal_Hardcoal_CCS     ,PhaseInSet,1,,Binary,not relevant,17.08.2024,Konstantin Löffler
-P_Coal_Lignite_CCS      ,PhaseInSet,1,,Binary,not relevant,18.08.2024,Konstantin Löffler
-P_Gas_CCS               ,PhaseInSet,1,,Binary,not relevant,19.08.2024,Konstantin Löffler
-X_SMR_CCS               ,PhaseInSet,1,,Binary,not relevant,20.08.2024,Konstantin Löffler
-X_DAC_HT                ,PhaseInSet,1,,Binary,not relevant,21.08.2024,Konstantin Löffler
-X_DAC_LT                ,PhaseInSet,1,,Binary,not relevant,22.08.2024,Konstantin Löffler
-CHP_Biomass_Solid_CCS   ,PhaseInSet,1,,Binary,not relevant,23.08.2024,Konstantin Löffler
-CHP_Coal_Hardcoal_CCS   ,PhaseInSet,1,,Binary,not relevant,24.08.2024,Konstantin Löffler
-CHP_Coal_Lignite_CCS    ,PhaseInSet,1,,Binary,not relevant,25.08.2024,Konstantin Löffler
-CHP_Gas_CCGT_Natural_CCS,PhaseInSet,1,,Binary,not relevant,26.08.2024,Konstantin Löffler
-CHP_Gas_CCGT_Biogas_CCS ,PhaseInSet,1,,Binary,not relevant,27.08.2024,Konstantin Löffler
-P_Coal_Hardcoal,PhaseOutSet,1,,Binary,not relevant,28.08.2024,Konstantin Löffler
-P_Coal_Lignite,PhaseOutSet,1,,Binary,not relevant,29.08.2024,Konstantin Löffler
-P_Oil,PhaseOutSet,1,,Binary,not relevant,30.08.2024,Konstantin Löffler
-HLR_Gas_Boiler,PhaseOutSet,1,,Binary,not relevant,31.08.2024,Konstantin Löffler
-HLR_Hardcoal,PhaseOutSet,1,,Binary,not relevant,01.09.2024,Konstantin Löffler
-HLR_Lignite,PhaseOutSet,1,,Binary,not relevant,02.09.2024,Konstantin Löffler
-HLR_Oil_Boiler,PhaseOutSet,1,,Binary,not relevant,03.09.2024,Konstantin Löffler
-HLI_Gas_Boiler,PhaseOutSet,1,,Binary,not relevant,04.09.2024,Konstantin Löffler
-HLI_Hardcoal,PhaseOutSet,1,,Binary,not relevant,05.09.2024,Konstantin Löffler
-HLI_Lignite,PhaseOutSet,1,,Binary,not relevant,06.09.2024,Konstantin Löffler
-HLI_Oil_Boiler,PhaseOutSet,1,,Binary,not relevant,07.09.2024,Konstantin Löffler
-HMI_Gas,PhaseOutSet,1,,Binary,not relevant,08.09.2024,Konstantin Löffler
-HMI_HardCoal,PhaseOutSet,1,,Binary,not relevant,09.09.2024,Konstantin Löffler
-HMI_Oil,PhaseOutSet,1,,Binary,not relevant,10.09.2024,Konstantin Löffler
-HHI_BF_BOF,PhaseOutSet,1,,Binary,not relevant,11.09.2024,Konstantin Löffler
-CHP_Coal_Hardcoal,PhaseOutSet,1,,Binary,not relevant,12.09.2024,Konstantin Löffler
-CHP_Coal_Lignite,PhaseOutSet,1,,Binary,not relevant,13.09.2024,Konstantin Löffler
-CHP_Oil,PhaseOutSet,1,,Binary,not relevant,14.09.2024,Konstantin Löffler
+RES_PV_Rooftop_Residential,Solar,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_Rooftop_commercial,Solar,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_utility_opt,Solar,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_utility_avg,Solar,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_utility_inf,Solar,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_CSP,Solar,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Solar_Thermal,Solar,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Solar_Thermal,Solar,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_Utility_Tracking,Solar,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Offshore_Deep,Wind,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Offshore_Shallow,Wind,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Offshore_Transitional,Wind,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Onshore_opt,Wind,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Onshore_avg,Wind,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Onshore_inf,Wind,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Offshore_Deep        ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Offshore_Shallow     ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Offshore_Transitional,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Onshore_opt          ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Onshore_avg          ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wind_Onshore_inf          ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_Rooftop_Residential    ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_Rooftop_commercial     ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_utility_opt            ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_utility_avg            ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_utility_inf            ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_CSP                       ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Geothermal                ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Hydro_Small               ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Hydro_Large               ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Ocean                     ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Biomass                     ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Biomass_CCS                 ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Biomass                   ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Direct_Electric           ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Solar_Thermal             ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Heatpump_Aerial           ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Heatpump_Ground           ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Geothermal                ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Biomass                   ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Direct_Electric           ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Solar_Thermal             ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Fuelcell                  ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Geothermal                ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Biomass                   ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Steam_Electric            ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Scrap_EAF                 ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_H2DRI_EAF                 ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Molten_Electrolysis       ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Bio_BF_BOF                ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_H2_Boiler                 ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_H2_Boiler                 ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid             ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid_CCS         ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas           ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_SynGas           ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas_CCS       ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_Utility_Tracking       ,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Biomass_CCS           ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_BF_BOF_CCS          ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_DRI_EAF_CCS         ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Gas_CCS             ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_HardCoal_CCS        ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Hardcoal_CCS     ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Lignite_CCS      ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Gas_CCS               ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_SMR_CCS               ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_DAC_HT                ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_DAC_LT                ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid_CCS   ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal_CCS   ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite_CCS    ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Natural_CCS,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas_CCS ,CCS,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_FUEL_CELL,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_Electrolysis,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_Methanation,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_Biofuel,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_Powerfuel,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Battery_Li-Ion,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Battery_Redox,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Gas_Methane,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Gas_H2,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_CAES,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Heat_HLI,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Heat_HLR,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_PHS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Gas_Boiler,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Biomass,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Hardcoal,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Lignite,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Direct_Electric,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Solar_Thermal,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Heatpump_Aerial,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Heatpump_Ground,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Geothermal,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Oil_Boiler,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_H2_Boiler,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Gas_Boiler,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Biomass,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Hardcoal,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Lignite,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Direct_Electric,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Solar_Thermal,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Fuelcell,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Geothermal,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Oil_Boiler,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_H2_Boiler,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Gas,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Biomass,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_HardCoal,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Steam_Electric,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Oil,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_BF_BOF,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_DRI_EAF,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Scrap_EAF,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_H2DRI_EAF,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Molten_Electrolysis,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Bio_BF_BOF,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_BF_BOF_CCS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_DRI_EAF_CCS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Gas_CCS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_HardCoal_CCS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_H2_Boiler,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_H2_Boiler,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_SMR,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_SMR_CCS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_H2_OCGT,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Natural,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_SynGas,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid_CCS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal_CCS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite_CCS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Natural_CCS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas_CCS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Hydrogen_FuelCell,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Oil,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+R_Coal_Hardcoal,FossilFuelGeneration,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+R_Coal_Lignite,FossilFuelGeneration,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+R_Oil,FossilFuelGeneration,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+R_Nuclear,FossilFuelGeneration,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+R_Gas,FossilFuelGeneration,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Z_Import_Gas,FossilFuelGeneration,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Z_Import_Oil,FossilFuelGeneration,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Z_Import_Hardcoal,FossilFuelGeneration,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Hardcoal,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Lignite,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Nuclear,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Oil,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Hardcoal_CCS,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Lignite_CCS,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Gas_CCS,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Gas_CCGT,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Gas_OCGT,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Gas_Engines,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Natural,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal_CCS,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite_CCS,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Natural_CCS,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Oil,FossilPower,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Natural,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_SynGas,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid_CCS,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal_CCS,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite_CCS,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Natural_CCS,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas_CCS,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Hydrogen_FuelCell,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Oil,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Convert_DH,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Convert_DH,CHP,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Rail_Conv,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Rail_Electric,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_BEV,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_H2,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_ICE,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_PHEV,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_OH,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Ship_Bio,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Ship_Conv,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Air_Bio,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Air_Conv,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Air_H2,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Rail_Conv,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Rail_Electric,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Road_BEV,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Road_H2,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Road_ICE,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Road_PHEV,Transport,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Air_Bio,Passenger,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Air_Conv,Passenger,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Air_H2,Passenger,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Rail_Conv,Passenger,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Rail_Electric,Passenger,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Road_BEV,Passenger,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Road_H2,Passenger,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Road_ICE,Passenger,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Road_PHEV,Passenger,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Rail_Conv,Freight,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Rail_Electric,Freight,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_BEV,Freight,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_H2,Freight,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_ICE,Freight,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_PHEV,Freight,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_OH,Freight,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Ship_Bio,Freight,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Ship_Conv,Freight,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Gas_Boiler,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Biomass,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Hardcoal,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Lignite,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Direct_Electric,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Solar_Thermal,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Heatpump_Aerial,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Heatpump_Ground,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Geothermal,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Oil_Boiler,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Gas_Boiler,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Biomass,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Hardcoal,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Lignite,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Direct_Electric,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Solar_Thermal,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Fuelcell,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Geothermal,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Oil_Boiler,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Gas,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Biomass,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_HardCoal,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Steam_Electric,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Oil,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_BF_BOF,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_DRI_EAF,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Scrap_EAF,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_H2DRI_EAF,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Molten_Electrolysis,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Bio_BF_BOF,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_BF_BOF_CCS,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_DRI_EAF_CCS,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Gas_CCS,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_HardCoal_CCS,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_H2_Boiler,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_H2_Boiler,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Natural,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_SynGas,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid_CCS,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal_CCS,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite_CCS,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Natural_CCS,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas_CCS,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Hydrogen_FuelCell,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Oil,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Convert_DH,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Convert_DH,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Z_Import_Hardcoal,ImportTechnology,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Z_Import_Oil,ImportTechnology,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Z_Import_Gas,ImportTechnology,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Z_Import_LNG,ImportTechnology,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Z_Import_H2,ImportTechnology,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Battery_Li-Ion,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Battery_Redox,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Gas_Methane,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Gas_H2,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Heat_HLI,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Heat_HLR,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_PHS,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_PHS_Residual,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_CAES,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_Electrolysis,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_Biofuel,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Battery_Li-Ion,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Battery_Redox,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Gas_Methane,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Gas_H2,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_CAES,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Heat_HLR,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Heat_HLI,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_PHS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Biomass,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Direct_Electric,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Solar_Thermal,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Heatpump_Aerial,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Heatpump_Ground,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Geothermal,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Biomass,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Direct_Electric,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Solar_Thermal,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Fuelcell,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Geothermal,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Biomass,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Steam_Electric,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_H2DRI_EAF,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Scrap_EAF,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Molten_Electrolysis,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_Bio_BF_BOF,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Offshore_Deep,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Offshore_Shallow,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Offshore_Transitional,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Onshore_opt,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Onshore_avg,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Onshore_inf,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_PV_Rooftop_Residential,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_PV_Rooftop_commercial,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_PV_utility_opt,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_PV_utility_avg,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_PV_utility_inf,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_Utility_Tracking,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_CSP,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Geothermal,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Hydro_Small,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Hydro_Large,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Ocean,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Biomass,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Biomass_CCS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_SMR_CCS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_DAC_LT,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_DAC_HT,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_H2_Boiler,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_H2_Boiler,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_BEV,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_H2,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_PHEV,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Road_OH,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+FRT_Ship_Bio,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Air_Bio,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Air_H2,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Road_BEV,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Road_H2,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+PSNG_Road_PHEV,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_H2_OCGT,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_SynGas,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid_CCS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal_CCS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite_CCS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Natural_CCS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas_CCS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Hydrogen_FuelCell,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Biomass_CCS           ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_BF_BOF_CCS          ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_DRI_EAF_CCS         ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Gas_CCS             ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_HardCoal_CCS        ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Hardcoal_CCS     ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Lignite_CCS      ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Gas_CCS               ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_SMR_CCS               ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_DAC_HT                ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_DAC_LT                ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Biomass_Solid_CCS   ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal_CCS   ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite_CCS    ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Natural_CCS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Gas_CCGT_Biogas_CCS ,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Hardcoal,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Lignite,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Oil,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Gas_Boiler,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Hardcoal,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Lignite,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Oil_Boiler,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Gas_Boiler,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Hardcoal,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Lignite,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Oil_Boiler,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Gas,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_HardCoal,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HMI_Oil,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HHI_BF_BOF,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Hardcoal,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Coal_Lignite,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+CHP_Oil,PhaseOutSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Offshore_Deep,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Offshore_Shallow,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Offshore_Transitional,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Onshore_opt,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Onshore_avg,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Wind_Onshore_inf,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_PV_Rooftop_Residential,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_PV_Rooftop_commercial,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_PV_utility_opt,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_PV_utility_avg,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_PV_utility_inf,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_Utility_Tracking,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_CSP,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Geothermal,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Hydro_Small,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Hydro_Large,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Ocean,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Hardcoal,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Lignite,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Nuclear,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Oil,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Biomass,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Biomass_CCS,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Lignite_CCS,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Coal_Hardcoal_CCS,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Gas_CCS,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_H2_OCGT,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Gas_CCGT,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Gas_OCGT,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Gas_Engines,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_FUEL_CELL,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_Electrolysis,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_Methanation,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLI_Fuelcell,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_SMR,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_SMR_CCS,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_Biofuel,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+X_Powerfuel,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_H2_OCGT,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Hydro_large,Hydro,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+Res_Hydro_small,Hydro,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Grass,Biomass,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Wood,Biomass,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Residues,Biomass,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Paper_Cardboard,Biomass,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Roundwood,Biomass,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_Biogas,Biomass,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+RES_PV_Rooftop_Residential,Households,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Gas_Boiler,Households,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Biomass,Households,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Hardcoal,Households,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Direct_Electric,Households,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Solar_Thermal,Households,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Heatpump_Aerial,Households,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Heatpump_Ground,Households,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+HLR_Oil_Boiler,Households,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
