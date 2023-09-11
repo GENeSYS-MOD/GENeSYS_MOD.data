@@ -1,4 +1,4 @@
-ï»¿Region,Technology,Value,,Unit,Source,Updated at,Updated by
+Region,Technology,Value,,Unit,Source,Updated at,Updated by
 World,A_Air,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,A_CCS_Capacity,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,A_Rooftop_Commercial,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -157,8 +157,8 @@ World,RES_Hydro_Large,50,,Years,Hydro Reservoir/Dam; Table 1.7; High cost of slo
 World,RES_Hydro_Small,50,,Years,Hydro Run-of-River; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Ocean,80,,Years,Tidal and waves; Power&Heat; EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,RES_Paper_Cardboard,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_PV_Rooftop_Commercial,30,,Years,PV rooftop â€“ commercial; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,RES_PV_Rooftop_Residential,30,,Years,PV rooftop â€“ residential; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,RES_PV_Rooftop_Commercial,30,,Years,PV rooftop – commercial; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,RES_PV_Rooftop_Residential,30,,Years,PV rooftop – residential; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_PV_Utility_Avg,30,,Years,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_PV_Utility_Inf,30,,Years,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_PV_Utility_Opt,30,,Years,PV fixed tilted; Table 1.7; High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options; Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
