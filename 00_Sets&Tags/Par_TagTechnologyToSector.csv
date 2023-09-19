@@ -175,3 +175,6 @@ CHP_Gas_CCGT_Natural_CCS,CHP,1
 CHP_Gas_CCGT_Biogas_CCS,CHP,1
 CHP_Hydrogen_FuelCell,CHP,1
 CHP_Oil,CHP,1
+X_Alkaline_Electrolysis,Transformation,1
+X_PEM_Electrolysis,Transformation,1
+X_SOEC_Electrolysis,Transformation,1
