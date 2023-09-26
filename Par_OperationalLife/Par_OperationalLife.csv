@@ -188,3 +188,6 @@ DE,Z_ETS_Buy,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.ba
 DE,Z_ETS_Sell,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,Z_Import_Electricity,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 DE,Z_Import_H2,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,X_Alkaline_Electrolysis,10,,Years,,,
+World,X_PEM_Electrolysis,10,,Years,,,
+World,X_SOEC_Electrolysis,5,,Years,,,
