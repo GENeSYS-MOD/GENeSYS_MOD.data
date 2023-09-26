@@ -1,2 +1,0 @@
-Converts capacity to activity. 
-Here we use a factor of 31.536, which is the level of energy production in PJ produced from 1 GW operating for 1 year (1GW * 8760 * 3600 / 10^6)
