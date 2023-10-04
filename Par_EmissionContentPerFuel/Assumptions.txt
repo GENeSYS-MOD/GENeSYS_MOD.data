@@ -1,3 +1,16 @@
 Umweltbundesamt CO2 EF list 2022:
-Data given i t/TJ. Convertet to Mt/PJ by a factor of 10^-3.
+Data given in t/TJ. Convertet to Mt/PJ by a factor of 10^-3.
 Assumed the value for LNG equal to Gas_Natural.
+
+For the fuel "Air", "ETS" and "ETS_Source":
+These are all dummies that are used to track CO2 emissions for various use cases. 
+
+- “Air” is a dummy that direct air capture plants use. The amount of “Air” / CO2 that is stored is computed via this fuel. 
+
+- "ETS" and "ETS Source" work the following: 
+	In cases where there are different emission limits for different countries, the fuel "ETS" and "ETS Source" 
+	are used to see what happens if regions could trade these CO2 allowances. 
+	ETS stands for Emission Trading System and is a fuel that is a dummy that removes emissions from one region and trades 
+	them to another region. 
+	This is set up in a way that the “ETS” are essentially coupons for CO2 emissions that come from a source (ETS_Source), 
+	where they cause emissions, and then remove emissions when “redeemed”.
