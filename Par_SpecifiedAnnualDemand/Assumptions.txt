@@ -1,0 +1,4 @@
+For EU countries, assumed to keep the same ratio between 2020 and 2050 demand as EU Reference Scenario 2020. Linear growth between.
+Calculation is as follows:
+Demand_y = Demand_2020 + (Demand_2020*(Demand_EU_2050/Demand_EU_2020) - Demand_EU_2020)*((y - 2020) / (2050 - 2020))
+where y = year for which the demand is specified 
