@@ -1,4 +1,4 @@
-﻿Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
+Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
 AL,D_PHS,2018,1.66,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AL,P_Biomass,2018,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AL,P_Coal_Hardcoal,2018,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -192,7 +192,6 @@ CZ,P_Coal_Lignite,2018,8.85,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.
 CZ,P_Gas,2018,1.57,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_CCGT,2018,0.964,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_Engines,2018,0.06,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,P_Gas_OCGT,2018,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_OCGT,2018,0.04,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Nuclear,2018,3.92,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Oil,2018,0.113,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1322,7 +1321,6 @@ CZ,P_Coal_Lignite,2020,1.069302436,,GW,needs update,26.09.2023,Jonathan Hanto <j
 CZ,P_Gas,2020,1.070327382,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_CCGT,2020,0.964,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_Engines,2020,0.06,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,P_Gas_OCGT,2020,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_OCGT,2020,0.04,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Nuclear,2020,3.92,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Oil,2020,0.014218845,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -2452,7 +2450,6 @@ CZ,P_Coal_Lignite,2025,0.938747791,,GW,needs update,26.09.2023,Jonathan Hanto <j
 CZ,P_Gas,2025,1.069221567,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_CCGT,2025,0.780584071,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_Engines,2025,0.03,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,P_Gas_OCGT,2025,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_OCGT,2025,0.04,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Nuclear,2025,3.92,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Oil,2025,0.010288661,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -3582,7 +3579,6 @@ CZ,P_Coal_Lignite,2030,0.938747791,,GW,needs update,26.09.2023,Jonathan Hanto <j
 CZ,P_Gas,2030,1.069221567,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_CCGT,2030,0.597168142,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_Engines,2030,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,P_Gas_OCGT,2030,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_OCGT,2030,0.04,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Nuclear,2030,3.92,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Oil,2030,0.010288661,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -4713,7 +4709,6 @@ CZ,P_Gas,2035,1.061151075,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu
 CZ,P_Gas_CCGT,2035,0.298584071,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_Engines,2035,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_OCGT,2035,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,P_Gas_OCGT,2035,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Nuclear,2035,3.428070866,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Oil,2035,0.010288661,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,RES_Hydro_Large,2035,1.88,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -5842,7 +5837,6 @@ CZ,P_Coal_Lignite,2040,0.340472143,,GW,needs update,26.09.2023,Jonathan Hanto <j
 CZ,P_Gas,2040,0.230008928,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_CCGT,2040,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_Engines,2040,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,P_Gas_OCGT,2040,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_OCGT,2040,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Nuclear,2040,1.952283465,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Oil,2040,0.010288661,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -6973,7 +6967,6 @@ CZ,P_Gas,2045,0.203078631,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu
 CZ,P_Gas_CCGT,2045,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_Engines,2045,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_OCGT,2045,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,P_Gas_OCGT,2045,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Nuclear,2045,1.952283465,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Oil,2045,0.010288661,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,RES_Hydro_Large,2045,1.88,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -8079,7 +8072,6 @@ CZ,P_Coal_Lignite,2050,0.161696121,,GW,needs update,26.09.2023,Jonathan Hanto <j
 CZ,P_Gas,2050,0.119259635,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_CCGT,2050,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_Engines,2050,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,P_Gas_OCGT,2050,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_OCGT,2050,0,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Nuclear,2050,1.952283465,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Oil,2050,0.010288661,,GW,needs update,26.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
