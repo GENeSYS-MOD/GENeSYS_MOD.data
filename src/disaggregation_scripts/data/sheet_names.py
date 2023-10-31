@@ -1,12 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep  5 14:37:23 2023
-
-@author: shwetat
-"""
-
-sheet_no_mod = ['Par_TradeRoute',
+sheet_mod = ['Par_TradeRoute',
              'Par_TradeCosts',
              'Par_TradeCapacity',
              'Par_TradeCapacityGrowthCosts',
@@ -59,3 +51,5 @@ sheet_no_mod = ['Par_TradeRoute',
              'Par_OperationalLifeStorage',
              'Par_CapitalCostStorage',
              'Par_ResidualStorageCapacity']
+
+sheet_no_mod = []
