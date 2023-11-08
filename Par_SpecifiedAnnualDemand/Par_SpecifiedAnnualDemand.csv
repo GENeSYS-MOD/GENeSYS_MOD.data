@@ -38,7 +38,7 @@ DE,Heat_Low_Industrial,2018,234.6691607,,PJ,,,
 DK,Heat_Low_Industrial,2018,12.2515585,,PJ,,,
 EE,Heat_Low_Industrial,2018,1.380624637,,PJ,,,
 ES,Heat_Low_Industrial,2018,12.23537532,,PJ,,,
-FI,Heat_Low_Industrial,2018,39.38941834,,PJ,,,
+FI,Heat_High_Industrial,2020,23.34031784,,PJ,,,
 FR,Heat_Low_Industrial,2018,39.60148469,,PJ,,,
 GR,Heat_Low_Industrial,2018,7.365852728,,PJ,,,
 HR,Heat_Low_Industrial,2018,4.694659286,,PJ,,,
@@ -68,7 +68,7 @@ DE,Heat_Low_Residential,2018,2477.642431,,PJ,,,
 DK,Heat_Low_Residential,2018,181.7868066,,PJ,,,
 EE,Heat_Low_Residential,2018,50.96974203,,PJ,,,
 ES,Heat_Low_Residential,2018,531.0939846,,PJ,,,
-FI,Heat_Low_Residential,2018,318.6630719,,PJ,,,
+FI,Heat_Low_Residential,2018,255.2739578,,PJ,European Commission: long-term renovation strategy 2020-2050,03.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Heat_Low_Residential,2018,1567.125727,,PJ,,,
 GR,Heat_Low_Residential,2018,139.956294,,PJ,,,
 HR,Heat_Low_Residential,2018,62.83931365,,PJ,,,
@@ -80,7 +80,7 @@ LU,Heat_Low_Residential,2018,33.99550469,,PJ,,,
 LV,Heat_Low_Residential,2018,59.74895274,,PJ,,,
 NL,Heat_Low_Residential,2018,507.5049617,,PJ,,,
 NO,Heat_Low_Residential,2018,194.5351115,,PJ,,,
-NONEU_Balkan,Heat_Low_Residential,2018,92.23481011,,PJ,,,
+NONEU_Balkan,Heat_Low_Residential,2018,231.04,,PJ,Eurostat Database: Energy Statistics Annual: Disaggregated Final Energy Consumption in Households + Energy Balance,08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2018,746.2531532,,PJ,,,
 PT,Heat_Low_Residential,2018,72.18560044,,PJ,,,
 RO,Heat_Low_Residential,2018,294.3774912,,PJ,,,
@@ -98,7 +98,7 @@ DE,Heat_Medium_Industrial,2018,514.1795012,,PJ,,,
 DK,Heat_Medium_Industrial,2018,28.7324095,,PJ,,,
 EE,Heat_Medium_Industrial,2018,8.209821828,,PJ,,,
 ES,Heat_Medium_Industrial,2018,237.7436612,,PJ,,,
-FI,Heat_Medium_Industrial,2018,196.8703935,,PJ,,,
+FI,Heat_High_Industrial,2025,22.97813188,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Medium_Industrial,2018,220.1435954,,PJ,,,
 GR,Heat_Medium_Industrial,2018,21.94270794,,PJ,,,
 HR,Heat_Medium_Industrial,2018,13.987688,,PJ,,,
@@ -218,7 +218,7 @@ DE,Heat_High_Industrial,2020,715.7732472,,PJ,,,
 DK,Heat_High_Industrial,2020,8.895792121,,PJ,,,
 EE,Heat_High_Industrial,2020,1.397012246,,PJ,,,
 ES,Heat_High_Industrial,2020,220.5017562,,PJ,,,
-FI,Heat_High_Industrial,2020,23.34031784,,PJ,,,
+FI,Heat_High_Industrial,2030,22.61594593,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_High_Industrial,2020,270.6508536,,PJ,,,
 GR,Heat_High_Industrial,2020,16.90301055,,PJ,,,
 HR,Heat_High_Industrial,2020,10.65011593,,PJ,,,
@@ -248,7 +248,7 @@ DE,Heat_Low_Industrial,2020,214.6747934,,PJ,,,
 DK,Heat_Low_Industrial,2020,12.45587693,,PJ,,,
 EE,Heat_Low_Industrial,2020,1.425701576,,PJ,,,
 ES,Heat_Low_Industrial,2020,11.62586901,,PJ,,,
-FI,Heat_Low_Industrial,2020,38.81452446,,PJ,,,
+FI,Heat_High_Industrial,2035,22.25375997,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Industrial,2020,38.17013115,,PJ,,,
 GR,Heat_Low_Industrial,2020,7.255063026,,PJ,,,
 HR,Heat_Low_Industrial,2020,4.66468287,,PJ,,,
@@ -278,7 +278,7 @@ DE,Heat_Low_Residential,2020,2254.430451,,PJ,,,
 DK,Heat_Low_Residential,2020,174.1442834,,PJ,,,
 EE,Heat_Low_Residential,2020,49.04026602,,PJ,,,
 ES,Heat_Low_Residential,2020,526.4110329,,PJ,,,
-FI,Heat_Low_Residential,2020,309.8778586,,PJ,,,
+FI,Heat_Low_Residential,2020,248.2363172,,PJ,,,
 FR,Heat_Low_Residential,2020,1522.752204,,PJ,,,
 GR,Heat_Low_Residential,2020,136.6466,,PJ,,,
 HR,Heat_Low_Residential,2020,62.63958124,,PJ,,,
@@ -290,7 +290,7 @@ LU,Heat_Low_Residential,2020,33.94705112,,PJ,,,
 LV,Heat_Low_Residential,2020,57.47872074,,PJ,,,
 NL,Heat_Low_Residential,2020,483.8080909,,PJ,,,
 NO,Heat_Low_Residential,2020,187.8205754,,PJ,,,
-NONEU_Balkan,Heat_Low_Residential,2020,89.38678241,,PJ,,,
+NONEU_Balkan,Heat_Low_Residential,2020,225.5438223,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2020,708.4628504,,PJ,,,
 PT,Heat_Low_Residential,2020,71.40018266,,PJ,,,
 RO,Heat_Low_Residential,2020,284.9125191,,PJ,,,
@@ -308,7 +308,7 @@ DE,Heat_Medium_Industrial,2020,499.4518349,,PJ,,,
 DK,Heat_Medium_Industrial,2020,27.88920443,,PJ,,,
 EE,Heat_Medium_Industrial,2020,8.246824136,,PJ,,,
 ES,Heat_Medium_Industrial,2020,226.3570986,,PJ,,,
-FI,Heat_Medium_Industrial,2020,194.162548,,PJ,,,
+FI,Heat_High_Industrial,2040,21.89157402,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Medium_Industrial,2020,230.1317236,,PJ,,,
 GR,Heat_Medium_Industrial,2020,20.41113865,,PJ,,,
 HR,Heat_Medium_Industrial,2020,13.46931461,,PJ,,,
@@ -428,7 +428,7 @@ DE,Heat_High_Industrial,2025,691.8614548,,PJ,EU Reference Scenario 2020- same gr
 DK,Heat_High_Industrial,2025,9.005197065,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_High_Industrial,2025,1.406454625,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_High_Industrial,2025,216.2342703,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_High_Industrial,2025,22.97813188,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_High_Industrial,2045,21.52938807,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_High_Industrial,2025,262.681813,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_High_Industrial,2025,17.11466407,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_High_Industrial,2025,10.61264217,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -458,7 +458,7 @@ DE,Heat_Low_Industrial,2025,209.2443133,,PJ,EU Reference Scenario 2020- same gro
 DK,Heat_Low_Industrial,2025,13.13194988,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Industrial,2025,1.487171557,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Industrial,2025,11.56603022,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Industrial,2025,38.75110376,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_High_Industrial,2050,21.16720211,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Industrial,2025,37.81183008,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Industrial,2025,7.351237589,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Industrial,2025,4.652092732,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -488,7 +488,7 @@ DE,Heat_Low_Residential,2025,2147.231767,,PJ,EU Reference Scenario 2020- same gr
 DK,Heat_Low_Residential,2025,174.1575251,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Residential,2025,46.23057916,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Residential,2025,508.38321,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Residential,2025,312.3039986,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Residential,2025,250.1798445,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Residential,2025,1468.941681,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Residential,2025,135.6320778,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Residential,2025,61.79297621,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -500,7 +500,7 @@ LU,Heat_Low_Residential,2025,32.13428892,,PJ,EU Reference Scenario 2020- same gr
 LV,Heat_Low_Residential,2025,53.8435562,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NL,Heat_Low_Residential,2025,468.0349499,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NO,Heat_Low_Residential,2025,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Heat_Low_Residential,2025,89.38678241,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
+NONEU_Balkan,Heat_Low_Residential,2025,232.5595339,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2025,697.8251861,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 PT,Heat_Low_Residential,2025,69.55313988,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 RO,Heat_Low_Residential,2025,279.0561274,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -518,7 +518,7 @@ DE,Heat_Medium_Industrial,2025,486.8175464,,PJ,EU Reference Scenario 2020- same 
 DK,Heat_Medium_Industrial,2025,29.40295868,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Medium_Industrial,2025,8.602390915,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Medium_Industrial,2025,225.1920301,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Medium_Industrial,2025,193.8452976,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Industrial,2018,39.38941834,,PJ,,,
 FR,Heat_Medium_Industrial,2025,227.9714889,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Medium_Industrial,2025,20.68171277,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Medium_Industrial,2025,13.43296047,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -638,7 +638,7 @@ DE,Heat_High_Industrial,2030,667.9496623,,PJ,EU Reference Scenario 2020- same gr
 DK,Heat_High_Industrial,2030,9.114602009,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_High_Industrial,2030,1.415897005,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_High_Industrial,2030,211.9667843,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_High_Industrial,2030,22.61594593,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Industrial,2020,38.81452446,,PJ,,,
 FR,Heat_High_Industrial,2030,254.7127725,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_High_Industrial,2030,17.32631759,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_High_Industrial,2030,10.5751684,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -668,7 +668,7 @@ DE,Heat_Low_Industrial,2030,203.8138332,,PJ,EU Reference Scenario 2020- same gro
 DK,Heat_Low_Industrial,2030,13.80802283,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Industrial,2030,1.548641537,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Industrial,2030,11.50619144,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Industrial,2030,38.68768307,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Industrial,2025,38.75110376,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Industrial,2030,37.45352902,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Industrial,2030,7.447412153,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Industrial,2030,4.639502595,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -698,7 +698,7 @@ DE,Heat_Low_Residential,2030,2040.033083,,PJ,EU Reference Scenario 2020- same gr
 DK,Heat_Low_Residential,2030,174.1707668,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Residential,2030,43.42089231,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Residential,2030,490.3553871,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Residential,2030,314.7301386,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Residential,2030,252.1233717,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Residential,2030,1415.131159,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Residential,2030,134.6175556,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Residential,2030,60.94637119,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -710,7 +710,7 @@ LU,Heat_Low_Residential,2030,30.32152671,,PJ,EU Reference Scenario 2020- same gr
 LV,Heat_Low_Residential,2030,50.20839165,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NL,Heat_Low_Residential,2030,452.2618088,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NO,Heat_Low_Residential,2030,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Heat_Low_Residential,2030,89.38678241,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
+NONEU_Balkan,Heat_Low_Residential,2030,240.0338115,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2030,687.1875218,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 PT,Heat_Low_Residential,2030,67.70609709,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 RO,Heat_Low_Residential,2030,273.1997358,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -728,7 +728,7 @@ DE,Heat_Medium_Industrial,2030,474.1832579,,PJ,EU Reference Scenario 2020- same 
 DK,Heat_Medium_Industrial,2030,30.91671293,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Medium_Industrial,2030,8.957957694,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Medium_Industrial,2030,224.0269616,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Medium_Industrial,2030,193.5280472,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Industrial,2030,38.68768307,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Medium_Industrial,2030,225.8112542,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Medium_Industrial,2030,20.9522869,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Medium_Industrial,2030,13.39660633,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -848,7 +848,7 @@ DE,Heat_High_Industrial,2035,644.0378699,,PJ,EU Reference Scenario 2020- same gr
 DK,Heat_High_Industrial,2035,9.224006953,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_High_Industrial,2035,1.425339385,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_High_Industrial,2035,207.6992983,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_High_Industrial,2035,22.25375997,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Industrial,2035,38.62426237,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_High_Industrial,2035,246.7437319,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_High_Industrial,2035,17.5379711,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_High_Industrial,2035,10.53769464,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -878,7 +878,7 @@ DE,Heat_Low_Industrial,2035,198.383353,,PJ,EU Reference Scenario 2020- same grow
 DK,Heat_Low_Industrial,2035,14.48409578,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Industrial,2035,1.610111517,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Industrial,2035,11.44635265,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Industrial,2035,38.62426237,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Industrial,2040,38.56084168,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Industrial,2035,37.09522795,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Industrial,2035,7.543586716,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Industrial,2035,4.626912457,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -908,7 +908,7 @@ DE,Heat_Low_Residential,2035,1932.834399,,PJ,EU Reference Scenario 2020- same gr
 DK,Heat_Low_Residential,2035,174.1840084,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Residential,2035,40.61120545,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Residential,2035,472.3275642,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Residential,2035,317.1562786,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Residential,2035,254.0668989,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Residential,2035,1361.320636,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Residential,2035,133.6030335,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Residential,2035,60.09976616,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -920,7 +920,7 @@ LU,Heat_Low_Residential,2035,28.5087645,,PJ,EU Reference Scenario 2020- same gro
 LV,Heat_Low_Residential,2035,46.5732271,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NL,Heat_Low_Residential,2035,436.4886678,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NO,Heat_Low_Residential,2035,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Heat_Low_Residential,2035,89.38678241,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
+NONEU_Balkan,Heat_Low_Residential,2035,237.6282878,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2035,676.5498574,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 PT,Heat_Low_Residential,2035,65.85905431,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 RO,Heat_Low_Residential,2035,267.3433442,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -938,7 +938,7 @@ DE,Heat_Medium_Industrial,2035,461.5489695,,PJ,EU Reference Scenario 2020- same 
 DK,Heat_Medium_Industrial,2035,32.43046719,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Medium_Industrial,2035,9.313524473,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Medium_Industrial,2035,222.8618931,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Medium_Industrial,2035,193.2107968,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Industrial,2045,38.49742098,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Medium_Industrial,2035,223.6510195,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Medium_Industrial,2035,21.22286103,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Medium_Industrial,2035,13.36025219,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1058,7 +1058,7 @@ DE,Heat_High_Industrial,2040,620.1260774,,PJ,EU Reference Scenario 2020- same gr
 DK,Heat_High_Industrial,2040,9.333411897,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_High_Industrial,2040,1.434781764,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_High_Industrial,2040,203.4318124,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_High_Industrial,2040,21.89157402,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Industrial,2050,38.43400029,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_High_Industrial,2040,238.7746914,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_High_Industrial,2040,17.74962462,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_High_Industrial,2040,10.50022088,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1088,7 +1088,7 @@ DE,Heat_Low_Industrial,2040,192.9528729,,PJ,EU Reference Scenario 2020- same gro
 DK,Heat_Low_Industrial,2040,15.16016873,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Industrial,2040,1.671581498,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Industrial,2040,11.38651386,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Industrial,2040,38.56084168,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Medium_Industrial,2018,196.8703935,,PJ,,,
 FR,Heat_Low_Industrial,2040,36.73692688,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Industrial,2040,7.639761279,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Industrial,2040,4.61432232,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1118,7 +1118,7 @@ DE,Heat_Low_Residential,2040,1825.635715,,PJ,EU Reference Scenario 2020- same gr
 DK,Heat_Low_Residential,2040,174.1972501,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Residential,2040,37.8015186,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Residential,2040,454.2997413,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Residential,2040,319.5824185,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Residential,2040,256.0104261,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Residential,2040,1307.510113,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Residential,2040,132.5885113,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Residential,2040,59.25316114,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1130,7 +1130,7 @@ LU,Heat_Low_Residential,2040,26.69600229,,PJ,EU Reference Scenario 2020- same gr
 LV,Heat_Low_Residential,2040,42.93806255,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NL,Heat_Low_Residential,2040,420.7155267,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NO,Heat_Low_Residential,2040,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Heat_Low_Residential,2040,89.38678241,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
+NONEU_Balkan,Heat_Low_Residential,2040,228.0665894,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2040,665.9121931,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 PT,Heat_Low_Residential,2040,64.01201153,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 RO,Heat_Low_Residential,2040,261.4869526,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1148,7 +1148,7 @@ DE,Heat_Medium_Industrial,2040,448.914681,,PJ,EU Reference Scenario 2020- same g
 DK,Heat_Medium_Industrial,2040,33.94422144,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Medium_Industrial,2040,9.669091252,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Medium_Industrial,2040,221.6968246,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Medium_Industrial,2040,192.8935464,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Medium_Industrial,2020,194.162548,,PJ,,,
 FR,Heat_Medium_Industrial,2040,221.4907848,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Medium_Industrial,2040,21.49343515,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Medium_Industrial,2040,13.32389806,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1268,7 +1268,7 @@ DE,Heat_High_Industrial,2045,596.214285,,PJ,EU Reference Scenario 2020- same gro
 DK,Heat_High_Industrial,2045,9.442816841,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_High_Industrial,2045,1.444224144,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_High_Industrial,2045,199.1643264,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_High_Industrial,2045,21.52938807,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Medium_Industrial,2025,193.8452976,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_High_Industrial,2045,230.8056508,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_High_Industrial,2045,17.96127814,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_High_Industrial,2045,10.46274712,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1298,7 +1298,7 @@ DE,Heat_Low_Industrial,2045,187.5223928,,PJ,EU Reference Scenario 2020- same gro
 DK,Heat_Low_Industrial,2045,15.83624167,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Industrial,2045,1.733051478,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Industrial,2045,11.32667508,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Industrial,2045,38.49742098,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Medium_Industrial,2030,193.5280472,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Industrial,2045,36.37862581,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Industrial,2045,7.735935843,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Industrial,2045,4.601732182,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1328,7 +1328,7 @@ DE,Heat_Low_Residential,2045,1718.437031,,PJ,EU Reference Scenario 2020- same gr
 DK,Heat_Low_Residential,2045,174.2104918,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Residential,2045,34.99183174,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Residential,2045,436.2719184,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Residential,2045,322.0085585,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Residential,2045,257.9539533,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Residential,2045,1253.699591,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Residential,2045,131.5739891,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Residential,2045,58.40655611,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1340,7 +1340,7 @@ LU,Heat_Low_Residential,2045,24.88324009,,PJ,EU Reference Scenario 2020- same gr
 LV,Heat_Low_Residential,2045,39.302898,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NL,Heat_Low_Residential,2045,404.9423857,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NO,Heat_Low_Residential,2045,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Heat_Low_Residential,2045,89.38678241,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
+NONEU_Balkan,Heat_Low_Residential,2045,216.4868022,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2045,655.2745287,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 PT,Heat_Low_Residential,2045,62.16496874,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 RO,Heat_Low_Residential,2045,255.630561,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1358,7 +1358,7 @@ DE,Heat_Medium_Industrial,2045,436.2803926,,PJ,EU Reference Scenario 2020- same 
 DK,Heat_Medium_Industrial,2045,35.45797569,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Medium_Industrial,2045,10.02465803,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Medium_Industrial,2045,220.5317561,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Medium_Industrial,2045,192.576296,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Medium_Industrial,2035,193.2107968,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Medium_Industrial,2045,219.33055,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Medium_Industrial,2045,21.76400928,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Medium_Industrial,2045,13.28754392,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1478,7 +1478,7 @@ DE,Heat_High_Industrial,2050,572.3024925,,PJ,EU Reference Scenario 2020- same gr
 DK,Heat_High_Industrial,2050,9.552221784,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_High_Industrial,2050,1.453666524,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_High_Industrial,2050,194.8968404,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_High_Industrial,2050,21.16720211,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Medium_Industrial,2040,192.8935464,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_High_Industrial,2050,222.8366103,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_High_Industrial,2050,18.17293165,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_High_Industrial,2050,10.42527335,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1508,7 +1508,7 @@ DE,Heat_Low_Industrial,2050,182.0919126,,PJ,EU Reference Scenario 2020- same gro
 DK,Heat_Low_Industrial,2050,16.51231462,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Industrial,2050,1.794521458,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Industrial,2050,11.26683629,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Industrial,2050,38.43400029,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Medium_Industrial,2045,192.576296,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Industrial,2050,36.02032475,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Industrial,2050,7.832110406,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Industrial,2050,4.589142045,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1538,7 +1538,7 @@ DE,Heat_Low_Residential,2050,1611.238347,,PJ,EU Reference Scenario 2020- same gr
 DK,Heat_Low_Residential,2050,174.2237335,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Heat_Low_Residential,2050,32.18214489,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 ES,Heat_Low_Residential,2050,418.2440955,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Heat_Low_Residential,2050,324.4346985,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+FI,Heat_Low_Residential,2050,259.8974806,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Heat_Low_Residential,2050,1199.889068,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Heat_Low_Residential,2050,130.5594669,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Heat_Low_Residential,2050,57.55995108,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1550,7 +1550,7 @@ LU,Heat_Low_Residential,2050,23.07047788,,PJ,EU Reference Scenario 2020- same gr
 LV,Heat_Low_Residential,2050,35.66773345,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NL,Heat_Low_Residential,2050,389.1692446,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NO,Heat_Low_Residential,2050,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Heat_Low_Residential,2050,89.38678241,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
+NONEU_Balkan,Heat_Low_Residential,2050,207.2538022,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2050,644.6368644,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 PT,Heat_Low_Residential,2050,60.31792596,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 RO,Heat_Low_Residential,2050,249.7741693,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
