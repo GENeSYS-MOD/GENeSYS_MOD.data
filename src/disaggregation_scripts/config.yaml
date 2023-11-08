@@ -1,0 +1,107 @@
+## Insert new values
+
+Par_TradeRoute:
+    Method: insert 
+    Index: [0,1]
+    Value:
+        SE2-SE1: !!float 23
+        SE1-SE2: !!float 45
+        
+Par_TradeCosts:
+    Method: insert 
+    Index: [0,1]
+    Value:
+        SE2-SE1: !!float 23
+        SE1-SE2: !!float 45
+
+Par_TradeCapacity:
+    Method: insert 
+    Index: [0,1]
+    Value:
+        Power:
+            SE2-SE1: !!float 2
+            SE1-SE2: !!float 3
+
+Par_RegionalCCSLimit:
+    Index: [0]
+    Method: insert
+    Value:
+        SE1: !!float 2
+        SE2: !!float 3
+
+
+## divide aggregated market area by respective shares
+
+Par_ResidualCapacity:
+    Index: [0,1]
+    Method: divide
+    Value:
+        SE1: !!float 0.2
+        SE2: !!float 0.8
+
+Par_TotalAnnualMaxActivity:
+    Index: [0,1]
+    Method: divide
+    Value:
+        SE1: !!float 0.2
+        SE2: !!float 0.8
+        
+Par_TotalAnnualMaxCapacity:
+    Index: [0,1]
+    Method: divide
+    Value:
+        SE1: !!float 0.2
+        SE2: !!float 0.8
+    
+Par_ModelPeriodActivityMaxLimit:
+    Index: [0,1]
+    Method: divide
+    Value:
+        SE1: !!float 0.2
+        SE2: !!float 0.8
+
+
+Par_RegionalBaseYearProduction:
+    Index: [0,1,2]
+    Method: divide
+    Value:
+        SE1: !!float 0.5
+        SE2: !!float 0.5
+        
+Par_SpecifiedAnnualDemand:
+    Index: [0,1]
+    Method: divide
+    Value:
+        SE1: !!float 0.5
+        SE2: !!float 0.5
+
+
+## Copy from aggregated data if available
+
+Par_TradeCapacityGrowthCosts:
+    Index: [0,1]
+    Method: copy
+    
+Par_GrowthRateTradeCapacity:
+    Index: [0,1,2]
+    Method: copy
+    
+Par_RegionalAnnualEmissionLimit:
+    Index: [0,1]
+    Method: copy    
+  
+Par_EmissionsPenalty:
+    Index: [0,1]
+    Method: copy
+    
+Par_ReserveMargin:
+    Index: [0]
+    Method: copy
+    
+Par_AvailabilityFactor:
+    Index: [ 0,1 ]
+    Method: copy
+    
+Par_ModalSplitByFuel:
+    Index: [ 0,1 ]
+    Method: copy

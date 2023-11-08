@@ -1,5 +1,6 @@
-import pandas as pd
 import os
+import pandas as pd
+
 # Functions to combine csvs into 1 xlsx file
 def get_file_list(path_to_csvs, file_extension):
     """
