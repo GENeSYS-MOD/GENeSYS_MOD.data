@@ -728,9 +728,9 @@ PL,CHP_Coal_Hardcoal,Heat_District,2018,164.052,,PJ,,,
 PL,CHP_Oil,Heat_District,2018,17.295,,PJ,,,
 PL,CHP_Gas_CCGT_Natural,Heat_District,2018,30.389,,PJ,,,
 PL,CHP_Biomass_Solid,Heat_District,2018,31.872,,PJ,,,
-PT,HLR_Biomass,Heat_Low_Residential,2018,21.96,,PJ,,,
-PT,HLR_Hardcoal,Heat_Low_Residential,2018,0.087,,PJ,,,
-PT,HLR_Oil_Boiler,Heat_Low_Residential,2018,10.823,,PJ,,,
+PT,HLR_Biomass,Heat_Low_Residential,2018,31817.786,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
+PT,HLR_Hardcoal,Heat_Low_Residential,2018,0,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
+PT,HLR_Oil_Boiler,Heat_Low_Residential,2018,19964.657,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 PT,HLI_Biomass,Heat_Low_Industrial,2018,1.303,,PJ,,,
 PT,HLI_Hardcoal,Heat_Low_Industrial,2018,0.001,,PJ,,,
 PT,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.014,,PJ,,,
@@ -748,16 +748,12 @@ PT,HHI_DRI_EAF,Heat_High_Industrial,2018,16.387,,PJ,,,
 PT,P_Gas_CCGT,Power,2018,46.0062,,PJ,,,
 PT,P_Biomass,Power,2018,9.493,,PJ,,,
 PT,P_Coal_Hardcoal,Power,2018,43.857,,PJ,,,
-PT,HLR_Heatpump_Aerial,Heat_Low_Residential,2018,0.001,,PJ,,,
-PT,HLR_Heatpump_Ground,Heat_Low_Residential,2018,0,,PJ,,,
-PT,HLR_Direct_Electric,Heat_Low_Residential,2018,7.004,,PJ,,,
+PT,HLR_Heatpump_Aerial,Heat_Low_Residential,2018,9659,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
+PT,HLR_Heatpump_Ground,Heat_Low_Residential,2018,0,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
+PT,HLR_Direct_Electric,Heat_Low_Residential,2018,22879.631,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 PT,CHP_Oil,Power,2018,1.56,,PJ,,,
 PT,CHP_Gas_CCGT_Natural,Power,2018,10.197,,PJ,,,
 PT,CHP_Biomass_Solid,Power,2018,10.234,,PJ,,,
-PT,CHP_Oil,Heat_District,2018,4.207,,PJ,,,
-PT,CHP_Gas_CCGT_Natural,Heat_District,2018,27.489,,PJ,,,
-PT,CHP_Biomass_Solid,Heat_District,2018,27.59,,PJ,,,
-PT,CHP_Coal_Hardcoal,Heat_District,2018,0,,PJ,,,
 PT,CHP_Coal_Hardcoal,Power,2018,0,,PJ,,,
 PT,P_Oil,Power,2018,2.479,,PJ,,,
 RO,HLR_Biomass,Heat_Low_Residential,2018,141.585,,PJ,,,

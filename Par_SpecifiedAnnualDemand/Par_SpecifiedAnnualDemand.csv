@@ -82,7 +82,7 @@ NL,Heat_Low_Residential,2018,507.5049617,,PJ,,,
 NO,Heat_Low_Residential,2018,194.5351115,,PJ,,,
 NONEU_Balkan,Heat_Low_Residential,2018,231.04,,PJ,Eurostat Database: Energy Statistics Annual: Disaggregated Final Energy Consumption in Households + Energy Balance,08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2018,746.2531532,,PJ,,,
-PT,Heat_Low_Residential,2018,72.18560044,,PJ,,,
+PT,Heat_Low_Residential,2018,96.152845,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 RO,Heat_Low_Residential,2018,294.3774912,,PJ,,,
 SE,Heat_Low_Residential,2018,292.8167425,,PJ,,,
 SI,Heat_Low_Residential,2018,39.76115947,,PJ,,,
@@ -292,7 +292,7 @@ NL,Heat_Low_Residential,2020,483.8080909,,PJ,,,
 NO,Heat_Low_Residential,2020,187.8205754,,PJ,,,
 NONEU_Balkan,Heat_Low_Residential,2020,225.5438223,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2020,708.4628504,,PJ,,,
-PT,Heat_Low_Residential,2020,71.40018266,,PJ,,,
+PT,Heat_Low_Residential,2020,95.10665083,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 RO,Heat_Low_Residential,2020,284.9125191,,PJ,,,
 SE,Heat_Low_Residential,2020,283.8728724,,PJ,,,
 SI,Heat_Low_Residential,2020,39.76473175,,PJ,,,
@@ -502,7 +502,7 @@ NL,Heat_Low_Residential,2025,468.0349499,,PJ,EU Reference Scenario 2020- same gr
 NO,Heat_Low_Residential,2025,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NONEU_Balkan,Heat_Low_Residential,2025,232.5595339,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2025,697.8251861,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Heat_Low_Residential,2025,69.55313988,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+PT,Heat_Low_Residential,2025,92.64634827,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 RO,Heat_Low_Residential,2025,279.0561274,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SE,Heat_Low_Residential,2025,274.6042594,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SI,Heat_Low_Residential,2025,39.67785206,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -712,7 +712,7 @@ NL,Heat_Low_Residential,2030,452.2618088,,PJ,EU Reference Scenario 2020- same gr
 NO,Heat_Low_Residential,2030,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NONEU_Balkan,Heat_Low_Residential,2030,240.0338115,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2030,687.1875218,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Heat_Low_Residential,2030,67.70609709,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+PT,Heat_Low_Residential,2030,90.18604568,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 RO,Heat_Low_Residential,2030,273.1997358,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SE,Heat_Low_Residential,2030,265.3356463,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SI,Heat_Low_Residential,2030,39.59097237,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -922,7 +922,7 @@ NL,Heat_Low_Residential,2035,436.4886678,,PJ,EU Reference Scenario 2020- same gr
 NO,Heat_Low_Residential,2035,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NONEU_Balkan,Heat_Low_Residential,2035,237.6282878,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2035,676.5498574,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Heat_Low_Residential,2035,65.85905431,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+PT,Heat_Low_Residential,2035,87.72574312,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 RO,Heat_Low_Residential,2035,267.3433442,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SE,Heat_Low_Residential,2035,256.0670333,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SI,Heat_Low_Residential,2035,39.50409268,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1132,7 +1132,7 @@ NL,Heat_Low_Residential,2040,420.7155267,,PJ,EU Reference Scenario 2020- same gr
 NO,Heat_Low_Residential,2040,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NONEU_Balkan,Heat_Low_Residential,2040,228.0665894,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2040,665.9121931,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Heat_Low_Residential,2040,64.01201153,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+PT,Heat_Low_Residential,2040,85.26544055,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 RO,Heat_Low_Residential,2040,261.4869526,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SE,Heat_Low_Residential,2040,246.7984202,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SI,Heat_Low_Residential,2040,39.41721299,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1342,7 +1342,7 @@ NL,Heat_Low_Residential,2045,404.9423857,,PJ,EU Reference Scenario 2020- same gr
 NO,Heat_Low_Residential,2045,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NONEU_Balkan,Heat_Low_Residential,2045,216.4868022,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2045,655.2745287,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Heat_Low_Residential,2045,62.16496874,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+PT,Heat_Low_Residential,2045,82.80513797,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 RO,Heat_Low_Residential,2045,255.630561,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SE,Heat_Low_Residential,2045,237.5298072,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SI,Heat_Low_Residential,2045,39.33033329,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1552,7 +1552,7 @@ NL,Heat_Low_Residential,2050,389.1692446,,PJ,EU Reference Scenario 2020- same gr
 NO,Heat_Low_Residential,2050,187.8205754,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NONEU_Balkan,Heat_Low_Residential,2050,207.2538022,,PJ,Development from the EU reference scenario 2020 (Assumption: same development as Croatia),08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Low_Residential,2050,644.6368644,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Heat_Low_Residential,2050,60.31792596,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
+PT,Heat_Low_Residential,2050,80.3448354,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 RO,Heat_Low_Residential,2050,249.7741693,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SE,Heat_Low_Residential,2050,228.2611941,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SI,Heat_Low_Residential,2050,39.2434536,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
