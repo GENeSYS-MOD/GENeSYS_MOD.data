@@ -1,0 +1,189 @@
+Technology,Value,,Unit,Source,Updated at,Updated by
+A_Air,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+A_CCS_Capacity,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+A_Rooftop_Commercial,35,,Years,Energy Agency Denmark (2020) Rooftop Comm&industrial,17.10.2023,Dana Reulein <dana.reulein@sintef.no> <dana.reulein@sintef.no>
+A_Rooftop_Residential,35,,Years,Energy Agency Denmark (2020) Rooftop Residential,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+CHP_Biomass,25,,Years,Energy Agency Denmark (2020) Biomass CHP,19.10.2023,Stian Backe <stian.backe@sintef.no>
+CHP_Biomass_CCS,31,,Years,,,
+CHP_Biomass_Solid,31,,Years,,,
+CHP_Biomass_Solid_CCS,31,,Years,,,
+CHP_Coal_Hardcoal,25,,Years,Energy Agency Denmark (2020) Coal CHP,19.10.2023,Stian Backe <stian.backe@sintef.no>
+CHP_Coal_Hardcoal_CCS,31,,Years,,,
+CHP_Coal_Lignite,25,,Years,Energy Agency Denmark (2020) Coal CHP,19.10.2023,Stian Backe <stian.backe@sintef.no>
+CHP_Coal_Lignite_CCS,31,,Years,,,
+CHP_Gas,30,,Years,,,
+CHP_Gas_CCGT_Biogas,26,,Years,,,
+CHP_Gas_CCGT_Biogas_CCS,26,,Years,,,
+CHP_Gas_CCGT_Natural,26,,Years,,,
+CHP_Gas_CCGT_Natural_CCS,26,,Years,,,
+CHP_Gas_CCGT_SynGas,26,,Years,,,
+CHP_Hydrogen_FuelCell,31,,Years,,,
+CHP_Nuclear,41,,Years,,,
+CHP_Oil,31,,Years,,,
+D_Battery_Li-Ion,20,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+D_Battery_Redox,20,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+D_CAES,40,,Years,Energy Agency Denmark (2020)- Long Term Underground Storage in Caverns,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+D_Gas_H2,100,,Years,Energy Agency Denmark (2020)- Long Term Underground Storage in Caverns,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+D_Gas_Methane,50,,Years,,,
+D_Heat_HLI,40,,Years,Energy Agency Denmark (2020)-Refers to Large hot water tank,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+D_Heat_HLR,30,,Years,Energy Agency Denmark (2020)-Refers to Small hot water tank,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+D_PHS,50,,Years,Energy Agency Denmark (2020)- Long Term Underground Storage in Caverns,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+D_PHS_Residual,50,,Years,Energy Agency Denmark (2020)- Long Term Underground Storage in Caverns,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+FRT_Rail_Conv,26,,Years,,,
+FRT_Rail_Electric,31,,Years,,,
+FRT_Road_BEV,21,,Years,,,
+FRT_Road_H2,21,,Years,,,
+FRT_Road_ICE,21,,Years,,,
+FRT_Road_ICE_Bio,21,,Years,,,
+FRT_Road_LNG,21,,Years,,,
+FRT_Road_OH,26,,Years,,,
+FRT_Road_PHEV,26,,Years,,,
+FRT_Road_PHEV_bio,26,,Years,,,
+FRT_Ship_Bio,31,,Years,,,
+FRT_Ship_Conv,31,,Years,,,
+FRT_Ship_LNG,31,,Years,,,
+HHI_BF_BOF,26,,Years,,,
+HHI_BF_BOF_CCS,21,,Years,,,
+HHI_Bio_BF_BOF,26,,Years,,,
+HHI_DRI_EAF,21,,Years,,,
+HHI_DRI_EAF_CCS,21,,Years,,,
+HHI_H2DRI_EAF,21,,Years,,,
+HHI_Molten_Electrolysis,21,,Years,,,
+HHI_Scrap_EAF,21,,Years,,,
+HHT_Biomass,31,,Years,,,
+HHT_Coal_Hardcoal,31,,Years,,,
+HHT_Coal_Lignite,31,,Years,,,
+HHT_Electric_Furnace,31,,Years,,,
+HHT_Gas,31,,Years,,,
+HHT_Geothermal,31,,Years,,,
+HHT_H2,21,,Years,,,
+HHT_Oil,21,,Years,,,
+HLI_Biomass,26,,Years,,,
+HLI_Biomass_CHP,26,,Years,,,
+HLI_Biomass_CHP_CCS,26,,Years,,,
+HLI_Convert_DH,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+HLI_Direct_Electric,26,,Years,,,
+HLI_Fuelcell,31,,Years,,,
+HLI_Gas_Boiler,26,,Years,,,
+HLI_Gas_CHP,26,,Years,,,
+HLI_Geothermal,41,,Years,,,
+HLI_H2_Boiler,36,,Years,,,
+HLI_Hardcoal,26,,Years,,,
+HLI_Hardcoal_CHP,26,,Years,,,
+HLI_Hardcoal_CHP_CCS,31,,Years,,,
+HLI_Lignite,26,,Years,,,
+HLI_Lignite_CHP,26,,Years,,,
+HLI_Lignite_CHP_CCS,26,,Years,,,
+HLI_Oil_Boiler,21,,Years,,,
+HLI_Oil_CHP,31,,Years,,,
+HLI_Solar_Thermal,21,,Years,,,
+HLR_Biomass,26,,Years,,,
+HLR_Biomass_CHP,26,,Years,,,
+HLR_Biomass_CHP_CCS,26,,Years,,,
+HLR_Convert_DH,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+HLR_Direct_Electric,26,,Years,,,
+HLR_Gas_Boiler,26,,Years,,,
+HLR_Gas_CHP,26,,Years,,,
+HLR_Geothermal,41,,Years,,,
+HLR_H2_Boiler,36,,Years,,,
+HLR_Hardcoal,26,,Years,,,
+HLR_Hardcoal_CHP,26,,Years,,,
+HLR_Hardcoal_CHP_CCS,26,,Years,,,
+HLR_Heatpump_Aerial,21,,Years,,,
+HLR_Heatpump_Ground,21,,Years,,,
+HLR_Lignite,26,,Years,,,
+HLR_Lignite_CHP,26,,Years,,,
+HLR_Lignite_CHP_CCS,26,,Years,,,
+HLR_Oil_Boiler,26,,Years,,,
+HLR_Solar_Thermal,26,,Years,,,
+HLT_Biomass,31,,Years,,,
+HLT_Coal_Hardcoal,16,,Years,,,
+HLT_Coal_Lignite,16,,Years,,,
+HLT_Electric_Furnace,31,,Years,,,
+HLT_Gas,26,,Years,,,
+HLT_Geothermal,41,,Years,,,
+HLT_Heatpump,31,,Years,,,
+HLT_Oil,21,,Years,,,
+HLT_Rooftop_Commercial,21,,Years,,,
+HLT_Rooftop_Residential,21,,Years,,,
+HMI_Biomass,31,,Years,,,
+HMI_Gas,31,,Years,,,
+HMI_Gas_CCS,26,,Years,,,
+HMI_H2,31,,Years,,,
+HMI_HardCoal,31,,Years,,,
+HMI_HardCoal_CCS,31,,Years,,,
+HMI_Oil,31,,Years,,,
+HMI_Steam_Electric,31,,Years,,,
+P_Biomass,40,,Years,Steam turbine biomass solid conventional EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+P_Biomass_CCS,31,,Years,,,
+P_Coal_Hardcoal,41,,Years,Steam turbine coal supercritical EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_Coal_Hardcoal_CCS,51,,Years,,,
+P_Coal_Lignite,41,,Years,Steam turbine lignite supercritical EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_Coal_Lignite_CCS,51,,Years,,,
+P_Gas_CCGT,31,,Years,Gas turbine combined cycle gas advanced EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_Gas_CCS,41,,Years,,,
+P_Gas_Engines,31,,Years,,,
+P_Gas_OCGT,31,,Years,,,
+P_H2_OCGT,31,,Years,,,
+P_Nuclear,61,,Years,Nuclear III gen. (no economies of scale) EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_Oil,31,,Years,,,
+PSNG_Air_Bio,16,,Years,,,
+PSNG_Air_Conv,16,,Years,,,
+PSNG_Air_H2,16,,Years,,,
+PSNG_Rail_Conv,26,,Years,,,
+PSNG_Rail_Electric,31,,Years,,,
+PSNG_Road_BEV,16,,Years,,,
+PSNG_Road_H2,21,,Years,,,
+PSNG_Road_ICE,21,,Years,,,
+PSNG_Road_ICE_bio,21,,Years,,,
+PSNG_Road_LNG,21,,Years,,,
+PSNG_Road_PHEV,21,,Years,,,
+PSNG_Road_PHEV_bio,21,,Years,,,
+R_Coal_Hardcoal,31,,Years,,,
+R_Coal_Lignite,31,,Years,,,
+R_Gas,31,,Years,,,
+R_Nuclear,31,,Years,,,
+R_Oil,31,,Years,,,
+RES_Biogas,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+RES_Biomass,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+RES_CSP,31,,Years,,,
+RES_Geothermal,30,,Years,Geothermal medium enthalpy EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+RES_Grass,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+RES_Hydro_Large,60,,Years,Lakes EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+RES_Hydro_Small,50,,Years,Run of river EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+RES_Ocean,80,,Years,Tidal and waves EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+RES_Paper_Cardboard,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+RES_PV_Rooftop_Commercial,35,,Years,Energy Agency Denmark (2020) Rooftop Comm&industrial,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_PV_Rooftop_Residential,35,,Years,Energy Agency Denmark (2020) Rooftop Residential,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_PV_Utility_Avg,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_PV_Utility_Inf,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_PV_Utility_Opt,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_PV_Utility_Tracking,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_Residues,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+RES_Roundwood,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+RES_Wind_Offshore_Deep,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_Wind_Offshore_Shallow,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_Wind_Offshore_Transitional,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_Wind_Onshore_Avg,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_Wind_Onshore_Inf,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_Wind_Onshore_Opt,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_Wood,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+X_Biofuel,31,,Years,,,
+X_DAC,21,,Years,,,
+X_DAC_HT,21,,Years,,,
+X_DAC_LT,21,,Years,,,
+X_Electrolysis,31,,Years,,,
+X_Fuel_Cell,31,,Years,,,
+X_Gasifier,41,,Years,,,
+X_Liquifier,41,,Years,,,
+X_Methanation,30,,Years,,,
+X_Powerfuel,21,,Years,,,
+X_SMR,21,,Years,,,
+X_SMR_CCS,21,,Years,,,
+Z_ETS_Buy,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+Z_ETS_Sell,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+Z_Import_Electricity,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+Z_Import_H2,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+X_Alkaline_Electrolysis,10,,Years,,,
+X_PEM_Electrolysis,10,,Years,,,
+X_SOEC_Electrolysis,5,,Years,,,
