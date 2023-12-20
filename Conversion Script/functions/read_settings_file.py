@@ -29,6 +29,10 @@ def read_settings_file(file_path, output_csv_directory):
     
     # Need to put header to the DataFrame
     unique_values_concatenated.columns = column_list
+
+    # Check if output directory exists, if not, create it
+    if not os.path.exists(output_csv_directory):
+        os.makedirs(output_csv_directory)
     
     # Create a CSV file containing unique values
     unique_values_csv_file_path = os.path.join(output_csv_directory, 'Sets.csv')
