@@ -1,10 +1,64 @@
 ﻿Region,Storage,Year,Value,,Unit,Source,Updated at,Updated by
-DE,S_PHS,2018,0,,MEUR/PJ,Needs update,Needs update,Needs update
-DE,S_PHS_Residual,2018,0,,MEUR/PJ,Needs update,Needs update,Needs update
-DE,S_Gas_H2,2018,0,,MEUR/PJ,Needs update,Needs update,Needs update
-DE,S_Gas_Methane,2018,0,,MEUR/PJ,Needs update,Needs update,Needs update
-DE,S_Battery_Li-Ion,2018,0,,MEUR/PJ,Needs update,Needs update,Needs update
-DE,S_Battery_Redox,2018,0,,MEUR/PJ,Needs update,Needs update,Needs update
-DE,S_Heat_HLI,2018,0,,MEUR/PJ,Needs update,Needs update,Needs update
-DE,S_CAES,2018,0,,MEUR/PJ,Needs update,Needs update,Needs update
-DE,S_Heat_HLR,2018,0,,MEUR/PJ,Needs update,Needs update,Needs update
+World,S_PHS,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS_Residual,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_H2,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_Methane,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Redox,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLI,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_CAES,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLR,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS_Residual,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_H2,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_Methane,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Redox,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLI,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_CAES,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLR,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS_Residual,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_H2,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_Methane,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Redox,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLI,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_CAES,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLR,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS_Residual,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_H2,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_Methane,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Redox,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLI,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_CAES,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLR,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS_Residual,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_H2,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_Methane,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Redox,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLI,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_CAES,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLR,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS_Residual,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_H2,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_Methane,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Redox,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLI,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_CAES,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLR,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_PHS_Residual,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_H2,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_Methane,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Redox,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLI,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_CAES,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Heat_HLR,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
