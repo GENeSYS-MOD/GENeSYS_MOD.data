@@ -8,7 +8,7 @@ from functions.output_parameters import output_regular_parameters
 from functions.read_filter_timeseries import read_filter_timeseries
 from functions.output_timeseries import output_timeseries
 
-def master_function(output_file_format, output_format, processing_option):
+def master_function(output_file_format, output_format, processing_option, scenario_option):
     # Call directories function to get all necessary directory paths
     current_directory, excel_file_path, parameter_directory, sets_and_tags_directory, timeseries_directory, output_csv_directory, output_excel_directory, output_excel_file_path, output_excel_file_path_timeseries = directories()
 
@@ -25,11 +25,22 @@ def master_function(output_file_format, output_format, processing_option):
 
         # Store the worksheet names and corresponding dataframes
         worksheets_data = {'Sets': unique_values_concatenated}  # Including 'Sets' sheet
+        worksheets_with_overwritten_data = []
 
         # Process files and store dataframes with their names
         for path in regular_parameter_paths:
-            df_pivot, worksheet_name = process_regular_parameters(path, unique_values_concatenated, output_format)
+            df_pivot, worksheet_name, data_overwritten = process_regular_parameters(path, unique_values_concatenated, output_format, scenario_option)
             worksheets_data[worksheet_name] = df_pivot  # or df_original based on your requirement
+
+            # Check if data was overwritten and add to the list
+            if data_overwritten:
+                worksheets_with_overwritten_data.append(worksheet_name)
+
+        # Print each worksheet name on a separate line with "Par_" removed
+        print("Worksheets with specified scenario data:")
+        for worksheet in worksheets_with_overwritten_data:
+            readable_name = worksheet.replace("Par_", "")
+            print(readable_name)
 
         # Call the function to output data
         output_regular_parameters(worksheets_data, output_excel_directory, output_excel_file_path, output_csv_directory, output_file_format)

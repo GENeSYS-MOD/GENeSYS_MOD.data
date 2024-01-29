@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def process_regular_parameters(csv_file_path, unique_values_concatenated, output_format):
+def process_regular_parameters(csv_file_path, unique_values_concatenated, output_format, scenario_option):
     # Compute and truncate worksheet_name to ensure it doesn't exceed 31 characters
     worksheet_name = os.path.splitext(os.path.basename(csv_file_path))[0]
     if len(worksheet_name) > 31:
@@ -9,6 +9,36 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
 
     # Read the CSV file into a Pandas DataFrame
     df = pd.read_csv(csv_file_path, delimiter=',')
+
+    # Initialize data_overwritten as False
+    data_overwritten = False
+
+
+    # Check if a subdirectory for the scenario exists and read additional CSV file
+    scenario_folder_path = os.path.join(os.path.dirname(csv_file_path), scenario_option)
+    if os.path.exists(scenario_folder_path) and os.path.isdir(scenario_folder_path):
+        scenario_csv_file = os.path.join(scenario_folder_path, os.path.basename(csv_file_path))
+        if os.path.exists(scenario_csv_file):
+            df_scenario = pd.read_csv(scenario_csv_file, delimiter=',')
+
+            # Remove unnecessary columns from both DataFrames
+            unnecessary_cols = set(df.columns).difference(unique_values_concatenated.columns).difference(['Value'])
+            df.drop(columns=unnecessary_cols, inplace=True, errors='ignore')
+            df_scenario.drop(columns=unnecessary_cols, inplace=True, errors='ignore')
+
+            # Identify common columns excluding 'Value'
+            common_cols = [col for col in df.columns if col in df_scenario.columns and col != 'Value']
+            
+            # Merge on common columns excluding 'Value', updating 'Value' from df_scenario
+            df = df.merge(df_scenario, on=common_cols, how='left', suffixes=('', '_updated'))
+            df['Value'] = df['Value_updated'].combine_first(df['Value'])
+            df.drop('Value_updated', axis=1, inplace=True)
+
+            # Append any additional rows from df_scenario
+            additional_rows = df_scenario[~df_scenario[common_cols].apply(tuple,1).isin(df[common_cols].apply(tuple,1))]
+            df = pd.concat([df, additional_rows], ignore_index=True)
+
+            data_overwritten = True
 
     # Data conversions and handling NaNs
     if 'Year' in df.columns:
@@ -53,4 +83,4 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
             # Replace NaNs with empty strings for better readability
             df_pivot.replace('nan', '', inplace=True)
 
-    return df_pivot, worksheet_name
+    return df_pivot, worksheet_name, data_overwritten
