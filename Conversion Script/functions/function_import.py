@@ -41,6 +41,7 @@ def master_function(output_file_format, output_format, processing_option, scenar
         for worksheet in worksheets_with_overwritten_data:
             readable_name = worksheet.replace("Par_", "")
             print(readable_name)
+        print("\n")  # Prints a blank line    
 
         # Call the function to output data
         output_regular_parameters(worksheets_data, output_excel_directory, output_excel_file_path, output_csv_directory, output_file_format)
@@ -48,10 +49,14 @@ def master_function(output_file_format, output_format, processing_option, scenar
     # Process timeseries if processing_option is not 'parameters_only'
     if processing_option != 'parameters_only':
         # Read and filter time series data
-        filtered_timeseries_data = read_filter_timeseries(timeseries_directory, unique_values_concatenated)
+        filtered_timeseries_data, timeseries_output_string = read_filter_timeseries(timeseries_directory, unique_values_concatenated, scenario_option)
+
+        # Print the output string
+        print("Timeseries data overwritten by scenario data:")
+        print(timeseries_output_string)
 
         # Output the processed data
         output_timeseries(filtered_timeseries_data, output_excel_directory, output_excel_file_path_timeseries, output_csv_directory, output_file_format)
 
-
+    print("\nEverything worked successfully. You are great! Smile :)")
     # Return any necessary data or confirmation

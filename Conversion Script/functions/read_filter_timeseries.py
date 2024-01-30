@@ -1,30 +1,34 @@
 import os
 import pandas as pd
 
-def read_filter_timeseries(timeseries_dir, unique_values_concatenated):
+def read_filter_timeseries(timeseries_dir, unique_values_concatenated, scenario_option):
     filtered_data = {}
+    overwritten_data_info = []
 
-    # Get the list of unique regions from unique_values_concatenated
     unique_regions = unique_values_concatenated['Region'].unique()
 
-    # Iterate through each subdirectory in '00_Timeseries'
     for subdir in os.listdir(timeseries_dir):
         subdir_path = os.path.join(timeseries_dir, subdir)
         if os.path.isdir(subdir_path):
-            # Assuming there is only one CSV file per subdirectory
             csv_file = next((f for f in os.listdir(subdir_path) if f.endswith('.csv')), None)
             if csv_file:
                 csv_path = os.path.join(subdir_path, csv_file)
+                # Assuming the headers are in the second row (index 1)
+                df = pd.read_csv(csv_path, header=1)
 
-                # Read only the first row (excluding the first row of the file) to get the headers (regions)
-                headers = pd.read_csv(csv_path, skiprows=1, nrows=0)
+                scenario_subdir_path = os.path.join(subdir_path, scenario_option)
+                if os.path.exists(scenario_subdir_path) and os.path.isdir(scenario_subdir_path):
+                    scenario_csv_file = next((f for f in os.listdir(scenario_subdir_path) if f.endswith('.csv')), None)
+                    if scenario_csv_file:
+                        scenario_csv_path = os.path.join(scenario_subdir_path, scenario_csv_file)
+                        df_scenario = pd.read_csv(scenario_csv_path, header=1)
 
-                # Include the first column (whatever it is) and filter the rest based on unique_regions
-                columns_to_keep = [headers.columns[0]] + [col for col in headers.columns[1:] if col in unique_regions]
-
-                # Now read the entire CSV with filtered columns, skipping the first row
-                df = pd.read_csv(csv_path, skiprows=1, usecols=columns_to_keep)
+                        for region in unique_regions:
+                            if region in df.columns and region in df_scenario.columns:
+                                df[region] = df_scenario[region]
+                                if subdir not in overwritten_data_info:
+                                    overwritten_data_info.append(subdir)
 
                 filtered_data[subdir] = df
 
-    return filtered_data
+    return filtered_data, "\n".join(overwritten_data_info)
