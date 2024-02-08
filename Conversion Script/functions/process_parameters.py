@@ -21,10 +21,13 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
         if os.path.exists(scenario_csv_file):
             df_scenario = pd.read_csv(scenario_csv_file, delimiter=',')
 
-            # Remove unnecessary columns from both DataFrames
-            unnecessary_cols = set(df.columns).difference(unique_values_concatenated.columns).difference(['Value'])
-            df.drop(columns=unnecessary_cols, inplace=True, errors='ignore')
-            df_scenario.drop(columns=unnecessary_cols, inplace=True, errors='ignore')
+            # Get the index of the "Value" column in each DataFrame
+            value_col_index = df.columns.get_loc("Value")
+            value_col_index_scenario = df_scenario.columns.get_loc("Value")
+
+            # Drop all columns that come after the "Value" column
+            df = df.iloc[:, :(value_col_index + 1)]
+            df_scenario = df_scenario.iloc[:, :(value_col_index_scenario + 1)]  
 
             # Identify common columns excluding 'Value'
             common_cols = [col for col in df.columns if col in df_scenario.columns and col != 'Value']
@@ -56,9 +59,11 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
             new_col_name = f"{base_name}{int(counter) + 1}"  # Add 1 because we start from the first duplicate
             df.rename(columns={col: new_col_name}, inplace=True)
 
-    # Filter DataFrame based on unique_values_concatenated
-    columns_to_keep = [col for col in df.columns if col in unique_values_concatenated.columns or col == 'Value']
-    df = df[columns_to_keep]
+    # Get the index of the "Value" column
+    value_col_index = df.columns.get_loc("Value")
+
+    # Keep all columns up to and including the "Value" column
+    df = df.iloc[:, :(value_col_index + 1)]
 
     for header in unique_values_concatenated.columns:
         if header in df.columns:
