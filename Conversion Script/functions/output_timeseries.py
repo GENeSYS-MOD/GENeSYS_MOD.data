@@ -13,15 +13,11 @@ def output_timeseries(filtered_data, output_excel_directory, output_excel_file_p
     os.makedirs(output_directory, exist_ok=True)
 
     if output_file_format == 'excel':
-        # Check if the Excel file exists to decide on the mode
-        mode = 'a' if os.path.exists(output_file_path) else 'w'
-
         # Open the ExcelWriter
-        with pd.ExcelWriter(output_file_path, engine='openpyxl', mode=mode) as writer:
+        with pd.ExcelWriter(output_file_path, engine='openpyxl', mode='w') as writer:
             for sheet_name, df in filtered_data.items():
-                if mode == 'a' and sheet_name in writer.book.sheetnames:
-                    del writer.book[sheet_name]
                 df.to_excel(writer, sheet_name=sheet_name, index=False)
+
 
     else:
         for file_name, df in filtered_data.items():
