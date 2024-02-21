@@ -1,3 +1,22 @@
 Data given for 2020, 2030, 2040, 2050. 
 Linear interpolation for values between.
 Assumed 2020 to equal 2018
+
+................................
+
+Source - Danish Energy Agency:
+	- HLR_Heatpump_##: DEA_technology_data_heating_installations 
+	
+In general:
+	- Technology -> Financial data -> Nominal investment (*total) 
+	- HLR_Heatpump_## and HLDH_Heatpump_## technologies:
+		○ Given values for 2020, 2025, 2030, 2040 and 2050. Linear interpolation for the years 2035 and 2045. 
+		○ Assumed 2018 = 2020.
+	
+HLR_Heatpump_Aerial:
+	- Given as the average of the technologies "207 HP Air-air, ex single" and "207 HP Air-air, new single".
+
+HLR_Heatpump_Gorund:
+	- Given as the average of the technologies "207 HP ground-water, ex single", "207 HP ground-water, ex apart", "207 HP ground-water, 
+	  new single" and "207 HP ground-water, new apart".  
+	
