@@ -14,3 +14,6 @@ SULPU: Cumulative Heat Pummp Sales in Finland,Heat-Pump-market-in-Finland-2019.p
 UABIO: Biomass in district heating in Finland,,https://uabio.org/en/news/7533/,Par_RegionalBaseYearProduction
 Eurostat Database: Disaggregated Final Consumption in Households,,https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq/default/table?lang=en,Par_SpecifiedAnnualDemand; Par_RegionalBaseYearProduction
 Eurostat Database: Energy Balance,,https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c/default/table?lang=en,Par_SpecifiedAnnualDemand
+DEA_technology_data_heating_installations,DEA_technology_data_heating_installations.xlsx,https://ens.dk/en/our-services/projections-and-models/technology-data/technology-data-individual-heating-plants,Par_CapitalCost; Par_FixedCost;Par_OperationalLife
+DEA_technology_data_for_el_and_dh,DEA_technology_data_for_el_and_dh.xlsx,https://ens.dk/en/our-services/projections-and-models/technology-data/technology-data-generation-electricity-and,Par_CapitalCost; Par_FixedCost;Par_OperationalLife
+DEA_technology_data_for_industrial_process_heat,DEA_technology_data_for_industrial_process_heat.xlsx,https://ens.dk/en/our-services/projections-and-models/technology-data/technology-data-industrial-process-heat,Par_CapitalCost; Par_FixedCost;Par_OperationalLife
