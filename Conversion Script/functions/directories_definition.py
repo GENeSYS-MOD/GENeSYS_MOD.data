@@ -1,6 +1,6 @@
 import os
 
-def directories(settings_file):
+def directories(settings_file, scenario_option):
     # Get the current working directory (where the script is located)
     current_directory = os.getcwd()
 
@@ -17,8 +17,8 @@ def directories(settings_file):
     output_directory = os.path.join(parent_directory, 'Output')
     output_csv_directory = os.path.join(output_directory, 'output_csv')
     output_excel_directory = os.path.join(output_directory, 'output_excel')
-    output_excel_file_path = os.path.join(output_excel_directory, 'RegularParameters.xlsx')
-    output_excel_file_path_timeseries = os.path.join(output_excel_directory, 'Timeseries.xlsx')
+    output_excel_file_path = os.path.join(output_excel_directory, f"RegularParameters_{scenario_option}.xlsx")
+    output_excel_file_path_timeseries = os.path.join(output_excel_directory, f"Timeseries_{scenario_option}.xlsx")
 
     # Path to the Excel settings file
     excel_file_path = os.path.join(current_directory, settings_file)

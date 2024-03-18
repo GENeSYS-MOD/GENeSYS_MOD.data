@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def output_timeseries(filtered_data, output_excel_directory, output_excel_file_path_timeseries, output_csv_directory, output_file_format):
+def output_timeseries(filtered_data, output_excel_directory, output_excel_file_path_timeseries, output_csv_directory, output_file_format, scenario_option):
     # Determine the output directory based on the file format
     if output_file_format == 'excel':
         output_directory = output_excel_directory
@@ -21,5 +21,5 @@ def output_timeseries(filtered_data, output_excel_directory, output_excel_file_p
 
     else:
         for file_name, df in filtered_data.items():
-            output_file_path = os.path.join(output_directory, f"{file_name}.csv")
+            output_file_path = os.path.join(output_directory, f"{file_name}_{scenario_option}.csv")
             df.to_csv(output_file_path, index=False)

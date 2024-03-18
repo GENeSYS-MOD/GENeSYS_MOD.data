@@ -2,7 +2,7 @@
 import pandas as pd
 import os
 
-def read_settings_file(file_path, output_csv_directory):
+def read_settings_file(file_path, output_csv_directory, scenario_option):
     # Open the Excel file using the provided file path
     xls = pd.ExcelFile(file_path, engine='openpyxl')
     
@@ -35,7 +35,7 @@ def read_settings_file(file_path, output_csv_directory):
         os.makedirs(output_csv_directory)
     
     # Create a CSV file containing unique values
-    unique_values_csv_file_path = os.path.join(output_csv_directory, 'Sets.csv')
+    unique_values_csv_file_path = os.path.join(output_csv_directory, f"Sets_{scenario_option}.csv")
     unique_values_concatenated.to_csv(unique_values_csv_file_path, index=False, decimal='.') 
     
     if "Region" in unique_values_concatenated.columns:

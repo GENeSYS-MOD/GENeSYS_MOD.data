@@ -7,21 +7,24 @@ from functions.process_parameters import process_regular_parameters
 from functions.output_parameters import output_regular_parameters
 from functions.read_filter_timeseries import read_filter_timeseries
 from functions.output_timeseries import output_timeseries
+import sys
 
 def master_function(settings_file,output_file_format, output_format, processing_option, scenario_option):
     # Call directories function to get all necessary directory paths
-    current_directory, excel_file_path, parameter_directory, sets_and_tags_directory, timeseries_directory, output_csv_directory, output_excel_directory, output_excel_file_path, output_excel_file_path_timeseries = directories(settings_file)
+    current_directory, excel_file_path, parameter_directory, sets_and_tags_directory, timeseries_directory, output_csv_directory, output_excel_directory, output_excel_file_path, output_excel_file_path_timeseries = directories(settings_file, scenario_option)
 
     # Validate user input
     validate_input(output_file_format, output_format, processing_option, settings_file)
 
     # Ensure unique_values_concatenated is defined
-    unique_values_concatenated = read_settings_file(excel_file_path, output_csv_directory)
+    unique_values_concatenated = read_settings_file(excel_file_path, output_csv_directory, scenario_option)
+
 
     # Check if processing_option is not 'timeseries_only'
     if processing_option != 'timeseries_only':
         # Process each regular parameter file
         regular_parameter_paths = read_regular_parameters(current_directory, parameter_directory, sets_and_tags_directory)
+        
 
         # Store the worksheet names and corresponding dataframes
         worksheets_data = {'Sets': unique_values_concatenated}  # Including 'Sets' sheet
@@ -35,16 +38,18 @@ def master_function(settings_file,output_file_format, output_format, processing_
             # Check if data was overwritten and add to the list
             if data_overwritten:
                 worksheets_with_overwritten_data.append(worksheet_name)
-
+        
         # Print each worksheet name on a separate line with "Par_" removed
         print("Worksheets with specified scenario data:")
         for worksheet in worksheets_with_overwritten_data:
             readable_name = worksheet.replace("Par_", "")
             print(readable_name)
         print("\n")  # Prints a blank line    
+        
 
         # Call the function to output data
-        output_regular_parameters(worksheets_data, output_excel_directory, output_excel_file_path, output_csv_directory, output_file_format)
+        output_regular_parameters(worksheets_data, output_excel_directory, output_excel_file_path, output_csv_directory, output_file_format, scenario_option)
+        
 
     # Process timeseries if processing_option is not 'parameters_only'
     if processing_option != 'parameters_only':
@@ -56,7 +61,7 @@ def master_function(settings_file,output_file_format, output_format, processing_
         print(timeseries_output_string)
 
         # Output the processed data
-        output_timeseries(filtered_timeseries_data, output_excel_directory, output_excel_file_path_timeseries, output_csv_directory, output_file_format)
+        output_timeseries(filtered_timeseries_data, output_excel_directory, output_excel_file_path_timeseries, output_csv_directory, output_file_format, scenario_option)
 
     print("\nEverything worked successfully. You are great! Smile :)")
     # Return any necessary data or confirmation

@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def output_regular_parameters(dataframes_dict, output_directory, output_excel_file_path, output_csv_directory, output_file_format):
+def output_regular_parameters(dataframes_dict, output_directory, output_excel_file_path, output_csv_directory, output_file_format, scenario_option):
     # Ensure the output directory exists
     os.makedirs(output_directory, exist_ok=True)
 
@@ -18,5 +18,5 @@ def output_regular_parameters(dataframes_dict, output_directory, output_excel_fi
     else:
         # Handle CSV output if required (same as before)
         for worksheet_name, df in dataframes_dict.items():
-            output_file_path = os.path.join(output_csv_directory, f"{worksheet_name}.csv")
+            output_file_path = os.path.join(output_csv_directory, f"{worksheet_name}_{scenario_option}.csv")
             df.to_csv(output_file_path, index=False)
