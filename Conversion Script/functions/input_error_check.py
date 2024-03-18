@@ -1,4 +1,6 @@
-def validate_input(output_file_format, output_format, processing_option):
+import os
+
+def validate_input(output_file_format, output_format, processing_option, settings_file):
     
     valid_file_formats = ['csv', 'excel']
     if output_file_format.lower() not in valid_file_formats:
@@ -11,5 +13,10 @@ def validate_input(output_file_format, output_format, processing_option):
     valid_processing_options = ['both', 'parameters_only', 'timeseries_only']
     if processing_option.lower() not in valid_processing_options:
         raise ValueError(f"Invalid processing option: '{processing_option}'. Expected 'both', 'parameters_only', or 'timeseries_only'.")
+    
+    file_path = os.path.join(os.getcwd(), settings_file)
+    if not os.path.exists(file_path):
+        raise FileNotFoundError(f"The specified filter file '{settings_file}' does not exist in the directory.")
+
 
     return True

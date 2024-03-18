@@ -1,6 +1,6 @@
 import os
 
-def directories():
+def directories(settings_file):
     # Get the current working directory (where the script is located)
     current_directory = os.getcwd()
 
@@ -21,6 +21,6 @@ def directories():
     output_excel_file_path_timeseries = os.path.join(output_excel_directory, 'Timeseries.xlsx')
 
     # Path to the Excel settings file
-    excel_file_path = os.path.join(current_directory, 'Set_filter_file.xlsx')
+    excel_file_path = os.path.join(current_directory, settings_file)
 
     return current_directory, excel_file_path, parameter_directory, sets_and_tags_directory, timeseries_directory, output_csv_directory, output_excel_directory, output_excel_file_path, output_excel_file_path_timeseries  

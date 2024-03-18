@@ -8,12 +8,12 @@ from functions.output_parameters import output_regular_parameters
 from functions.read_filter_timeseries import read_filter_timeseries
 from functions.output_timeseries import output_timeseries
 
-def master_function(output_file_format, output_format, processing_option, scenario_option):
+def master_function(settings_file,output_file_format, output_format, processing_option, scenario_option):
     # Call directories function to get all necessary directory paths
-    current_directory, excel_file_path, parameter_directory, sets_and_tags_directory, timeseries_directory, output_csv_directory, output_excel_directory, output_excel_file_path, output_excel_file_path_timeseries = directories()
+    current_directory, excel_file_path, parameter_directory, sets_and_tags_directory, timeseries_directory, output_csv_directory, output_excel_directory, output_excel_file_path, output_excel_file_path_timeseries = directories(settings_file)
 
     # Validate user input
-    validate_input(output_file_format, output_format, processing_option)
+    validate_input(output_file_format, output_format, processing_option, settings_file)
 
     # Ensure unique_values_concatenated is defined
     unique_values_concatenated = read_settings_file(excel_file_path, output_csv_directory)
