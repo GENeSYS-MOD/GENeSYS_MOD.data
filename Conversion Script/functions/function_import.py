@@ -17,7 +17,7 @@ def master_function(settings_file,output_file_format, output_format, processing_
     validate_input(output_file_format, output_format, processing_option, settings_file)
 
     # Ensure unique_values_concatenated is defined
-    unique_values_concatenated = read_settings_file(excel_file_path, output_csv_directory, scenario_option)
+    unique_values_concatenated = read_settings_file(excel_file_path, output_csv_directory, scenario_option, output_format)
 
 
     # Check if processing_option is not 'timeseries_only'
@@ -28,6 +28,7 @@ def master_function(settings_file,output_file_format, output_format, processing_
 
         # Store the worksheet names and corresponding dataframes
         worksheets_data = {'Sets': unique_values_concatenated}  # Including 'Sets' sheet
+     
         worksheets_with_overwritten_data = []
 
         # Process files and store dataframes with their names

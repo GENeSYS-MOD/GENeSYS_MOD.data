@@ -12,7 +12,7 @@ def read_regular_parameters(main_directory, parameter_directory, sets_and_tags_d
             if f.startswith(file_pattern) and f.endswith('.csv'):
                 filepaths.append(os.path.join(sets_and_tags_directory_f, f))
 
-    # Continue to add files from the first level of subdirectories of parameter_directory
+    # Continue to add files from the first level of of parameter_directory
     parameters_directory_f = os.path.join(main_directory, parameter_directory)
     for root, _, files in os.walk(parameters_directory_f):
         # Calculate the depth of the current directory

@@ -1,8 +1,10 @@
 # read_Settings_file.py
 import pandas as pd
 import os
+import numpy as np  # For using np.nan
 
-def read_settings_file(file_path, output_csv_directory, scenario_option):
+
+def read_settings_file(file_path, output_csv_directory, scenario_option, output_format):
     # Open the Excel file using the provided file path
     xls = pd.ExcelFile(file_path, engine='openpyxl')
     
@@ -40,6 +42,13 @@ def read_settings_file(file_path, output_csv_directory, scenario_option):
     
     if "Region" in unique_values_concatenated.columns:
         unique_values_concatenated["Region2"] = unique_values_concatenated["Region"]
+    
+    # Set the Output Format value in the first row
+    if not unique_values_concatenated.empty:
+        # Initialize the new column with NaNs
+        unique_values_concatenated.loc[:, 'Output Format'] = np.nan
+        unique_values_concatenated['Output Format'] = unique_values_concatenated['Output Format'].astype('object')
+        unique_values_concatenated.at[0, 'Output Format'] = output_format
     
     # Return the concatenated DataFrame of unique values
     return unique_values_concatenated
