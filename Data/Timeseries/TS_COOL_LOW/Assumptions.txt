@@ -1,0 +1,19 @@
+Source: Hotmaps and Renewable Ninja
+Unit: ?
+Update at: 21.06.23
+Updated by: Frida Sæther <frida.sather@sintef.no>
+
+Hotmaps was used to generate the TS_COOL_LOW . The inputs values were time-based temerature profiles and NUTS-numbers.
+
+The time-based temperature profiles for each country were generated from Renewable Ninja.The temperature profile of the capital represents the country
+
+The NUTS2-numbers were selected based on the location of the capital in each country. 
+For capitals/countries not represented in Hotmaps, nearby countries/regions were used. 
+- BG: NUTS2 = RO32
+- GR: NUTS2 = EL64 - Central Greece, Athen not representet in Hotmaps
+- HR: NUTS2 = HR03 - Zagreb not representet in Hotmaps
+- HU: NUTS2 = HU10 - Budapest not representet in Hotmaps
+- NO: NUTS2 = SE11 - Norway not represented in Hotmaps
+- TR: NUTS2 = RO32 - Turkey not represented in Hotmaps
+
+The cooling profiles generated from Hotmaps were then normalized to creat the TS_COOL_LOW. 

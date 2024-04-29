@@ -1,5 +1,245 @@
 ﻿Region,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
-AT,Heat_High_Industrial,2018,54.69561093,,PJ,,,
+AT,Cool_Low_Building,2018,0.317714466,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BE,Cool_Low_Building,2018,0.387911851,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BG,Cool_Low_Building,2018,0.511067137,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Cool_Low_Building,2018,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CZ,Cool_Low_Building,2018,0.257504688,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DE,Cool_Low_Building,2018,3.996732998,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DK,Cool_Low_Building,2018,0.238753195,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+EE,Cool_Low_Building,2018,0.001210385,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+ES,Cool_Low_Building,2018,6.889122299,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FI,Cool_Low_Building,2018,0.392894469,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FR,Cool_Low_Building,2018,12.06,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+GR,Cool_Low_Building,2018,5.117787127,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HR,Cool_Low_Building,2018,2.196011115,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HU,Cool_Low_Building,2018,0.334295292,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IE,Cool_Low_Building,2018,0.085874561,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IT,Cool_Low_Building,2018,30.84835069,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LT,Cool_Low_Building,2018,0.007171289,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LU,Cool_Low_Building,2018,0.068385898,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LV,Cool_Low_Building,2018,0.00448147,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NL,Cool_Low_Building,2018,0.892711502,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NO,Cool_Low_Building,2018,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Cool_Low_Building,2018,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PL,Cool_Low_Building,2018,0.313053033,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PT,Cool_Low_Building,2018,0.70124925,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+RO,Cool_Low_Building,2018,1.138319921,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SE,Cool_Low_Building,2018,0.644753849,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SI,Cool_Low_Building,2018,0.363547618,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SK,Cool_Low_Building,2018,0.072518248,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Cool_Low_Building,2018,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+UK,Cool_Low_Building,2018,1.734025757,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+AT,Cool_Low_Building,2020,0.416702268,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BE,Cool_Low_Building,2020,0.594957082,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BG,Cool_Low_Building,2020,0.691807544,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Cool_Low_Building,2020,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CZ,Cool_Low_Building,2020,0.374469795,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DE,Cool_Low_Building,2020,5.566954983,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DK,Cool_Low_Building,2020,0.289583391,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+EE,Cool_Low_Building,2020,0.002838364,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+ES,Cool_Low_Building,2020,8.867559817,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FI,Cool_Low_Building,2020,0.420944884,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FR,Cool_Low_Building,2020,15.03732,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+GR,Cool_Low_Building,2020,5.364848893,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HR,Cool_Low_Building,2020,2.27095159,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HU,Cool_Low_Building,2020,0.409656634,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IE,Cool_Low_Building,2020,0.116033196,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IT,Cool_Low_Building,2020,30.52458456,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LT,Cool_Low_Building,2020,0.011849913,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LU,Cool_Low_Building,2020,0.097036508,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LV,Cool_Low_Building,2020,0.008056376,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NL,Cool_Low_Building,2020,1.22964522,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NO,Cool_Low_Building,2020,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Cool_Low_Building,2020,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PL,Cool_Low_Building,2020,0.487360525,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PT,Cool_Low_Building,2020,1.143078903,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+RO,Cool_Low_Building,2020,1.415521273,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SE,Cool_Low_Building,2020,0.819882404,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SI,Cool_Low_Building,2020,0.434952582,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SK,Cool_Low_Building,2020,0.10562258,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Cool_Low_Building,2020,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+UK,Cool_Low_Building,2020,2.29804673,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+AT,Cool_Low_Building,2025,0.51569007,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BE,Cool_Low_Building,2025,0.802002313,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BG,Cool_Low_Building,2025,0.872547951,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Cool_Low_Building,2025,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CZ,Cool_Low_Building,2025,0.491434902,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DE,Cool_Low_Building,2025,7.137176968,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DK,Cool_Low_Building,2025,0.340413587,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+EE,Cool_Low_Building,2025,0.004466342,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+ES,Cool_Low_Building,2025,10.84599734,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FI,Cool_Low_Building,2025,0.448995299,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FR,Cool_Low_Building,2025,18.01464,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+GR,Cool_Low_Building,2025,5.611910658,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HR,Cool_Low_Building,2025,2.345892066,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HU,Cool_Low_Building,2025,0.485017976,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IE,Cool_Low_Building,2025,0.146191831,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IT,Cool_Low_Building,2025,30.20081844,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LT,Cool_Low_Building,2025,0.016528536,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LU,Cool_Low_Building,2025,0.125687119,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LV,Cool_Low_Building,2025,0.011631283,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NL,Cool_Low_Building,2025,1.566578938,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NO,Cool_Low_Building,2025,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Cool_Low_Building,2025,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PL,Cool_Low_Building,2025,0.661668018,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PT,Cool_Low_Building,2025,1.584908555,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+RO,Cool_Low_Building,2025,1.692722626,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SE,Cool_Low_Building,2025,0.995010959,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SI,Cool_Low_Building,2025,0.506357546,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SK,Cool_Low_Building,2025,0.138726913,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Cool_Low_Building,2025,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+UK,Cool_Low_Building,2025,2.862067703,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+AT,Cool_Low_Building,2030,0.614677872,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BE,Cool_Low_Building,2030,1.009047543,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BG,Cool_Low_Building,2030,1.053288359,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Cool_Low_Building,2030,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CZ,Cool_Low_Building,2030,0.608400008,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DE,Cool_Low_Building,2030,8.707398953,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DK,Cool_Low_Building,2030,0.391243783,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+EE,Cool_Low_Building,2030,0.006094321,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+ES,Cool_Low_Building,2030,12.82443486,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FI,Cool_Low_Building,2030,0.477045715,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FR,Cool_Low_Building,2030,20.99196,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+GR,Cool_Low_Building,2030,5.858972423,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HR,Cool_Low_Building,2030,2.420832541,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HU,Cool_Low_Building,2030,0.560379318,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IE,Cool_Low_Building,2030,0.176350466,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IT,Cool_Low_Building,2030,29.87705232,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LT,Cool_Low_Building,2030,0.02120716,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LU,Cool_Low_Building,2030,0.15433773,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LV,Cool_Low_Building,2030,0.015206189,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NL,Cool_Low_Building,2030,1.903512656,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NO,Cool_Low_Building,2030,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Cool_Low_Building,2030,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PL,Cool_Low_Building,2030,0.83597551,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PT,Cool_Low_Building,2030,2.026738208,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+RO,Cool_Low_Building,2030,1.969923978,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SE,Cool_Low_Building,2030,1.170139514,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SI,Cool_Low_Building,2030,0.57776251,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SK,Cool_Low_Building,2030,0.171831245,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Cool_Low_Building,2030,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+UK,Cool_Low_Building,2030,3.426088675,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+AT,Cool_Low_Building,2035,0.794758914,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BE,Cool_Low_Building,2035,1.213014591,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BG,Cool_Low_Building,2035,1.216693159,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Cool_Low_Building,2035,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CZ,Cool_Low_Building,2035,0.722045324,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DE,Cool_Low_Building,2035,10.4507501,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DK,Cool_Low_Building,2035,0.50085559,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+EE,Cool_Low_Building,2035,0.008582746,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+ES,Cool_Low_Building,2035,14.93408287,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FI,Cool_Low_Building,2035,0.514277079,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FR,Cool_Low_Building,2035,21.89268,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+GR,Cool_Low_Building,2035,5.904342638,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HR,Cool_Low_Building,2035,2.355295903,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HU,Cool_Low_Building,2035,0.64052707,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IE,Cool_Low_Building,2035,0.21659442,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IT,Cool_Low_Building,2035,29.82969417,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LT,Cool_Low_Building,2035,0.028212487,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LU,Cool_Low_Building,2035,0.180569724,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LV,Cool_Low_Building,2035,0.023011728,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NL,Cool_Low_Building,2035,2.139647269,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NO,Cool_Low_Building,2035,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Cool_Low_Building,2035,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PL,Cool_Low_Building,2035,1.074127954,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PT,Cool_Low_Building,2035,2.316207557,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+RO,Cool_Low_Building,2035,2.241171418,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SE,Cool_Low_Building,2035,1.478457633,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SI,Cool_Low_Building,2035,0.670480568,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SK,Cool_Low_Building,2035,0.214873886,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Cool_Low_Building,2035,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+UK,Cool_Low_Building,2035,4.261328176,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+AT,Cool_Low_Building,2040,0.974839957,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BE,Cool_Low_Building,2040,1.416981638,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BG,Cool_Low_Building,2040,1.380097959,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Cool_Low_Building,2040,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CZ,Cool_Low_Building,2040,0.835690639,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DE,Cool_Low_Building,2040,12.19410126,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DK,Cool_Low_Building,2040,0.610467396,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+EE,Cool_Low_Building,2040,0.01107117,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+ES,Cool_Low_Building,2040,17.04373089,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FI,Cool_Low_Building,2040,0.551508443,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FR,Cool_Low_Building,2040,22.7934,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+GR,Cool_Low_Building,2040,5.949712854,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HR,Cool_Low_Building,2040,2.289759264,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HU,Cool_Low_Building,2040,0.720674822,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IE,Cool_Low_Building,2040,0.256838373,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IT,Cool_Low_Building,2040,29.78233602,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LT,Cool_Low_Building,2040,0.035217814,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LU,Cool_Low_Building,2040,0.206801719,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LV,Cool_Low_Building,2040,0.030817267,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NL,Cool_Low_Building,2040,2.375781881,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NO,Cool_Low_Building,2040,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Cool_Low_Building,2040,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PL,Cool_Low_Building,2040,1.312280398,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PT,Cool_Low_Building,2040,2.605676905,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+RO,Cool_Low_Building,2040,2.512418859,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SE,Cool_Low_Building,2040,1.786775751,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SI,Cool_Low_Building,2040,0.763198626,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SK,Cool_Low_Building,2040,0.257916526,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Cool_Low_Building,2040,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+UK,Cool_Low_Building,2040,5.096567677,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+AT,Cool_Low_Building,2045,1.205302055,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BE,Cool_Low_Building,2045,1.728651303,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BG,Cool_Low_Building,2045,1.546761435,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Cool_Low_Building,2045,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CZ,Cool_Low_Building,2045,0.959021219,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DE,Cool_Low_Building,2045,15.01149308,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DK,Cool_Low_Building,2045,0.803729854,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+EE,Cool_Low_Building,2045,0.013496077,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+ES,Cool_Low_Building,2045,19.91900957,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FI,Cool_Low_Building,2045,0.624939266,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FR,Cool_Low_Building,2045,23.30856,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+GR,Cool_Low_Building,2045,6.287268602,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HR,Cool_Low_Building,2045,2.309213423,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HU,Cool_Low_Building,2045,0.818141385,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IE,Cool_Low_Building,2045,0.301624216,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IT,Cool_Low_Building,2045,31.57793656,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LT,Cool_Low_Building,2045,0.046208359,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LU,Cool_Low_Building,2045,0.239347846,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LV,Cool_Low_Building,2045,0.040683643,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NL,Cool_Low_Building,2045,2.829681814,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NO,Cool_Low_Building,2045,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Cool_Low_Building,2045,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PL,Cool_Low_Building,2045,1.572950242,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PT,Cool_Low_Building,2045,2.889375821,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+RO,Cool_Low_Building,2045,2.801796721,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SE,Cool_Low_Building,2045,2.241571374,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SI,Cool_Low_Building,2045,0.889631367,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SK,Cool_Low_Building,2045,0.300049691,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Cool_Low_Building,2045,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+UK,Cool_Low_Building,2045,6.375229082,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+AT,Cool_Low_Building,2050,1.435764154,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BE,Cool_Low_Building,2050,2.040320967,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BG,Cool_Low_Building,2050,1.713424911,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Cool_Low_Building,2050,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CZ,Cool_Low_Building,2050,1.082351798,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DE,Cool_Low_Building,2050,17.82888491,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DK,Cool_Low_Building,2050,0.996992311,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+EE,Cool_Low_Building,2050,0.015920983,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+ES,Cool_Low_Building,2050,22.79428825,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FI,Cool_Low_Building,2050,0.698370089,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FR,Cool_Low_Building,2050,23.82372,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+GR,Cool_Low_Building,2050,6.62482435,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HR,Cool_Low_Building,2050,2.328667582,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HU,Cool_Low_Building,2050,0.915607949,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IE,Cool_Low_Building,2050,0.346410059,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IT,Cool_Low_Building,2050,33.37353709,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LT,Cool_Low_Building,2050,0.057198905,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LU,Cool_Low_Building,2050,0.271893972,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LV,Cool_Low_Building,2050,0.05055002,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NL,Cool_Low_Building,2050,3.283581747,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NO,Cool_Low_Building,2050,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Cool_Low_Building,2050,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PL,Cool_Low_Building,2050,1.833620086,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PT,Cool_Low_Building,2050,3.173074736,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+RO,Cool_Low_Building,2050,3.091174583,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SE,Cool_Low_Building,2050,2.696366997,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SI,Cool_Low_Building,2050,1.016064107,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SK,Cool_Low_Building,2050,0.342182856,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Cool_Low_Building,2050,0,,PJ,Needs update,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+UK,Cool_Low_Building,2050,7.653890487,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,04.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+AT,Heat_High_Industrial,2018,54.69561,,PJ,,,
 BE,Heat_High_Industrial,2018,142.6112682,,PJ,,,
 BG,Heat_High_Industrial,2018,23.3160603,,PJ,,,
 CH,Heat_High_Industrial,2018,24.7189329,,PJ,,,
@@ -3695,3 +3935,243 @@ DE_TH,Mobility_Passenger_Bus,2035,1.21466,,PJ,,,
 DE_TH,Mobility_Passenger_Bus,2040,1.19039,,PJ,,,
 DE_TH,Mobility_Passenger_Bus,2045,1.16422,,PJ,,,
 DE_TH,Mobility_Passenger_Bus,2050,1.13615,,PJ,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
