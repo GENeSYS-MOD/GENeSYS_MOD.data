@@ -1,6 +1,0 @@
-ReserveMarginTagFuel{r in REGION, f in FUEL, y in YEAR}; ; ; ; ; ; ; ; ; 
-Indicates if the output fuel has a reserve margin associated with it; ; ; ; ; ; ; ; ; 
-Unit: Binary; ; ; ; ; ; ; ; ; 
- ; ; ; ; ; ; ; ; ; 
-Region;Fuel;2018;2020;2025;2030;2035;2040;2045;2050
-DE;power;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0

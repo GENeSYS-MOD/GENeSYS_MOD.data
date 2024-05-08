@@ -1,6 +1,0 @@
-AnnualEmissionLimit{e in EMISSION, y in YEAR}; ; ; ; ; ; ; ; 
-Limits the maximum amount of Emissions in a year.; ; ; ; ; ; ; ; 
-Unit: Megatonnes; ; ; ; ; ; ; ; 
- ; ; ; ; ; ; ; ; 
-Emission;2018;2020;2025;2030;2035;2040;2045;2050
-CO2;99999,0;99999,0;99999,0;99999,0;99999,0;99999,0;99999,0;99999,0
