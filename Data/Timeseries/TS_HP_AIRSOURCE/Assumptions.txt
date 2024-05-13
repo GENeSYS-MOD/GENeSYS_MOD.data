@@ -1,0 +1,17 @@
+Source: Renewables.ninja
+Unit: 1/COP
+Update at: 08.02.24
+Updated by: Frida Sather <frida.sather@sintef.no>
+
+Generated time-based temperature profiles for each country.
+
+Assumptions:
+- The temperature profile of the capital represents the country
+- Outside temperatur > 18 C -> zero heat demand -> no HP in operation
+	- To make the model run the values equal to 0 are set to the lowest existing value (0.100628878).
+- Set point temperature for HP = 20 C
+- Pinch point in the heat exchanger = 5 K
+- Carnot efficiency = 0.4
+
+COP = (set point temperature + pinch point) / ((set point temperature + pinch point) - (outside temperature - pinch point)) * carnot efficiency
+
