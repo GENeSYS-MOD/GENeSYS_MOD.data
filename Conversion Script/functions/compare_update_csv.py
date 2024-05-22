@@ -31,14 +31,17 @@ def update_or_append_csv(existing_csv_path, new_data):
             # Create a mask for matching rows (excluding 'Value' and extra columns)
             match_columns = [col for col in existing_data.columns if col not in ['Value', 'Unit', 'Source', 'Updated at', 'Updated by']]
             match = (existing_data[match_columns] == new_row[match_columns]).all(axis=1)
-            
+
             if match.any():
-                # Update the 'Value' and extra columns
+                # Get the index of the matched row
                 idx = match.idxmax()
-                updated_data.loc[idx, 'Value'] = new_row['Value']
-                updated_data.loc[idx, 'Updated at'] = datetime.now().strftime('%Y-%m-%d')
-                updated_data.loc[idx, 'Source'] = "Automated entry, please add source"
-                updated_data.loc[idx, 'Updated by'] = ""
+                # Check if the value is different
+                if updated_data.loc[idx, 'Value'] != new_row['Value']:
+                    # Update the 'Value' and extra columns
+                    updated_data.loc[idx, 'Value'] = new_row['Value']
+                    updated_data.loc[idx, 'Updated at'] = datetime.now().strftime('%Y-%m-%d')
+                    updated_data.loc[idx, 'Source'] = "Automated entry, please add source"
+                    updated_data.loc[idx, 'Updated by'] = ""
             else:
                 # Append the new row and fill extra columns
                 new_row_extended = new_row.to_dict()
