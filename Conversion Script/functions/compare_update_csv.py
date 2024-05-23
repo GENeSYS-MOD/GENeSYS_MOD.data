@@ -10,10 +10,6 @@ def update_or_append_csv(existing_csv_path, new_data):
         existing_data = pd.read_csv(existing_csv_path)
         updated_data = existing_data.copy()
 
-        # Debugging step: Print existing and new data columns
-        print(f"Existing data columns: {existing_data.columns}")
-        print(f"New data columns: {new_data.columns}")
-
         # Ensure required columns are present in existing_data
         for col in ['Value', 'Unit', 'Source', 'Updated at', 'Updated by']:
             if col not in existing_data.columns:
@@ -27,10 +23,24 @@ def update_or_append_csv(existing_csv_path, new_data):
         existing_data = existing_data.loc[:, ~existing_data.columns.duplicated()]
         new_data = new_data.loc[:, ~new_data.columns.duplicated()]
 
+        # Replace NaN with empty string for comparison
+        existing_data = existing_data.fillna('')
+        new_data = new_data.fillna('')
+
+        # Ensure data types match
+        for col in existing_data.columns:
+            if col in new_data.columns and existing_data[col].dtype != new_data[col].dtype:
+                if existing_data[col].dtype == 'object':
+                    new_data[col] = new_data[col].astype(str)
+                elif existing_data[col].dtype == 'float64':
+                    new_data[col] = pd.to_numeric(new_data[col], errors='coerce').fillna(0).astype(float)
+                elif existing_data[col].dtype == 'int64':
+                    new_data[col] = pd.to_numeric(new_data[col], errors='coerce').fillna(0).astype(int)
+
         for _, new_row in new_data.iterrows():
             # Create a mask for matching rows (excluding 'Value' and extra columns)
             match_columns = [col for col in existing_data.columns if col not in ['Value', 'Unit', 'Source', 'Updated at', 'Updated by']]
-            match = (existing_data[match_columns] == new_row[match_columns]).all(axis=1)
+            match = (existing_data[match_columns].astype(str) == new_row[match_columns].astype(str)).all(axis=1)
 
             if match.any():
                 # Get the index of the matched row
@@ -39,7 +49,7 @@ def update_or_append_csv(existing_csv_path, new_data):
                 if updated_data.loc[idx, 'Value'] != new_row['Value']:
                     # Update the 'Value' and extra columns
                     updated_data.loc[idx, 'Value'] = new_row['Value']
-                    updated_data.loc[idx, 'Updated at'] = datetime.now().strftime('%Y-%m-%d')
+                    updated_data.loc[idx, 'Updated at'] = datetime.now().strftime('%d.%m.%Y')
                     updated_data.loc[idx, 'Source'] = "Automated entry, please add source"
                     updated_data.loc[idx, 'Updated by'] = ""
             else:
@@ -47,7 +57,8 @@ def update_or_append_csv(existing_csv_path, new_data):
                 new_row_extended = new_row.to_dict()
                 new_row_extended.update({
                     'Unit': existing_data['Unit'].iloc[0] if 'Unit' in existing_data.columns else '',
-                    'Updated at': datetime.now().strftime('%Y-%m-%d'),
+                    'Unnamed: 3': '',  # Insert empty value instead of 0.0
+                    'Updated at': datetime.now().strftime('%d.%m.%Y'),
                     'Source': "Automated entry, please add source",
                     'Updated by': ''
                 })
@@ -57,7 +68,7 @@ def update_or_append_csv(existing_csv_path, new_data):
 
         updated_data.to_csv(existing_csv_path, index=False)
     else:
-        new_data['Updated at'] = datetime.now().strftime('%Y-%m-%d')
+        new_data['Updated at'] = datetime.now().strftime('%d.%m.%Y')
         new_data['Source'] = "Automated entry, please add source"
         new_data['Updated by'] = ""
         new_data.to_csv(existing_csv_path, index=False)
