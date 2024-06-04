@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+from datetime import datetime
 
 def find_matching_sheets(excel_file_path, base_directory, data_dict):
     """
@@ -16,57 +17,103 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
     Returns:
     list: A list of tuples with CSV file names and their headers.
     """
-    # Read the Excel file to get the sheet names
-    excel_file = pd.ExcelFile(excel_file_path)
-    sheet_names = excel_file.sheet_names
-    
-    # List to store CSV file info
-    csv_files_info = []
-    
-    # Check for each sheet name if there is a corresponding folder
-    for sheet_name in sheet_names:
-        folder_path = os.path.join(base_directory, sheet_name)
-        if os.path.isdir(folder_path):
-            # Look for CSV files in the folder
-            for file_name in os.listdir(folder_path):
-                if file_name.endswith('.csv'):
-                    csv_path = os.path.join(folder_path, file_name)
-                    df_csv = pd.read_csv(csv_path)
-                    
-                    # Remove all columns after the "Value" column
-                    if 'Value' in df_csv.columns:
-                        value_index = df_csv.columns.get_loc('Value')
-                        df_csv = df_csv.iloc[:, :value_index+1]
-                    
-                    # Convert "Region.1" headers to "Region2"
-                    df_csv.columns = [col.replace('Region.1', 'Region2') for col in df_csv.columns]
-                    
-                    # Get the transformed Excel data for the corresponding sheet
-                    df_excel = data_dict.get(sheet_name)
-                    
-                    # Compare headers
-                    headers_csv = df_csv.columns.tolist()
-                    headers_excel = df_excel.columns.tolist()
-                    
-                    if headers_csv != headers_excel:
-                        raise ValueError(f"Header mismatch in sheet '{sheet_name}':\n"
-                                         f"CSV headers: {headers_csv}\n"
-                                         f"Excel headers: {headers_excel}")
-                    
-                    # Merge data according to specified rules
-                    merged_df = pd.merge(df_csv, df_excel, how='outer', on=headers_excel[:-1], suffixes=('_csv', '_excel'))
-                    
-                    # Update values from Excel where both entries exist, otherwise keep existing or append new
-                    merged_df['Value'] = merged_df['Value_excel'].combine_first(merged_df['Value_csv'])
-                    merged_df = merged_df[headers_excel]
-                    
-                    # Save the updated CSV file
-                    merged_df.to_csv(csv_path, index=False)
-                    
-                    # Update the csv_files_info with transformed data
-                    csv_files_info.append((file_name, merged_df.columns.tolist()))
-                    
-                    # Exit after processing the first sheet for easier debugging
-                    return csv_files_info
+    # Use a context manager to ensure the Excel file is properly closed after reading
+    with pd.ExcelFile(excel_file_path) as excel_file:
+        # Read the Excel file to get the sheet names
+        sheet_names = excel_file.sheet_names
+        
+        # List to store CSV file info
+        csv_files_info = []
+        
+        # Check for each sheet name if there is a corresponding folder
+        for sheet_name in sheet_names:
+            folder_path = os.path.join(base_directory, sheet_name)
+            if os.path.isdir(folder_path):
+                # Look for CSV files in the folder
+                for file_name in os.listdir(folder_path):
+                    if file_name.endswith('.csv'):
+                        csv_path = os.path.join(folder_path, file_name)
+                        df_csv = pd.read_csv(csv_path)
+                        
+                        # Save additional columns to be retained later
+                        additional_columns = df_csv.columns[df_csv.columns.get_loc('Value')+1:]
+                        
+                        # Remove all columns after the "Value" column for comparison
+                        if 'Value' in df_csv.columns:
+                            value_index = df_csv.columns.get_loc('Value')
+                            df_csv_for_comparison = df_csv.iloc[:, :value_index+1]
+                        
+                        # Convert "Region.1" headers to "Region2"
+                        df_csv_for_comparison.columns = [col.replace('Region.1', 'Region2') for col in df_csv_for_comparison.columns]
+                        
+                        # Get the transformed Excel data for the corresponding sheet
+                        df_excel = data_dict.get(sheet_name)
+                        
+                        # Convert Excel data to match CSV data types
+                        for col in df_excel.columns:
+                            if col in df_csv_for_comparison.columns:
+                                df_excel[col] = df_excel[col].astype(df_csv_for_comparison[col].dtype)
+                        
+                        # Compare headers
+                        headers_csv = df_csv_for_comparison.columns.tolist()
+                        headers_excel = df_excel.columns.tolist()
+                        
+                        if headers_csv != headers_excel:
+                            raise ValueError(f"Header mismatch in sheet '{sheet_name}':\n"
+                                             f"CSV headers: {headers_csv}\n"
+                                             f"Excel headers: {headers_excel}")
+                        
+                        # Ensure the merge columns are of the same type
+                        merge_columns = headers_excel[:-1]
+                        for col in merge_columns:
+                            if df_csv_for_comparison[col].dtype != df_excel[col].dtype:
+                                df_csv_for_comparison[col] = df_csv_for_comparison[col].astype(df_excel[col].dtype)
+                        
+                        # Debugging: Print entries used for comparison
+                        print(f"Comparing entries in sheet '{sheet_name}':")
+                        print("CSV entries:")
+                        print(df_csv_for_comparison[merge_columns + ['Value']])
+                        print("Excel entries:")
+                        print(df_excel)
+                        
+                        # Merge data according to specified rules
+                        merged_df = pd.merge(df_csv_for_comparison, df_excel, how='outer', on=merge_columns, suffixes=('_csv', '_excel'))
+                        
+                        # Update values and additional columns from Excel where both entries exist, otherwise keep existing or append new
+                        def update_row(row, unit_values, current_date):
+                            if pd.notna(row['Value_excel']) and row['Value_excel'] != row['Value_csv']:
+                                print(f"Updating row with key {row[merge_columns]}:")
+                                row['Value'] = row['Value_excel']
+                                if len(unit_values) == 1:
+                                    row['Unit'] = unit_values[0]
+                                else:
+                                    row['Unit'] = "UNIT MISSING"
+                                row['Source'] = "Automatically generated entry, please add source!"
+                                row['Updated at'] = current_date
+                                row['Updated by'] = "Automatically generated entry, please add!"
+                            else:
+                                row['Value'] = row['Value_csv']
+                            print(f"Updated row: {row}")
+                            return row
+                        
+                        unit_values = df_csv['Unit'].unique()
+                        current_date = datetime.now().strftime("%d.%m.%Y")
+                        merged_df = merged_df.apply(update_row, axis=1, unit_values=unit_values, current_date=current_date)
+                        
+                        # Debugging: Print merged DataFrame columns
+                        print("Merged DataFrame columns:", merged_df.columns.tolist())
+                        
+                        # Select only existing columns
+                        valid_columns = [col for col in headers_excel + list(additional_columns) if col in merged_df.columns]
+                        merged_df = merged_df[valid_columns]
+                        
+                        # Save the updated CSV file
+                        merged_df.to_csv(csv_path, index=False)
+                        
+                        # Update the csv_files_info with transformed data
+                        csv_files_info.append((file_name, merged_df.columns.tolist()))
+                        
+                        # Exit after processing the first sheet for easier debugging
+                        return csv_files_info
     
     return csv_files_info
