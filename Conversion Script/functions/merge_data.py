@@ -37,6 +37,8 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                         
                         # Save additional columns to be retained later
                         additional_columns = df_csv.columns[df_csv.columns.get_loc('Value')+1:]
+                        additional_df = df_csv[additional_columns].copy()
+                        additional_df.index = df_csv.index
                         
                         # Remove all columns after the "Value" column for comparison
                         if 'Value' in df_csv.columns:
@@ -69,20 +71,12 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                             if df_csv_for_comparison[col].dtype != df_excel[col].dtype:
                                 df_csv_for_comparison[col] = df_csv_for_comparison[col].astype(df_excel[col].dtype)
                         
-                        # Debugging: Print entries used for comparison
-                        print(f"Comparing entries in sheet '{sheet_name}':")
-                        print("CSV entries:")
-                        print(df_csv_for_comparison[merge_columns + ['Value']])
-                        print("Excel entries:")
-                        print(df_excel)
-                        
                         # Merge data according to specified rules
                         merged_df = pd.merge(df_csv_for_comparison, df_excel, how='outer', on=merge_columns, suffixes=('_csv', '_excel'))
                         
                         # Update values and additional columns from Excel where both entries exist, otherwise keep existing or append new
-                        def update_row(row, unit_values, current_date):
+                        def update_row(row, unit_values, current_date, additional_df):
                             if pd.notna(row['Value_excel']) and row['Value_excel'] != row['Value_csv']:
-                                print(f"Updating row with key {row[merge_columns]}:")
                                 row['Value'] = row['Value_excel']
                                 if len(unit_values) == 1:
                                     row['Unit'] = unit_values[0]
@@ -93,15 +87,19 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                                 row['Updated by'] = "Automatically generated entry, please add!"
                             else:
                                 row['Value'] = row['Value_csv']
-                            print(f"Updated row: {row}")
+                                for col in additional_columns:
+                                    row[col] = additional_df.at[row.name, col]
                             return row
                         
                         unit_values = df_csv['Unit'].unique()
                         current_date = datetime.now().strftime("%d.%m.%Y")
-                        merged_df = merged_df.apply(update_row, axis=1, unit_values=unit_values, current_date=current_date)
+                        merged_df = merged_df.apply(update_row, axis=1, unit_values=unit_values, current_date=current_date, additional_df=additional_df)
                         
-                        # Debugging: Print merged DataFrame columns
-                        print("Merged DataFrame columns:", merged_df.columns.tolist())
+                        # Add "Unnamed:..." columns with empty values to merged_df
+                        unnamed_columns = [col for col in additional_columns if col.startswith('Unnamed:')]
+                        for col in unnamed_columns:
+                            if col not in merged_df.columns:
+                                merged_df[col] = ""
                         
                         # Select only existing columns
                         valid_columns = [col for col in headers_excel + list(additional_columns) if col in merged_df.columns]
