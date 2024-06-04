@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from datetime import datetime
 
-def find_matching_sheets(excel_file_path, base_directory, data_dict):
+def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_to_process=2):
     """
     Finds the sheets in the original Excel file that have corresponding folders
     in the base directory, and provides a list of CSV files in those folders along with their headers.
@@ -13,6 +13,7 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
     excel_file_path (str): The path to the Excel file.
     base_directory (str): The path to the base directory containing folders named after the sheets.
     data_dict (dict): The dictionary containing transformed Excel data frames.
+    num_sheets_to_process (int): The number of sheets to process after "Sets". Default is 1.
     
     Returns:
     list: A list of tuples with CSV file names and their headers.
@@ -24,9 +25,16 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
         
         # List to store CSV file info
         csv_files_info = []
+        processed_sheets = 0
         
         # Check for each sheet name if there is a corresponding folder
         for sheet_name in sheet_names:
+            # Skip the first sheet named "Sets"
+            if sheet_name == "Sets":
+                continue
+
+            print(f"Processing sheet: {sheet_name}")
+
             folder_path = os.path.join(base_directory, sheet_name)
             if os.path.isdir(folder_path):
                 # Look for CSV files in the folder
@@ -50,6 +58,11 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                         
                         # Get the transformed Excel data for the corresponding sheet
                         df_excel = data_dict.get(sheet_name)
+                        
+                        # Skip if Excel data is empty
+                        if df_excel.empty:
+                            print(f"Excel data for sheet '{sheet_name}' is empty. Skipping merge.")
+                            continue
                         
                         # Convert Excel data to match CSV data types
                         for col in df_excel.columns:
@@ -110,8 +123,12 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                         
                         # Update the csv_files_info with transformed data
                         csv_files_info.append((file_name, merged_df.columns.tolist()))
-                        
-                        # Exit after processing the first sheet for easier debugging
-                        return csv_files_info
+
+                        # Increment the processed sheets counter
+                        processed_sheets += 1
+
+                        # Exit after processing the specified number of sheets for easier debugging
+                        if processed_sheets >= num_sheets_to_process:
+                            return csv_files_info
     
     return csv_files_info
