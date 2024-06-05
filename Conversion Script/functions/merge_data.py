@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from datetime import datetime
 
-def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_to_process=2):
+def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_to_process=1):
     """
     Finds the sheets in the original Excel file that have corresponding folders
     in the base directory, and provides a list of CSV files in those folders along with their headers.
@@ -43,6 +43,10 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                         csv_path = os.path.join(folder_path, file_name)
                         df_csv = pd.read_csv(csv_path)
                         
+                        # Save the original index to preserve order
+                        df_csv.reset_index(inplace=True, drop=False)
+                        original_index = df_csv['index']
+                        
                         # Save additional columns to be retained later
                         additional_columns = df_csv.columns[df_csv.columns.get_loc('Value')+1:]
                         additional_df = df_csv[additional_columns].copy()
@@ -52,6 +56,9 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                         if 'Value' in df_csv.columns:
                             value_index = df_csv.columns.get_loc('Value')
                             df_csv_for_comparison = df_csv.iloc[:, :value_index+1]
+                        
+                        # Remove the index column from the comparison DataFrame
+                        df_csv_for_comparison = df_csv_for_comparison.drop(columns=['index'])
                         
                         # Convert "Region.1" headers to "Region2"
                         df_csv_for_comparison.columns = [col.replace('Region.1', 'Region2') for col in df_csv_for_comparison.columns]
@@ -113,6 +120,11 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                         for col in unnamed_columns:
                             if col not in merged_df.columns:
                                 merged_df[col] = ""
+                        
+                        # Reattach the original index to preserve order
+                        merged_df['index'] = original_index
+                        merged_df.sort_values('index', inplace=True)
+                        merged_df.drop(columns=['index'], inplace=True)
                         
                         # Select only existing columns
                         valid_columns = [col for col in headers_excel + list(additional_columns) if col in merged_df.columns]
