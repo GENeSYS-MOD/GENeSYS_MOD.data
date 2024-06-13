@@ -13,6 +13,7 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
     excel_file_path (str): The path to the Excel file.
     base_directory (str): The path to the base directory containing folders named after the sheets.
     data_dict (dict): The dictionary containing transformed Excel data frames.
+    num_sheets_to_process (int): The number of sheets to process after "Sets". Default is 2.
     
     Returns:
     list: A list of tuples with CSV file names and their headers.
@@ -59,7 +60,6 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                         # Save additional columns to be retained later
                         additional_columns = df_csv.columns[df_csv.columns.get_loc('Value')+1:]
                         additional_df = df_csv[additional_columns].copy()
-                        additional_df.index = df_csv.index
                         
                         # Remove all columns after the "Value" column for comparison
                         if 'Value' in df_csv.columns:
@@ -130,8 +130,11 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                             if col not in merged_df.columns:
                                 merged_df[col] = ""
                         
+                        # Ensure 'Original_Order' column is included in merged_df
+                        if 'Original_Order' not in merged_df.columns:
+                            merged_df['Original_Order'] = df_csv['Original_Order']
+                        
                         # Re-sort the DataFrame based on the original order
-                        merged_df['Original_Order'] = df_csv['Original_Order']
                         merged_df.sort_values('Original_Order', inplace=True)
                         
                         # Remove the Original_Order column
