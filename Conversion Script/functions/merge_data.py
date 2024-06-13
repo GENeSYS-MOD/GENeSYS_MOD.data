@@ -86,10 +86,6 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                         # Merge data according to specified rules
                         merged_df = pd.merge(df_csv_for_comparison, df_excel, how='outer', on=merge_columns, suffixes=('_csv', '_excel'))
                         
-                        # Debugging: Print merged DataFrame before updating rows
-                        print(f"Merged DataFrame before updating rows for sheet '{sheet_name}':")
-                        print(merged_df.head())
-                        
                         # Update values and additional columns from Excel where both entries exist, otherwise keep existing or append new
                         def update_row(row, unit_values, current_date, additional_df):
                             if pd.notna(row['Value_excel']) and row['Value_excel'] != row['Value_csv']:
@@ -104,12 +100,9 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                             else:
                                 row['Value'] = row['Value_csv']
                                 for col in additional_columns:
-                                    # Debugging: Print row name and column before accessing additional_df
-                                    print(f"Updating row: {row.name}, column: {col}")
                                     if row.name in additional_df.index:
                                         row[col] = additional_df.at[row.name, col]
                                     else:
-                                        print(f"Index {row.name} not found in additional_df")
                                         row[col] = None
                             return row
                         
@@ -137,7 +130,7 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                         processed_sheets += 1
 
                         # Exit after processing the specified number of sheets for easier debugging
-                        #if processed_sheets >= num_sheets_to_process:
-                        #    return csv_files_info
+                        # if processed_sheets >= num_sheets_to_process:
+                        #     return csv_files_info
     
     return csv_files_info

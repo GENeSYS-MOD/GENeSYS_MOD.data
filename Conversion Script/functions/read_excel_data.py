@@ -37,6 +37,10 @@ def read_excel_data(excel_file_path):
                 df = pd.read_excel(excel_file, sheet_name=sheet_name)
                 
                 if not df.empty:
+                    # Remove rows where "Region" is "World"
+                    if "Region" in df.columns:
+                        df = df[df["Region"] != "World"]
+                    
                     # Compare headers with the sets_headers, excluding "Value" header
                     headers = df.columns.tolist()
                     uncommon_headers = [header for header in headers if header not in sets_headers and header != 'Value']
