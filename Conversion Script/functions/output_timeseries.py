@@ -14,7 +14,7 @@ def output_timeseries(filtered_data, output_excel_directory, output_excel_file_p
 
     if output_file_format == 'excel':
         # Open the ExcelWriter
-        with pd.ExcelWriter(output_file_path, engine='openpyxl', mode='w') as writer:
+        with pd.ExcelWriter(output_file_path, engine='xlsxwriter', mode='w') as writer:
             for sheet_name, df in filtered_data.items():
                 df.to_excel(writer, sheet_name=sheet_name, index=False)
 
