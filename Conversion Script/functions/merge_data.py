@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from datetime import datetime
 
-def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_to_process=2):
+def find_matching_sheets(excel_file_path, base_directory, data_dict):
     """
     Finds the sheets in the original Excel file that have corresponding folders
     in the base directory, and provides a list of CSV files in those folders along with their headers.
@@ -13,7 +13,6 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
     excel_file_path (str): The path to the Excel file.
     base_directory (str): The path to the base directory containing folders named after the sheets.
     data_dict (dict): The dictionary containing transformed Excel data frames.
-    num_sheets_to_process (int): The number of sheets to process after "Sets". Default is 1.
     
     Returns:
     list: A list of tuples with CSV file names and their headers.
@@ -87,6 +86,10 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                         # Merge data according to specified rules
                         merged_df = pd.merge(df_csv_for_comparison, df_excel, how='outer', on=merge_columns, suffixes=('_csv', '_excel'))
                         
+                        # Debugging: Print merged DataFrame before updating rows
+                        print(f"Merged DataFrame before updating rows for sheet '{sheet_name}':")
+                        print(merged_df.head())
+                        
                         # Update values and additional columns from Excel where both entries exist, otherwise keep existing or append new
                         def update_row(row, unit_values, current_date, additional_df):
                             if pd.notna(row['Value_excel']) and row['Value_excel'] != row['Value_csv']:
@@ -101,7 +104,13 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                             else:
                                 row['Value'] = row['Value_csv']
                                 for col in additional_columns:
-                                    row[col] = additional_df.at[row.name, col]
+                                    # Debugging: Print row name and column before accessing additional_df
+                                    print(f"Updating row: {row.name}, column: {col}")
+                                    if row.name in additional_df.index:
+                                        row[col] = additional_df.at[row.name, col]
+                                    else:
+                                        print(f"Index {row.name} not found in additional_df")
+                                        row[col] = None
                             return row
                         
                         unit_values = df_csv['Unit'].unique()
@@ -128,7 +137,7 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                         processed_sheets += 1
 
                         # Exit after processing the specified number of sheets for easier debugging
-                        if processed_sheets >= num_sheets_to_process:
-                            return csv_files_info
+                        #if processed_sheets >= num_sheets_to_process:
+                        #    return csv_files_info
     
     return csv_files_info
