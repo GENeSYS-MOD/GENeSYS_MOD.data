@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from datetime import datetime
 
-def find_matching_sheets(excel_file_path, base_directory, data_dict):
+def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_to_process=2):
     """
     Finds the sheets in the original Excel file that have corresponding folders
     in the base directory, and provides a list of CSV files in those folders along with their headers.
@@ -40,7 +40,21 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                 for file_name in os.listdir(folder_path):
                     if file_name.endswith('.csv'):
                         csv_path = os.path.join(folder_path, file_name)
+                        
+                        # Read the CSV file, adding a custom index column
+                        with open(csv_path, 'r') as file:
+                            lines = file.readlines()
+                        
+                        lines = [f"{i},{line}" for i, line in enumerate(lines)]
+                        
+                        with open(csv_path, 'w') as file:
+                            file.writelines(lines)
+                        
+                        # Now read the CSV with the custom index column
                         df_csv = pd.read_csv(csv_path)
+                        
+                        # Store the original order index
+                        df_csv['Original_Order'] = df_csv.index
                         
                         # Save additional columns to be retained later
                         additional_columns = df_csv.columns[df_csv.columns.get_loc('Value')+1:]
@@ -50,7 +64,7 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                         # Remove all columns after the "Value" column for comparison
                         if 'Value' in df_csv.columns:
                             value_index = df_csv.columns.get_loc('Value')
-                            df_csv_for_comparison = df_csv.iloc[:, :value_index+1]
+                            df_csv_for_comparison = df_csv.iloc[:, 1:value_index+1]  # Exclude the first column (index column)
                         
                         # Convert "Region.1" headers to "Region2"
                         df_csv_for_comparison.columns = [col.replace('Region.1', 'Region2') for col in df_csv_for_comparison.columns]
@@ -68,7 +82,7 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                             if col in df_csv_for_comparison.columns:
                                 df_excel[col] = df_excel[col].astype(df_csv_for_comparison[col].dtype)
                         
-                        # Compare headers
+                        # Compare headers (excluding the first column from CSV headers)
                         headers_csv = df_csv_for_comparison.columns.tolist()
                         headers_excel = df_excel.columns.tolist()
                         
@@ -116,12 +130,28 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                             if col not in merged_df.columns:
                                 merged_df[col] = ""
                         
+                        # Re-sort the DataFrame based on the original order
+                        merged_df['Original_Order'] = df_csv['Original_Order']
+                        merged_df.sort_values('Original_Order', inplace=True)
+                        
+                        # Remove the Original_Order column
+                        merged_df.drop(columns=['Original_Order'], inplace=True)
+                        
                         # Select only existing columns
                         valid_columns = [col for col in headers_excel + list(additional_columns) if col in merged_df.columns]
                         merged_df = merged_df[valid_columns]
                         
                         # Save the updated CSV file
                         merged_df.to_csv(csv_path, index=False)
+                        
+                        # Remove the added index column from the CSV
+                        with open(csv_path, 'r') as file:
+                            lines = file.readlines()
+                        
+                        lines = [line.split(",", 1)[1] for line in lines]
+                        
+                        with open(csv_path, 'w') as file:
+                            file.writelines(lines)
                         
                         # Update the csv_files_info with transformed data
                         csv_files_info.append((file_name, merged_df.columns.tolist()))
@@ -130,7 +160,7 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                         processed_sheets += 1
 
                         # Exit after processing the specified number of sheets for easier debugging
-                        # if processed_sheets >= num_sheets_to_process:
-                        #     return csv_files_info
+                        if processed_sheets >= num_sheets_to_process:
+                            return csv_files_info
     
     return csv_files_info
