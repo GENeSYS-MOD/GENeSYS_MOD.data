@@ -18,22 +18,27 @@ def validate_input(output_file_format, output_format, processing_option, setting
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"The specified filter file '{settings_file}' does not exist in the directory.")
 
-    # Prüfung der Szenario-Option
+    # Scenario check
     data_folder = os.path.join(os.getcwd(), '..', 'Data', 'Parameters')
-    scenario_file_paths = []
-    existing_scenarios = []
-    if scenario_option.lower() != "none":
-        for root, dirs, files in os.walk(data_folder):
-            for file in files:
-                if file.lower().startswith(scenario_option.lower()) and file.lower().endswith('.xlsx'):
-                    scenario_file_paths.append(file)
-                elif file.lower().endswith('.xlsx'):
-                    existing_scenarios.append(f"'{os.path.splitext(file)[0]}'")
-                    
+    scenario_folder_paths = []
+    existing_scenarios = set()
 
-        if not scenario_file_paths:
-            existing_scenarios.sort()
-            expected_files = ', '.join(existing_scenarios)
-            raise FileNotFoundError(f"No Excel file found for scenario option: '{scenario_option}'. Expected: {expected_files}, or 'None'.")
+    if scenario_option.lower() != "none":
+        # folders inside data_folder (inside 'Parameters')
+        for folder_name in os.listdir(data_folder):
+            folder_path = os.path.join(data_folder, folder_name)
+            if os.path.isdir(folder_path):
+                # check for scenario folder inside these folders
+                for subfolder in os.listdir(folder_path):
+                    subfolder_path = os.path.join(folder_path, subfolder)
+                    if os.path.isdir(subfolder_path):
+                        if subfolder.lower() == scenario_option.lower():
+                            scenario_folder_paths.append(subfolder_path)
+                        existing_scenarios.add(subfolder)
+
+        if not scenario_folder_paths:
+            existing_scenarios_list = sorted(list(existing_scenarios), key=lambda s: s.lower())
+            expected_folders = ', '.join(f"'{d}'" for d in existing_scenarios_list)
+            raise FileNotFoundError(f"No scenario folder found for option: '{scenario_option}'. Expected: {expected_folders}, or 'None'.")
 
     return True
