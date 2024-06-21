@@ -3,18 +3,6 @@ Linear interpolation for values between.
 Assumed 2020 to equal 2018
 Operational life for a technology assumed to be the same globally
 
-.............................................
-
-Source - Danish Energy Agency:
-	- HLR_Heatpump_##: DEA_technology_data_heating_installations 
-	
-In general:
-	- Technology -> Energy/Technical data -> Technical lifetime or Technical economic lifetime
-
-HLR_Heatpump_Gorund:
-	- Given as the average of the technologies "207 HP ground-water, ex single", "207 HP ground-water, ex apart", "207 HP ground-water, new single" 
-	  and "207 HP ground-water, new apart".  
-
 --------------- Update 21.06.2024 ---------------
 
 Source - Danish Energy Agency:
