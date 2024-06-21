@@ -14,3 +14,68 @@ In general:
 HLR_Heatpump_Gorund:
 	- Given as the average of the technologies "207 HP ground-water, ex single", "207 HP ground-water, ex apart", "207 HP ground-water, new single" 
 	  and "207 HP ground-water, new apart".  
+
+--------------- Update 21.06.2024 ---------------
+
+Source - Danish Energy Agency:
+	- HLR_Heatpump_##: DEA_technology_data_heating_installations 
+	- HLDH_Heatpump_## and HLDH_##: DEA_technology_data_for_el_and_dh 
+	- HLI_Heatpump and HMLI_Heatpump: DEA_technology_data_for_industrial_process_heat 
+	
+In general:
+	- Technology -> Energy/Technical data -> Technical lifetime or Technical economic lifetime
+
+HLR_Heatpump_Aerial:
+	- Given as the average of the technologies “207 HP Air-air, ex single” and “207 HP Air-air, new single”.
+
+HLR_Heatpump_Gorund:
+	- Given as the average of the technologies “207 HP ground-water, ex single”, “207 HP ground-water, ex apart”, "207 HP ground-water, new single" and "207 HP ground-water, new apart”.  
+	
+HLDH_Heatpump_Air:
+	- Given as “40 Comp. hp, airsource 10 MW”. 
+	
+HLDH_Heatpump_ExcessHeat:
+	- Given by “40 Comp. hp, excess heat 10 MW”. 
+
+HLDH_WasteToEnergy_Boiler: 
+ 	- Given by "08 WtE HOP". 
+	
+HLDH_WastToEnergy_CHP:
+	- Given as the average of “08 WtE CHP, Large, 40 degree", “08 WtE CHP, Large, 50 degree", “08 WtE CHP, medium" and “08 WtE CHP, small".
+
+HLDH_Gas_CHP: 
+	- Assumed equal to HLDH_Coal_CHP.
+
+HLDH_Coal_CHP:
+	- Given as the average of “01 Coal CHP".
+	
+HLDH_Biomass_CHP:
+	- Given as the average of "09a Wood Chips, Large 40 degree”, "09a Wood Chips, Large 50 degree”, 
+	"09a Wood Chips, medium”, "09a Wood Chips, small”, "09b Wood Pellets, Large 40 degree”, "09b Wood Pellets, Large 50 degree”, "09b Wood Pellets, Medium”, "09b Wood Pellets, Small”, "09c Straw, Large, 40 degree”, "09c Straw, Large, 50 degree”, "09c Straw, Medium” and "09c Straw, Small”.
+
+HLDH_Geothermal:
+	- Given as the average of "45.1.a Geothermal DH, 1200m, E”, "45.1.b Geothermal DH, 2000m, E”, "45.3.a Geoth. DH, 1200m, E (LT)”, "45.3.b Geoth. DH, 2000m, E (LT)” and "45.4 Geothermal DH, E lar scale”.
+	
+HLDH_Electric_Boiler:
+	- Given as the average of "41 Electric boiler, small” and "41 Electric boiler, Large”.
+
+HLDH_Gas_Boiler:
+	- Given by “44 Natural Gas DH Only”.
+
+HLDH_Coal_Boiler: 
+	- Assumed equal to HLDH_Gas_Boiler.
+	
+HLDH_Biomass_Boiler:
+	- Given as the average of “09a Wood Chips HOP, small”, “09a Wood Chips HOP, medium”, “09a Wood Chips HOP, large”, “09a Wood Pellets HOP” and “09a Straw HOP”
+
+HLDH_Oil_Boiler:
+	- Assumed equal to HLDH_Gas_Boiler.
+
+HLDH_Solar_Thermal:
+	- Given by “46 Solar District heating”
+
+HLI_Heatpump:
+	- Given as the average of “301.1a heat pump 60 C 40 K”, “301.1b heat pump 70 C 50 K” and “301.1c heat pump 80 C 60 K”.
+
+HMLI_Heatpump:
+	- Given as the average of “302.a High temp. hp Up to 125 C”, “302.b High temp. hp Up to 150 C” and “303 Booster hp 150 C 130 K”.

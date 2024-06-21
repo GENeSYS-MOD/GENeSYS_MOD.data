@@ -1,4 +1,60 @@
 For EU countries, assumed to keep the same ratio between 2020 and 2050 demand as EU Reference Scenario 2020. Linear growth between.
 Calculation is as follows:
 Demand_y = Demand_2020 + (Demand_2020*(Demand_EU_2050/Demand_EU_2020) - Demand_EU_2020)*((y - 2020) / (2050 - 2020))
-where y = year for which the demand is specified 
+where y = year for which the demand is specified
+
+--------------- Update 21.06.2024 ---------------
+
+Sources:
+	- ENTSOE: TYNDP 2022 Scenario Report
+		- Heat_Low_Building
+		- Heat_Industrial
+		- Cool_Low_Builing
+	- SINTEF: Potential in Norwegian Industry
+		- Heat_Industrial
+	- Eurostat Database: Final Consumption Industry Sector
+		- Heat_Industrial
+	- EU Comission: District Heating and Cooling in the European Union
+		- Heat_Low_DistrictHeat
+	- District heating potential in the EU-27
+		- Heat_Low_DistrictHeat
+	
+In general:
+	- Assumed 2015 = 2018. Interpolated values for the years not given in the TYNDP source.
+
+Parameters:
+	- Heat_Low_Building: 
+	
+	TYNDP 2022 Scenario Report: OUTPUT_ALL -> Scenario: Distributed Energy -> Sector: Residential + Tertiary -> Subsector: Space_heating + Water_heating -> 
+	Energy_carrier: All -> Output_type: Energy_demand.
+	
+	Heat_Low_Building = Heat_Low_Building_TYNDP22 - DistrictHeat_Building
+	
+	- Heat_Industrial: 
+	
+	TYNDP 2022 Scenario Report: OUTPUT_ALL -> Scenario: Distributed Energy -> Sector: Industry -> Subsector: Low_enthalpy_heat + Steam_processes + Other_processes -> 
+	Energy_carrier: All -> Output_type: Energy_demand
+	
+	The total industrial heat demand from TYNDP22 are divided in Low_Industrial (<100 degrees), MediumLow_Industrial (100-150 degrees), MediumHigh_Industrial (150-1000 degrees) 
+	and High_Industrial (>1000 degrees) based on temperature ranges for different energy sectors from "Potential for steam regeneration in Norwegian industry" 
+	and Eurostat data for "Final consumption industry sector*".
+	Assumed the same temperature range per industry sectors for all countries and no develompent from 2018 to 2050.
+	Assumed equal percetage of Low, MediumLow, MediumHigh and High in CH and DE.
+	
+	Heat_Low_Industrial = Heat_Low_Industrial_estimated - DistrictHeat_Industrial
+	
+	* The sector "Not elsewhere specified" is divided 50/50 into the sectors "Wood and wood products" and "Textiles and leather" because the sector includes products of both 
+	  wood and textiles (e.g. Manufacture of furniture and Manufacture of musical instruments) and we assume therefore same temperature ranges.
+	
+	- Cool_Low_Building: 
+	
+	TYNDP 2022 Scenario Report: OUTPUT_ALL -> Scenario: Distributed Energy -> Sector: Residential -> Subsector: Cooling -> Energy_carrier: All -> Output_type: Energy_demand
+	
+	- Heat_Low_DistrictHeat:
+	
+	EU Comission: District Heating and Cooling in the European Union -> 1 DH Consumption 
+	
+	DistrictHeat_Building follows a deveopment from "District heating potenial in the EU-27" for the years 2020 - 2050. Interpolated values for the years not given. 
+	Assumed no develompment in the DistrictHeat_Industrial - needs update.
+	
+	Heat_Low_DistrictHeat = DistrictHeat_Building + DistrictHeat_Industrial
