@@ -85,6 +85,8 @@ D_Gas_H2,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <k
 D_CAES,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_Heat_HLI,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_Heat_HLR,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Heat_HLB,Transformation,1,,Binary,not relevant?,27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
+D_Heat_HLDH,Transformation,1,,Binary,not relevant?,27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
 D_PHS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 HLR_Gas_Boiler,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 HLR_Biomass,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -278,6 +280,8 @@ D_Gas_Methane,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffl
 D_Gas_H2,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_Heat_HLI,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_Heat_HLR,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Heat_HLB,StorageDummies,1,,Binary,not relevant?,27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
+D_Heat_HLDH,StorageDummies,1,,Binary,not relevant?,27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
 D_PHS,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_PHS_Residual,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_CAES,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -290,6 +294,8 @@ D_Gas_H2,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wi
 D_CAES,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_Heat_HLR,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_Heat_HLI,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_Heat_HLB,PhaseInSet,1,,Binary,not relevant?,27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
+D_Heat_HLDH,PhaseInSet,1,,Binary,not relevant?,27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
 D_PHS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 HLR_Biomass,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 HLR_Direct_Electric,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
