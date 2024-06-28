@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from datetime import datetime
 
-def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_to_process=2):
+def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_to_process=3):
     """
     Finds the sheets in the original Excel file that have corresponding folders
     in the base directory, and provides a list of CSV files in those folders along with their headers.
@@ -42,20 +42,15 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                     if file_name.endswith('.csv'):
                         csv_path = os.path.join(folder_path, file_name)
                         
-                        # Read the CSV file, adding a custom index column
-                        with open(csv_path, 'r') as file:
-                            lines = file.readlines()
+                        # Read the CSV file with the correct encoding to handle BOM
+                        df_csv = pd.read_csv(csv_path, encoding='utf-8')
                         
-                        lines = [f"{i},{line}" for i, line in enumerate(lines)]
+                        # Add a custom index column to keep track of original order
+                        df_csv.insert(0, 'Custom_Index', range(len(df_csv)))
                         
-                        with open(csv_path, 'w') as file:
-                            file.writelines(lines)
-                        
-                        # Now read the CSV with the custom index column
-                        df_csv = pd.read_csv(csv_path)
-                        
-                        # Store the original order index
-                        df_csv['Original_Order'] = df_csv.index
+                        # Debugging: Print the CSV after adding custom index column
+                        print(f"CSV after adding custom index column for sheet '{sheet_name}':")
+                        print(df_csv.head())
                         
                         # Save additional columns to be retained later
                         additional_columns = df_csv.columns[df_csv.columns.get_loc('Value')+1:]
@@ -64,7 +59,11 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                         # Remove all columns after the "Value" column for comparison
                         if 'Value' in df_csv.columns:
                             value_index = df_csv.columns.get_loc('Value')
-                            df_csv_for_comparison = df_csv.iloc[:, 1:value_index+1]  # Exclude the first column (index column)
+                            df_csv_for_comparison = df_csv.iloc[:, :value_index+1]  # Include the custom index column for order
+                        
+                        # Debugging: Print the CSV for comparison
+                        print(f"CSV for comparison for sheet '{sheet_name}':")
+                        print(df_csv_for_comparison.head())
                         
                         # Convert "Region.1" headers to "Region2"
                         df_csv_for_comparison.columns = [col.replace('Region.1', 'Region2') for col in df_csv_for_comparison.columns]
@@ -82,13 +81,13 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                             if col in df_csv_for_comparison.columns:
                                 df_excel[col] = df_excel[col].astype(df_csv_for_comparison[col].dtype)
                         
-                        # Compare headers (excluding the first column from CSV headers)
+                        # Compare headers (excluding the custom index column from CSV headers)
                         headers_csv = df_csv_for_comparison.columns.tolist()
                         headers_excel = df_excel.columns.tolist()
                         
-                        if headers_csv != headers_excel:
+                        if headers_csv[1:] != headers_excel:
                             raise ValueError(f"Header mismatch in sheet '{sheet_name}':\n"
-                                             f"CSV headers: {headers_csv}\n"
+                                             f"CSV headers: {headers_csv[1:]}\n"
                                              f"Excel headers: {headers_excel}")
                         
                         # Ensure the merge columns are of the same type
@@ -99,6 +98,10 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                         
                         # Merge data according to specified rules
                         merged_df = pd.merge(df_csv_for_comparison, df_excel, how='outer', on=merge_columns, suffixes=('_csv', '_excel'))
+                        
+                        # Debugging: Print merged DataFrame before updating rows
+                        print(f"Merged DataFrame before updating rows for sheet '{sheet_name}':")
+                        print(merged_df.head())
                         
                         # Update values and additional columns from Excel where both entries exist, otherwise keep existing or append new
                         def update_row(row, unit_values, current_date, additional_df):
@@ -124,37 +127,49 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict, num_sheets_
                         current_date = datetime.now().strftime("%d.%m.%Y")
                         merged_df = merged_df.apply(update_row, axis=1, unit_values=unit_values, current_date=current_date, additional_df=additional_df)
                         
+                        # Debugging: Print merged DataFrame after updating rows
+                        print(f"Merged DataFrame after updating rows for sheet '{sheet_name}':")
+                        print(merged_df.head())
+                        
                         # Add "Unnamed:..." columns with empty values to merged_df
                         unnamed_columns = [col for col in additional_columns if col.startswith('Unnamed:')]
                         for col in unnamed_columns:
                             if col not in merged_df.columns:
                                 merged_df[col] = ""
+                                                
+                        # Ensure 'Custom_Index' column is included in merged_df
+                        if 'Custom_Index' not in merged_df.columns:
+                            merged_df['Custom_Index'] = df_csv['Custom_Index']
                         
-                        # Ensure 'Original_Order' column is included in merged_df
-                        if 'Original_Order' not in merged_df.columns:
-                            merged_df['Original_Order'] = df_csv['Original_Order']
+                        # Re-sort the DataFrame based on the custom index
+                        merged_df.sort_values('Custom_Index', inplace=True)
                         
-                        # Re-sort the DataFrame based on the original order
-                        merged_df.sort_values('Original_Order', inplace=True)
+                        # Remove the Custom_Index column
+                        merged_df.drop(columns=['Custom_Index'], inplace=True)
                         
-                        # Remove the Original_Order column
-                        merged_df.drop(columns=['Original_Order'], inplace=True)
+                        # Debugging: Print merged DataFrame before selecting valid columns
+                        print(f"Merged DataFrame before selecting valid columns for sheet '{sheet_name}':")
+                        print(merged_df.head())
                         
                         # Select only existing columns
                         valid_columns = [col for col in headers_excel + list(additional_columns) if col in merged_df.columns]
                         merged_df = merged_df[valid_columns]
+
+                        # Change "Unnamed:..." headers to empty strings
+                        merged_df.columns = ["" if col.startswith('Unnamed:') else col for col in merged_df.columns]
                         
-                        # Save the updated CSV file
+                        
+                        # Debugging: Print final merged DataFrame before saving to CSV
+                        print(f"Final merged DataFrame for sheet '{sheet_name}' before saving to CSV:")
+                        print(merged_df.head())
+                        
+                                                # Save the updated CSV file
                         merged_df.to_csv(csv_path, index=False)
                         
-                        # Remove the added index column from the CSV
+                        # Debugging: Print the final CSV content after saving
+                        print(f"Final CSV content for sheet '{sheet_name}':")
                         with open(csv_path, 'r') as file:
-                            lines = file.readlines()
-                        
-                        lines = [line.split(",", 1)[1] for line in lines]
-                        
-                        with open(csv_path, 'w') as file:
-                            file.writelines(lines)
+                            print(file.read().splitlines()[:5])  # Print first 5 lines
                         
                         # Update the csv_files_info with transformed data
                         csv_files_info.append((file_name, merged_df.columns.tolist()))
