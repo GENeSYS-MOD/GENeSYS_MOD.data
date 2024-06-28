@@ -7,6 +7,7 @@ from functions.process_parameters import process_regular_parameters
 from functions.output_parameters import output_regular_parameters
 from functions.read_filter_timeseries import read_filter_timeseries
 from functions.output_timeseries import output_timeseries
+from functions.data_error_check import search_non_utf8_characters
 import sys
 
 def master_function(settings_file,output_file_format, output_format, processing_option, scenario_option):
@@ -15,6 +16,9 @@ def master_function(settings_file,output_file_format, output_format, processing_
 
     # Validate user input
     validate_input(output_file_format, output_format, processing_option, settings_file, scenario_option)
+
+    # check for utf-8-errors
+    search_non_utf8_characters()
 
     # Ensure unique_values_concatenated is defined
     unique_values_concatenated = read_settings_file(excel_file_path, output_csv_directory, scenario_option, output_format)
