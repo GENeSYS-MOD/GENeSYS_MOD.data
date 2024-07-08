@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def read_filter_timeseries(timeseries_dir, unique_values_concatenated, scenario_option):
+def read_filter_timeseries(timeseries_dir, unique_values_concatenated, scenario_option) -> tuple[dict[str, pd.DataFrame], str]:
     filtered_data = {}
     overwritten_data_info = []
 
