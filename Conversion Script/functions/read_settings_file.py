@@ -17,7 +17,8 @@ def read_settings_file(file_path, output_csv_directory, scenario_option, output_
     # Read sheets and store them in the dictionary
     for sheet_name in sheets_to_read:
         data_frame = xls.parse(sheet_name)
-    
+
+        data_frame.iloc[:, 1] = pd.to_numeric(data_frame.iloc[:, 1], errors='raise')
         filtered_df = data_frame[data_frame.iloc[:, 1] == 1] # Assuming the second column is indexed at 1 (0-based index)
     
         column_list.append(filtered_df.columns[0]) # Collect column header for each set sheet
@@ -27,7 +28,7 @@ def read_settings_file(file_path, output_csv_directory, scenario_option, output_
         unique_values_concatenated = pd.concat([unique_values_concatenated, unique_values], axis=1)
     
     # Close the Excel file
-    xls.close()    
+    xls.close()
     
     # Need to put header to the DataFrame
     unique_values_concatenated.columns = column_list

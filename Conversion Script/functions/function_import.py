@@ -23,8 +23,6 @@ def process_parameters(settings_file, output_format, scenario_option) -> dict[st
                                                     scenario_option=scenario_option,
                                                     output_format=output_format)
     
-    #print("unique_values_concatenated: ", unique_values_concatenated)
-    
     regular_parameter_paths = read_regular_parameters(current_directory, root_directory / "Data" / "Parameters")
     #print("regular_parameter_paths: ", regular_parameter_paths)
 

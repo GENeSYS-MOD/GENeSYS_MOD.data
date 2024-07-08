@@ -67,7 +67,7 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
 
     for header in unique_values_concatenated.columns:
         if header in df.columns:
-            df = df[df[header].isin(unique_values_concatenated[header])]    
+            df = df[df[header].isin(unique_values_concatenated[header])]
     
     # Initialize df_pivot
     df_pivot = df  # Default to original DataFrame
