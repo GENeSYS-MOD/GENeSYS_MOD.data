@@ -1,18 +1,18 @@
-﻿Region,Technology,Fuel,Mode_of_operation,Year,Value,,Unit,Source,Updated at,Updated by
+Region,Technology,Fuel,Mode_of_operation,Year,Value,,Unit,Source,Updated at,Updated by
 World,CHP_Coal_Hardcoal,Hardcoal,1,2018,2.564102564,,Fraction,,,
 World,CHP_Coal_Lignite,Lignite,1,2018,2.564102564,,Fraction,,,
 World,CHP_Gas,Gas_Natural,1,2018,1.754385965,,Fraction,,,
 World,CHP_Nuclear,Nuclear,1,2018,2.702702703,,Fraction,,,
 World,CHP_Biomass,Biomass,1,2018,3.333333333,,Fraction,,,
-World,D_Battery_Li-Ion,Power,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2018,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2018,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2018,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2018,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2018,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Residential,1,2018,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2018,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2018,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2018,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,FRT_Rail_Conv,Oil,1,2018,0.159774436,,Fraction,,,
 World,FRT_Rail_Electric,Power,1,2018,0.093984962,,Fraction,,,
 World,FRT_Road_OH,Power,1,2018,0.109842857,,Fraction,,,
@@ -235,8 +235,8 @@ DE,PSNG_Road_PHEV,Power,2,2018,0.2352,,Fraction,,,
 DE,PSNG_Road_PHEV,Biofuel,2,2018,0.9408,,Fraction,,,
 DE,PSNG_Road_PHEV,Power,3,2018,0.196,,Fraction,,,
 DE,PSNG_Road_PHEV,Powerfuel,3,2018,0.784,,Fraction,,,
-DE,RES_PV_Rooftop_Commercial,Area_Rooftop_Commercial,4,2018,4,,Fraction,,,
-DE,RES_PV_Rooftop_Residential,Area_Rooftop_Residential,4,2018,4,,Fraction,,,
+DE,RES_PV_Rooftop_Commercial,Area_Rooftop_Commercial,4,2018,4.0,,Fraction,,,
+DE,RES_PV_Rooftop_Residential,Area_Rooftop_Residential,4,2018,4.0,,Fraction,,,
 DE,X_Electrolysis,Power,1,2018,1.5625,,Fraction,,,
 DE,X_Fuel_Cell,H2,1,2018,2.127659574,,Fraction,,,
 DE,X_Fuel_Cell,H2,2,2018,2.702702703,,Fraction,,,
@@ -350,25 +350,25 @@ DE,X_Biofuel,Biomass,1,2018,1.428571429,,Fraction,,,
 DE,X_Powerfuel,H2,1,2018,2.243589744,,Fraction,,,
 DE,X_Powerfuel,Power,1,2018,0.320512821,,Fraction,,,
 DE,X_Powerfuel,Gas_Synth,2,2018,2.127659574,,Fraction,,,
-DE,X_Gasifier,LH2,4,2018,1,,Fraction,,,
-DE,X_Gasifier,LSG,3,2018,1,,Fraction,,,
-DE,X_Gasifier,LBG,2,2018,1,,Fraction,,,
-DE,X_Gasifier,LNG,1,2018,1,,Fraction,,,
-DE,X_Liquifier,H2,4,2018,1,,Fraction,,,
-DE,X_Liquifier,Gas_Synth,3,2018,1,,Fraction,,,
-DE,X_Liquifier,Gas_Bio,2,2018,1,,Fraction,,,
-DE,X_Liquifier,Gas_Natural,1,2018,1,,Fraction,,,
+DE,X_Gasifier,LH2,4,2018,1.0,,Fraction,,,
+DE,X_Gasifier,LSG,3,2018,1.0,,Fraction,,,
+DE,X_Gasifier,LBG,2,2018,1.0,,Fraction,,,
+DE,X_Gasifier,LNG,1,2018,1.0,,Fraction,,,
+DE,X_Liquifier,H2,4,2018,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Synth,3,2018,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Bio,2,2018,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Natural,1,2018,1.0,,Fraction,,,
 DE,FRT_Road_LNG,LNG,1,2018,0.597,,Fraction,,,
 DE,FRT_Ship_LNG,LNG,1,2018,0.103488372,,Fraction,,,
 DE,PSNG_Road_LNG,LNG,1,2018,0.68,,Fraction,,,
 DE,P_H2_OCGT,H2,1,2018,2.631578947,,Fraction,,,
-DE,X_DAC_LT,Air,1,2018,1,,Fraction,,,
+DE,X_DAC_LT,Air,1,2018,1.0,,Fraction,,,
 DE,X_DAC_LT,Power,1,2018,0.9,,Fraction,,,
 DE,X_DAC_LT,Heat_Low_Industrial,1,2018,6.3,,Fraction,,,
-DE,X_DAC_HT,Air,1,2018,1,,Fraction,,,
+DE,X_DAC_HT,Air,1,2018,1.0,,Fraction,,,
 DE,X_DAC_HT,Power,1,2018,5.526,,Fraction,,,
-DE,Z_ETS_Buy,ETS,1,2018,1,,Fraction,,,
-DE,Z_ETS_Sell,ETS_Source,1,2018,1,,Fraction,,,
+DE,Z_ETS_Buy,ETS,1,2018,1.0,,Fraction,,,
+DE,Z_ETS_Sell,ETS_Source,1,2018,1.0,,Fraction,,,
 DE,CHP_Biomass_Solid,Biomass,1,2018,2.89017341,,Fraction,,,
 DE,CHP_Coal_Hardcoal,Hardcoal,1,2018,2.652519894,,Fraction,,,
 DE,CHP_Coal_Lignite,Lignite,1,2018,2.824858757,,Fraction,,,
@@ -391,9 +391,9 @@ DE,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2018,3.71024735,,Fraction,,,
 DE,CHP_Coal_Lignite_CCS,Lignite,2,2018,3.947368421,,Fraction,,,
 DE,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2018,2.108433735,,Fraction,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2018,2.108433735,,Fraction,,,
-DE,CHP_Hydrogen_FuelCell,H2,2,2018,1,,Fraction,,,
-DE,HLI_Convert_DH,Heat_District,1,2018,1,,Fraction,,,
-DE,HLR_Convert_DH,Heat_District,1,2018,1,,Fraction,,,
+DE,CHP_Hydrogen_FuelCell,H2,2,2018,1.0,,Fraction,,,
+DE,HLI_Convert_DH,Heat_District,1,2018,1.0,,Fraction,,,
+DE,HLR_Convert_DH,Heat_District,1,2018,1.0,,Fraction,,,
 DE,CHP_Oil,Oil,1,2018,2.824858757,,Fraction,,,
 DE,CHP_Oil,Oil,2,2018,3.759398496,,Fraction,,,
 DE,P_Gas_CCGT,Gas_Natural,1,2018,1.724137931,,Fraction,,,
@@ -410,15 +410,15 @@ World,CHP_Coal_Lignite,Lignite,1,2020,2.43902439,,Fraction,,,
 World,CHP_Gas,Gas_Natural,1,2020,1.694915254,,Fraction,,,
 World,CHP_Nuclear,Nuclear,1,2020,2.702702703,,Fraction,,,
 World,CHP_Biomass,Biomass,1,2020,3.125,,Fraction,,,
-World,D_Battery_Li-Ion,Power,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2020,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2020,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2020,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2020,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2020,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Residential,1,2020,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2020,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2020,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2020,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,FRT_Rail_Conv,Oil,1,2020,0.157760473,,Fraction,,,
 World,FRT_Rail_Electric,Power,1,2020,0.09170247,,Fraction,,,
 World,FRT_Road_OH,Power,1,2020,0.105135306,,Fraction,,,
@@ -756,25 +756,25 @@ DE,X_Biofuel,Biomass,1,2020,1.361602419,,Fraction,,,
 DE,X_Powerfuel,H2,1,2020,2.168112245,,Fraction,,,
 DE,X_Powerfuel,Power,1,2020,0.30952381,,Fraction,,,
 DE,X_Powerfuel,Gas_Synth,2,2020,2.037984173,,Fraction,,,
-DE,X_Gasifier,LH2,4,2020,1,,Fraction,,,
-DE,X_Gasifier,LSG,3,2020,1,,Fraction,,,
-DE,X_Gasifier,LBG,2,2020,1,,Fraction,,,
-DE,X_Gasifier,LNG,1,2020,1,,Fraction,,,
-DE,X_Liquifier,H2,4,2020,1,,Fraction,,,
-DE,X_Liquifier,Gas_Synth,3,2020,1,,Fraction,,,
-DE,X_Liquifier,Gas_Bio,2,2020,1,,Fraction,,,
-DE,X_Liquifier,Gas_Natural,1,2020,1,,Fraction,,,
+DE,X_Gasifier,LH2,4,2020,1.0,,Fraction,,,
+DE,X_Gasifier,LSG,3,2020,1.0,,Fraction,,,
+DE,X_Gasifier,LBG,2,2020,1.0,,Fraction,,,
+DE,X_Gasifier,LNG,1,2020,1.0,,Fraction,,,
+DE,X_Liquifier,H2,4,2020,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Synth,3,2020,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Bio,2,2020,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Natural,1,2020,1.0,,Fraction,,,
 DE,FRT_Road_LNG,LNG,1,2020,0.595635429,,Fraction,,,
 DE,FRT_Ship_LNG,LNG,1,2020,0.103251827,,Fraction,,,
 DE,PSNG_Road_LNG,LNG,1,2020,0.678445714,,Fraction,,,
 DE,P_H2_OCGT,H2,1,2020,2.475510204,,Fraction,,,
-DE,X_DAC_LT,Air,1,2020,1,,Fraction,,,
+DE,X_DAC_LT,Air,1,2020,1.0,,Fraction,,,
 DE,X_DAC_LT,Power,1,2020,0.889714286,,Fraction,,,
 DE,X_DAC_LT,Heat_Low_Industrial,1,2020,6.239428571,,Fraction,,,
-DE,X_DAC_HT,Air,1,2020,1,,Fraction,,,
+DE,X_DAC_HT,Air,1,2020,1.0,,Fraction,,,
 DE,X_DAC_HT,Power,1,2020,5.474274286,,Fraction,,,
-DE,Z_ETS_Buy,ETS,1,2020,1,,Fraction,,,
-DE,Z_ETS_Sell,ETS_Source,1,2020,1,,Fraction,,,
+DE,Z_ETS_Buy,ETS,1,2020,1.0,,Fraction,,,
+DE,Z_ETS_Sell,ETS_Source,1,2020,1.0,,Fraction,,,
 DE,CHP_Biomass_Solid,Biomass,1,2020,2.89017341,,Fraction,,,
 DE,CHP_Coal_Hardcoal,Hardcoal,1,2020,2.652519894,,Fraction,,,
 DE,CHP_Coal_Lignite,Lignite,1,2020,2.824858757,,Fraction,,,
@@ -797,9 +797,9 @@ DE,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2020,3.71024735,,Fraction,,,
 DE,CHP_Coal_Lignite_CCS,Lignite,2,2020,3.947368421,,Fraction,,,
 DE,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2020,2.108433735,,Fraction,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2020,2.108433735,,Fraction,,,
-DE,CHP_Hydrogen_FuelCell,H2,2,2020,1,,Fraction,,,
-DE,HLI_Convert_DH,Heat_District,1,2020,1,,Fraction,,,
-DE,HLR_Convert_DH,Heat_District,1,2020,1,,Fraction,,,
+DE,CHP_Hydrogen_FuelCell,H2,2,2020,1.0,,Fraction,,,
+DE,HLI_Convert_DH,Heat_District,1,2020,1.0,,Fraction,,,
+DE,HLR_Convert_DH,Heat_District,1,2020,1.0,,Fraction,,,
 DE,CHP_Oil,Oil,1,2020,2.824858757,,Fraction,,,
 DE,CHP_Oil,Oil,2,2020,3.759398496,,Fraction,,,
 DE,P_Gas_CCGT,Gas_Natural,1,2020,1.666666667,,Fraction,,,
@@ -816,15 +816,15 @@ World,CHP_Coal_Lignite,Lignite,1,2025,2.409638554,,Fraction,,,
 World,CHP_Gas,Gas_Natural,1,2025,1.666666667,,Fraction,,,
 World,CHP_Nuclear,Nuclear,1,2025,2.666666667,,Fraction,,,
 World,CHP_Biomass,Biomass,1,2025,3.076923077,,Fraction,,,
-World,D_Battery_Li-Ion,Power,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2025,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2025,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2025,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2025,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2025,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Residential,1,2025,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2025,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2025,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2025,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,FRT_Rail_Conv,Oil,1,2025,0.155746509,,Fraction,,,
 World,FRT_Rail_Electric,Power,1,2025,0.089419979,,Fraction,,,
 World,FRT_Road_OH,Power,1,2025,0.100427755,,Fraction,,,
@@ -1162,25 +1162,25 @@ DE,X_Biofuel,Biomass,1,2025,1.332451499,,Fraction,,,
 DE,X_Powerfuel,H2,1,2025,2.069337979,,Fraction,,,
 DE,X_Powerfuel,Power,1,2025,0.294715447,,Fraction,,,
 DE,X_Powerfuel,Gas_Synth,2,2025,1.951633987,,Fraction,,,
-DE,X_Gasifier,LH2,4,2025,1,,Fraction,,,
-DE,X_Gasifier,LSG,3,2025,1,,Fraction,,,
-DE,X_Gasifier,LBG,2,2025,1,,Fraction,,,
-DE,X_Gasifier,LNG,1,2025,1,,Fraction,,,
-DE,X_Liquifier,H2,4,2025,1,,Fraction,,,
-DE,X_Liquifier,Gas_Synth,3,2025,1,,Fraction,,,
-DE,X_Liquifier,Gas_Bio,2,2025,1,,Fraction,,,
-DE,X_Liquifier,Gas_Natural,1,2025,1,,Fraction,,,
+DE,X_Gasifier,LH2,4,2025,1.0,,Fraction,,,
+DE,X_Gasifier,LSG,3,2025,1.0,,Fraction,,,
+DE,X_Gasifier,LBG,2,2025,1.0,,Fraction,,,
+DE,X_Gasifier,LNG,1,2025,1.0,,Fraction,,,
+DE,X_Liquifier,H2,4,2025,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Synth,3,2025,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Bio,2,2025,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Natural,1,2025,1.0,,Fraction,,,
 DE,FRT_Road_LNG,LNG,1,2025,0.592224,,Fraction,,,
 DE,FRT_Ship_LNG,LNG,1,2025,0.102660465,,Fraction,,,
 DE,PSNG_Road_LNG,LNG,1,2025,0.67456,,Fraction,,,
 DE,P_H2_OCGT,H2,1,2025,2.302040816,,Fraction,,,
-DE,X_DAC_LT,Air,1,2025,1,,Fraction,,,
+DE,X_DAC_LT,Air,1,2025,1.0,,Fraction,,,
 DE,X_DAC_LT,Power,1,2025,0.8208,,Fraction,,,
 DE,X_DAC_LT,Heat_Low_Industrial,1,2025,5.656,,Fraction,,,
-DE,X_DAC_HT,Air,1,2025,1,,Fraction,,,
+DE,X_DAC_HT,Air,1,2025,1.0,,Fraction,,,
 DE,X_DAC_HT,Power,1,2025,5.211904,,Fraction,,,
-DE,Z_ETS_Buy,ETS,1,2025,1,,Fraction,,,
-DE,Z_ETS_Sell,ETS_Source,1,2025,1,,Fraction,,,
+DE,Z_ETS_Buy,ETS,1,2025,1.0,,Fraction,,,
+DE,Z_ETS_Sell,ETS_Source,1,2025,1.0,,Fraction,,,
 DE,CHP_Biomass_Solid,Biomass,1,2025,2.89017341,,Fraction,,,
 DE,CHP_Coal_Hardcoal,Hardcoal,1,2025,2.652519894,,Fraction,,,
 DE,CHP_Coal_Lignite,Lignite,1,2025,2.824858757,,Fraction,,,
@@ -1203,9 +1203,9 @@ DE,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2025,3.71024735,,Fraction,,,
 DE,CHP_Coal_Lignite_CCS,Lignite,2,2025,3.947368421,,Fraction,,,
 DE,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2025,2.108433735,,Fraction,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2025,2.108433735,,Fraction,,,
-DE,CHP_Hydrogen_FuelCell,H2,2,2025,1,,Fraction,,,
-DE,HLI_Convert_DH,Heat_District,1,2025,1,,Fraction,,,
-DE,HLR_Convert_DH,Heat_District,1,2025,1,,Fraction,,,
+DE,CHP_Hydrogen_FuelCell,H2,2,2025,1.0,,Fraction,,,
+DE,HLI_Convert_DH,Heat_District,1,2025,1.0,,Fraction,,,
+DE,HLR_Convert_DH,Heat_District,1,2025,1.0,,Fraction,,,
 DE,CHP_Oil,Oil,1,2025,2.824858757,,Fraction,,,
 DE,CHP_Oil,Oil,2,2025,3.759398496,,Fraction,,,
 DE,P_Gas_CCGT,Gas_Natural,1,2025,1.639344262,,Fraction,,,
@@ -1222,15 +1222,15 @@ World,CHP_Coal_Lignite,Lignite,1,2030,2.380952381,,Fraction,,,
 World,CHP_Gas,Gas_Natural,1,2030,1.639344262,,Fraction,,,
 World,CHP_Nuclear,Nuclear,1,2030,2.631578947,,Fraction,,,
 World,CHP_Biomass,Biomass,1,2030,3.03030303,,Fraction,,,
-World,D_Battery_Li-Ion,Power,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2030,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2030,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2030,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2030,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2030,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Residential,1,2030,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2030,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2030,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2030,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,FRT_Rail_Conv,Oil,1,2030,0.153732546,,Fraction,,,
 World,FRT_Rail_Electric,Power,1,2030,0.087137487,,Fraction,,,
 World,FRT_Road_OH,Power,1,2030,0.095720204,,Fraction,,,
@@ -1251,7 +1251,7 @@ World,HHT_Electric_Furnace,Power,1,2030,1.020408163,,Fraction,,,
 World,HHT_Gas,Gas_Natural,1,2030,1.111111111,,Fraction,,,
 World,HHT_Oil,Oil,1,2030,1.176470588,,Fraction,,,
 World,HHT_Geothermal,Power,1,2030,0.27027027,,Fraction,,,
-World,HHT_H2,H2,1,2030,2,,Fraction,,,
+World,HHT_H2,H2,1,2030,2.0,,Fraction,,,
 World,HLT_Biomass,Biomass,1,2030,1.19047619,,Fraction,,,
 World,HLT_Coal_Hardcoal,Hardcoal,1,2030,1.333333333,,Fraction,,,
 World,HLT_Coal_Lignite,Lignite,1,2030,1.333333333,,Fraction,,,
@@ -1284,7 +1284,7 @@ World,PSNG_Road_PHEV,Biofuel,2,2030,0.618933333,,Fraction,,,
 World,RES_PV_Rooftop_Commercial,Area_Rooftop_Commercial,1,2030,0.165826357,,Fraction,,,
 World,RES_PV_Rooftop_Residential,Area_Rooftop_Residential,1,2030,0.165826357,,Fraction,,,
 World,X_Electrolysis,Power,1,2030,1.282304852,,Fraction,,,
-World,X_Fuel_Cell,H2,1,2030,2,,Fraction,,,
+World,X_Fuel_Cell,H2,1,2030,2.0,,Fraction,,,
 World,X_Fuel_Cell,H2,2,2030,2.564102564,,Fraction,,,
 World,X_Methanation,H2,1,2030,1.508967223,,Fraction,,,
 World,X_Methanation,Biomass,2,2030,2.044352044,,Fraction,,,
@@ -1331,7 +1331,7 @@ World,HLI_Hardcoal_CHP,Hardcoal,1,2030,1.666666667,,Fraction,,,
 World,HLI_Lignite_CHP,Lignite,1,2030,1.666666667,,Fraction,,,
 World,HLI_Direct_Electric,Power,1,2030,1.01010101,,Fraction,,,
 World,HLI_Solar_Thermal,Area_Rooftop_Commercial,1,2030,0.165826357,,Fraction,,,
-World,HLI_Fuelcell,H2,1,2030,2,,Fraction,,,
+World,HLI_Fuelcell,H2,1,2030,2.0,,Fraction,,,
 World,HLI_Fuelcell,H2,2,2030,2.564102564,,Fraction,,,
 World,HLI_Oil_Boiler,Oil,1,2030,1.176470588,,Fraction,,,
 World,HLI_Oil_CHP,Oil,1,2030,1.351351351,,Fraction,,,
@@ -1568,25 +1568,25 @@ DE,X_Biofuel,Biomass,1,2030,1.319274376,,Fraction,,,
 DE,X_Powerfuel,H2,1,2030,1.891790353,,Fraction,,,
 DE,X_Powerfuel,Power,1,2030,0.267857143,,Fraction,,,
 DE,X_Powerfuel,Gas_Synth,2,2030,1.872314209,,Fraction,,,
-DE,X_Gasifier,LH2,4,2030,1,,Fraction,,,
-DE,X_Gasifier,LSG,3,2030,1,,Fraction,,,
-DE,X_Gasifier,LBG,2,2030,1,,Fraction,,,
-DE,X_Gasifier,LNG,1,2030,1,,Fraction,,,
-DE,X_Liquifier,H2,4,2030,1,,Fraction,,,
-DE,X_Liquifier,Gas_Synth,3,2030,1,,Fraction,,,
-DE,X_Liquifier,Gas_Bio,2,2030,1,,Fraction,,,
-DE,X_Liquifier,Gas_Natural,1,2030,1,,Fraction,,,
+DE,X_Gasifier,LH2,4,2030,1.0,,Fraction,,,
+DE,X_Gasifier,LSG,3,2030,1.0,,Fraction,,,
+DE,X_Gasifier,LBG,2,2030,1.0,,Fraction,,,
+DE,X_Gasifier,LNG,1,2030,1.0,,Fraction,,,
+DE,X_Liquifier,H2,4,2030,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Synth,3,2030,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Bio,2,2030,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Natural,1,2030,1.0,,Fraction,,,
 DE,FRT_Road_LNG,LNG,1,2030,0.588812571,,Fraction,,,
 DE,FRT_Ship_LNG,LNG,1,2030,0.102069103,,Fraction,,,
 DE,PSNG_Road_LNG,LNG,1,2030,0.670674286,,Fraction,,,
 DE,P_H2_OCGT,H2,1,2030,2.148051948,,Fraction,,,
-DE,X_DAC_LT,Air,1,2030,1,,Fraction,,,
+DE,X_DAC_LT,Air,1,2030,1.0,,Fraction,,,
 DE,X_DAC_LT,Power,1,2030,0.754457143,,Fraction,,,
 DE,X_DAC_LT,Heat_Low_Industrial,1,2030,5.098285714,,Fraction,,,
-DE,X_DAC_HT,Air,1,2030,1,,Fraction,,,
+DE,X_DAC_HT,Air,1,2030,1.0,,Fraction,,,
 DE,X_DAC_HT,Power,1,2030,4.957453714,,Fraction,,,
-DE,Z_ETS_Buy,ETS,1,2030,1,,Fraction,,,
-DE,Z_ETS_Sell,ETS_Source,1,2030,1,,Fraction,,,
+DE,Z_ETS_Buy,ETS,1,2030,1.0,,Fraction,,,
+DE,Z_ETS_Sell,ETS_Source,1,2030,1.0,,Fraction,,,
 DE,CHP_Biomass_Solid,Biomass,1,2030,2.89017341,,Fraction,,,
 DE,CHP_Coal_Hardcoal,Hardcoal,1,2030,2.652519894,,Fraction,,,
 DE,CHP_Coal_Lignite,Lignite,1,2030,2.824858757,,Fraction,,,
@@ -1609,9 +1609,9 @@ DE,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2030,3.71024735,,Fraction,,,
 DE,CHP_Coal_Lignite_CCS,Lignite,2,2030,3.947368421,,Fraction,,,
 DE,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2030,2.108433735,,Fraction,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2030,2.108433735,,Fraction,,,
-DE,CHP_Hydrogen_FuelCell,H2,2,2030,1,,Fraction,,,
-DE,HLI_Convert_DH,Heat_District,1,2030,1,,Fraction,,,
-DE,HLR_Convert_DH,Heat_District,1,2030,1,,Fraction,,,
+DE,CHP_Hydrogen_FuelCell,H2,2,2030,1.0,,Fraction,,,
+DE,HLI_Convert_DH,Heat_District,1,2030,1.0,,Fraction,,,
+DE,HLR_Convert_DH,Heat_District,1,2030,1.0,,Fraction,,,
 DE,CHP_Oil,Oil,1,2030,2.824858757,,Fraction,,,
 DE,CHP_Oil,Oil,2,2030,3.759398496,,Fraction,,,
 DE,P_Gas_CCGT,Gas_Natural,1,2030,1.612903226,,Fraction,,,
@@ -1628,15 +1628,15 @@ World,CHP_Coal_Lignite,Lignite,1,2035,2.352941176,,Fraction,,,
 World,CHP_Gas,Gas_Natural,1,2035,1.62601626,,Fraction,,,
 World,CHP_Nuclear,Nuclear,1,2035,2.5,,Fraction,,,
 World,CHP_Biomass,Biomass,1,2035,2.985074627,,Fraction,,,
-World,D_Battery_Li-Ion,Power,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2035,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2035,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2035,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2035,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2035,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Residential,1,2035,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2035,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2035,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2035,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,FRT_Rail_Conv,Oil,1,2035,0.151718582,,Fraction,,,
 World,FRT_Rail_Electric,Power,1,2035,0.084854995,,Fraction,,,
 World,FRT_Road_OH,Power,1,2035,0.091012653,,Fraction,,,
@@ -1974,25 +1974,25 @@ DE,X_Biofuel,Biomass,1,2035,1.308780549,,Fraction,,,
 DE,X_Powerfuel,H2,1,2035,1.776974268,,Fraction,,,
 DE,X_Powerfuel,Power,1,2035,0.249741201,,Fraction,,,
 DE,X_Powerfuel,Gas_Synth,2,2035,1.799257885,,Fraction,,,
-DE,X_Gasifier,LH2,4,2035,1,,Fraction,,,
-DE,X_Gasifier,LSG,3,2035,1,,Fraction,,,
-DE,X_Gasifier,LBG,2,2035,1,,Fraction,,,
-DE,X_Gasifier,LNG,1,2035,1,,Fraction,,,
-DE,X_Liquifier,H2,4,2035,1,,Fraction,,,
-DE,X_Liquifier,Gas_Synth,3,2035,1,,Fraction,,,
-DE,X_Liquifier,Gas_Bio,2,2035,1,,Fraction,,,
-DE,X_Liquifier,Gas_Natural,1,2035,1,,Fraction,,,
+DE,X_Gasifier,LH2,4,2035,1.0,,Fraction,,,
+DE,X_Gasifier,LSG,3,2035,1.0,,Fraction,,,
+DE,X_Gasifier,LBG,2,2035,1.0,,Fraction,,,
+DE,X_Gasifier,LNG,1,2035,1.0,,Fraction,,,
+DE,X_Liquifier,H2,4,2035,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Synth,3,2035,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Bio,2,2035,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Natural,1,2035,1.0,,Fraction,,,
 DE,FRT_Road_LNG,LNG,1,2035,0.585401143,,Fraction,,,
 DE,FRT_Ship_LNG,LNG,1,2035,0.101477741,,Fraction,,,
 DE,PSNG_Road_LNG,LNG,1,2035,0.666788571,,Fraction,,,
 DE,P_H2_OCGT,H2,1,2035,2.05260771,,Fraction,,,
-DE,X_DAC_LT,Air,1,2035,1,,Fraction,,,
+DE,X_DAC_LT,Air,1,2035,1.0,,Fraction,,,
 DE,X_DAC_LT,Power,1,2035,0.695561143,,Fraction,,,
 DE,X_DAC_LT,Heat_Low_Industrial,1,2035,4.624790857,,Fraction,,,
-DE,X_DAC_HT,Air,1,2035,1,,Fraction,,,
+DE,X_DAC_HT,Air,1,2035,1.0,,Fraction,,,
 DE,X_DAC_HT,Power,1,2035,4.717424,,Fraction,,,
-DE,Z_ETS_Buy,ETS,1,2035,1,,Fraction,,,
-DE,Z_ETS_Sell,ETS_Source,1,2035,1,,Fraction,,,
+DE,Z_ETS_Buy,ETS,1,2035,1.0,,Fraction,,,
+DE,Z_ETS_Sell,ETS_Source,1,2035,1.0,,Fraction,,,
 DE,CHP_Biomass_Solid,Biomass,1,2035,2.89017341,,Fraction,,,
 DE,CHP_Coal_Hardcoal,Hardcoal,1,2035,2.652519894,,Fraction,,,
 DE,CHP_Coal_Lignite,Lignite,1,2035,2.824858757,,Fraction,,,
@@ -2015,9 +2015,9 @@ DE,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2035,3.71024735,,Fraction,,,
 DE,CHP_Coal_Lignite_CCS,Lignite,2,2035,3.947368421,,Fraction,,,
 DE,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2035,2.108433735,,Fraction,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2035,2.108433735,,Fraction,,,
-DE,CHP_Hydrogen_FuelCell,H2,2,2035,1,,Fraction,,,
-DE,HLI_Convert_DH,Heat_District,1,2035,1,,Fraction,,,
-DE,HLR_Convert_DH,Heat_District,1,2035,1,,Fraction,,,
+DE,CHP_Hydrogen_FuelCell,H2,2,2035,1.0,,Fraction,,,
+DE,HLI_Convert_DH,Heat_District,1,2035,1.0,,Fraction,,,
+DE,HLR_Convert_DH,Heat_District,1,2035,1.0,,Fraction,,,
 DE,CHP_Oil,Oil,1,2035,2.824858757,,Fraction,,,
 DE,CHP_Oil,Oil,2,2035,3.759398496,,Fraction,,,
 DE,P_Gas_CCGT,Gas_Natural,1,2035,1.612903226,,Fraction,,,
@@ -2034,15 +2034,15 @@ World,CHP_Coal_Lignite,Lignite,1,2040,2.325581395,,Fraction,,,
 World,CHP_Gas,Gas_Natural,1,2040,1.612903226,,Fraction,,,
 World,CHP_Nuclear,Nuclear,1,2040,2.380952381,,Fraction,,,
 World,CHP_Biomass,Biomass,1,2040,2.941176471,,Fraction,,,
-World,D_Battery_Li-Ion,Power,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2040,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2040,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2040,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2040,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2040,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Residential,1,2040,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2040,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2040,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2040,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,FRT_Rail_Conv,Oil,1,2040,0.149704619,,Fraction,,,
 World,FRT_Rail_Electric,Power,1,2040,0.082572503,,Fraction,,,
 World,FRT_Road_OH,Power,1,2040,0.086305102,,Fraction,,,
@@ -2380,25 +2380,25 @@ DE,X_Biofuel,Biomass,1,2040,1.299596876,,Fraction,,,
 DE,X_Powerfuel,H2,1,2040,1.675127551,,Fraction,,,
 DE,X_Powerfuel,Power,1,2040,0.233134921,,Fraction,,,
 DE,X_Powerfuel,Gas_Synth,2,2040,1.731805705,,Fraction,,,
-DE,X_Gasifier,LH2,4,2040,1,,Fraction,,,
-DE,X_Gasifier,LSG,3,2040,1,,Fraction,,,
-DE,X_Gasifier,LBG,2,2040,1,,Fraction,,,
-DE,X_Gasifier,LNG,1,2040,1,,Fraction,,,
-DE,X_Liquifier,H2,4,2040,1,,Fraction,,,
-DE,X_Liquifier,Gas_Synth,3,2040,1,,Fraction,,,
-DE,X_Liquifier,Gas_Bio,2,2040,1,,Fraction,,,
-DE,X_Liquifier,Gas_Natural,1,2040,1,,Fraction,,,
+DE,X_Gasifier,LH2,4,2040,1.0,,Fraction,,,
+DE,X_Gasifier,LSG,3,2040,1.0,,Fraction,,,
+DE,X_Gasifier,LBG,2,2040,1.0,,Fraction,,,
+DE,X_Gasifier,LNG,1,2040,1.0,,Fraction,,,
+DE,X_Liquifier,H2,4,2040,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Synth,3,2040,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Bio,2,2040,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Natural,1,2040,1.0,,Fraction,,,
 DE,FRT_Road_LNG,LNG,1,2040,0.581989714,,Fraction,,,
 DE,FRT_Ship_LNG,LNG,1,2040,0.100886379,,Fraction,,,
 DE,PSNG_Road_LNG,LNG,1,2040,0.662902857,,Fraction,,,
 DE,P_H2_OCGT,H2,1,2040,2.002721088,,Fraction,,,
-DE,X_DAC_LT,Air,1,2040,1,,Fraction,,,
+DE,X_DAC_LT,Air,1,2040,1.0,,Fraction,,,
 DE,X_DAC_LT,Power,1,2040,0.638928,,Fraction,,,
 DE,X_DAC_LT,Heat_Low_Industrial,1,2040,4.173307429,,Fraction,,,
-DE,X_DAC_HT,Air,1,2040,1,,Fraction,,,
+DE,X_DAC_HT,Air,1,2040,1.0,,Fraction,,,
 DE,X_DAC_HT,Power,1,2040,4.484902857,,Fraction,,,
-DE,Z_ETS_Buy,ETS,1,2040,1,,Fraction,,,
-DE,Z_ETS_Sell,ETS_Source,1,2040,1,,Fraction,,,
+DE,Z_ETS_Buy,ETS,1,2040,1.0,,Fraction,,,
+DE,Z_ETS_Sell,ETS_Source,1,2040,1.0,,Fraction,,,
 DE,CHP_Biomass_Solid,Biomass,1,2040,2.89017341,,Fraction,,,
 DE,CHP_Coal_Hardcoal,Hardcoal,1,2040,2.652519894,,Fraction,,,
 DE,CHP_Coal_Lignite,Lignite,1,2040,2.824858757,,Fraction,,,
@@ -2421,9 +2421,9 @@ DE,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2040,3.71024735,,Fraction,,,
 DE,CHP_Coal_Lignite_CCS,Lignite,2,2040,3.947368421,,Fraction,,,
 DE,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2040,2.108433735,,Fraction,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2040,2.108433735,,Fraction,,,
-DE,CHP_Hydrogen_FuelCell,H2,2,2040,1,,Fraction,,,
-DE,HLI_Convert_DH,Heat_District,1,2040,1,,Fraction,,,
-DE,HLR_Convert_DH,Heat_District,1,2040,1,,Fraction,,,
+DE,CHP_Hydrogen_FuelCell,H2,2,2040,1.0,,Fraction,,,
+DE,HLI_Convert_DH,Heat_District,1,2040,1.0,,Fraction,,,
+DE,HLR_Convert_DH,Heat_District,1,2040,1.0,,Fraction,,,
 DE,CHP_Oil,Oil,1,2040,2.824858757,,Fraction,,,
 DE,CHP_Oil,Oil,2,2040,3.759398496,,Fraction,,,
 DE,P_Gas_CCGT,Gas_Natural,1,2040,1.612903226,,Fraction,,,
@@ -2440,15 +2440,15 @@ World,CHP_Coal_Lignite,Lignite,1,2045,2.325581395,,Fraction,,,
 World,CHP_Gas,Gas_Natural,1,2045,1.6,,Fraction,,,
 World,CHP_Nuclear,Nuclear,1,2045,2.380952381,,Fraction,,,
 World,CHP_Biomass,Biomass,1,2045,2.898550725,,Fraction,,,
-World,D_Battery_Li-Ion,Power,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2045,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2045,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2045,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2045,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2045,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Residential,1,2045,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2045,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2045,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2045,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,FRT_Rail_Conv,Oil,1,2045,0.147690655,,Fraction,,,
 World,FRT_Rail_Electric,Power,1,2045,0.080290011,,Fraction,,,
 World,FRT_Road_OH,Power,1,2045,0.081597551,,Fraction,,,
@@ -2786,25 +2786,25 @@ DE,X_Biofuel,Biomass,1,2045,1.291052532,,Fraction,,,
 DE,X_Powerfuel,H2,1,2045,1.612536443,,Fraction,,,
 DE,X_Powerfuel,Power,1,2045,0.222303207,,Fraction,,,
 DE,X_Powerfuel,Gas_Synth,2,2045,1.669387755,,Fraction,,,
-DE,X_Gasifier,LH2,4,2045,1,,Fraction,,,
-DE,X_Gasifier,LSG,3,2045,1,,Fraction,,,
-DE,X_Gasifier,LBG,2,2045,1,,Fraction,,,
-DE,X_Gasifier,LNG,1,2045,1,,Fraction,,,
-DE,X_Liquifier,H2,4,2045,1,,Fraction,,,
-DE,X_Liquifier,Gas_Synth,3,2045,1,,Fraction,,,
-DE,X_Liquifier,Gas_Bio,2,2045,1,,Fraction,,,
-DE,X_Liquifier,Gas_Natural,1,2045,1,,Fraction,,,
+DE,X_Gasifier,LH2,4,2045,1.0,,Fraction,,,
+DE,X_Gasifier,LSG,3,2045,1.0,,Fraction,,,
+DE,X_Gasifier,LBG,2,2045,1.0,,Fraction,,,
+DE,X_Gasifier,LNG,1,2045,1.0,,Fraction,,,
+DE,X_Liquifier,H2,4,2045,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Synth,3,2045,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Bio,2,2045,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Natural,1,2045,1.0,,Fraction,,,
 DE,FRT_Road_LNG,LNG,1,2045,0.578578286,,Fraction,,,
 DE,FRT_Ship_LNG,LNG,1,2045,0.100295017,,Fraction,,,
 DE,PSNG_Road_LNG,LNG,1,2045,0.659017143,,Fraction,,,
 DE,P_H2_OCGT,H2,1,2045,1.952834467,,Fraction,,,
-DE,X_DAC_LT,Air,1,2045,1,,Fraction,,,
+DE,X_DAC_LT,Air,1,2045,1.0,,Fraction,,,
 DE,X_DAC_LT,Power,1,2045,0.58608,,Fraction,,,
 DE,X_DAC_LT,Heat_Low_Industrial,1,2045,3.789504,,Fraction,,,
-DE,X_DAC_HT,Air,1,2045,1,,Fraction,,,
+DE,X_DAC_HT,Air,1,2045,1.0,,Fraction,,,
 DE,X_DAC_HT,Power,1,2045,4.265979429,,Fraction,,,
-DE,Z_ETS_Buy,ETS,1,2045,1,,Fraction,,,
-DE,Z_ETS_Sell,ETS_Source,1,2045,1,,Fraction,,,
+DE,Z_ETS_Buy,ETS,1,2045,1.0,,Fraction,,,
+DE,Z_ETS_Sell,ETS_Source,1,2045,1.0,,Fraction,,,
 DE,CHP_Biomass_Solid,Biomass,1,2045,2.89017341,,Fraction,,,
 DE,CHP_Coal_Hardcoal,Hardcoal,1,2045,2.652519894,,Fraction,,,
 DE,CHP_Coal_Lignite,Lignite,1,2045,2.824858757,,Fraction,,,
@@ -2827,9 +2827,9 @@ DE,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2045,3.71024735,,Fraction,,,
 DE,CHP_Coal_Lignite_CCS,Lignite,2,2045,3.947368421,,Fraction,,,
 DE,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2045,2.108433735,,Fraction,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2045,2.108433735,,Fraction,,,
-DE,CHP_Hydrogen_FuelCell,H2,2,2045,1,,Fraction,,,
-DE,HLI_Convert_DH,Heat_District,1,2045,1,,Fraction,,,
-DE,HLR_Convert_DH,Heat_District,1,2045,1,,Fraction,,,
+DE,CHP_Hydrogen_FuelCell,H2,2,2045,1.0,,Fraction,,,
+DE,HLI_Convert_DH,Heat_District,1,2045,1.0,,Fraction,,,
+DE,HLR_Convert_DH,Heat_District,1,2045,1.0,,Fraction,,,
 DE,CHP_Oil,Oil,1,2045,2.824858757,,Fraction,,,
 DE,CHP_Oil,Oil,2,2045,3.759398496,,Fraction,,,
 DE,P_Gas_CCGT,Gas_Natural,1,2045,1.6,,Fraction,,,
@@ -2846,15 +2846,15 @@ World,CHP_Coal_Lignite,Lignite,1,2050,2.325581395,,Fraction,,,
 World,CHP_Gas,Gas_Natural,1,2050,1.587301587,,Fraction,,,
 World,CHP_Nuclear,Nuclear,1,2050,2.380952381,,Fraction,,,
 World,CHP_Biomass,Biomass,1,2050,2.857142857,,Fraction,,,
-World,D_Battery_Li-Ion,Power,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2050,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2050,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2050,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2050,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2050,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Residential,1,2050,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2050,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2050,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2050,1.0,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,FRT_Rail_Conv,Oil,1,2050,0.145676692,,Fraction,,,
 World,FRT_Rail_Electric,Power,1,2050,0.078007519,,Fraction,,,
 World,FRT_Road_OH,Power,1,2050,0.07689,,Fraction,,,
@@ -2871,7 +2871,7 @@ World,FRT_Ship_Conv,Oil,1,2050,0.093023256,,Fraction,,,
 World,HHT_Biomass,Biomass,1,2050,1.176470588,,Fraction,,,
 World,HHT_Coal_Hardcoal,Hardcoal,1,2050,1.333333333,,Fraction,,,
 World,HHT_Coal_Lignite,Lignite,1,2050,1.333333333,,Fraction,,,
-World,HHT_Electric_Furnace,Power,1,2050,1,,Fraction,,,
+World,HHT_Electric_Furnace,Power,1,2050,1.0,,Fraction,,,
 World,HHT_Gas,Gas_Natural,1,2050,1.111111111,,Fraction,,,
 World,HHT_Oil,Oil,1,2050,1.176470588,,Fraction,,,
 World,HHT_Geothermal,Power,1,2050,0.256410256,,Fraction,,,
@@ -2879,7 +2879,7 @@ World,HHT_H2,H2,1,2050,1.960784314,,Fraction,,,
 World,HLT_Biomass,Biomass,1,2050,1.176470588,,Fraction,,,
 World,HLT_Coal_Hardcoal,Hardcoal,1,2050,1.333333333,,Fraction,,,
 World,HLT_Coal_Lignite,Lignite,1,2050,1.333333333,,Fraction,,,
-World,HLT_Electric_Furnace,Power,1,2050,1,,Fraction,,,
+World,HLT_Electric_Furnace,Power,1,2050,1.0,,Fraction,,,
 World,HLT_Gas,Gas_Natural,1,2050,1.111111111,,Fraction,,,
 World,HLT_Heatpump,Power,1,2050,0.285714286,,Fraction,,,
 World,HLT_Rooftop_Commercial,Area_Rooftop_Commercial,1,2050,0.165826357,,Fraction,,,
@@ -2936,7 +2936,7 @@ World,HLR_Hardcoal,Hardcoal,1,2050,1.333333333,,Fraction,,,
 World,HLR_Lignite,Lignite,1,2050,1.333333333,,Fraction,,,
 World,HLR_Hardcoal_CHP,Hardcoal,1,2050,1.666666667,,Fraction,,,
 World,HLR_Lignite_CHP,Lignite,1,2050,1.666666667,,Fraction,,,
-World,HLR_Direct_Electric,Power,1,2050,1,,Fraction,,,
+World,HLR_Direct_Electric,Power,1,2050,1.0,,Fraction,,,
 World,HLR_Solar_Thermal,Area_Rooftop_Residential,1,2050,0.165826357,,Fraction,,,
 World,HLR_Heatpump_Aerial,Power,1,2050,0.333333333,,Fraction,,,
 World,HLR_Heatpump_Ground,Power,1,2050,0.25,,Fraction,,,
@@ -3106,7 +3106,7 @@ DE,HLR_Hardcoal,Hardcoal,1,2050,1.318820862,,Fraction,,,
 DE,HLR_Lignite,Lignite,1,2050,1.318820862,,Fraction,,,
 DE,HLR_Hardcoal_CHP,Hardcoal,1,2050,1.637641723,,Fraction,,,
 DE,HLR_Lignite_CHP,Lignite,1,2050,1.637641723,,Fraction,,,
-DE,HLR_Direct_Electric,Power,1,2050,1,,Fraction,,,
+DE,HLR_Direct_Electric,Power,1,2050,1.0,,Fraction,,,
 DE,HLR_Solar_Thermal,Area_Rooftop_Residential,1,2050,0.140557579,,Fraction,,,
 DE,HLR_Heatpump_Aerial,Power,1,2050,0.282539683,,Fraction,,,
 DE,HLR_Heatpump_Ground,Power,1,2050,0.211904762,,Fraction,,,
@@ -3192,25 +3192,25 @@ DE,X_Biofuel,Biomass,1,2050,1.282539683,,Fraction,,,
 DE,X_Powerfuel,H2,1,2050,1.554081633,,Fraction,,,
 DE,X_Powerfuel,Power,1,2050,0.211904762,,Fraction,,,
 DE,X_Powerfuel,Gas_Synth,2,2050,1.611508866,,Fraction,,,
-DE,X_Gasifier,LH2,4,2050,1,,Fraction,,,
-DE,X_Gasifier,LSG,3,2050,1,,Fraction,,,
-DE,X_Gasifier,LBG,2,2050,1,,Fraction,,,
-DE,X_Gasifier,LNG,1,2050,1,,Fraction,,,
-DE,X_Liquifier,H2,4,2050,1,,Fraction,,,
-DE,X_Liquifier,Gas_Synth,3,2050,1,,Fraction,,,
-DE,X_Liquifier,Gas_Bio,2,2050,1,,Fraction,,,
-DE,X_Liquifier,Gas_Natural,1,2050,1,,Fraction,,,
+DE,X_Gasifier,LH2,4,2050,1.0,,Fraction,,,
+DE,X_Gasifier,LSG,3,2050,1.0,,Fraction,,,
+DE,X_Gasifier,LBG,2,2050,1.0,,Fraction,,,
+DE,X_Gasifier,LNG,1,2050,1.0,,Fraction,,,
+DE,X_Liquifier,H2,4,2050,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Synth,3,2050,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Bio,2,2050,1.0,,Fraction,,,
+DE,X_Liquifier,Gas_Natural,1,2050,1.0,,Fraction,,,
 DE,FRT_Road_LNG,LNG,1,2050,0.575166857,,Fraction,,,
 DE,FRT_Ship_LNG,LNG,1,2050,0.099703654,,Fraction,,,
 DE,PSNG_Road_LNG,LNG,1,2050,0.655131429,,Fraction,,,
 DE,P_H2_OCGT,H2,1,2050,1.902947846,,Fraction,,,
-DE,X_DAC_LT,Air,1,2050,1,,Fraction,,,
+DE,X_DAC_LT,Air,1,2050,1.0,,Fraction,,,
 DE,X_DAC_LT,Power,1,2050,0.535392,,Fraction,,,
 DE,X_DAC_LT,Heat_Low_Industrial,1,2050,3.424626286,,Fraction,,,
-DE,X_DAC_HT,Air,1,2050,1,,Fraction,,,
+DE,X_DAC_HT,Air,1,2050,1.0,,Fraction,,,
 DE,X_DAC_HT,Power,1,2050,4.054153143,,Fraction,,,
-DE,Z_ETS_Buy,ETS,1,2050,1,,Fraction,,,
-DE,Z_ETS_Sell,ETS_Source,1,2050,1,,Fraction,,,
+DE,Z_ETS_Buy,ETS,1,2050,1.0,,Fraction,,,
+DE,Z_ETS_Sell,ETS_Source,1,2050,1.0,,Fraction,,,
 DE,CHP_Biomass_Solid,Biomass,1,2050,2.89017341,,Fraction,,,
 DE,CHP_Coal_Hardcoal,Hardcoal,1,2050,2.652519894,,Fraction,,,
 DE,CHP_Coal_Lignite,Lignite,1,2050,2.824858757,,Fraction,,,
@@ -3233,9 +3233,9 @@ DE,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2050,3.71024735,,Fraction,,,
 DE,CHP_Coal_Lignite_CCS,Lignite,2,2050,3.947368421,,Fraction,,,
 DE,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2050,2.108433735,,Fraction,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2050,2.108433735,,Fraction,,,
-DE,CHP_Hydrogen_FuelCell,H2,2,2050,1,,Fraction,,,
-DE,HLI_Convert_DH,Heat_District,1,2050,1,,Fraction,,,
-DE,HLR_Convert_DH,Heat_District,1,2050,1,,Fraction,,,
+DE,CHP_Hydrogen_FuelCell,H2,2,2050,1.0,,Fraction,,,
+DE,HLI_Convert_DH,Heat_District,1,2050,1.0,,Fraction,,,
+DE,HLR_Convert_DH,Heat_District,1,2050,1.0,,Fraction,,,
 DE,CHP_Oil,Oil,1,2050,2.824858757,,Fraction,,,
 DE,CHP_Oil,Oil,2,2050,3.759398496,,Fraction,,,
 DE,P_Gas_CCGT,Gas_Natural,1,2050,1.587301587,,Fraction,,,

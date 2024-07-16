@@ -22,26 +22,26 @@ World,FRT_Road_PHEV,2018,8.617906246,,MEUR/GW,,,
 World,FRT_Ship_Bio,2018,10.30361757,,MEUR/GW,,,
 World,FRT_Ship_Conv,2018,9.366925065,,MEUR/GW,,,
 World,HHT_Biomass,2018,63.58,,MEUR/GW,,,
-World,HHT_Coal_Hardcoal,2018,40,,MEUR/GW,,,
-World,HHT_Coal_Lignite,2018,50,,MEUR/GW,,,
-World,HHT_Electric_Furnace,2018,7,,MEUR/GW,,,
+World,HHT_Coal_Hardcoal,2018,40.0,,MEUR/GW,,,
+World,HHT_Coal_Lignite,2018,50.0,,MEUR/GW,,,
+World,HHT_Electric_Furnace,2018,7.0,,MEUR/GW,,,
 World,HHT_Gas,2018,19.4,,MEUR/GW,,,
-World,HHT_Geothermal,2018,3500,,MEUR/GW,,,
+World,HHT_Geothermal,2018,3500.0,,MEUR/GW,,,
 World,HHT_Oil,2018,3.9,,MEUR/GW,,,
-World,HHT_H2,2018,0,,MEUR/GW,,,
+World,HHT_H2,2018,0.0,,MEUR/GW,,,
 World,HLT_Biomass,2018,63.58,,MEUR/GW,,,
-World,HLT_Coal_Hardcoal,2018,40,,MEUR/GW,,,
-World,HLT_Coal_Lignite,2018,50,,MEUR/GW,,,
-World,HLT_Electric_Furnace,2018,24,,MEUR/GW,,,
+World,HLT_Coal_Hardcoal,2018,40.0,,MEUR/GW,,,
+World,HLT_Coal_Lignite,2018,50.0,,MEUR/GW,,,
+World,HLT_Electric_Furnace,2018,24.0,,MEUR/GW,,,
 World,HLT_Gas,2018,19.4,,MEUR/GW,,,
-World,HLT_Geothermal,2018,34,,MEUR/GW,,,
-World,HLT_Heatpump,2018,16,,MEUR/GW,,,
+World,HLT_Geothermal,2018,34.0,,MEUR/GW,,,
+World,HLT_Heatpump,2018,16.0,,MEUR/GW,,,
 World,HLT_Rooftop_Commercial,2018,27.5,,MEUR/GW,,,
 World,HLT_Rooftop_Residential,2018,26.2,,MEUR/GW,,,
 World,HLT_Oil,2018,14.85,,MEUR/GW,,,
-World,P_Coal_Hardcoal,2018,41,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Coal_Lignite,2018,47,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Nuclear,2018,120,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Hardcoal,2018,41.0,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Lignite,2018,47.0,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Nuclear,2018,120.0,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Oil,2018,6.96,,MEUR/GW,,,
 World,P_Biomass,2018,47.2,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,PSNG_Air_Bio,2018,0.389148045,,MEUR/GW,,,
@@ -55,7 +55,7 @@ World,PSNG_Road_ICE,2018,2.4,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2018,3.6,,MEUR/GW,,,
 World,RES_CSP,2018,193.496,,MEUR/GW,,,
 World,RES_CSP_Storage,2018,217.496,,MEUR/GW,,,
-World,RES_Geothermal,2018,80,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Geothermal,2018,80.0,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2018,49.5,,MEUR/GW,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Hydro_Small,2018,76.8,,MEUR/GW,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Ocean,2018,39.6,,MEUR/GW,Tidal and waves- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -64,27 +64,27 @@ World,RES_PV_Rooftop_Residential,2018,9.13,,MEUR/GW,PV rooftop – residential- 
 World,RES_PV_Utility_Avg,2018,7.76,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Inf,2018,7.76,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Opt,2018,7.76,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Transitional,2018,42,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Shallow,2018,33,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Deep,2018,55,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Onshore_Avg,2018,23,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,RES_Wind_Onshore_Inf,2018,23,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,RES_Wind_Onshore_Opt,2018,23,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,X_Electrolysis,2018,24,,MEUR/GW,,,
-World,X_Fuel_Cell,2018,0,,MEUR/GW,,,
+World,RES_Wind_Offshore_Transitional,2018,42.0,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2018,33.0,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2018,55.0,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Onshore_Avg,2018,23.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,RES_Wind_Onshore_Inf,2018,23.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,RES_Wind_Onshore_Opt,2018,23.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,X_Electrolysis,2018,24.0,,MEUR/GW,,,
+World,X_Fuel_Cell,2018,0.0,,MEUR/GW,,,
 World,X_Methanation,2018,25.7,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CCS_Biomass,2018,120,,MEUR/GW,,,
+World,CCS_Biomass,2018,120.0,,MEUR/GW,,,
 World,CHP_Biomass_CCS,2018,126.615,,MEUR/GW,,,
 World,P_Biomass_CCS,2018,81.5,,MEUR/GW,Steam turbine biomass solid conventional w.CCS- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,HLR_Gas_Boiler,2018,6.825,,MEUR/GW,,,
 World,HLR_Gas_CHP,2018,34.1775,,MEUR/GW,,,
 World,HLR_Biomass,2018,101.15,,MEUR/GW,,,
 World,HLR_Biomass_CHP,2018,128.45,,MEUR/GW,,,
-World,HLR_Hardcoal,2018,56,,MEUR/GW,,,
-World,HLR_Lignite,2018,70,,MEUR/GW,,,
+World,HLR_Hardcoal,2018,56.0,,MEUR/GW,,,
+World,HLR_Lignite,2018,70.0,,MEUR/GW,,,
 World,HLR_Hardcoal_CHP,2018,71.05,,MEUR/GW,,,
 World,HLR_Lignite_CHP,2018,71.05,,MEUR/GW,,,
-World,HLR_Direct_Electric,2018,28,,MEUR/GW,,,
+World,HLR_Direct_Electric,2018,28.0,,MEUR/GW,,,
 World,HLR_Solar_Thermal,2018,27.055,,MEUR/GW,,,
 World,HLR_Heatpump_Aerial,2018,41.5,,MEUR/GW,DEA - Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HLR_Heatpump_Ground,2018,28.1,,MEUR/GW,DEA - Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -94,15 +94,15 @@ World,HLI_Gas_Boiler,2018,6.825,,MEUR/GW,,,
 World,HLI_Gas_CHP,2018,17.01,,MEUR/GW,,,
 World,HLI_Biomass,2018,101.15,,MEUR/GW,,,
 World,HLI_Biomass_CHP,2018,128.45,,MEUR/GW,,,
-World,HLI_Hardcoal,2018,56,,MEUR/GW,,,
-World,HLI_Lignite,2018,70,,MEUR/GW,,,
+World,HLI_Hardcoal,2018,56.0,,MEUR/GW,,,
+World,HLI_Lignite,2018,70.0,,MEUR/GW,,,
 World,HLI_Hardcoal_CHP,2018,71.05,,MEUR/GW,,,
 World,HLI_Lignite_CHP,2018,71.05,,MEUR/GW,,,
 World,HLI_Solar_Thermal,2018,27.055,,MEUR/GW,,,
 World,HLI_Fuelcell,2018,124.95,,MEUR/GW,,,
 World,HLI_Geothermal,2018,183.75,,MEUR/GW,,,
 World,HLI_Oil_Boiler,2018,17.325,,MEUR/GW,,,
-World,HLI_Direct_Electric,2018,28,,MEUR/GW,,,
+World,HLI_Direct_Electric,2018,28.0,,MEUR/GW,,,
 World,HLI_Oil_CHP,2018,32.55,,MEUR/GW,,,
 World,HMI_Gas,2018,2.485,,MEUR/GW,,,
 World,HMI_H2,2018,4.795,,MEUR/GW,,,
@@ -134,38 +134,38 @@ World,X_ATR_CCS,2018,24.9,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documenta
 World,HLR_H2_Boiler,2018,22.75,,MEUR/GW,,,
 World,HLI_H2_Boiler,2018,22.75,,MEUR/GW,,,
 World,X_Biofuel,2018,36.57113821,,MEUR/GW,,,
-DE,X_Powerfuel,2018,947,,MEUR/GW,,,
+DE,X_Powerfuel,2018,947.0,,MEUR/GW,,,
 DE,RES_Grass,2018,0.01,,MEUR/GW,,,
 DE,RES_Wood,2018,0.01,,MEUR/GW,,,
 DE,RES_Residues,2018,0.01,,MEUR/GW,,,
 DE,RES_Paper_Cardboard,2018,0.01,,MEUR/GW,,,
 DE,RES_Roundwood,2018,0.01,,MEUR/GW,,,
-DE,RES_Biogas,2018,771,,MEUR/GW,,,
-DE,X_Gasifier,2018,1,,MEUR/GW,,,
-DE,X_Liquifier,2018,1,,MEUR/GW,,,
+DE,RES_Biogas,2018,771.0,,MEUR/GW,,,
+DE,X_Gasifier,2018,1.0,,MEUR/GW,,,
+DE,X_Liquifier,2018,1.0,,MEUR/GW,,,
 DE,FRT_Road_LNG,2018,6.12244898,,MEUR/GW,,,
 DE,FRT_Ship_LNG,2018,10.30361757,,MEUR/GW,,,
-DE,PSNG_Road_LNG,2018,48,,MEUR/GW,,,
-DE,P_H2_OCGT,2018,516,,MEUR/GW,,,
-DE,X_DAC_LT,2018,730,,MEUR/GW,,,
-DE,X_DAC_HT,2018,815,,MEUR/GW,,,
-DE,P_Gas_CCGT,2018,22,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,P_Gas_OCGT,2018,12,,MEUR/GW,,,
-DE,P_Gas_Engines,2018,13,,MEUR/GW,,,
+DE,PSNG_Road_LNG,2018,48.0,,MEUR/GW,,,
+DE,P_H2_OCGT,2018,516.0,,MEUR/GW,,,
+DE,X_DAC_LT,2018,730.0,,MEUR/GW,,,
+DE,X_DAC_HT,2018,815.0,,MEUR/GW,,,
+DE,P_Gas_CCGT,2018,22.0,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+DE,P_Gas_OCGT,2018,12.0,,MEUR/GW,,,
+DE,P_Gas_Engines,2018,13.0,,MEUR/GW,,,
 DE,CHP_Biomass_Solid,2018,50.6,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal,2018,44,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal,2018,44.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite,2018,41.8,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural,2018,28.6,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas,2018,28.6,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_SynGas,2018,28.6,,MEUR/GW,,,
-DE,CHP_Biomass_Solid_CCS,2018,55,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2018,66,,MEUR/GW,,,
+DE,CHP_Biomass_Solid_CCS,2018,55.0,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal_CCS,2018,66.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite_CCS,2018,62.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural_CCS,2018,42.9,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,2018,42.9,,MEUR/GW,,,
-DE,CHP_Hydrogen_FuelCell,2018,22,,MEUR/GW,,,
-DE,HLI_Convert_DH,2018,1,,MEUR/GW,,,
-DE,HLR_Convert_DH,2018,1,,MEUR/GW,,,
+DE,CHP_Hydrogen_FuelCell,2018,22.0,,MEUR/GW,,,
+DE,HLI_Convert_DH,2018,1.0,,MEUR/GW,,,
+DE,HLR_Convert_DH,2018,1.0,,MEUR/GW,,,
 DE,CHP_Oil,2018,32.55,,MEUR/GW,,,
 DE,RES_PV_Utility_Tracking,2018,8.54,,MEUR/GW,PV single-axis tracking- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2020,46.7,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -191,26 +191,26 @@ World,FRT_Road_PHEV,2020,8.449925471,,MEUR/GW,,,
 World,FRT_Ship_Bio,2020,10.03599114,,MEUR/GW,,,
 World,FRT_Ship_Conv,2020,9.233111849,,MEUR/GW,,,
 World,HHT_Biomass,2020,57.64,,MEUR/GW,,,
-World,HHT_Coal_Hardcoal,2020,40,,MEUR/GW,,,
-World,HHT_Coal_Lignite,2020,50,,MEUR/GW,,,
-World,HHT_Electric_Furnace,2020,7,,MEUR/GW,,,
+World,HHT_Coal_Hardcoal,2020,40.0,,MEUR/GW,,,
+World,HHT_Coal_Lignite,2020,50.0,,MEUR/GW,,,
+World,HHT_Electric_Furnace,2020,7.0,,MEUR/GW,,,
 World,HHT_Gas,2020,19.4,,MEUR/GW,,,
-World,HHT_Geothermal,2020,3400,,MEUR/GW,,,
+World,HHT_Geothermal,2020,3400.0,,MEUR/GW,,,
 World,HHT_Oil,2020,3.9,,MEUR/GW,,,
-World,HHT_H2,2020,0,,MEUR/GW,,,
+World,HHT_H2,2020,0.0,,MEUR/GW,,,
 World,HLT_Biomass,2020,57.64,,MEUR/GW,,,
-World,HLT_Coal_Hardcoal,2020,40,,MEUR/GW,,,
-World,HLT_Coal_Lignite,2020,50,,MEUR/GW,,,
-World,HLT_Electric_Furnace,2020,24,,MEUR/GW,,,
+World,HLT_Coal_Hardcoal,2020,40.0,,MEUR/GW,,,
+World,HLT_Coal_Lignite,2020,50.0,,MEUR/GW,,,
+World,HLT_Electric_Furnace,2020,24.0,,MEUR/GW,,,
 World,HLT_Gas,2020,19.4,,MEUR/GW,,,
-World,HLT_Geothermal,2020,33,,MEUR/GW,,,
+World,HLT_Geothermal,2020,33.0,,MEUR/GW,,,
 World,HLT_Heatpump,2020,15.6,,MEUR/GW,,,
 World,HLT_Rooftop_Commercial,2020,22.5,,MEUR/GW,,,
-World,HLT_Rooftop_Residential,2020,22,,MEUR/GW,,,
+World,HLT_Rooftop_Residential,2020,22.0,,MEUR/GW,,,
 World,HLT_Oil,2020,14.85,,MEUR/GW,,,
-World,P_Coal_Hardcoal,2020,41,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Coal_Lignite,2020,47,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Nuclear,2020,120,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Hardcoal,2020,41.0,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Lignite,2020,47.0,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Nuclear,2020,120.0,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Oil,2020,6.81,,MEUR/GW,,,
 World,P_Biomass,2020,47.2,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,PSNG_Air_Bio,2020,0.379040303,,MEUR/GW,,,
@@ -224,7 +224,7 @@ World,PSNG_Road_ICE,2020,2.200122449,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2020,3.27604898,,MEUR/GW,,,
 World,RES_CSP,2020,188.404,,MEUR/GW,,,
 World,RES_CSP_Storage,2020,200.404,,MEUR/GW,,,
-World,RES_Geothermal,2020,80,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Geothermal,2020,80.0,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2020,49.5,,MEUR/GW,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Hydro_Small,2020,76.8,,MEUR/GW,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Ocean,2020,39.6,,MEUR/GW,Tidal and waves- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -233,27 +233,27 @@ World,RES_PV_Rooftop_Residential,2020,9.13,,MEUR/GW,PV rooftop – residential- 
 World,RES_PV_Utility_Avg,2020,7.76,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Inf,2020,7.76,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Opt,2020,7.76,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Transitional,2020,42,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Shallow,2020,33,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Deep,2020,55,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Onshore_Avg,2020,23,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
-World,RES_Wind_Onshore_Inf,2020,23,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
-World,RES_Wind_Onshore_Opt,2020,23,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
+World,RES_Wind_Offshore_Transitional,2020,42.0,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2020,33.0,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2020,55.0,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Onshore_Avg,2020,23.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
+World,RES_Wind_Onshore_Inf,2020,23.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
+World,RES_Wind_Onshore_Opt,2020,23.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,X_Electrolysis,2020,20.55,,MEUR/GW,,,
-World,X_Fuel_Cell,2020,0,,MEUR/GW,,,
+World,X_Fuel_Cell,2020,0.0,,MEUR/GW,,,
 World,X_Methanation,2020,25.7,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CCS_Biomass,2020,120,,MEUR/GW,,,
+World,CCS_Biomass,2020,120.0,,MEUR/GW,,,
 World,CHP_Biomass_CCS,2020,113.85,,MEUR/GW,,,
 World,P_Biomass_CCS,2020,81.5,,MEUR/GW,Steam turbine biomass solid conventional w.CCS- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,HLR_Gas_Boiler,2020,6.825,,MEUR/GW,,,
 World,HLR_Gas_CHP,2020,34.1775,,MEUR/GW,,,
 World,HLR_Biomass,2020,91.7,,MEUR/GW,,,
 World,HLR_Biomass_CHP,2020,115.5,,MEUR/GW,,,
-World,HLR_Hardcoal,2020,56,,MEUR/GW,,,
-World,HLR_Lignite,2020,70,,MEUR/GW,,,
+World,HLR_Hardcoal,2020,56.0,,MEUR/GW,,,
+World,HLR_Lignite,2020,70.0,,MEUR/GW,,,
 World,HLR_Hardcoal_CHP,2020,71.05,,MEUR/GW,,,
 World,HLR_Lignite_CHP,2020,71.05,,MEUR/GW,,,
-World,HLR_Direct_Electric,2020,28,,MEUR/GW,,,
+World,HLR_Direct_Electric,2020,28.0,,MEUR/GW,,,
 World,HLR_Solar_Thermal,2020,27.055,,MEUR/GW,,,
 World,HLR_Heatpump_Aerial,2020,41.5,,MEUR/GW,DEA - Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HLR_Heatpump_Ground,2020,28.1,,MEUR/GW,DEA - Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -263,15 +263,15 @@ World,HLI_Gas_Boiler,2020,6.825,,MEUR/GW,,,
 World,HLI_Gas_CHP,2020,17.01,,MEUR/GW,,,
 World,HLI_Biomass,2020,91.7,,MEUR/GW,,,
 World,HLI_Biomass_CHP,2020,115.5,,MEUR/GW,,,
-World,HLI_Hardcoal,2020,56,,MEUR/GW,,,
-World,HLI_Lignite,2020,70,,MEUR/GW,,,
+World,HLI_Hardcoal,2020,56.0,,MEUR/GW,,,
+World,HLI_Lignite,2020,70.0,,MEUR/GW,,,
 World,HLI_Hardcoal_CHP,2020,71.05,,MEUR/GW,,,
 World,HLI_Lignite_CHP,2020,71.05,,MEUR/GW,,,
 World,HLI_Solar_Thermal,2020,27.055,,MEUR/GW,,,
 World,HLI_Fuelcell,2020,93.8,,MEUR/GW,,,
 World,HLI_Geothermal,2020,173.95,,MEUR/GW,,,
 World,HLI_Oil_Boiler,2020,17.325,,MEUR/GW,,,
-World,HLI_Direct_Electric,2020,28,,MEUR/GW,,,
+World,HLI_Direct_Electric,2020,28.0,,MEUR/GW,,,
 World,HLI_Oil_CHP,2020,32.55,,MEUR/GW,,,
 World,HMI_Gas,2020,2.485,,MEUR/GW,,,
 World,HMI_H2,2020,4.795,,MEUR/GW,,,
@@ -309,7 +309,7 @@ DE,RES_Wood,2020,0.01,,MEUR/GW,,,
 DE,RES_Residues,2020,0.01,,MEUR/GW,,,
 DE,RES_Paper_Cardboard,2020,0.01,,MEUR/GW,,,
 DE,RES_Roundwood,2020,0.01,,MEUR/GW,,,
-DE,RES_Biogas,2020,731,,MEUR/GW,,,
+DE,RES_Biogas,2020,731.0,,MEUR/GW,,,
 DE,X_Gasifier,2020,0.957142857,,MEUR/GW,,,
 DE,X_Liquifier,2020,0.957142857,,MEUR/GW,,,
 DE,FRT_Road_LNG,2020,6.064139942,,MEUR/GW,,,
@@ -318,23 +318,23 @@ DE,PSNG_Road_LNG,2020,44.00244898,,MEUR/GW,,,
 DE,P_H2_OCGT,2020,512.3142857,,MEUR/GW,,,
 DE,X_DAC_LT,2020,698.7142857,,MEUR/GW,,,
 DE,X_DAC_HT,2020,780.0714286,,MEUR/GW,,,
-DE,P_Gas_CCGT,2020,22,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,P_Gas_OCGT,2020,12,,MEUR/GW,,,
-DE,P_Gas_Engines,2020,13,,MEUR/GW,,,
+DE,P_Gas_CCGT,2020,22.0,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+DE,P_Gas_OCGT,2020,12.0,,MEUR/GW,,,
+DE,P_Gas_Engines,2020,13.0,,MEUR/GW,,,
 DE,CHP_Biomass_Solid,2020,48.07,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal,2020,44,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal,2020,44.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite,2020,41.8,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural,2020,28.6,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas,2020,28.6,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_SynGas,2020,28.6,,MEUR/GW,,,
 DE,CHP_Biomass_Solid_CCS,2020,45.1,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2020,66,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal_CCS,2020,66.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite_CCS,2020,62.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural_CCS,2020,42.9,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,2020,42.9,,MEUR/GW,,,
 DE,CHP_Hydrogen_FuelCell,2020,21.14285714,,MEUR/GW,,,
-DE,HLI_Convert_DH,2020,1,,MEUR/GW,,,
-DE,HLR_Convert_DH,2020,1,,MEUR/GW,,,
+DE,HLI_Convert_DH,2020,1.0,,MEUR/GW,,,
+DE,HLR_Convert_DH,2020,1.0,,MEUR/GW,,,
 DE,CHP_Oil,2020,32.55,,MEUR/GW,,,
 DE,RES_PV_Utility_Tracking,2020,8.54,,MEUR/GW,PV single-axis tracking- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2025,46.7,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -360,19 +360,19 @@ World,FRT_Road_PHEV,2025,8.281944695,,MEUR/GW,,,
 World,FRT_Ship_Bio,2025,9.76836471,,MEUR/GW,,,
 World,FRT_Ship_Conv,2025,9.099298634,,MEUR/GW,,,
 World,HHT_Biomass,2025,54.89,,MEUR/GW,,,
-World,HHT_Coal_Hardcoal,2025,40,,MEUR/GW,,,
-World,HHT_Coal_Lignite,2025,50,,MEUR/GW,,,
-World,HHT_Electric_Furnace,2025,7,,MEUR/GW,,,
+World,HHT_Coal_Hardcoal,2025,40.0,,MEUR/GW,,,
+World,HHT_Coal_Lignite,2025,50.0,,MEUR/GW,,,
+World,HHT_Electric_Furnace,2025,7.0,,MEUR/GW,,,
 World,HHT_Gas,2025,19.4,,MEUR/GW,,,
-World,HHT_Geothermal,2025,3300,,MEUR/GW,,,
+World,HHT_Geothermal,2025,3300.0,,MEUR/GW,,,
 World,HHT_Oil,2025,3.9,,MEUR/GW,,,
-World,HHT_H2,2025,0,,MEUR/GW,,,
+World,HHT_H2,2025,0.0,,MEUR/GW,,,
 World,HLT_Biomass,2025,54.89,,MEUR/GW,,,
-World,HLT_Coal_Hardcoal,2025,40,,MEUR/GW,,,
-World,HLT_Coal_Lignite,2025,50,,MEUR/GW,,,
-World,HLT_Electric_Furnace,2025,24,,MEUR/GW,,,
+World,HLT_Coal_Hardcoal,2025,40.0,,MEUR/GW,,,
+World,HLT_Coal_Lignite,2025,50.0,,MEUR/GW,,,
+World,HLT_Electric_Furnace,2025,24.0,,MEUR/GW,,,
 World,HLT_Gas,2025,19.4,,MEUR/GW,,,
-World,HLT_Geothermal,2025,24,,MEUR/GW,,,
+World,HLT_Geothermal,2025,24.0,,MEUR/GW,,,
 World,HLT_Heatpump,2025,11.325,,MEUR/GW,,,
 World,HLT_Rooftop_Commercial,2025,21.375,,MEUR/GW,,,
 World,HLT_Rooftop_Residential,2025,20.9,,MEUR/GW,,,
@@ -393,7 +393,7 @@ World,PSNG_Road_ICE,2025,2.000244898,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2025,2.952097959,,MEUR/GW,,,
 World,RES_CSP,2025,183.312,,MEUR/GW,,,
 World,RES_CSP_Storage,2025,191.312,,MEUR/GW,,,
-World,RES_Geothermal,2025,80,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Geothermal,2025,80.0,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2025,49.5,,MEUR/GW,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Hydro_Small,2025,76.8,,MEUR/GW,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Ocean,2025,36.45,,MEUR/GW,Tidal and waves- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -403,26 +403,26 @@ World,RES_PV_Utility_Avg,2025,6.51,,MEUR/GW,PV fixed tilted- Table 1.7- High cos
 World,RES_PV_Utility_Inf,2025,6.51,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Opt,2025,6.51,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Offshore_Transitional,2025,36.5,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Shallow,2025,30,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Deep,2025,49,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2025,30.0,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2025,49.0,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2025,21.2,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,RES_Wind_Onshore_Inf,2025,21.2,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,RES_Wind_Onshore_Opt,2025,21.2,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
-World,X_Electrolysis,2025,15,,MEUR/GW,,,
-World,X_Fuel_Cell,2025,0,,MEUR/GW,,,
+World,X_Electrolysis,2025,15.0,,MEUR/GW,,,
+World,X_Fuel_Cell,2025,0.0,,MEUR/GW,,,
 World,X_Methanation,2025,18.8,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CCS_Biomass,2025,120,,MEUR/GW,,,
+World,CCS_Biomass,2025,120.0,,MEUR/GW,,,
 World,CHP_Biomass_CCS,2025,108.5025,,MEUR/GW,,,
 World,P_Biomass_CCS,2025,75.3,,MEUR/GW,Steam turbine biomass solid conventional w.CCS- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,HLR_Gas_Boiler,2025,6.825,,MEUR/GW,,,
 World,HLR_Gas_CHP,2025,34.1775,,MEUR/GW,,,
 World,HLR_Biomass,2025,87.325,,MEUR/GW,,,
 World,HLR_Biomass_CHP,2025,110.075,,MEUR/GW,,,
-World,HLR_Hardcoal,2025,56,,MEUR/GW,,,
-World,HLR_Lignite,2025,70,,MEUR/GW,,,
+World,HLR_Hardcoal,2025,56.0,,MEUR/GW,,,
+World,HLR_Lignite,2025,70.0,,MEUR/GW,,,
 World,HLR_Hardcoal_CHP,2025,71.05,,MEUR/GW,,,
 World,HLR_Lignite_CHP,2025,71.05,,MEUR/GW,,,
-World,HLR_Direct_Electric,2025,28,,MEUR/GW,,,
+World,HLR_Direct_Electric,2025,28.0,,MEUR/GW,,,
 World,HLR_Solar_Thermal,2025,27.055,,MEUR/GW,,,
 World,HLR_Heatpump_Aerial,2025,28.2,,MEUR/GW,DEA - Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HLR_Heatpump_Ground,2025,20.8,,MEUR/GW,DEA - Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -432,15 +432,15 @@ World,HLI_Gas_Boiler,2025,6.825,,MEUR/GW,,,
 World,HLI_Gas_CHP,2025,17.01,,MEUR/GW,,,
 World,HLI_Biomass,2025,87.325,,MEUR/GW,,,
 World,HLI_Biomass_CHP,2025,110.075,,MEUR/GW,,,
-World,HLI_Hardcoal,2025,56,,MEUR/GW,,,
-World,HLI_Lignite,2025,70,,MEUR/GW,,,
+World,HLI_Hardcoal,2025,56.0,,MEUR/GW,,,
+World,HLI_Lignite,2025,70.0,,MEUR/GW,,,
 World,HLI_Hardcoal_CHP,2025,71.05,,MEUR/GW,,,
 World,HLI_Lignite_CHP,2025,71.05,,MEUR/GW,,,
 World,HLI_Solar_Thermal,2025,27.055,,MEUR/GW,,,
 World,HLI_Fuelcell,2025,83.3,,MEUR/GW,,,
 World,HLI_Geothermal,2025,165.2,,MEUR/GW,,,
 World,HLI_Oil_Boiler,2025,17.325,,MEUR/GW,,,
-World,HLI_Direct_Electric,2025,28,,MEUR/GW,,,
+World,HLI_Direct_Electric,2025,28.0,,MEUR/GW,,,
 World,HLI_Oil_CHP,2025,32.55,,MEUR/GW,,,
 World,HMI_Gas,2025,2.485,,MEUR/GW,,,
 World,HMI_H2,2025,4.795,,MEUR/GW,,,
@@ -478,7 +478,7 @@ DE,RES_Wood,2025,0.01,,MEUR/GW,,,
 DE,RES_Residues,2025,0.01,,MEUR/GW,,,
 DE,RES_Paper_Cardboard,2025,0.01,,MEUR/GW,,,
 DE,RES_Roundwood,2025,0.01,,MEUR/GW,,,
-DE,RES_Biogas,2025,706,,MEUR/GW,,,
+DE,RES_Biogas,2025,706.0,,MEUR/GW,,,
 DE,X_Gasifier,2025,0.914285714,,MEUR/GW,,,
 DE,X_Liquifier,2025,0.914285714,,MEUR/GW,,,
 DE,FRT_Road_LNG,2025,6.005830904,,MEUR/GW,,,
@@ -488,22 +488,22 @@ DE,P_H2_OCGT,2025,466.2428571,,MEUR/GW,,,
 DE,X_DAC_LT,2025,488.2285714,,MEUR/GW,,,
 DE,X_DAC_HT,2025,545.3714286,,MEUR/GW,,,
 DE,P_Gas_CCGT,2025,21.5,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,P_Gas_OCGT,2025,8,,MEUR/GW,,,
-DE,P_Gas_Engines,2025,9,,MEUR/GW,,,
+DE,P_Gas_OCGT,2025,8.0,,MEUR/GW,,,
+DE,P_Gas_Engines,2025,9.0,,MEUR/GW,,,
 DE,CHP_Biomass_Solid,2025,45.54,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal,2025,44,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal,2025,44.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite,2025,41.8,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural,2025,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas,2025,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_SynGas,2025,18.7,,MEUR/GW,,,
 DE,CHP_Biomass_Solid_CCS,2025,42.9,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2025,66,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal_CCS,2025,66.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite_CCS,2025,62.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural_CCS,2025,28.05,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,2025,28.05,,MEUR/GW,,,
 DE,CHP_Hydrogen_FuelCell,2025,20.28571429,,MEUR/GW,,,
-DE,HLI_Convert_DH,2025,1,,MEUR/GW,,,
-DE,HLR_Convert_DH,2025,1,,MEUR/GW,,,
+DE,HLI_Convert_DH,2025,1.0,,MEUR/GW,,,
+DE,HLR_Convert_DH,2025,1.0,,MEUR/GW,,,
 DE,CHP_Oil,2025,32.55,,MEUR/GW,,,
 DE,RES_PV_Utility_Tracking,2025,7.16,,MEUR/GW,PV single-axis tracking- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2030,46.7,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -529,26 +529,26 @@ World,FRT_Road_PHEV,2030,8.113963919,,MEUR/GW,,,
 World,FRT_Ship_Bio,2030,9.50073828,,MEUR/GW,,,
 World,FRT_Ship_Conv,2030,8.965485419,,MEUR/GW,,,
 World,HHT_Biomass,2030,52.14,,MEUR/GW,,,
-World,HHT_Coal_Hardcoal,2030,40,,MEUR/GW,,,
-World,HHT_Coal_Lignite,2030,50,,MEUR/GW,,,
-World,HHT_Electric_Furnace,2030,7,,MEUR/GW,,,
+World,HHT_Coal_Hardcoal,2030,40.0,,MEUR/GW,,,
+World,HHT_Coal_Lignite,2030,50.0,,MEUR/GW,,,
+World,HHT_Electric_Furnace,2030,7.0,,MEUR/GW,,,
 World,HHT_Gas,2030,19.4,,MEUR/GW,,,
-World,HHT_Geothermal,2030,3200,,MEUR/GW,,,
+World,HHT_Geothermal,2030,3200.0,,MEUR/GW,,,
 World,HHT_Oil,2030,3.9,,MEUR/GW,,,
-World,HHT_H2,2030,0,,MEUR/GW,,,
+World,HHT_H2,2030,0.0,,MEUR/GW,,,
 World,HLT_Biomass,2030,52.14,,MEUR/GW,,,
-World,HLT_Coal_Hardcoal,2030,40,,MEUR/GW,,,
-World,HLT_Coal_Lignite,2030,50,,MEUR/GW,,,
-World,HLT_Electric_Furnace,2030,24,,MEUR/GW,,,
+World,HLT_Coal_Hardcoal,2030,40.0,,MEUR/GW,,,
+World,HLT_Coal_Lignite,2030,50.0,,MEUR/GW,,,
+World,HLT_Electric_Furnace,2030,24.0,,MEUR/GW,,,
 World,HLT_Gas,2030,19.4,,MEUR/GW,,,
 World,HLT_Geothermal,2030,15.5,,MEUR/GW,,,
 World,HLT_Heatpump,2030,7.3,,MEUR/GW,,,
 World,HLT_Rooftop_Commercial,2030,20.25,,MEUR/GW,,,
 World,HLT_Rooftop_Residential,2030,19.8,,MEUR/GW,,,
 World,HLT_Oil,2030,14.85,,MEUR/GW,,,
-World,P_Coal_Hardcoal,2030,36,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Coal_Lignite,2030,42,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Nuclear,2030,115,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Hardcoal,2030,36.0,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Lignite,2030,42.0,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Nuclear,2030,115.0,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Oil,2030,6.51,,MEUR/GW,,,
 World,P_Biomass,2030,41.9,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,PSNG_Air_Bio,2030,0.35882482,,MEUR/GW,,,
@@ -562,7 +562,7 @@ World,PSNG_Road_ICE,2030,1.800367347,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2030,2.628146939,,MEUR/GW,,,
 World,RES_CSP,2030,178.22,,MEUR/GW,,,
 World,RES_CSP_Storage,2030,184.22,,MEUR/GW,,,
-World,RES_Geothermal,2030,80,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Geothermal,2030,80.0,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2030,49.5,,MEUR/GW,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Hydro_Small,2030,76.8,,MEUR/GW,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Ocean,2030,33.3,,MEUR/GW,Tidal and waves- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -571,27 +571,27 @@ World,RES_PV_Rooftop_Residential,2030,6.66,,MEUR/GW,PV rooftop – residential- 
 World,RES_PV_Utility_Avg,2030,5.66,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Inf,2030,5.66,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Opt,2030,5.66,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Transitional,2030,31,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Shallow,2030,27,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Deep,2030,43,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Onshore_Avg,2030,20,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
-World,RES_Wind_Onshore_Inf,2030,20,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
-World,RES_Wind_Onshore_Opt,2030,20,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
+World,RES_Wind_Offshore_Transitional,2030,31.0,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2030,27.0,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2030,43.0,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Onshore_Avg,2030,20.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
+World,RES_Wind_Onshore_Inf,2030,20.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
+World,RES_Wind_Onshore_Opt,2030,20.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,X_Electrolysis,2030,10.89,,MEUR/GW,,,
-World,X_Fuel_Cell,2030,0,,MEUR/GW,,,
+World,X_Fuel_Cell,2030,0.0,,MEUR/GW,,,
 World,X_Methanation,2030,14.2,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CCS_Biomass,2030,120,,MEUR/GW,,,
+World,CCS_Biomass,2030,120.0,,MEUR/GW,,,
 World,CHP_Biomass_CCS,2030,103.155,,MEUR/GW,,,
 World,P_Biomass_CCS,2030,69.1,,MEUR/GW,Steam turbine biomass solid conventional w.CCS- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,HLR_Gas_Boiler,2030,6.825,,MEUR/GW,,,
 World,HLR_Gas_CHP,2030,34.1775,,MEUR/GW,,,
 World,HLR_Biomass,2030,82.95,,MEUR/GW,,,
 World,HLR_Biomass_CHP,2030,104.65,,MEUR/GW,,,
-World,HLR_Hardcoal,2030,56,,MEUR/GW,,,
-World,HLR_Lignite,2030,70,,MEUR/GW,,,
+World,HLR_Hardcoal,2030,56.0,,MEUR/GW,,,
+World,HLR_Lignite,2030,70.0,,MEUR/GW,,,
 World,HLR_Hardcoal_CHP,2030,71.05,,MEUR/GW,,,
 World,HLR_Lignite_CHP,2030,71.05,,MEUR/GW,,,
-World,HLR_Direct_Electric,2030,28,,MEUR/GW,,,
+World,HLR_Direct_Electric,2030,28.0,,MEUR/GW,,,
 World,HLR_Solar_Thermal,2030,27.055,,MEUR/GW,,,
 World,HLR_Heatpump_Aerial,2030,27.7,,MEUR/GW,DEA - Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HLR_Heatpump_Ground,2030,20.5,,MEUR/GW,DEA - Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -601,15 +601,15 @@ World,HLI_Gas_Boiler,2030,6.825,,MEUR/GW,,,
 World,HLI_Gas_CHP,2030,17.01,,MEUR/GW,,,
 World,HLI_Biomass,2030,82.95,,MEUR/GW,,,
 World,HLI_Biomass_CHP,2030,104.65,,MEUR/GW,,,
-World,HLI_Hardcoal,2030,56,,MEUR/GW,,,
-World,HLI_Lignite,2030,70,,MEUR/GW,,,
+World,HLI_Hardcoal,2030,56.0,,MEUR/GW,,,
+World,HLI_Lignite,2030,70.0,,MEUR/GW,,,
 World,HLI_Hardcoal_CHP,2030,71.05,,MEUR/GW,,,
 World,HLI_Lignite_CHP,2030,71.05,,MEUR/GW,,,
 World,HLI_Solar_Thermal,2030,27.055,,MEUR/GW,,,
 World,HLI_Fuelcell,2030,72.8,,MEUR/GW,,,
 World,HLI_Geothermal,2030,156.45,,MEUR/GW,,,
 World,HLI_Oil_Boiler,2030,17.325,,MEUR/GW,,,
-World,HLI_Direct_Electric,2030,28,,MEUR/GW,,,
+World,HLI_Direct_Electric,2030,28.0,,MEUR/GW,,,
 World,HLI_Oil_CHP,2030,32.55,,MEUR/GW,,,
 World,HMI_Gas,2030,2.485,,MEUR/GW,,,
 World,HMI_H2,2030,4.795,,MEUR/GW,,,
@@ -647,7 +647,7 @@ DE,RES_Wood,2030,0.01,,MEUR/GW,,,
 DE,RES_Residues,2030,0.01,,MEUR/GW,,,
 DE,RES_Paper_Cardboard,2030,0.01,,MEUR/GW,,,
 DE,RES_Roundwood,2030,0.01,,MEUR/GW,,,
-DE,RES_Biogas,2030,680,,MEUR/GW,,,
+DE,RES_Biogas,2030,680.0,,MEUR/GW,,,
 DE,X_Gasifier,2030,0.871428571,,MEUR/GW,,,
 DE,X_Liquifier,2030,0.871428571,,MEUR/GW,,,
 DE,FRT_Road_LNG,2030,5.947521866,,MEUR/GW,,,
@@ -656,23 +656,23 @@ DE,PSNG_Road_LNG,2030,36.00734694,,MEUR/GW,,,
 DE,P_H2_OCGT,2030,462.8642857,,MEUR/GW,,,
 DE,X_DAC_LT,2030,294.5428571,,MEUR/GW,,,
 DE,X_DAC_HT,2030,329.4,,MEUR/GW,,,
-DE,P_Gas_CCGT,2030,21,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,P_Gas_OCGT,2030,8,,MEUR/GW,,,
-DE,P_Gas_Engines,2030,9,,MEUR/GW,,,
+DE,P_Gas_CCGT,2030,21.0,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+DE,P_Gas_OCGT,2030,8.0,,MEUR/GW,,,
+DE,P_Gas_Engines,2030,9.0,,MEUR/GW,,,
 DE,CHP_Biomass_Solid,2030,44.275,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal,2030,44,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal,2030,44.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite,2030,41.8,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural,2030,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas,2030,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_SynGas,2030,18.7,,MEUR/GW,,,
 DE,CHP_Biomass_Solid_CCS,2030,41.8,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2030,66,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal_CCS,2030,66.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite_CCS,2030,62.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural_CCS,2030,28.05,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,2030,28.05,,MEUR/GW,,,
 DE,CHP_Hydrogen_FuelCell,2030,19.42857143,,MEUR/GW,,,
-DE,HLI_Convert_DH,2030,1,,MEUR/GW,,,
-DE,HLR_Convert_DH,2030,1,,MEUR/GW,,,
+DE,HLI_Convert_DH,2030,1.0,,MEUR/GW,,,
+DE,HLR_Convert_DH,2030,1.0,,MEUR/GW,,,
 DE,CHP_Oil,2030,32.55,,MEUR/GW,,,
 DE,RES_PV_Utility_Tracking,2030,6.23,,MEUR/GW,PV single-axis tracking- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2035,46.7,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -698,24 +698,24 @@ World,FRT_Road_PHEV,2035,7.945983143,,MEUR/GW,,,
 World,FRT_Ship_Bio,2035,9.233111849,,MEUR/GW,,,
 World,FRT_Ship_Conv,2035,8.831672204,,MEUR/GW,,,
 World,HHT_Biomass,2035,49.72,,MEUR/GW,,,
-World,HHT_Coal_Hardcoal,2035,40,,MEUR/GW,,,
-World,HHT_Coal_Lignite,2035,50,,MEUR/GW,,,
-World,HHT_Electric_Furnace,2035,7,,MEUR/GW,,,
+World,HHT_Coal_Hardcoal,2035,40.0,,MEUR/GW,,,
+World,HHT_Coal_Lignite,2035,50.0,,MEUR/GW,,,
+World,HHT_Electric_Furnace,2035,7.0,,MEUR/GW,,,
 World,HHT_Gas,2035,19.4,,MEUR/GW,,,
-World,HHT_Geothermal,2035,3105,,MEUR/GW,,,
+World,HHT_Geothermal,2035,3105.0,,MEUR/GW,,,
 World,HHT_Oil,2035,3.9,,MEUR/GW,,,
-World,HHT_H2,2035,0,,MEUR/GW,,,
+World,HHT_H2,2035,0.0,,MEUR/GW,,,
 World,HLT_Biomass,2035,49.72,,MEUR/GW,,,
-World,HLT_Coal_Hardcoal,2035,40,,MEUR/GW,,,
-World,HLT_Coal_Lignite,2035,50,,MEUR/GW,,,
-World,HLT_Electric_Furnace,2035,24,,MEUR/GW,,,
+World,HLT_Coal_Hardcoal,2035,40.0,,MEUR/GW,,,
+World,HLT_Coal_Lignite,2035,50.0,,MEUR/GW,,,
+World,HLT_Electric_Furnace,2035,24.0,,MEUR/GW,,,
 World,HLT_Gas,2035,19.4,,MEUR/GW,,,
 World,HLT_Geothermal,2035,15.05,,MEUR/GW,,,
 World,HLT_Heatpump,2035,7.1,,MEUR/GW,,,
 World,HLT_Rooftop_Commercial,2035,19.625,,MEUR/GW,,,
 World,HLT_Rooftop_Residential,2035,19.2,,MEUR/GW,,,
 World,HLT_Oil,2035,14.85,,MEUR/GW,,,
-World,P_Coal_Hardcoal,2035,34,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Hardcoal,2035,34.0,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Coal_Lignite,2035,40.5,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Nuclear,2035,111.5,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Oil,2035,6.36,,MEUR/GW,,,
@@ -731,36 +731,36 @@ World,PSNG_Road_ICE,2035,1.600489796,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2035,2.304195918,,MEUR/GW,,,
 World,RES_CSP,2035,170.582,,MEUR/GW,,,
 World,RES_CSP_Storage,2035,175.382,,MEUR/GW,,,
-World,RES_Geothermal,2035,80,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Geothermal,2035,80.0,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2035,49.5,,MEUR/GW,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Hydro_Small,2035,76.8,,MEUR/GW,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Ocean,2035,30.65,,MEUR/GW,Tidal and waves- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_PV_Rooftop_Commercial,2035,5.88,,MEUR/GW,PV rooftop – commercial- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Rooftop_Residential,2035,5.88,,MEUR/GW,PV rooftop – residential- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_PV_Utility_Avg,2035,5,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_PV_Utility_Inf,2035,5,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_PV_Utility_Opt,2035,5,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Transitional,2035,30,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Avg,2035,5.0,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Inf,2035,5.0,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_PV_Utility_Opt,2035,5.0,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Transitional,2035,30.0,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Offshore_Shallow,2035,26.5,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Offshore_Deep,2035,41.5,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2035,19.3,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,RES_Wind_Onshore_Inf,2035,19.3,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,RES_Wind_Onshore_Opt,2035,19.3,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,X_Electrolysis,2035,9.75,,MEUR/GW,,,
-World,X_Fuel_Cell,2035,0,,MEUR/GW,,,
+World,X_Fuel_Cell,2035,0.0,,MEUR/GW,,,
 World,X_Methanation,2035,12.6,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CCS_Biomass,2035,120,,MEUR/GW,,,
+World,CCS_Biomass,2035,120.0,,MEUR/GW,,,
 World,CHP_Biomass_CCS,2035,99.015,,MEUR/GW,,,
 World,P_Biomass_CCS,2035,66.05,,MEUR/GW,Steam turbine biomass solid conventional w.CCS- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,HLR_Gas_Boiler,2035,6.825,,MEUR/GW,,,
 World,HLR_Gas_CHP,2035,34.1775,,MEUR/GW,,,
 World,HLR_Biomass,2035,79.1,,MEUR/GW,,,
 World,HLR_Biomass_CHP,2035,100.45,,MEUR/GW,,,
-World,HLR_Hardcoal,2035,56,,MEUR/GW,,,
-World,HLR_Lignite,2035,70,,MEUR/GW,,,
+World,HLR_Hardcoal,2035,56.0,,MEUR/GW,,,
+World,HLR_Lignite,2035,70.0,,MEUR/GW,,,
 World,HLR_Hardcoal_CHP,2035,71.05,,MEUR/GW,,,
 World,HLR_Lignite_CHP,2035,71.05,,MEUR/GW,,,
-World,HLR_Direct_Electric,2035,28,,MEUR/GW,,,
+World,HLR_Direct_Electric,2035,28.0,,MEUR/GW,,,
 World,HLR_Solar_Thermal,2035,27.055,,MEUR/GW,,,
 World,HLR_Heatpump_Aerial,2035,27.3,,MEUR/GW,DEA - Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HLR_Heatpump_Ground,2035,20.2,,MEUR/GW,DEA - Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -770,15 +770,15 @@ World,HLI_Gas_Boiler,2035,6.825,,MEUR/GW,,,
 World,HLI_Gas_CHP,2035,17.01,,MEUR/GW,,,
 World,HLI_Biomass,2035,79.1,,MEUR/GW,,,
 World,HLI_Biomass_CHP,2035,100.45,,MEUR/GW,,,
-World,HLI_Hardcoal,2035,56,,MEUR/GW,,,
-World,HLI_Lignite,2035,70,,MEUR/GW,,,
+World,HLI_Hardcoal,2035,56.0,,MEUR/GW,,,
+World,HLI_Lignite,2035,70.0,,MEUR/GW,,,
 World,HLI_Hardcoal_CHP,2035,71.05,,MEUR/GW,,,
 World,HLI_Lignite_CHP,2035,71.05,,MEUR/GW,,,
 World,HLI_Solar_Thermal,2035,27.055,,MEUR/GW,,,
 World,HLI_Fuelcell,2035,69.125,,MEUR/GW,,,
 World,HLI_Geothermal,2035,148.575,,MEUR/GW,,,
 World,HLI_Oil_Boiler,2035,17.325,,MEUR/GW,,,
-World,HLI_Direct_Electric,2035,28,,MEUR/GW,,,
+World,HLI_Direct_Electric,2035,28.0,,MEUR/GW,,,
 World,HLI_Oil_CHP,2035,32.55,,MEUR/GW,,,
 World,HMI_Gas,2035,2.485,,MEUR/GW,,,
 World,HMI_H2,2035,4.795,,MEUR/GW,,,
@@ -816,7 +816,7 @@ DE,RES_Wood,2035,0.01,,MEUR/GW,,,
 DE,RES_Residues,2035,0.01,,MEUR/GW,,,
 DE,RES_Paper_Cardboard,2035,0.01,,MEUR/GW,,,
 DE,RES_Roundwood,2035,0.01,,MEUR/GW,,,
-DE,RES_Biogas,2035,653,,MEUR/GW,,,
+DE,RES_Biogas,2035,653.0,,MEUR/GW,,,
 DE,X_Gasifier,2035,0.828571429,,MEUR/GW,,,
 DE,X_Liquifier,2035,0.828571429,,MEUR/GW,,,
 DE,FRT_Road_LNG,2035,5.889212828,,MEUR/GW,,,
@@ -826,22 +826,22 @@ DE,P_H2_OCGT,2035,438.6,,MEUR/GW,,,
 DE,X_DAC_LT,2035,238.2142857,,MEUR/GW,,,
 DE,X_DAC_HT,2035,266.3857143,,MEUR/GW,,,
 DE,P_Gas_CCGT,2035,20.5,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,P_Gas_OCGT,2035,8,,MEUR/GW,,,
-DE,P_Gas_Engines,2035,9,,MEUR/GW,,,
+DE,P_Gas_OCGT,2035,8.0,,MEUR/GW,,,
+DE,P_Gas_Engines,2035,9.0,,MEUR/GW,,,
 DE,CHP_Biomass_Solid,2035,43.01,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal,2035,44,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal,2035,44.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite,2035,41.8,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural,2035,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas,2035,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_SynGas,2035,18.7,,MEUR/GW,,,
 DE,CHP_Biomass_Solid_CCS,2035,40.7,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2035,66,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal_CCS,2035,66.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite_CCS,2035,62.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural_CCS,2035,28.05,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,2035,28.05,,MEUR/GW,,,
 DE,CHP_Hydrogen_FuelCell,2035,18.57142857,,MEUR/GW,,,
-DE,HLI_Convert_DH,2035,1,,MEUR/GW,,,
-DE,HLR_Convert_DH,2035,1,,MEUR/GW,,,
+DE,HLI_Convert_DH,2035,1.0,,MEUR/GW,,,
+DE,HLR_Convert_DH,2035,1.0,,MEUR/GW,,,
 DE,CHP_Oil,2035,32.55,,MEUR/GW,,,
 DE,RES_PV_Utility_Tracking,2035,5.5,,MEUR/GW,PV single-axis tracking- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2040,46.7,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -867,26 +867,26 @@ World,FRT_Road_PHEV,2040,7.778002368,,MEUR/GW,,,
 World,FRT_Ship_Bio,2040,8.965485419,,MEUR/GW,,,
 World,FRT_Ship_Conv,2040,8.697858989,,MEUR/GW,,,
 World,HHT_Biomass,2040,47.3,,MEUR/GW,,,
-World,HHT_Coal_Hardcoal,2040,40,,MEUR/GW,,,
-World,HHT_Coal_Lignite,2040,50,,MEUR/GW,,,
-World,HHT_Electric_Furnace,2040,7,,MEUR/GW,,,
+World,HHT_Coal_Hardcoal,2040,40.0,,MEUR/GW,,,
+World,HHT_Coal_Lignite,2040,50.0,,MEUR/GW,,,
+World,HHT_Electric_Furnace,2040,7.0,,MEUR/GW,,,
 World,HHT_Gas,2040,19.4,,MEUR/GW,,,
-World,HHT_Geothermal,2040,3010,,MEUR/GW,,,
+World,HHT_Geothermal,2040,3010.0,,MEUR/GW,,,
 World,HHT_Oil,2040,3.9,,MEUR/GW,,,
-World,HHT_H2,2040,0,,MEUR/GW,,,
+World,HHT_H2,2040,0.0,,MEUR/GW,,,
 World,HLT_Biomass,2040,47.3,,MEUR/GW,,,
-World,HLT_Coal_Hardcoal,2040,40,,MEUR/GW,,,
-World,HLT_Coal_Lignite,2040,50,,MEUR/GW,,,
-World,HLT_Electric_Furnace,2040,24,,MEUR/GW,,,
+World,HLT_Coal_Hardcoal,2040,40.0,,MEUR/GW,,,
+World,HLT_Coal_Lignite,2040,50.0,,MEUR/GW,,,
+World,HLT_Electric_Furnace,2040,24.0,,MEUR/GW,,,
 World,HLT_Gas,2040,19.4,,MEUR/GW,,,
 World,HLT_Geothermal,2040,14.6,,MEUR/GW,,,
 World,HLT_Heatpump,2040,6.9,,MEUR/GW,,,
-World,HLT_Rooftop_Commercial,2040,19,,MEUR/GW,,,
+World,HLT_Rooftop_Commercial,2040,19.0,,MEUR/GW,,,
 World,HLT_Rooftop_Residential,2040,18.6,,MEUR/GW,,,
 World,HLT_Oil,2040,14.85,,MEUR/GW,,,
-World,P_Coal_Hardcoal,2040,32,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Coal_Lignite,2040,39,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Nuclear,2040,108,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Hardcoal,2040,32.0,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Lignite,2040,39.0,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Nuclear,2040,108.0,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Oil,2040,6.21,,MEUR/GW,,,
 World,P_Biomass,2040,37.1,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,PSNG_Air_Bio,2040,0.338609338,,MEUR/GW,,,
@@ -900,36 +900,36 @@ World,PSNG_Road_ICE,2040,1.400612245,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2040,1.980244898,,MEUR/GW,,,
 World,RES_CSP,2040,162.944,,MEUR/GW,,,
 World,RES_CSP_Storage,2040,166.944,,MEUR/GW,,,
-World,RES_Geothermal,2040,80,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Geothermal,2040,80.0,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2040,49.5,,MEUR/GW,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Hydro_Small,2040,76.8,,MEUR/GW,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,RES_Ocean,2040,28,,MEUR/GW,Tidal and waves- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,RES_Ocean,2040,28.0,,MEUR/GW,Tidal and waves- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_PV_Rooftop_Commercial,2040,5.26,,MEUR/GW,PV rooftop – commercial- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Rooftop_Residential,2040,5.26,,MEUR/GW,PV rooftop – residential- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Avg,2040,4.47,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Inf,2040,4.47,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Opt,2040,4.47,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Transitional,2040,29,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Shallow,2040,26,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Deep,2040,40,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Transitional,2040,29.0,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2040,26.0,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2040,40.0,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2040,18.8,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,RES_Wind_Onshore_Inf,2040,18.8,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,RES_Wind_Onshore_Opt,2040,18.8,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,X_Electrolysis,2040,8.88,,MEUR/GW,,,
-World,X_Fuel_Cell,2040,0,,MEUR/GW,,,
+World,X_Fuel_Cell,2040,0.0,,MEUR/GW,,,
 World,X_Methanation,2040,11.5,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CCS_Biomass,2040,120,,MEUR/GW,,,
+World,CCS_Biomass,2040,120.0,,MEUR/GW,,,
 World,CHP_Biomass_CCS,2040,94.875,,MEUR/GW,,,
-World,P_Biomass_CCS,2040,63,,MEUR/GW,Steam turbine biomass solid conventional w.CCS- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Biomass_CCS,2040,63.0,,MEUR/GW,Steam turbine biomass solid conventional w.CCS- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,HLR_Gas_Boiler,2040,6.825,,MEUR/GW,,,
 World,HLR_Gas_CHP,2040,34.1775,,MEUR/GW,,,
 World,HLR_Biomass,2040,75.25,,MEUR/GW,,,
 World,HLR_Biomass_CHP,2040,96.25,,MEUR/GW,,,
-World,HLR_Hardcoal,2040,56,,MEUR/GW,,,
-World,HLR_Lignite,2040,70,,MEUR/GW,,,
+World,HLR_Hardcoal,2040,56.0,,MEUR/GW,,,
+World,HLR_Lignite,2040,70.0,,MEUR/GW,,,
 World,HLR_Hardcoal_CHP,2040,71.05,,MEUR/GW,,,
 World,HLR_Lignite_CHP,2040,71.05,,MEUR/GW,,,
-World,HLR_Direct_Electric,2040,28,,MEUR/GW,,,
+World,HLR_Direct_Electric,2040,28.0,,MEUR/GW,,,
 World,HLR_Solar_Thermal,2040,27.055,,MEUR/GW,,,
 World,HLR_Heatpump_Aerial,2040,26.9,,MEUR/GW,DEA - Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HLR_Heatpump_Ground,2040,19.9,,MEUR/GW,DEA - Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -939,15 +939,15 @@ World,HLI_Gas_Boiler,2040,6.825,,MEUR/GW,,,
 World,HLI_Gas_CHP,2040,17.01,,MEUR/GW,,,
 World,HLI_Biomass,2040,75.25,,MEUR/GW,,,
 World,HLI_Biomass_CHP,2040,96.25,,MEUR/GW,,,
-World,HLI_Hardcoal,2040,56,,MEUR/GW,,,
-World,HLI_Lignite,2040,70,,MEUR/GW,,,
+World,HLI_Hardcoal,2040,56.0,,MEUR/GW,,,
+World,HLI_Lignite,2040,70.0,,MEUR/GW,,,
 World,HLI_Hardcoal_CHP,2040,71.05,,MEUR/GW,,,
 World,HLI_Lignite_CHP,2040,71.05,,MEUR/GW,,,
 World,HLI_Solar_Thermal,2040,27.055,,MEUR/GW,,,
 World,HLI_Fuelcell,2040,65.45,,MEUR/GW,,,
 World,HLI_Geothermal,2040,140.7,,MEUR/GW,,,
 World,HLI_Oil_Boiler,2040,17.325,,MEUR/GW,,,
-World,HLI_Direct_Electric,2040,28,,MEUR/GW,,,
+World,HLI_Direct_Electric,2040,28.0,,MEUR/GW,,,
 World,HLI_Oil_CHP,2040,32.55,,MEUR/GW,,,
 World,HMI_Gas,2040,2.485,,MEUR/GW,,,
 World,HMI_H2,2040,4.795,,MEUR/GW,,,
@@ -985,7 +985,7 @@ DE,RES_Wood,2040,0.01,,MEUR/GW,,,
 DE,RES_Residues,2040,0.01,,MEUR/GW,,,
 DE,RES_Paper_Cardboard,2040,0.01,,MEUR/GW,,,
 DE,RES_Roundwood,2040,0.01,,MEUR/GW,,,
-DE,RES_Biogas,2040,632,,MEUR/GW,,,
+DE,RES_Biogas,2040,632.0,,MEUR/GW,,,
 DE,X_Gasifier,2040,0.785714286,,MEUR/GW,,,
 DE,X_Liquifier,2040,0.785714286,,MEUR/GW,,,
 DE,FRT_Road_LNG,2040,5.83090379,,MEUR/GW,,,
@@ -994,23 +994,23 @@ DE,PSNG_Road_LNG,2040,28.0122449,,MEUR/GW,,,
 DE,P_H2_OCGT,2040,435.375,,MEUR/GW,,,
 DE,X_DAC_LT,2040,186.2142857,,MEUR/GW,,,
 DE,X_DAC_HT,2040,208.2142857,,MEUR/GW,,,
-DE,P_Gas_CCGT,2040,20,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,P_Gas_OCGT,2040,8,,MEUR/GW,,,
-DE,P_Gas_Engines,2040,9,,MEUR/GW,,,
+DE,P_Gas_CCGT,2040,20.0,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+DE,P_Gas_OCGT,2040,8.0,,MEUR/GW,,,
+DE,P_Gas_Engines,2040,9.0,,MEUR/GW,,,
 DE,CHP_Biomass_Solid,2040,43.01,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal,2040,44,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal,2040,44.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite,2040,41.8,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural,2040,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas,2040,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_SynGas,2040,18.7,,MEUR/GW,,,
 DE,CHP_Biomass_Solid_CCS,2040,40.7,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2040,66,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal_CCS,2040,66.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite_CCS,2040,62.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural_CCS,2040,28.05,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,2040,28.05,,MEUR/GW,,,
 DE,CHP_Hydrogen_FuelCell,2040,17.71428571,,MEUR/GW,,,
-DE,HLI_Convert_DH,2040,1,,MEUR/GW,,,
-DE,HLR_Convert_DH,2040,1,,MEUR/GW,,,
+DE,HLI_Convert_DH,2040,1.0,,MEUR/GW,,,
+DE,HLR_Convert_DH,2040,1.0,,MEUR/GW,,,
 DE,CHP_Oil,2040,32.55,,MEUR/GW,,,
 DE,RES_PV_Utility_Tracking,2040,4.92,,MEUR/GW,PV single-axis tracking- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2045,46.7,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -1036,17 +1036,17 @@ World,FRT_Road_PHEV,2045,7.610021592,,MEUR/GW,,,
 World,FRT_Ship_Bio,2045,8.697858989,,MEUR/GW,,,
 World,FRT_Ship_Conv,2045,8.564045773,,MEUR/GW,,,
 World,HHT_Biomass,2045,45.1,,MEUR/GW,,,
-World,HHT_Coal_Hardcoal,2045,40,,MEUR/GW,,,
-World,HHT_Coal_Lignite,2045,50,,MEUR/GW,,,
-World,HHT_Electric_Furnace,2045,7,,MEUR/GW,,,
+World,HHT_Coal_Hardcoal,2045,40.0,,MEUR/GW,,,
+World,HHT_Coal_Lignite,2045,50.0,,MEUR/GW,,,
+World,HHT_Electric_Furnace,2045,7.0,,MEUR/GW,,,
 World,HHT_Gas,2045,19.4,,MEUR/GW,,,
-World,HHT_Geothermal,2045,2920,,MEUR/GW,,,
+World,HHT_Geothermal,2045,2920.0,,MEUR/GW,,,
 World,HHT_Oil,2045,3.9,,MEUR/GW,,,
-World,HHT_H2,2045,0,,MEUR/GW,,,
+World,HHT_H2,2045,0.0,,MEUR/GW,,,
 World,HLT_Biomass,2045,45.1,,MEUR/GW,,,
-World,HLT_Coal_Hardcoal,2045,40,,MEUR/GW,,,
-World,HLT_Coal_Lignite,2045,50,,MEUR/GW,,,
-World,HLT_Electric_Furnace,2045,24,,MEUR/GW,,,
+World,HLT_Coal_Hardcoal,2045,40.0,,MEUR/GW,,,
+World,HLT_Coal_Lignite,2045,50.0,,MEUR/GW,,,
+World,HLT_Electric_Furnace,2045,24.0,,MEUR/GW,,,
 World,HLT_Gas,2045,19.4,,MEUR/GW,,,
 World,HLT_Geothermal,2045,14.15,,MEUR/GW,,,
 World,HLT_Heatpump,2045,6.7,,MEUR/GW,,,
@@ -1054,10 +1054,10 @@ World,HLT_Rooftop_Commercial,2045,18.5,,MEUR/GW,,,
 World,HLT_Rooftop_Residential,2045,18.1,,MEUR/GW,,,
 World,HLT_Oil,2045,14.85,,MEUR/GW,,,
 World,P_Coal_Hardcoal,2045,31.5,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Coal_Lignite,2045,39,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Lignite,2045,39.0,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Nuclear,2045,106.5,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Oil,2045,6.06,,MEUR/GW,,,
-World,P_Biomass,2045,35,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Biomass,2045,35.0,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,PSNG_Air_Bio,2045,0.328501596,,MEUR/GW,,,
 World,PSNG_Air_Conv,2045,0.323447725,,MEUR/GW,,,
 World,PSNG_Air_H2,2045,0.391169593,,MEUR/GW,,,
@@ -1069,7 +1069,7 @@ World,PSNG_Road_ICE,2045,1.200734694,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2045,1.656293878,,MEUR/GW,,,
 World,RES_CSP,2045,156.579,,MEUR/GW,,,
 World,RES_CSP_Storage,2045,159.979,,MEUR/GW,,,
-World,RES_Geothermal,2045,80,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Geothermal,2045,80.0,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2045,49.5,,MEUR/GW,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Hydro_Small,2045,76.8,,MEUR/GW,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Ocean,2045,25.75,,MEUR/GW,Tidal and waves- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -1079,26 +1079,26 @@ World,RES_PV_Utility_Avg,2045,4.04,,MEUR/GW,PV fixed tilted- Table 1.7- High cos
 World,RES_PV_Utility_Inf,2045,4.04,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Opt,2045,4.04,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Offshore_Transitional,2045,28.5,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Shallow,2045,26,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2045,26.0,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Offshore_Deep,2045,39.5,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Wind_Onshore_Avg,2045,18.3,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,RES_Wind_Onshore_Inf,2045,18.3,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,RES_Wind_Onshore_Opt,2045,18.3,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,X_Electrolysis,2045,8.01,,MEUR/GW,,,
-World,X_Fuel_Cell,2045,0,,MEUR/GW,,,
+World,X_Fuel_Cell,2045,0.0,,MEUR/GW,,,
 World,X_Methanation,2045,10.4,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CCS_Biomass,2045,120,,MEUR/GW,,,
+World,CCS_Biomass,2045,120.0,,MEUR/GW,,,
 World,CHP_Biomass_CCS,2045,91.2525,,MEUR/GW,,,
 World,P_Biomass_CCS,2045,62.2,,MEUR/GW,Steam turbine biomass solid conventional w.CCS- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,HLR_Gas_Boiler,2045,6.825,,MEUR/GW,,,
 World,HLR_Gas_CHP,2045,34.1775,,MEUR/GW,,,
 World,HLR_Biomass,2045,71.75,,MEUR/GW,,,
 World,HLR_Biomass_CHP,2045,92.575,,MEUR/GW,,,
-World,HLR_Hardcoal,2045,56,,MEUR/GW,,,
-World,HLR_Lignite,2045,70,,MEUR/GW,,,
+World,HLR_Hardcoal,2045,56.0,,MEUR/GW,,,
+World,HLR_Lignite,2045,70.0,,MEUR/GW,,,
 World,HLR_Hardcoal_CHP,2045,71.05,,MEUR/GW,,,
 World,HLR_Lignite_CHP,2045,71.05,,MEUR/GW,,,
-World,HLR_Direct_Electric,2045,28,,MEUR/GW,,,
+World,HLR_Direct_Electric,2045,28.0,,MEUR/GW,,,
 World,HLR_Solar_Thermal,2045,27.055,,MEUR/GW,,,
 World,HLR_Heatpump_Aerial,2045,26.35,,MEUR/GW,DEA - Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HLR_Heatpump_Ground,2045,19.6,,MEUR/GW,DEA - Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -1108,15 +1108,15 @@ World,HLI_Gas_Boiler,2045,6.825,,MEUR/GW,,,
 World,HLI_Gas_CHP,2045,17.01,,MEUR/GW,,,
 World,HLI_Biomass,2045,71.75,,MEUR/GW,,,
 World,HLI_Biomass_CHP,2045,92.575,,MEUR/GW,,,
-World,HLI_Hardcoal,2045,56,,MEUR/GW,,,
-World,HLI_Lignite,2045,70,,MEUR/GW,,,
+World,HLI_Hardcoal,2045,56.0,,MEUR/GW,,,
+World,HLI_Lignite,2045,70.0,,MEUR/GW,,,
 World,HLI_Hardcoal_CHP,2045,71.05,,MEUR/GW,,,
 World,HLI_Lignite_CHP,2045,71.05,,MEUR/GW,,,
 World,HLI_Solar_Thermal,2045,27.055,,MEUR/GW,,,
 World,HLI_Fuelcell,2045,63.175,,MEUR/GW,,,
 World,HLI_Geothermal,2045,133.525,,MEUR/GW,,,
 World,HLI_Oil_Boiler,2045,17.325,,MEUR/GW,,,
-World,HLI_Direct_Electric,2045,28,,MEUR/GW,,,
+World,HLI_Direct_Electric,2045,28.0,,MEUR/GW,,,
 World,HLI_Oil_CHP,2045,32.55,,MEUR/GW,,,
 World,HMI_Gas,2045,2.485,,MEUR/GW,,,
 World,HMI_H2,2045,4.795,,MEUR/GW,,,
@@ -1154,7 +1154,7 @@ DE,RES_Wood,2045,0.01,,MEUR/GW,,,
 DE,RES_Residues,2045,0.01,,MEUR/GW,,,
 DE,RES_Paper_Cardboard,2045,0.01,,MEUR/GW,,,
 DE,RES_Roundwood,2045,0.01,,MEUR/GW,,,
-DE,RES_Biogas,2045,609,,MEUR/GW,,,
+DE,RES_Biogas,2045,609.0,,MEUR/GW,,,
 DE,X_Gasifier,2045,0.742857143,,MEUR/GW,,,
 DE,X_Liquifier,2045,0.742857143,,MEUR/GW,,,
 DE,FRT_Road_LNG,2045,5.772594752,,MEUR/GW,,,
@@ -1164,22 +1164,22 @@ DE,P_H2_OCGT,2045,432.15,,MEUR/GW,,,
 DE,X_DAC_LT,2045,161.9428571,,MEUR/GW,,,
 DE,X_DAC_HT,2045,180.8857143,,MEUR/GW,,,
 DE,P_Gas_CCGT,2045,19.5,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,P_Gas_OCGT,2045,8,,MEUR/GW,,,
-DE,P_Gas_Engines,2045,9,,MEUR/GW,,,
+DE,P_Gas_OCGT,2045,8.0,,MEUR/GW,,,
+DE,P_Gas_Engines,2045,9.0,,MEUR/GW,,,
 DE,CHP_Biomass_Solid,2045,43.01,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal,2045,44,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal,2045,44.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite,2045,41.8,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural,2045,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas,2045,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_SynGas,2045,18.7,,MEUR/GW,,,
 DE,CHP_Biomass_Solid_CCS,2045,40.7,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2045,66,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal_CCS,2045,66.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite_CCS,2045,62.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural_CCS,2045,28.05,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,2045,28.05,,MEUR/GW,,,
 DE,CHP_Hydrogen_FuelCell,2045,16.85714286,,MEUR/GW,,,
-DE,HLI_Convert_DH,2045,1,,MEUR/GW,,,
-DE,HLR_Convert_DH,2045,1,,MEUR/GW,,,
+DE,HLI_Convert_DH,2045,1.0,,MEUR/GW,,,
+DE,HLR_Convert_DH,2045,1.0,,MEUR/GW,,,
 DE,CHP_Oil,2045,32.55,,MEUR/GW,,,
 DE,RES_PV_Utility_Tracking,2045,4.44,,MEUR/GW,PV single-axis tracking- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,CHP_Coal_Hardcoal,2050,46.7,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -1205,26 +1205,26 @@ World,FRT_Road_PHEV,2050,7.442040816,,MEUR/GW,,,
 World,FRT_Ship_Bio,2050,8.430232558,,MEUR/GW,,,
 World,FRT_Ship_Conv,2050,8.430232558,,MEUR/GW,,,
 World,HHT_Biomass,2050,42.9,,MEUR/GW,,,
-World,HHT_Coal_Hardcoal,2050,40,,MEUR/GW,,,
-World,HHT_Coal_Lignite,2050,50,,MEUR/GW,,,
-World,HHT_Electric_Furnace,2050,7,,MEUR/GW,,,
+World,HHT_Coal_Hardcoal,2050,40.0,,MEUR/GW,,,
+World,HHT_Coal_Lignite,2050,50.0,,MEUR/GW,,,
+World,HHT_Electric_Furnace,2050,7.0,,MEUR/GW,,,
 World,HHT_Gas,2050,19.4,,MEUR/GW,,,
-World,HHT_Geothermal,2050,2830,,MEUR/GW,,,
+World,HHT_Geothermal,2050,2830.0,,MEUR/GW,,,
 World,HHT_Oil,2050,3.9,,MEUR/GW,,,
-World,HHT_H2,2050,0,,MEUR/GW,,,
+World,HHT_H2,2050,0.0,,MEUR/GW,,,
 World,HLT_Biomass,2050,42.9,,MEUR/GW,,,
-World,HLT_Coal_Hardcoal,2050,40,,MEUR/GW,,,
-World,HLT_Coal_Lignite,2050,50,,MEUR/GW,,,
-World,HLT_Electric_Furnace,2050,24,,MEUR/GW,,,
+World,HLT_Coal_Hardcoal,2050,40.0,,MEUR/GW,,,
+World,HLT_Coal_Lignite,2050,50.0,,MEUR/GW,,,
+World,HLT_Electric_Furnace,2050,24.0,,MEUR/GW,,,
 World,HLT_Gas,2050,19.4,,MEUR/GW,,,
 World,HLT_Geothermal,2050,13.7,,MEUR/GW,,,
 World,HLT_Heatpump,2050,6.5,,MEUR/GW,,,
-World,HLT_Rooftop_Commercial,2050,18,,MEUR/GW,,,
+World,HLT_Rooftop_Commercial,2050,18.0,,MEUR/GW,,,
 World,HLT_Rooftop_Residential,2050,17.6,,MEUR/GW,,,
 World,HLT_Oil,2050,14.85,,MEUR/GW,,,
-World,P_Coal_Hardcoal,2050,31,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Coal_Lignite,2050,39,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Nuclear,2050,105,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Hardcoal,2050,31.0,,MEUR/GW,Steam turbine coal supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Coal_Lignite,2050,39.0,,MEUR/GW,Steam turbine lignite supercritical- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Nuclear,2050,105.0,,MEUR/GW,Nuclear III gen. (no economies of scale)- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Oil,2050,5.91,,MEUR/GW,,,
 World,P_Biomass,2050,32.9,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,PSNG_Air_Bio,2050,0.318393855,,MEUR/GW,,,
@@ -1238,7 +1238,7 @@ World,PSNG_Road_ICE,2050,1.000857143,,MEUR/GW,,,
 World,PSNG_Road_PHEV,2050,1.332342857,,MEUR/GW,,,
 World,RES_CSP,2050,152.76,,MEUR/GW,,,
 World,RES_CSP_Storage,2050,155.76,,MEUR/GW,,,
-World,RES_Geothermal,2050,80,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Geothermal,2050,80.0,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_Hydro_Large,2050,49.5,,MEUR/GW,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Hydro_Small,2050,76.8,,MEUR/GW,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,RES_Ocean,2050,23.5,,MEUR/GW,Tidal and waves- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -1247,27 +1247,27 @@ World,RES_PV_Rooftop_Residential,2050,4.36,,MEUR/GW,PV rooftop – residential- 
 World,RES_PV_Utility_Avg,2050,3.7,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Inf,2050,3.7,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,RES_PV_Utility_Opt,2050,3.7,,MEUR/GW,PV fixed tilted- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Transitional,2050,28,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Shallow,2050,26,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Offshore_Deep,2050,39,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,RES_Wind_Onshore_Avg,2050,18,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
-World,RES_Wind_Onshore_Inf,2050,18,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
-World,RES_Wind_Onshore_Opt,2050,18,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
+World,RES_Wind_Offshore_Transitional,2050,28.0,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Shallow,2050,26.0,,MEUR/GW,Wind-offshore - shallow waters- near-shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Offshore_Deep,2050,39.0,,MEUR/GW,Wind-offshore - deep waters- distant from shore- high resource area- Power&Heat- EU Reference Scenario 2020,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,RES_Wind_Onshore_Avg,2050,18.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
+World,RES_Wind_Onshore_Inf,2050,18.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
+World,RES_Wind_Onshore_Opt,2050,18.0,,MEUR/GW,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,Luka Garibashvili <lukaga@stud.ntnu.no>,
 World,X_Electrolysis,2050,7.44,,MEUR/GW,,,
-World,X_Fuel_Cell,2050,0,,MEUR/GW,,,
+World,X_Fuel_Cell,2050,0.0,,MEUR/GW,,,
 World,X_Methanation,2050,9.7,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CCS_Biomass,2050,120,,MEUR/GW,,,
+World,CCS_Biomass,2050,120.0,,MEUR/GW,,,
 World,CHP_Biomass_CCS,2050,87.63,,MEUR/GW,,,
 World,P_Biomass_CCS,2050,61.4,,MEUR/GW,Steam turbine biomass solid conventional w.CCS- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,HLR_Gas_Boiler,2050,6.825,,MEUR/GW,,,
 World,HLR_Gas_CHP,2050,34.1775,,MEUR/GW,,,
 World,HLR_Biomass,2050,68.25,,MEUR/GW,,,
 World,HLR_Biomass_CHP,2050,88.9,,MEUR/GW,,,
-World,HLR_Hardcoal,2050,56,,MEUR/GW,,,
-World,HLR_Lignite,2050,70,,MEUR/GW,,,
+World,HLR_Hardcoal,2050,56.0,,MEUR/GW,,,
+World,HLR_Lignite,2050,70.0,,MEUR/GW,,,
 World,HLR_Hardcoal_CHP,2050,71.05,,MEUR/GW,,,
 World,HLR_Lignite_CHP,2050,71.05,,MEUR/GW,,,
-World,HLR_Direct_Electric,2050,28,,MEUR/GW,,,
+World,HLR_Direct_Electric,2050,28.0,,MEUR/GW,,,
 World,HLR_Solar_Thermal,2050,27.055,,MEUR/GW,,,
 World,HLR_Heatpump_Aerial,2050,25.8,,MEUR/GW,DEA - Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HLR_Heatpump_Ground,2050,19.3,,MEUR/GW,DEA - Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -1277,15 +1277,15 @@ World,HLI_Gas_Boiler,2050,6.825,,MEUR/GW,,,
 World,HLI_Gas_CHP,2050,17.01,,MEUR/GW,,,
 World,HLI_Biomass,2050,68.25,,MEUR/GW,,,
 World,HLI_Biomass_CHP,2050,88.9,,MEUR/GW,,,
-World,HLI_Hardcoal,2050,56,,MEUR/GW,,,
-World,HLI_Lignite,2050,70,,MEUR/GW,,,
+World,HLI_Hardcoal,2050,56.0,,MEUR/GW,,,
+World,HLI_Lignite,2050,70.0,,MEUR/GW,,,
 World,HLI_Hardcoal_CHP,2050,71.05,,MEUR/GW,,,
 World,HLI_Lignite_CHP,2050,71.05,,MEUR/GW,,,
 World,HLI_Solar_Thermal,2050,27.055,,MEUR/GW,,,
 World,HLI_Fuelcell,2050,60.9,,MEUR/GW,,,
 World,HLI_Geothermal,2050,126.35,,MEUR/GW,,,
 World,HLI_Oil_Boiler,2050,17.325,,MEUR/GW,,,
-World,HLI_Direct_Electric,2050,28,,MEUR/GW,,,
+World,HLI_Direct_Electric,2050,28.0,,MEUR/GW,,,
 World,HLI_Oil_CHP,2050,32.55,,MEUR/GW,,,
 World,HMI_Gas,2050,2.485,,MEUR/GW,,,
 World,HMI_H2,2050,4.795,,MEUR/GW,,,
@@ -1323,7 +1323,7 @@ DE,RES_Wood,2050,0.01,,MEUR/GW,,,
 DE,RES_Residues,2050,0.01,,MEUR/GW,,,
 DE,RES_Paper_Cardboard,2050,0.01,,MEUR/GW,,,
 DE,RES_Roundwood,2050,0.01,,MEUR/GW,,,
-DE,RES_Biogas,2050,589,,MEUR/GW,,,
+DE,RES_Biogas,2050,589.0,,MEUR/GW,,,
 DE,X_Gasifier,2050,0.7,,MEUR/GW,,,
 DE,X_Liquifier,2050,0.7,,MEUR/GW,,,
 DE,FRT_Road_LNG,2050,5.714285714,,MEUR/GW,,,
@@ -1332,22 +1332,22 @@ DE,PSNG_Road_LNG,2050,20.01714286,,MEUR/GW,,,
 DE,P_H2_OCGT,2050,428.925,,MEUR/GW,,,
 DE,X_DAC_LT,2050,139.3,,MEUR/GW,,,
 DE,X_DAC_HT,2050,155.4,,MEUR/GW,,,
-DE,P_Gas_CCGT,2050,19,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,P_Gas_OCGT,2050,8,,MEUR/GW,,,
-DE,P_Gas_Engines,2050,9,,MEUR/GW,,,
+DE,P_Gas_CCGT,2050,19.0,,MEUR/GW,Gas turbine combined cycle gas advanced- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+DE,P_Gas_OCGT,2050,8.0,,MEUR/GW,,,
+DE,P_Gas_Engines,2050,9.0,,MEUR/GW,,,
 DE,CHP_Biomass_Solid,2050,43.01,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal,2050,44,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal,2050,44.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite,2050,41.8,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural,2050,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas,2050,18.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_SynGas,2050,18.7,,MEUR/GW,,,
 DE,CHP_Biomass_Solid_CCS,2050,40.7,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2050,66,,MEUR/GW,,,
+DE,CHP_Coal_Hardcoal_CCS,2050,66.0,,MEUR/GW,,,
 DE,CHP_Coal_Lignite_CCS,2050,62.7,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Natural_CCS,2050,28.05,,MEUR/GW,,,
 DE,CHP_Gas_CCGT_Biogas_CCS,2050,28.05,,MEUR/GW,,,
-DE,CHP_Hydrogen_FuelCell,2050,16,,MEUR/GW,,,
-DE,HLI_Convert_DH,2050,1,,MEUR/GW,,,
-DE,HLR_Convert_DH,2050,1,,MEUR/GW,,,
+DE,CHP_Hydrogen_FuelCell,2050,16.0,,MEUR/GW,,,
+DE,HLI_Convert_DH,2050,1.0,,MEUR/GW,,,
+DE,HLR_Convert_DH,2050,1.0,,MEUR/GW,,,
 DE,CHP_Oil,2050,32.55,,MEUR/GW,,,
 DE,RES_PV_Utility_Tracking,2050,4.07,,MEUR/GW,PV single-axis tracking- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
