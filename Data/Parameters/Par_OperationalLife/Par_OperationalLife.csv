@@ -54,18 +54,18 @@ HLI_Hardcoal,26,,Years,,,
 HLI_Lignite,26,,Years,,,
 HLI_Oil_Boiler,21,,Years,,,
 HLI_Solar_Thermal,21,,Years,,,
-HLR_Biomass,26,,Years,,,
-HLR_Convert_DH,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
-HLR_Direct_Electric,26,,Years,,,
-HLR_Gas_Boiler,26,,Years,,,
-HLR_Geothermal,41,,Years,,,
-HLR_H2_Boiler,36,,Years,,,
-HLR_Hardcoal,26,,Years,,,
-HLR_Heatpump_Aerial,21,,Years,,,
-HLR_Heatpump_Ground,20,,Years,DEA – Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,13.12.2023,Frida Sæther <frida.sather@sintef.no>
-HLR_Lignite,26,,Years,,,
-HLR_Oil_Boiler,26,,Years,,,
-HLR_Solar_Thermal,26,,Years,,,
+HB_Biomass,26,,Years,,,
+HB_Convert_DH,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+HB_Direct_Electric,26,,Years,,,
+HB_Gas_Boiler,26,,Years,,,
+HB_Geothermal,41,,Years,,,
+HB_H2_Boiler,36,,Years,,,
+HB_Hardcoal,26,,Years,,,
+HB_Heatpump_Aerial,21,,Years,,,
+HB_Heatpump_Ground,20,,Years,DEA – Technology data heating installations - Heat pump Ground-water - see Assumption.txt,13.12.2023,Frida Sæther <frida.sather@sintef.no>
+HB_Lignite,26,,Years,,,
+HB_Oil_Boiler,26,,Years,,,
+HB_Solar_Thermal,26,,Years,,,
 HMI_Biomass,31,,Years,,,
 HMI_Gas,31,,Years,,,
 HMI_Gas_CCS,26,,Years,,,
@@ -102,29 +102,29 @@ R_Coal_Lignite,31,,Years,,,
 R_Gas,31,,Years,,,
 R_Nuclear,31,,Years,,,
 R_Oil,31,,Years,,,
-RES_Biogas,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
-RES_CSP,31,,Years,,,
-RES_Geothermal,30,,Years,Geothermal medium enthalpy EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
-RES_Grass,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
-RES_Hydro_Large,60,,Years,Lakes EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
-RES_Hydro_Small,50,,Years,Run of river EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
-RES_Ocean,80,,Years,Tidal and waves EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
-RES_Paper_Cardboard,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
-RES_PV_Rooftop_Commercial,35,,Years,Energy Agency Denmark (2020) Rooftop Comm&industrial,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_PV_Rooftop_Residential,35,,Years,Energy Agency Denmark (2020) Rooftop Residential,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_PV_Utility_Avg,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_PV_Utility_Inf,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_PV_Utility_Opt,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_PV_Utility_Tracking,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_Residues,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
-RES_Roundwood,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
-RES_Wind_Offshore_Deep,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_Wind_Offshore_Shallow,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_Wind_Offshore_Transitional,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_Wind_Onshore_Avg,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_Wind_Onshore_Inf,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_Wind_Onshore_Opt,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-RES_Wood,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+R_Biogas,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_CSP,31,,Years,,,
+P_Geothermal,30,,Years,Geothermal medium enthalpy EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+R_Grass,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_Hydro_Large,60,,Years,Lakes EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+P_Hydro_Small,50,,Years,Run of river EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+P_Ocean,80,,Years,Tidal and waves EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+R_Paper_Cardboard,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_PV_Rooftop_Commercial,35,,Years,Energy Agency Denmark (2020) Rooftop Comm&industrial,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_PV_Rooftop_Residential,35,,Years,Energy Agency Denmark (2020) Rooftop Residential,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_PV_Utility_Avg,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_PV_Utility_Inf,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_PV_Utility_Opt,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_PV_Utility_Tracking,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+R_Residues,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+R_Roundwood,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_Wind_Offshore_Deep,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_Wind_Offshore_Shallow,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_Wind_Offshore_Transitional,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_Wind_Onshore_Avg,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_Wind_Onshore_Inf,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_Wind_Onshore_Opt,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+R_Wood,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 X_Biofuel,31,,Years,,,
 X_DAC_HT,21,,Years,,,
 X_DAC_LT,21,,Years,,,
