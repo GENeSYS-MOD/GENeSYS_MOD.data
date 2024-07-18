@@ -21,7 +21,7 @@ AT,D_CAES,0.05,,Percent,Assumption,08.09.2023,Konstantin Löffler <kl@wip.tu-ber
 AT,D_Gas_H2,0.05,,Percent,Assumption,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 AT,D_Gas_Methane,0.05,,Percent,Assumption,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 AT,D_Heat_HLI,0.05,,Percent,Assumption,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-AT,D_Heat_HLR,0.05,,Percent,Assumption,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+AT,D_Heat_HB,0.05,,Percent,Assumption,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 AT,D_PHS,0.05,,Percent,Assumption,09.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 AT,FRT_Rail_Conv,0.05,,Percent,Assumption,10.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 AT,FRT_Rail_Electric,0.05,,Percent,Assumption,11.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -163,7 +163,7 @@ BE,D_CAES,0.05,,Percent,Assumption,01.02.2024,Konstantin Löffler <kl@wip.tu-ber
 BE,D_Gas_H2,0.05,,Percent,Assumption,02.02.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 BE,D_Gas_Methane,0.05,,Percent,Assumption,03.02.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 BE,D_Heat_HLI,0.05,,Percent,Assumption,04.02.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
-BE,D_Heat_HLR,0.05,,Percent,Assumption,05.02.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+BE,D_Heat_HB,0.05,,Percent,Assumption,05.02.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 BE,D_PHS,0.05,,Percent,Assumption,06.02.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 BE,FRT_Rail_Conv,0.05,,Percent,Assumption,07.02.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 BE,FRT_Rail_Electric,0.05,,Percent,Assumption,08.02.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -305,7 +305,7 @@ BG,D_CAES,0.05,,Percent,Assumption,30.06.2024,Konstantin Löffler <kl@wip.tu-ber
 BG,D_Gas_H2,0.05,,Percent,Assumption,01.07.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 BG,D_Gas_Methane,0.05,,Percent,Assumption,02.07.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 BG,D_Heat_HLI,0.05,,Percent,Assumption,03.07.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
-BG,D_Heat_HLR,0.05,,Percent,Assumption,04.07.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+BG,D_Heat_HB,0.05,,Percent,Assumption,04.07.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 BG,D_PHS,0.05,,Percent,Assumption,05.07.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 BG,FRT_Rail_Conv,0.05,,Percent,Assumption,06.07.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 BG,FRT_Rail_Electric,0.05,,Percent,Assumption,07.07.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -447,7 +447,7 @@ CH,D_CAES,0.05,,Percent,Assumption,27.11.2024,Konstantin Löffler <kl@wip.tu-ber
 CH,D_Gas_H2,0.05,,Percent,Assumption,28.11.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 CH,D_Gas_Methane,0.05,,Percent,Assumption,29.11.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 CH,D_Heat_HLI,0.05,,Percent,Assumption,30.11.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
-CH,D_Heat_HLR,0.05,,Percent,Assumption,01.12.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+CH,D_Heat_HB,0.05,,Percent,Assumption,01.12.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 CH,D_PHS,0.05,,Percent,Assumption,02.12.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 CH,FRT_Rail_Conv,0.05,,Percent,Assumption,03.12.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 CH,FRT_Rail_Electric,0.05,,Percent,Assumption,04.12.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -589,7 +589,7 @@ CZ,D_CAES,0.05,,Percent,Assumption,26.04.2025,Konstantin Löffler <kl@wip.tu-ber
 CZ,D_Gas_H2,0.05,,Percent,Assumption,27.04.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
 CZ,D_Gas_Methane,0.05,,Percent,Assumption,28.04.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
 CZ,D_Heat_HLI,0.05,,Percent,Assumption,29.04.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
-CZ,D_Heat_HLR,0.05,,Percent,Assumption,30.04.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
+CZ,D_Heat_HB,0.05,,Percent,Assumption,30.04.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
 CZ,D_PHS,0.05,,Percent,Assumption,01.05.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
 CZ,FRT_Rail_Conv,0.05,,Percent,Assumption,02.05.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
 CZ,FRT_Rail_Electric,0.05,,Percent,Assumption,03.05.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -731,7 +731,7 @@ DE,D_CAES,0.05,,Percent,Assumption,23.09.2025,Konstantin Löffler <kl@wip.tu-ber
 DE,D_Gas_H2,0.05,,Percent,Assumption,24.09.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
 DE,D_Gas_Methane,0.05,,Percent,Assumption,25.09.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
 DE,D_Heat_HLI,0.05,,Percent,Assumption,26.09.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
-DE,D_Heat_HLR,0.05,,Percent,Assumption,27.09.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
+DE,D_Heat_HB,0.05,,Percent,Assumption,27.09.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
 DE,D_PHS,0.05,,Percent,Assumption,28.09.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
 DE,FRT_Rail_Conv,0.05,,Percent,Assumption,29.09.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
 DE,FRT_Rail_Electric,0.05,,Percent,Assumption,30.09.2025,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -873,7 +873,7 @@ DK,D_CAES,0.05,,Percent,Assumption,20.02.2026,Konstantin Löffler <kl@wip.tu-ber
 DK,D_Gas_H2,0.05,,Percent,Assumption,21.02.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 DK,D_Gas_Methane,0.05,,Percent,Assumption,22.02.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 DK,D_Heat_HLI,0.05,,Percent,Assumption,23.02.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
-DK,D_Heat_HLR,0.05,,Percent,Assumption,24.02.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
+DK,D_Heat_HB,0.05,,Percent,Assumption,24.02.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 DK,D_PHS,0.05,,Percent,Assumption,25.02.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 DK,FRT_Rail_Conv,0.05,,Percent,Assumption,26.02.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 DK,FRT_Rail_Electric,0.05,,Percent,Assumption,27.02.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -1015,7 +1015,7 @@ EE,D_CAES,0.05,,Percent,Assumption,20.07.2026,Konstantin Löffler <kl@wip.tu-ber
 EE,D_Gas_H2,0.05,,Percent,Assumption,21.07.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 EE,D_Gas_Methane,0.05,,Percent,Assumption,22.07.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 EE,D_Heat_HLI,0.05,,Percent,Assumption,23.07.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
-EE,D_Heat_HLR,0.05,,Percent,Assumption,24.07.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
+EE,D_Heat_HB,0.05,,Percent,Assumption,24.07.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 EE,D_PHS,0.05,,Percent,Assumption,25.07.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 EE,FRT_Rail_Conv,0.05,,Percent,Assumption,26.07.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 EE,FRT_Rail_Electric,0.05,,Percent,Assumption,27.07.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -1157,7 +1157,7 @@ ES,D_CAES,0.05,,Percent,Assumption,17.12.2026,Konstantin Löffler <kl@wip.tu-ber
 ES,D_Gas_H2,0.05,,Percent,Assumption,18.12.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 ES,D_Gas_Methane,0.05,,Percent,Assumption,19.12.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 ES,D_Heat_HLI,0.05,,Percent,Assumption,20.12.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
-ES,D_Heat_HLR,0.05,,Percent,Assumption,21.12.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
+ES,D_Heat_HB,0.05,,Percent,Assumption,21.12.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 ES,D_PHS,0.05,,Percent,Assumption,22.12.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 ES,FRT_Rail_Conv,0.05,,Percent,Assumption,23.12.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
 ES,FRT_Rail_Electric,0.05,,Percent,Assumption,24.12.2026,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -1299,7 +1299,7 @@ FI,D_CAES,0.05,,Percent,Assumption,16.05.2027,Konstantin Löffler <kl@wip.tu-ber
 FI,D_Gas_H2,0.05,,Percent,Assumption,17.05.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
 FI,D_Gas_Methane,0.05,,Percent,Assumption,18.05.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
 FI,D_Heat_HLI,0.05,,Percent,Assumption,19.05.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
-FI,D_Heat_HLR,0.05,,Percent,Assumption,20.05.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
+FI,D_Heat_HB,0.05,,Percent,Assumption,20.05.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
 FI,D_PHS,0.05,,Percent,Assumption,21.05.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
 FI,FRT_Rail_Conv,0.05,,Percent,Assumption,22.05.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
 FI,FRT_Rail_Electric,0.05,,Percent,Assumption,23.05.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -1441,7 +1441,7 @@ FR,D_CAES,0.05,,Percent,Assumption,13.10.2027,Konstantin Löffler <kl@wip.tu-ber
 FR,D_Gas_H2,0.05,,Percent,Assumption,14.10.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
 FR,D_Gas_Methane,0.05,,Percent,Assumption,15.10.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
 FR,D_Heat_HLI,0.05,,Percent,Assumption,16.10.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
-FR,D_Heat_HLR,0.05,,Percent,Assumption,17.10.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
+FR,D_Heat_HB,0.05,,Percent,Assumption,17.10.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
 FR,D_PHS,0.05,,Percent,Assumption,18.10.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
 FR,FRT_Rail_Conv,0.05,,Percent,Assumption,19.10.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
 FR,FRT_Rail_Electric,0.05,,Percent,Assumption,20.10.2027,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -1583,7 +1583,7 @@ GR,D_CAES,0.05,,Percent,Assumption,11.03.2028,Konstantin Löffler <kl@wip.tu-ber
 GR,D_Gas_H2,0.05,,Percent,Assumption,12.03.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
 GR,D_Gas_Methane,0.05,,Percent,Assumption,13.03.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
 GR,D_Heat_HLI,0.05,,Percent,Assumption,14.03.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
-GR,D_Heat_HLR,0.05,,Percent,Assumption,15.03.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
+GR,D_Heat_HB,0.05,,Percent,Assumption,15.03.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
 GR,D_PHS,0.05,,Percent,Assumption,16.03.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
 GR,FRT_Rail_Conv,0.05,,Percent,Assumption,17.03.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
 GR,FRT_Rail_Electric,0.05,,Percent,Assumption,18.03.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -1725,7 +1725,7 @@ HR,D_CAES,0.05,,Percent,Assumption,08.08.2028,Konstantin Löffler <kl@wip.tu-ber
 HR,D_Gas_H2,0.05,,Percent,Assumption,09.08.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
 HR,D_Gas_Methane,0.05,,Percent,Assumption,10.08.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
 HR,D_Heat_HLI,0.05,,Percent,Assumption,11.08.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
-HR,D_Heat_HLR,0.05,,Percent,Assumption,12.08.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
+HR,D_Heat_HB,0.05,,Percent,Assumption,12.08.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
 HR,D_PHS,0.05,,Percent,Assumption,13.08.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
 HR,FRT_Rail_Conv,0.05,,Percent,Assumption,14.08.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
 HR,FRT_Rail_Electric,0.05,,Percent,Assumption,15.08.2028,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -1867,7 +1867,7 @@ HU,D_CAES,0.05,,Percent,Assumption,05.01.2029,Konstantin Löffler <kl@wip.tu-ber
 HU,D_Gas_H2,0.05,,Percent,Assumption,06.01.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 HU,D_Gas_Methane,0.05,,Percent,Assumption,07.01.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 HU,D_Heat_HLI,0.05,,Percent,Assumption,08.01.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
-HU,D_Heat_HLR,0.05,,Percent,Assumption,09.01.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
+HU,D_Heat_HB,0.05,,Percent,Assumption,09.01.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 HU,D_PHS,0.05,,Percent,Assumption,10.01.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 HU,FRT_Rail_Conv,0.05,,Percent,Assumption,11.01.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 HU,FRT_Rail_Electric,0.05,,Percent,Assumption,12.01.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -2009,7 +2009,7 @@ IE,D_CAES,0.05,,Percent,Assumption,04.06.2029,Konstantin Löffler <kl@wip.tu-ber
 IE,D_Gas_H2,0.05,,Percent,Assumption,05.06.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 IE,D_Gas_Methane,0.05,,Percent,Assumption,06.06.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 IE,D_Heat_HLI,0.05,,Percent,Assumption,07.06.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
-IE,D_Heat_HLR,0.05,,Percent,Assumption,08.06.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
+IE,D_Heat_HB,0.05,,Percent,Assumption,08.06.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 IE,D_PHS,0.05,,Percent,Assumption,09.06.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 IE,FRT_Rail_Conv,0.05,,Percent,Assumption,10.06.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 IE,FRT_Rail_Electric,0.05,,Percent,Assumption,11.06.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -2151,7 +2151,7 @@ IT,D_CAES,0.05,,Percent,Assumption,01.11.2029,Konstantin Löffler <kl@wip.tu-ber
 IT,D_Gas_H2,0.05,,Percent,Assumption,02.11.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 IT,D_Gas_Methane,0.05,,Percent,Assumption,03.11.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 IT,D_Heat_HLI,0.05,,Percent,Assumption,04.11.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
-IT,D_Heat_HLR,0.05,,Percent,Assumption,05.11.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
+IT,D_Heat_HB,0.05,,Percent,Assumption,05.11.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 IT,D_PHS,0.05,,Percent,Assumption,06.11.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 IT,FRT_Rail_Conv,0.05,,Percent,Assumption,07.11.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
 IT,FRT_Rail_Electric,0.05,,Percent,Assumption,08.11.2029,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -2293,7 +2293,7 @@ LT,D_CAES,0.05,,Percent,Assumption,31.03.2030,Konstantin Löffler <kl@wip.tu-ber
 LT,D_Gas_H2,0.05,,Percent,Assumption,01.04.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
 LT,D_Gas_Methane,0.05,,Percent,Assumption,02.04.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
 LT,D_Heat_HLI,0.05,,Percent,Assumption,03.04.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
-LT,D_Heat_HLR,0.05,,Percent,Assumption,04.04.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
+LT,D_Heat_HB,0.05,,Percent,Assumption,04.04.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
 LT,D_PHS,0.05,,Percent,Assumption,05.04.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
 LT,FRT_Rail_Conv,0.05,,Percent,Assumption,06.04.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
 LT,FRT_Rail_Electric,0.05,,Percent,Assumption,07.04.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -2435,7 +2435,7 @@ LU,D_CAES,0.05,,Percent,Assumption,28.08.2030,Konstantin Löffler <kl@wip.tu-ber
 LU,D_Gas_H2,0.05,,Percent,Assumption,29.08.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
 LU,D_Gas_Methane,0.05,,Percent,Assumption,30.08.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
 LU,D_Heat_HLI,0.05,,Percent,Assumption,31.08.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
-LU,D_Heat_HLR,0.05,,Percent,Assumption,01.09.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
+LU,D_Heat_HB,0.05,,Percent,Assumption,01.09.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
 LU,D_PHS,0.05,,Percent,Assumption,02.09.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
 LU,FRT_Rail_Conv,0.05,,Percent,Assumption,03.09.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
 LU,FRT_Rail_Electric,0.05,,Percent,Assumption,04.09.2030,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -2577,7 +2577,7 @@ LV,D_CAES,0.05,,Percent,Assumption,25.01.2031,Konstantin Löffler <kl@wip.tu-ber
 LV,D_Gas_H2,0.05,,Percent,Assumption,26.01.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 LV,D_Gas_Methane,0.05,,Percent,Assumption,27.01.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 LV,D_Heat_HLI,0.05,,Percent,Assumption,28.01.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
-LV,D_Heat_HLR,0.05,,Percent,Assumption,29.01.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
+LV,D_Heat_HB,0.05,,Percent,Assumption,29.01.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 LV,D_PHS,0.05,,Percent,Assumption,30.01.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 LV,FRT_Rail_Conv,0.05,,Percent,Assumption,31.01.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 LV,FRT_Rail_Electric,0.05,,Percent,Assumption,01.02.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -2719,7 +2719,7 @@ NL,D_CAES,0.05,,Percent,Assumption,24.06.2031,Konstantin Löffler <kl@wip.tu-ber
 NL,D_Gas_H2,0.05,,Percent,Assumption,25.06.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 NL,D_Gas_Methane,0.05,,Percent,Assumption,26.06.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 NL,D_Heat_HLI,0.05,,Percent,Assumption,27.06.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
-NL,D_Heat_HLR,0.05,,Percent,Assumption,28.06.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
+NL,D_Heat_HB,0.05,,Percent,Assumption,28.06.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 NL,D_PHS,0.05,,Percent,Assumption,29.06.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 NL,FRT_Rail_Conv,0.05,,Percent,Assumption,30.06.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 NL,FRT_Rail_Electric,0.05,,Percent,Assumption,01.07.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -2861,7 +2861,7 @@ NO,D_CAES,0.05,,Percent,Assumption,21.11.2031,Konstantin Löffler <kl@wip.tu-ber
 NO,D_Gas_H2,0.05,,Percent,Assumption,22.11.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 NO,D_Gas_Methane,0.05,,Percent,Assumption,23.11.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 NO,D_Heat_HLI,0.05,,Percent,Assumption,24.11.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
-NO,D_Heat_HLR,0.05,,Percent,Assumption,25.11.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
+NO,D_Heat_HB,0.05,,Percent,Assumption,25.11.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 NO,D_PHS,0.05,,Percent,Assumption,26.11.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 NO,FRT_Rail_Conv,0.05,,Percent,Assumption,27.11.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
 NO,FRT_Rail_Electric,0.05,,Percent,Assumption,28.11.2031,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -3003,7 +3003,7 @@ PL,D_CAES,0.05,,Percent,Assumption,19.04.2032,Konstantin Löffler <kl@wip.tu-ber
 PL,D_Gas_H2,0.05,,Percent,Assumption,20.04.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
 PL,D_Gas_Methane,0.05,,Percent,Assumption,21.04.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
 PL,D_Heat_HLI,0.05,,Percent,Assumption,22.04.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
-PL,D_Heat_HLR,0.05,,Percent,Assumption,23.04.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
+PL,D_Heat_HB,0.05,,Percent,Assumption,23.04.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
 PL,D_PHS,0.05,,Percent,Assumption,24.04.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
 PL,FRT_Rail_Conv,0.05,,Percent,Assumption,25.04.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
 PL,FRT_Rail_Electric,0.05,,Percent,Assumption,26.04.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -3145,7 +3145,7 @@ PT,D_CAES,0.05,,Percent,Assumption,16.09.2032,Konstantin Löffler <kl@wip.tu-ber
 PT,D_Gas_H2,0.05,,Percent,Assumption,17.09.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
 PT,D_Gas_Methane,0.05,,Percent,Assumption,18.09.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
 PT,D_Heat_HLI,0.05,,Percent,Assumption,19.09.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
-PT,D_Heat_HLR,0.05,,Percent,Assumption,20.09.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
+PT,D_Heat_HB,0.05,,Percent,Assumption,20.09.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
 PT,D_PHS,0.05,,Percent,Assumption,21.09.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
 PT,FRT_Rail_Conv,0.05,,Percent,Assumption,22.09.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
 PT,FRT_Rail_Electric,0.05,,Percent,Assumption,23.09.2032,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -3287,7 +3287,7 @@ RO,D_CAES,0.05,,Percent,Assumption,13.02.2033,Konstantin Löffler <kl@wip.tu-ber
 RO,D_Gas_H2,0.05,,Percent,Assumption,14.02.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 RO,D_Gas_Methane,0.05,,Percent,Assumption,15.02.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 RO,D_Heat_HLI,0.05,,Percent,Assumption,16.02.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
-RO,D_Heat_HLR,0.05,,Percent,Assumption,17.02.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
+RO,D_Heat_HB,0.05,,Percent,Assumption,17.02.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 RO,D_PHS,0.05,,Percent,Assumption,18.02.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 RO,FRT_Rail_Conv,0.05,,Percent,Assumption,19.02.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 RO,FRT_Rail_Electric,0.05,,Percent,Assumption,20.02.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -3429,7 +3429,7 @@ SE,D_CAES,0.05,,Percent,Assumption,13.07.2033,Konstantin Löffler <kl@wip.tu-ber
 SE,D_Gas_H2,0.05,,Percent,Assumption,14.07.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 SE,D_Gas_Methane,0.05,,Percent,Assumption,15.07.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 SE,D_Heat_HLI,0.05,,Percent,Assumption,16.07.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
-SE,D_Heat_HLR,0.05,,Percent,Assumption,17.07.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
+SE,D_Heat_HB,0.05,,Percent,Assumption,17.07.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 SE,D_PHS,0.05,,Percent,Assumption,18.07.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 SE,FRT_Rail_Conv,0.05,,Percent,Assumption,19.07.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 SE,FRT_Rail_Electric,0.05,,Percent,Assumption,20.07.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -3571,7 +3571,7 @@ SI,D_CAES,0.05,,Percent,Assumption,10.12.2033,Konstantin Löffler <kl@wip.tu-ber
 SI,D_Gas_H2,0.05,,Percent,Assumption,11.12.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 SI,D_Gas_Methane,0.05,,Percent,Assumption,12.12.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 SI,D_Heat_HLI,0.05,,Percent,Assumption,13.12.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
-SI,D_Heat_HLR,0.05,,Percent,Assumption,14.12.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
+SI,D_Heat_HB,0.05,,Percent,Assumption,14.12.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 SI,D_PHS,0.05,,Percent,Assumption,15.12.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 SI,FRT_Rail_Conv,0.05,,Percent,Assumption,16.12.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
 SI,FRT_Rail_Electric,0.05,,Percent,Assumption,17.12.2033,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -3713,7 +3713,7 @@ SK,D_CAES,0.05,,Percent,Assumption,09.05.2034,Konstantin Löffler <kl@wip.tu-ber
 SK,D_Gas_H2,0.05,,Percent,Assumption,10.05.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
 SK,D_Gas_Methane,0.05,,Percent,Assumption,11.05.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
 SK,D_Heat_HLI,0.05,,Percent,Assumption,12.05.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
-SK,D_Heat_HLR,0.05,,Percent,Assumption,13.05.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
+SK,D_Heat_HB,0.05,,Percent,Assumption,13.05.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
 SK,D_PHS,0.05,,Percent,Assumption,14.05.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
 SK,FRT_Rail_Conv,0.05,,Percent,Assumption,15.05.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
 SK,FRT_Rail_Electric,0.05,,Percent,Assumption,16.05.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -3855,7 +3855,7 @@ TR,D_CAES,0.05,,Percent,Assumption,06.10.2034,Konstantin Löffler <kl@wip.tu-ber
 TR,D_Gas_H2,0.05,,Percent,Assumption,07.10.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
 TR,D_Gas_Methane,0.05,,Percent,Assumption,08.10.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
 TR,D_Heat_HLI,0.05,,Percent,Assumption,09.10.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
-TR,D_Heat_HLR,0.05,,Percent,Assumption,10.10.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
+TR,D_Heat_HB,0.05,,Percent,Assumption,10.10.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
 TR,D_PHS,0.05,,Percent,Assumption,11.10.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
 TR,FRT_Rail_Conv,0.05,,Percent,Assumption,12.10.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
 TR,FRT_Rail_Electric,0.05,,Percent,Assumption,13.10.2034,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -3997,7 +3997,7 @@ UK,D_CAES,0.05,,Percent,Assumption,05.03.2035,Konstantin Löffler <kl@wip.tu-ber
 UK,D_Gas_H2,0.05,,Percent,Assumption,06.03.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
 UK,D_Gas_Methane,0.05,,Percent,Assumption,07.03.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
 UK,D_Heat_HLI,0.05,,Percent,Assumption,08.03.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
-UK,D_Heat_HLR,0.05,,Percent,Assumption,09.03.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
+UK,D_Heat_HB,0.05,,Percent,Assumption,09.03.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
 UK,D_PHS,0.05,,Percent,Assumption,10.03.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
 UK,FRT_Rail_Conv,0.05,,Percent,Assumption,11.03.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
 UK,FRT_Rail_Electric,0.05,,Percent,Assumption,12.03.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -4139,7 +4139,7 @@ NONEU_Balkan,D_CAES,0.05,,Percent,Assumption,02.08.2035,Konstantin Löffler <kl@
 NONEU_Balkan,D_Gas_H2,0.05,,Percent,Assumption,03.08.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,D_Gas_Methane,0.05,,Percent,Assumption,04.08.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,D_Heat_HLI,0.05,,Percent,Assumption,05.08.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,D_Heat_HLR,0.05,,Percent,Assumption,06.08.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,D_Heat_HB,0.05,,Percent,Assumption,06.08.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,D_PHS,0.05,,Percent,Assumption,07.08.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,FRT_Rail_Conv,0.05,,Percent,Assumption,08.08.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,FRT_Rail_Electric,0.05,,Percent,Assumption,09.08.2035,Konstantin Löffler <kl@wip.tu-berlin.de>
