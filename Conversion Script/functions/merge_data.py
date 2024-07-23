@@ -72,12 +72,14 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                         headers_csv = df_csv_for_comparison.columns.tolist()
                         headers_excel = df_excel.columns.tolist()
                         
-                        if headers_csv != headers_excel:
+                        if sorted(headers_csv) != sorted(headers_excel):
                             raise ValueError(f"Header mismatch in sheet '{sheet_name}':\n"
                                              f"CSV headers: {headers_csv}\n"
                                              f"Excel headers: {headers_excel}")
                         
                         # Ensure the merge columns are of the same type
+                        df_excel = df_excel[headers_csv]
+
                         merge_columns = headers_excel[:-1]
                         for col in merge_columns:
                             if df_csv_for_comparison[col].dtype != df_excel[col].dtype:
@@ -130,7 +132,8 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                         processed_sheets += 1
 
                         # Exit after processing the specified number of sheets for easier debugging
-                        # if processed_sheets >= num_sheets_to_process:
-                        #     return csv_files_info
+                        num_sheets_to_process = 18
+                        if processed_sheets >= num_sheets_to_process:
+                            return csv_files_info
     
     return csv_files_info
