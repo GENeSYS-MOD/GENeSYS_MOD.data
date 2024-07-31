@@ -15,9 +15,9 @@ Sources:
 	- Eurostat Database: Final Consumption Industry Sector
 		- Heat_Industrial
 	- EU Comission: District Heating and Cooling in the European Union
-		- Heat_Low_DistrictHeat
+		- Heat_District
 	- District heating potential in the EU-27
-		- Heat_Low_DistrictHeat
+		- Heat_District
 	
 In general:
 	- Assumed 2015 = 2018. Interpolated values for the years not given in the TYNDP source.
@@ -50,11 +50,11 @@ Parameters:
 	
 	TYNDP 2022 Scenario Report: OUTPUT_ALL -> Scenario: Distributed Energy -> Sector: Residential -> Subsector: Cooling -> Energy_carrier: All -> Output_type: Energy_demand
 	
-	- Heat_Low_DistrictHeat:
+	- Heat_District:
 	
 	EU Comission: District Heating and Cooling in the European Union -> 1 DH Consumption 
 	
 	DistrictHeat_Building follows a deveopment from "District heating potenial in the EU-27" for the years 2020 - 2050. Interpolated values for the years not given. 
 	Assumed no develompment in the DistrictHeat_Industrial - needs update.
 	
-	Heat_Low_DistrictHeat = DistrictHeat_Building + DistrictHeat_Industrial
+	Heat_District = DistrictHeat_Building + DistrictHeat_Industrial

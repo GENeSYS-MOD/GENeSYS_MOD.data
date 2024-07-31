@@ -68,7 +68,7 @@ def regional_base_add_HLDH(parameters_dict: dict[str, pd.DataFrame]) -> dict[str
     
     for region in regions:
         # Use columns Region,Technology,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
-        new_data = pd.DataFrame({"Region": [region], "Technology": [tech], "Fuel": ["Heat_Low_DistrictHeat"], "Year": [year], "Value": [value], "": [""], 
+        new_data = pd.DataFrame({"Region": [region], "Technology": [tech], "Fuel": ["Heat_District"], "Year": [year], "Value": [value], "": [""], 
                                  "Unit": ["PJ"], "Source": [""], "Updated at": [""], "Updated by": [""]})
         
         parameters_dict["Par_RegionalBaseYearProduction"] = pd.concat([parameters_dict["Par_RegionalBaseYearProduction"], new_data], ignore_index=True)
