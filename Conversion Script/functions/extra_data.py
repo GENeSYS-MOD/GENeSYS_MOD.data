@@ -29,7 +29,7 @@ all_regions = get_all_regions()
 """
 
 def extra_residual_capacity(parameters_dict: dict[str, pd.DataFrame]) -> dict[str, pd.DataFrame]:
-    tech = "HLR_Heatpump_Aerial"
+    techs = ["HLR_Heatpump_Aerial", "HLDH_Heatpump_Air"]
     year = 2018
     value = 100
 
@@ -37,17 +37,16 @@ def extra_residual_capacity(parameters_dict: dict[str, pd.DataFrame]) -> dict[st
             "HR", "HU", "IE", "IT", "LT", "LU", "LV", "NL", "NO", "NONEU_Balkan", 
             "PL", "PT", "RO", "SE", "SI", "SK", "TR", "UK"]
     
-    for region in regions:
-        new_data = pd.DataFrame({"Region": [region], "Technology": [tech], "Year": [year], "Value": [value]})
-        parameters_dict["Par_ResidualCapacity"] = pd.concat([parameters_dict["Par_ResidualCapacity"], new_data], ignore_index=True)
+    for tech in techs:
+        for region in regions:
+            new_data = pd.DataFrame({"Region": [region], "Technology": [tech], "Year": [year], "Value": [value]})
+            parameters_dict["Par_ResidualCapacity"] = pd.concat([parameters_dict["Par_ResidualCapacity"], new_data], ignore_index=True)
 
     return parameters_dict
     
-def add_daily_or_seasonal(parameters_dict: dict[str, pd.DataFrame]) -> dict[str, pd.DataFrame]:
+def add_daily_or_seasonal(parameters_dict: dict[str, pd.DataFrame], storages: dict[str, float]) -> dict[str, pd.DataFrame]:
     
     #storages = ["S_Battery_Li-Ion", "S_Battery_Redox", "S_Heat_HLR", "S_Heat_HLI"] # "S_Heat_HLB", "S_Heat_HLDH", 
-
-    storages = {"S_Battery_Li-Ion": 1, "S_Battery_Redox": 1, "S_Heat_HLR": 1, "S_Heat_HLI": 1, "S_Heat_HLB": 0, "S_Heat_HLDH": 0}
 
     parameters_dict["Par_TagDailyOrSeasonalStorage"] = pd.DataFrame(columns=["Storage", "IsDaily"]) 
 
@@ -79,5 +78,21 @@ def regional_base_add_HLDH(parameters_dict: dict[str, pd.DataFrame]) -> dict[str
         if column.startswith("Unnamed"):
             # Change name to ""
             parameters_dict["Par_RegionalBaseYearProduction"].rename(columns={column: ""}, inplace=True)
+
+    return parameters_dict
+
+def capital_cost_change(parameters_dict: dict[str, pd.DataFrame], capital_cost_percentages: dict[str, float]) -> dict[str, pd.DataFrame]:
+    # Change capital cost of all technologies
+    for tech, percentage in capital_cost_percentages.items():
+        parameters_dict["Par_CapitalCost"].loc[parameters_dict["Par_CapitalCost"]["Technology"] == tech, "Value"] *= percentage
+
+    return parameters_dict
+
+
+def cool_low_building_no_2018(parameters_dict: dict[str, pd.DataFrame]) -> dict[str, pd.DataFrame]:
+    
+    # In SpecifiedAnnualDemand, set the value of cooling for fuel Cool_Low_Building to 0 for year 2018
+
+    parameters_dict["Par_SpecifiedAnnualDemand"].loc[(parameters_dict["Par_SpecifiedAnnualDemand"]["Fuel"] == "Cool_Low_Building") & (parameters_dict["Par_SpecifiedAnnualDemand"]["Year"] == 2018), "Value"] = 0
 
     return parameters_dict
