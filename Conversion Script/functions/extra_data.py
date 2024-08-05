@@ -96,3 +96,10 @@ def cool_low_building_no_2018(parameters_dict: dict[str, pd.DataFrame]) -> dict[
     parameters_dict["Par_SpecifiedAnnualDemand"].loc[(parameters_dict["Par_SpecifiedAnnualDemand"]["Fuel"] == "Cool_Low_Building") & (parameters_dict["Par_SpecifiedAnnualDemand"]["Year"] == 2018), "Value"] = 0
 
     return parameters_dict
+
+# Prevent specified annual_demand from being 0
+def specified_annual_demand_not_zero(parameters_dict: dict[str, pd.DataFrame]) -> dict[str, pd.DataFrame]:
+    
+    parameters_dict["Par_SpecifiedAnnualDemand"].loc[parameters_dict["Par_SpecifiedAnnualDemand"]["Value"] == 0, "Value"] = 0.000001
+
+    return parameters_dict
