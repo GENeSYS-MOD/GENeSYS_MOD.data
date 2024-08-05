@@ -1,17 +1,9 @@
 Storage,Value,,Unit,Source,Updated at,Updated by
-S_Battery_Li-Ion,20.0,,Years,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
-S_Battery_Redox,20.0,,Years,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
-S_CAES,60.0,,Years,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
-S_Gas_H2,100.0,,Years,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
-S_Gas_Methane,100.0,,Years,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
-S_Heat_HLI,30.0,,Years,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
-S_Heat_HB,30.0,,Years,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
-S_PHS,60.0,,Years,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+S_Battery_Li-Ion,20,,Years,Danish Energy Agency Storage Data- https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+S_Battery_Redox,20,,Years,Danish Energy Agency Storage Data- https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+S_CAES,40,,Years,Energy Agency Denmark (2024)- CAES,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+S_Gas_H2,100,,Years,Danish Energy Agency Storage Data- https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+S_Gas_Methane,30,,Years,Zhao et al. (2022): https://doi.org/10.1016/j.est.2021.103649,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+S_Heat_HLI,40,,Years,Energy Agency Denmark (2024)-Refers to Large hot water tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+S_Heat_HB,30,,Years,Danish Energy Agency Storage Data- https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+S_PHS,50,,Years,Energy Agency Denmark (2024)- PHS,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
