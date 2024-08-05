@@ -58,6 +58,20 @@ HHT_Gas,31,,Years,,,
 HHT_Geothermal,31,,Years,,,
 HHT_H2,21,,Years,,,
 HHT_Oil,21,,Years,,,
+HLDH_Biomass_Boiler,25,,Years,"DEA – Technology data for El and DH - Wood chips HOP, Wood pellets HOP, straw HOP - see Assumption.txt ",2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Biomass_CHP,25,,Years,"DEA – Technology data for El and DH - Wood chips, wood pellets, Straw - see Assumption.txt",2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Coal_Boiler,25,,Years,Assumed equal to HLDH_Gas_Boiler,2024-03-12 00:00:00,Martha Pedersen <martha.pedersen@sintef.no>
+HLDH_Coal_CHP,25,,Years,DEA – Technology data for El and DH - Coal CHP - see Assumption.txt ,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Electric_Boiler,25,,Years,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Gas_Boiler,25,,Years,DEA – Technology data for El and DH - Natural gas CH only - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Gas_CHP,25,,Years,Assumed equal to HLDH_Coal_CHP,2024-03-12 00:00:00,Martha Pedersen <martha.pedersen@sintef.no>
+HLDH_Geothermal,25,,Years,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Heatpump_Air,25,,Years,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - see Assumption.txt ",2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Heatpump_ExcessHeat,25,,Years,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - see Assumption.txt ",2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Oil_Boiler,25,,Years,Assumed equal to HLDH_Gas_Boiler,2024-03-12 00:00:00,Martha Pedersen <martha.pedersen@sintef.no>
+HLDH_Solar_Thermal,30,,Years,DEA – Technology data for El and DH - Solar district heating - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_WasteToEnergy_Boiler,25,,Years,DEA – Technology data for El and DH - WtE HOP - see Assumption.txt ,2024-03-12 00:00:00,Martha Pedersen <martha.pedersen@sintef.no>
+HLDH_WasteToEnergy_CHP,25,,Years,DEA – Technology data for El and DH - WtE CHP - see Assumption.txt ,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
 HLI_Biomass,26,,Years,,,
 HLI_Biomass_CHP,26,,Years,,,
 HLI_Biomass_CHP_CCS,26,,Years,,,
@@ -71,6 +85,7 @@ HLI_H2_Boiler,36,,Years,,,
 HLI_Hardcoal,26,,Years,,,
 HLI_Hardcoal_CHP,26,,Years,,,
 HLI_Hardcoal_CHP_CCS,31,,Years,,,
+HLI_Heatpump,20,,Years,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
 HLI_Lignite,26,,Years,,,
 HLI_Lignite_CHP,26,,Years,,,
 HLI_Lignite_CHP_CCS,26,,Years,,,
@@ -89,8 +104,8 @@ HLR_H2_Boiler,36,,Years,,,
 HLR_Hardcoal,26,,Years,,,
 HLR_Hardcoal_CHP,26,,Years,,,
 HLR_Hardcoal_CHP_CCS,26,,Years,,,
-HLR_Heatpump_Aerial,21,,Years,,,
-HLR_Heatpump_Ground,20,,Years,DEA – Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,13.12.2023,Frida Sæther <frida.sather@sintef.no>
+HLR_Heatpump_Aerial,12,,Years,DEA – Technology data heating installations - Heat pump Air-air - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLR_Heatpump_Ground,20,,Years,DEA – Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
 HLR_Lignite,26,,Years,,,
 HLR_Lignite_CHP,26,,Years,,,
 HLR_Lignite_CHP_CCS,26,,Years,,,
@@ -114,6 +129,19 @@ HMI_HardCoal,31,,Years,,,
 HMI_HardCoal_CCS,31,,Years,,,
 HMI_Oil,31,,Years,,,
 HMI_Steam_Electric,31,,Years,,,
+HMLI_Heatpump,20,,Years,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+PSNG_Air_Bio,16,,Years,,,
+PSNG_Air_Conv,16,,Years,,,
+PSNG_Air_H2,16,,Years,,,
+PSNG_Rail_Conv,26,,Years,,,
+PSNG_Rail_Electric,31,,Years,,,
+PSNG_Road_BEV,16,,Years,,,
+PSNG_Road_H2,21,,Years,,,
+PSNG_Road_ICE,21,,Years,,,
+PSNG_Road_ICE_bio,21,,Years,,,
+PSNG_Road_LNG,21,,Years,,,
+PSNG_Road_PHEV,21,,Years,,,
+PSNG_Road_PHEV_bio,21,,Years,,,
 P_Biomass,40,,Years,Steam turbine biomass solid conventional EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
 P_Biomass_CCS,31,,Years,,,
 P_Coal_Hardcoal,41,,Years,Steam turbine coal supercritical EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -127,23 +155,6 @@ P_Gas_OCGT,31,,Years,,,
 P_H2_OCGT,31,,Years,,,
 P_Nuclear,61,,Years,Nuclear III gen. (no economies of scale) EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 P_Oil,31,,Years,,,
-PSNG_Air_Bio,16,,Years,,,
-PSNG_Air_Conv,16,,Years,,,
-PSNG_Air_H2,16,,Years,,,
-PSNG_Rail_Conv,26,,Years,,,
-PSNG_Rail_Electric,31,,Years,,,
-PSNG_Road_BEV,16,,Years,,,
-PSNG_Road_H2,21,,Years,,,
-PSNG_Road_ICE,21,,Years,,,
-PSNG_Road_ICE_bio,21,,Years,,,
-PSNG_Road_LNG,21,,Years,,,
-PSNG_Road_PHEV,21,,Years,,,
-PSNG_Road_PHEV_bio,21,,Years,,,
-R_Coal_Hardcoal,31,,Years,,,
-R_Coal_Lignite,31,,Years,,,
-R_Gas,31,,Years,,,
-R_Nuclear,31,,Years,,,
-R_Oil,31,,Years,,,
 RES_Biogas,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 RES_Biomass,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 RES_CSP,31,,Years,,,
@@ -152,13 +163,13 @@ RES_Grass,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe
 RES_Hydro_Large,60,,Years,Lakes EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
 RES_Hydro_Small,50,,Years,Run of river EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
 RES_Ocean,80,,Years,Tidal and waves EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
-RES_Paper_Cardboard,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 RES_PV_Rooftop_Commercial,35,,Years,Energy Agency Denmark (2020) Rooftop Comm&industrial,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
 RES_PV_Rooftop_Residential,35,,Years,Energy Agency Denmark (2020) Rooftop Residential,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
 RES_PV_Utility_Avg,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
 RES_PV_Utility_Inf,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
 RES_PV_Utility_Opt,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
 RES_PV_Utility_Tracking,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+RES_Paper_Cardboard,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 RES_Residues,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 RES_Roundwood,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 RES_Wind_Offshore_Deep,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
@@ -168,6 +179,13 @@ RES_Wind_Onshore_Avg,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reul
 RES_Wind_Onshore_Inf,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
 RES_Wind_Onshore_Opt,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
 RES_Wood,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+R_Coal_Hardcoal,31,,Years,,,
+R_Coal_Lignite,31,,Years,,,
+R_Gas,31,,Years,,,
+R_Nuclear,31,,Years,,,
+R_Oil,31,,Years,,,
+X_ATR_CCS,26,,Years,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 22 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+X_Alkaline_Electrolysis,10,,Years,,,
 X_Biofuel,31,,Years,,,
 X_DAC,21,,Years,,,
 X_DAC_HT,21,,Years,,,
@@ -177,13 +195,11 @@ X_Fuel_Cell,31,,Years,,,
 X_Gasifier,41,,Years,,,
 X_Liquifier,41,,Years,,,
 X_Methanation,30,,Years,,,
+X_PEM_Electrolysis,10,,Years,,,
 X_Powerfuel,21,,Years,,,
 X_SMR,21,,Years,,,
-X_ATR_CCS,26,,Years,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 22 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+X_SOEC_Electrolysis,5,,Years,,,
 Z_ETS_Buy,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 Z_ETS_Sell,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 Z_Import_Electricity,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 Z_Import_H2,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
-X_Alkaline_Electrolysis,10,,Years,,,
-X_PEM_Electrolysis,10,,Years,,,
-X_SOEC_Electrolysis,5,,Years,,,

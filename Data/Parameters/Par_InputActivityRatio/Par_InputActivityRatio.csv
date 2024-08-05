@@ -9,7 +9,7 @@ World,D_Battery_Redox,Power,1,2018,1,,Fraction,"Irrelevant, efficiency in Techno
 World,D_Gas_H2,H2,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Gas_Methane,Gas_Natural,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Heat_HLI,Heat_Low_Industrial,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Building,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS,Power,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS_Residual,Power,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_CAES,Power,1,2018,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -415,7 +415,7 @@ World,D_Battery_Redox,Power,1,2020,1,,Fraction,"Irrelevant, efficiency in Techno
 World,D_Gas_H2,H2,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Gas_Methane,Gas_Natural,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Heat_HLI,Heat_Low_Industrial,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Building,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS,Power,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS_Residual,Power,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_CAES,Power,1,2020,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -821,7 +821,7 @@ World,D_Battery_Redox,Power,1,2025,1,,Fraction,"Irrelevant, efficiency in Techno
 World,D_Gas_H2,H2,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Gas_Methane,Gas_Natural,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Heat_HLI,Heat_Low_Industrial,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Building,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS,Power,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS_Residual,Power,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_CAES,Power,1,2025,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1227,7 +1227,7 @@ World,D_Battery_Redox,Power,1,2030,1,,Fraction,"Irrelevant, efficiency in Techno
 World,D_Gas_H2,H2,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Gas_Methane,Gas_Natural,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Heat_HLI,Heat_Low_Industrial,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Building,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS,Power,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS_Residual,Power,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_CAES,Power,1,2030,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1633,7 +1633,7 @@ World,D_Battery_Redox,Power,1,2035,1,,Fraction,"Irrelevant, efficiency in Techno
 World,D_Gas_H2,H2,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Gas_Methane,Gas_Natural,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Heat_HLI,Heat_Low_Industrial,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Building,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS,Power,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS_Residual,Power,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_CAES,Power,1,2035,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -2039,7 +2039,7 @@ World,D_Battery_Redox,Power,1,2040,1,,Fraction,"Irrelevant, efficiency in Techno
 World,D_Gas_H2,H2,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Gas_Methane,Gas_Natural,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Heat_HLI,Heat_Low_Industrial,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Building,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS,Power,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS_Residual,Power,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_CAES,Power,1,2040,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -2445,7 +2445,7 @@ World,D_Battery_Redox,Power,1,2045,1,,Fraction,"Irrelevant, efficiency in Techno
 World,D_Gas_H2,H2,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Gas_Methane,Gas_Natural,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Heat_HLI,Heat_Low_Industrial,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Building,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS,Power,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS_Residual,Power,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_CAES,Power,1,2045,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -2851,7 +2851,7 @@ World,D_Battery_Redox,Power,1,2050,1,,Fraction,"Irrelevant, efficiency in Techno
 World,D_Gas_H2,H2,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Gas_Methane,Gas_Natural,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Heat_HLI,Heat_Low_Industrial,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLR,Heat_Low_Residential,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLR,Heat_Low_Building,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS,Power,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_PHS_Residual,Power,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_CAES,Power,1,2050,1,,Fraction,"Irrelevant, efficiency in TechnologyToStorage",06.09.2023,Stian Backe <stian.backe@sintef.no>
