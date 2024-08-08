@@ -103,3 +103,15 @@ def specified_annual_demand_not_zero(parameters_dict: dict[str, pd.DataFrame]) -
     parameters_dict["Par_SpecifiedAnnualDemand"].loc[parameters_dict["Par_SpecifiedAnnualDemand"]["Value"] == 0, "Value"] = 0.000001
 
     return parameters_dict
+
+# Add a new technology to the Par_CapitalCost table
+def add_technology_capital_cost(parameters_dict: dict[str, pd.DataFrame], tech: str, value: float) -> dict[str, pd.DataFrame]:
+    
+    # Columns: Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
+    for year in [2018, 2020, 2025, 2030, 2035, 2040, 2045, 2050]:
+        new_data = pd.DataFrame({"Region": ["World"], "Technology": [tech], "Year": [year], "Value": [value], "": [""], 
+                                "Unit": ["EUR/kW"], "Source": [""], "Updated at": [""], "Updated by": [""]})
+        
+        parameters_dict["Par_CapitalCost"] = pd.concat([parameters_dict["Par_CapitalCost"], new_data], ignore_index=True)
+
+    return parameters_dict
