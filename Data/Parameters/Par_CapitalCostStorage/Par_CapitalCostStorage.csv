@@ -1,80 +1,65 @@
-﻿Region,Storage,Year,Value,,Unit,Source,Updated at,Updated by
-World,S_PHS,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS_Residual,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_H2,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_Methane,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Li-Ion,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Redox,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLI,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_CAES,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLR,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS_Residual,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_H2,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_Methane,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Li-Ion,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Redox,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLI,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_CAES,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLR,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS_Residual,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_H2,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_Methane,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Li-Ion,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Redox,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLI,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_CAES,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLR,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS_Residual,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_H2,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_Methane,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Li-Ion,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Redox,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLI,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_CAES,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLR,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS_Residual,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_H2,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_Methane,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Li-Ion,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Redox,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLI,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_CAES,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLR,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS_Residual,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_H2,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_Methane,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Li-Ion,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Redox,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLI,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_CAES,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLR,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_PHS_Residual,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_H2,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Gas_Methane,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Li-Ion,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Battery_Redox,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLI,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_CAES,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLR,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,S_Heat_HLB,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLB,2020,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLB,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLB,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLB,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLB,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLB,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLB,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLDH,2018,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLDH,2020,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLDH,2025,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLDH,2030,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLDH,2035,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLDH,2040,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLDH,2045,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-World,S_Heat_HLDH,2050,0.01,,MEUR/PJ,"assumption (marginal value for numerical stability, moved from code)",27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
+Region,Storage,Year,Value,,Unit,Source,Updated at,Updated by
+World,S_PHS,2018,16162.90909,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_PHS,2020,16162.90909,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_PHS,2025,16162.90909,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_PHS,2030,16162.90909,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_PHS,2035,16162.90909,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_PHS,2040,16162.90909,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_PHS,2045,16162.90909,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_PHS,2050,16162.90909,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2018,116111.1111,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2020,64444.44444,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2025,51944.44444,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2030,39444.44444,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2035,32777.77778,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2040,26111.11111,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2045,23472.22222,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2050,20833.33333,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Redox,2018,177777.7778,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Redox,2020,138888.8889,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Redox,2025,75000.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Redox,2030,69444.44444,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Redox,2035,73611.11111,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Redox,2040,72222.22222,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Redox,2045,70833.33333,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Battery_Redox,2050,69444.44444,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_CAES,2018,1459.712727,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_CAES,2020,1459.712727,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_CAES,2025,1459.712727,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_CAES,2030,1459.712727,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_CAES,2035,1459.712727,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_CAES,2040,1459.712727,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_CAES,2045,1459.712727,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_CAES,2050,1459.712727,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_GAS_H2,2018,833.3333333,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_GAS_H2,2020,833.3333333,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_GAS_H2,2025,694.4444444,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_GAS_H2,2030,555.5555556,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_GAS_H2,2035,486.1111111,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_GAS_H2,2040,416.6666667,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_GAS_H2,2045,375.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_GAS_H2,2050,333.3333333,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Gas_Methane,2018,12.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Gas_Methane,2020,12.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Gas_Methane,2025,12.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Gas_Methane,2030,12.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Gas_Methane,2035,12.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Gas_Methane,2040,12.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Gas_Methane,2045,12.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Gas_Methane,2050,12.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HLI,2018,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HLI,2020,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HLI,2025,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HLI,2030,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HLI,2035,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HLI,2040,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HLI,2045,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HLI,2050,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HB,2018,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HB,2020,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HB,2025,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HB,2030,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HB,2035,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HB,2040,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HB,2045,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
+World,S_Heat_HB,2050,113898.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
