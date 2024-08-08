@@ -142,3 +142,21 @@ Z_Import_H2,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.bac
 X_Alkaline_Electrolysis,25,,Years,David et al. (2019): https://doi.org/10.1016/j.est.2019.03.001,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 X_PEM_Electrolysis,15,,Years,David et al. (2019): https://doi.org/10.1016/j.est.2019.03.001,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 X_SOEC_Electrolysis,3,,Years,IRENA (2020): ISBN: 978-92-9260-295-6,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLDH_Biomass_Boiler,25,,Years,"DEA – Technology data for El and DH - Wood chips HOP, Wood pellets HOP, straw HOP - see Assumption.txt ",2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Biomass_CHP,25,,Years,"DEA – Technology data for El and DH - Wood chips, wood pellets, Straw - see Assumption.txt",2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Coal_Boiler,25,,Years,Assumed equal to HLDH_Gas_Boiler,2024-03-12 00:00:00,Martha Pedersen <martha.pedersen@sintef.no>
+HLDH_Coal_CHP,25,,Years,DEA – Technology data for El and DH - Coal CHP - see Assumption.txt ,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Electric_Boiler,25,,Years,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Gas_Boiler,25,,Years,DEA – Technology data for El and DH - Natural gas CH only - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Gas_CHP,25,,Years,Assumed equal to HLDH_Coal_CHP,2024-03-12 00:00:00,Martha Pedersen <martha.pedersen@sintef.no>
+HLDH_Geothermal,25,,Years,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Heatpump_Air,25,,Years,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - see Assumption.txt ",2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Heatpump_ExcessHeat,25,,Years,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - see Assumption.txt ",2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_Oil_Boiler,25,,Years,Assumed equal to HLDH_Gas_Boiler,2024-03-12 00:00:00,Martha Pedersen <martha.pedersen@sintef.no>
+HLDH_Solar_Thermal,30,,Years,DEA – Technology data for El and DH - Solar district heating - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLDH_WasteToEnergy_Boiler,25,,Years,DEA – Technology data for El and DH - WtE HOP - see Assumption.txt ,2024-03-12 00:00:00,Martha Pedersen <martha.pedersen@sintef.no>
+HLDH_WasteToEnergy_CHP,25,,Years,DEA – Technology data for El and DH - WtE CHP - see Assumption.txt ,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLI_Heatpump,20,,Years,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HMLI_Heatpump,20,,Years,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLR_Heatpump_Aerial,12,,Years,DEA – Technology data heating installations - Heat pump Air-air - see Assumption.txt,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
+HLR_Heatpump_Ground,20,,Years,DEA – Technology data heating installations - Heat pump Ground-water - see Assumption.txt ,2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
