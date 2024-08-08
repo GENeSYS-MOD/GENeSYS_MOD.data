@@ -26,40 +26,138 @@ D_CAES,40,,Years,Energy Agency Denmark (2020)- Long Term Underground Storage in 
 D_Gas_H2,100,,Years,Energy Agency Denmark (2020)- Long Term Underground Storage in Caverns,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
 D_Gas_Methane,50,,Years,,,
 D_Heat_HLI,40,,Years,Energy Agency Denmark (2020)-Refers to Large hot water tank,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-D_Heat_HLR,30,,Years,Energy Agency Denmark (2020)-Refers to Small hot water tank,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-D_Heat_HLB,50,,Years,Dummy data - Needs update,27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-D_Heat_HLDH,50,,Years,Dummy data - Needs update,27.06.2024,Morten Svendgård <mortsven@stud.ntnu.no>
-D_PHS,50,,Years,Energy Agency Denmark (2020)- Long Term Underground Storage in Caverns,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-D_PHS_Residual,50,,Years,Energy Agency Denmark (2020)- Long Term Underground Storage in Caverns,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
-FRT_Rail_Conv,26,,Years,,,
-FRT_Rail_Electric,31,,Years,,,
-FRT_Road_BEV,21,,Years,,,
-FRT_Road_H2,21,,Years,,,
-FRT_Road_ICE,21,,Years,,,
-FRT_Road_ICE_Bio,21,,Years,,,
-FRT_Road_LNG,21,,Years,,,
-FRT_Road_OH,26,,Years,,,
-FRT_Road_PHEV,26,,Years,,,
-FRT_Road_PHEV_bio,26,,Years,,,
-FRT_Ship_Bio,31,,Years,,,
-FRT_Ship_Conv,31,,Years,,,
-FRT_Ship_LNG,31,,Years,,,
-HHI_BF_BOF,26,,Years,,,
-HHI_BF_BOF_CCS,21,,Years,,,
-HHI_Bio_BF_BOF,26,,Years,,,
-HHI_DRI_EAF,21,,Years,,,
-HHI_DRI_EAF_CCS,21,,Years,,,
-HHI_H2DRI_EAF,21,,Years,,,
-HHI_Molten_Electrolysis,21,,Years,,,
-HHI_Scrap_EAF,21,,Years,,,
-HHT_Biomass,31,,Years,,,
+HHT_Oil,21,,Years,,,
+HHT_H2,21,,Years,,,
+HHT_Geothermal,31,,Years,,,
+HHT_Gas,31,,Years,,,
 HHT_Coal_Hardcoal,31,,Years,,,
 HHT_Coal_Lignite,31,,Years,,,
 HHT_Electric_Furnace,31,,Years,,,
-HHT_Gas,31,,Years,,,
-HHT_Geothermal,31,,Years,,,
-HHT_H2,21,,Years,,,
-HHT_Oil,21,,Years,,,
+D_Heat_HLR,30,,Years,Energy Agency Denmark (2020)-Refers to Small hot water tank,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+D_Heat_HLDH,40,,Years,Energy Agency Denmark (2020)-Refers to Large hot water tank,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+D_Heat_HLB,30,,Years,Energy Agency Denmark (2020)-Refers to Small hot water tank,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+D_PHS,50,,Years,Energy Agency Denmark (2020)- PHS,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+D_PHS_Residual,50,,Years,Energy Agency Denmark (2020)- PHS,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+FRT_Rail_Conv,20,,Years,Zenith et al. (2019): https://doi.org/10.1177/0954409719867495,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FRT_Rail_Electric,20,,Years,Zenith et al. (2019): https://doi.org/10.1177/0954409719867495,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FRT_Road_BEV,13.8,,Years,Energy Agency Denmark (2024) BEV L1,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FRT_Road_H2,13.8,,Years,Energy Agency Denmark (2024) FCV L1,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FRT_Road_ICE,13.8,,Years,Energy Agency Denmark (2024) Diesel L1,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FRT_Road_ICE_Bio,21,,Years,,,
+FRT_Road_LNG,13.8,,Years,Assumption: same as ICE,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FRT_Road_OH,6,,Years,Speth and Funke (2021): https://doi.org/10.3390/wevj12020067,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FRT_Road_PHEV,13.8,,Years,Assumption: same as ICE/BEV,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FRT_Road_PHEV_bio,26,,Years,,,
+FRT_Ship_Bio,30,,Years,Energy Agency Denmark (2024) Container Methanol,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FRT_Ship_Conv,30,,Years,Energy Agency Denmark (2024) Container Diesel,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FRT_Ship_LNG,30,,Years,Energy Agency Denmark (2024) Container Methanol,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HHI_BF_BOF,40,,Years,IEA (2020): Iron and Steel Technology Roadmap,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HHI_BF_BOF_CCS,40,,Years,Assumption: CCS lifetime longer than generation plant- thus plant lifetime decisive,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HHI_Bio_BF_BOF,40,,Years,IEA (2020): Iron and Steel Technology Roadmap,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HHI_DRI_EAF,25,,Years,Benavides et al. (2024): https://doi.org/10.1016/j.ijggc.2023.103963,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HHI_DRI_EAF_CCS,25,,Years,Benavides et al. (2024): https://doi.org/10.1016/j.ijggc.2023.103963,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HHI_H2DRI_EAF,25,,Years,Benavides et al. (2024): https://doi.org/10.1016/j.ijggc.2023.103963,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HHI_Molten_Electrolysis,15,,Years,Assumed: Technology not commercialized yet,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HHI_Scrap_EAF,25,,Years,Assumption: Same as DRI_EAF,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLI_Biomass,15,,Years,Energy Agency Denmark (2022) direct firing solids,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLI_Convert_DH,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+HLI_Direct_Electric,12.5,,Years,Energy Agency Denmark (2022) direct firing electricity,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLI_Fuelcell,20,,Years,Cigolotti et al. (2021): https://doi.org/10.3390/en14164963,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLI_Gas_Boiler,25,,Years,Energy Agency Denmark (2022) Hot water boiler gas,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLI_Geothermal,20,,Years,Energy Agency Denmark (2022) high temp hp,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLI_H2_Boiler,25,,Years,energy.nl technology factsheet: h2 industrial boiler,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLI_Hardcoal,15,,Years,Energy Agency Denmark (2022) direct firing solids,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLI_Lignite,15,,Years,Energy Agency Denmark (2022) direct firing solids,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLI_Oil_Boiler,25,,Years,Energy Agency Denmark (2022) How water boiler oil,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLI_Solar_Thermal,25,,Years,Federal Ministry Republic of Austria (2023): Solar Heat World Wide,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLR_Biomass,20,,Years,Energy Agency Denmark (2023) Wood stove,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLR_Convert_DH,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+HLR_Direct_Electric,30,,Years,Energy Agency Denmark (2023) Electric heating,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLR_Gas_Boiler,22.5,,Years,Energy Agency Denmark (2023) Gas boiler apartment / single (average),30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLR_Geothermal,41,,Years,,,
+HLR_H2_Boiler,15,,Years,Aunedi et al. (2023),30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLR_Hardcoal,20,,Years,Assumption: Same as Biomass,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLR_Heatpump_Aerial,18,,Years,Energy Agency Denmark (2023) HP air-water apartment / single (average),30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLR_Heatpump_Ground,20,,Years,DEA – Technology data heating installations - Heat pump Ground-water - see Assumption.txt,13.12.2023,Frida Sæther <frida.sather@sintef.no>
+HLR_Lignite,20,,Years,Assumption: Same as Biomass,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLR_Oil_Boiler,20,,Years,Energy Agency Denmark (2023) Oil Boiler,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HLR_Solar_Thermal,25,,Years,Federal Ministry Republic of Austria (2023): Solar Heat World Wide,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HMI_Biomass,15,,Years,Energy Agency Denmark (2022) direct firing solids,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HMI_Gas,15,,Years,Energy Agency Denmark (2022) direct firing gas,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HMI_Gas_CCS,15,,Years,Assumption: CCS lifetime longer than generation plant- thus plant lifetime decisive,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HMI_H2,25,,Years,energy.nl technology factsheet: h2 industrial boiler,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HMI_HardCoal,15,,Years,Energy Agency Denmark (2022) direct firing solids,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HMI_HardCoal_CCS,15,,Years,Assumption: CCS lifetime longer than generation plant- thus plant lifetime decisive,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HMI_Oil,25,,Years,Grosse et al. (2017): doi:10.2760/24422,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HMI_Steam_Electric,25,,Years,Energy Agency Denmark (2022) electric boiler steam,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_Biomass,40,,Years,Steam turbine biomass solid conventional EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+P_Biomass_CCS,40,,Years,Assumption: CCS lifetime longer than generation plant- thus plant lifetime decisive,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_Coal_Hardcoal,41,,Years,Steam turbine coal supercritical EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_Coal_Hardcoal_CCS,41,,Years,Assumption: CCS lifetime longer than generation plant- thus plant lifetime decisive,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_Coal_Lignite,41,,Years,Steam turbine lignite supercritical EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_Coal_Lignite_CCS,41,,Years,Assumption: CCS lifetime longer than generation plant- thus plant lifetime decisive,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_Gas_CCGT,25,,Years,Energy Agency Denmark (2024) Gas turbine cc,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_Gas_CCS,41,,Years,Assumption: CCS lifetime longer than generation plant- thus plant lifetime decisive,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_Gas_Engines,25,,Years,Energy Agency Denmark (2024) Gas engines,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_Gas_OCGT,25,,Years,Energy Agency Denmark (2024) Gas turbine simple cycle,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_H2_OCGT,25,,Years,Assumption: Same as Gas_OCGT,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_Nuclear,61,,Years,Nuclear III gen. (no economies of scale) EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_Oil,30,,Years,Hienuki et al. (2015): http://dx.doi.org/10.3390/su71215786,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PSNG_Air_Bio,20,,Years,IRENA: Biojet Fuels (2021): p. 70- Assumption: middle of range,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PSNG_Air_Conv,30,,Years,IRENA: Biojet Fuels (2021): p. 25,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PSNG_Air_H2,15,,Years,Assumption: lower than bio fueled,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PSNG_Rail_Conv,20,,Years,Jeff Wilson (2023): Diesel locomotives by generation,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PSNG_Rail_Electric,30,,Years,Stripple and Uppenberg (2010): Life cycle assessment of railways and rail transports,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PSNG_Road_BEV,18.4,,Years,Nguyen-Tien et al. (2024): ISSN 2042-2695,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PSNG_Road_H2,20,,Years,Candelaresi et al. (2021): https://doi.org/10.1016/j.ijhydene.2021.01.034,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PSNG_Road_ICE,17.8,,Years,Nguyen-Tien et al. (2024): ISSN 2042-2695,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PSNG_Road_LNG,17.8,,Years,Assumption: Same as ICE,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PSNG_Road_PHEV,25,,Years,Nguyen-Tien et al. (2024): ISSN 2042-2695,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+R_Coal_Hardcoal,100,,Years,Was machen?,,
+R_Coal_Lignite,100,,Years,Was machen?,,
+R_Gas,100,,Years,Was machen?,,
+R_Nuclear,100,,Years,Was machen?,,
+R_Oil,100,,Years,Was machen?,,
+R_Biogas,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_CSP,30,,Years,Gasa et al. (2022): https://doi.org/10.1016/j.est.2022.105219,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_Geothermal,30,,Years,Geothermal medium enthalpy EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+R_Grass,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_Hydro_Large,60,,Years,Lakes EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+P_Hydro_Small,50,,Years,Run of river EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+P_Ocean,80,,Years,Tidal and waves EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+R_Paper_Cardboard,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_PV_Rooftop_Commercial,35,,Years,Energy Agency Denmark (2020) Rooftop Comm&industrial,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_PV_Rooftop_Residential,35,,Years,Energy Agency Denmark (2020) Rooftop Residential,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_PV_Utility_Avg,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_PV_Utility_Inf,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_PV_Utility_Opt,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_PV_Utility_Tracking,35,,Years,Energy Agency Denmark (2020) Utility Scale PV,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+R_Residues,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+R_Roundwood,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+P_Wind_Offshore_Deep,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_Wind_Offshore_Shallow,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_Wind_Offshore_Transitional,30,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_Wind_Onshore_Avg,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_Wind_Onshore_Inf,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+P_Wind_Onshore_Opt,27,,Years,Energy Agency Denmark (2020),17.10.2023,Dana Reulein <dana.reulein@sintef.no>
+R_Wood,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+X_Biofuel,30,,Years,Liu et al. (2022): https://doi.org/10.1007/s13399-022-03614-7,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_DAC_HT,20,,Years,Terlouw et al. (2021): https://doi.org/10.1021/acs.est.1c03263,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_DAC_LT,20,,Years,Terlouw et al. (2021): https://doi.org/10.1021/acs.est.1c03263,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_Electrolysis,25,,Years,David et al. (2019): https://doi.org/10.1016/j.est.2019.03.001,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_Fuel_Cell,31,,Years,,,
+X_Gasifier,30,,Years,Concawe and Aramco (2024): E-Fuels: A techno-economic assessment [...]: ISBN: 978-2-87567-184-4,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_Liquifier,30,,Years,Concawe and Aramco (2024): E-Fuels: A techno-economic assessment [...]: ISBN: 978-2-87567-184-4,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_Methanation,30,,Years,Concawe and Aramco (2024): E-Fuels: A techno-economic assessment [...]: ISBN: 978-2-87567-184-4,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_Powerfuel,30,,Years,Concawe and Aramco (2024): E-Fuels: A techno-economic assessment [...]: ISBN: 978-2-87567-184-4,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_SMR,20,,Years,Boyano et al. (2011): http://dx.doi.org/10.1016/j.energy.2010.05.020,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_ATR_CCS,26,,Years,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 22 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+Z_ETS_Buy,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+Z_ETS_Sell,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+Z_Import_H2,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+X_Alkaline_Electrolysis,25,,Years,David et al. (2019): https://doi.org/10.1016/j.est.2019.03.001,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_PEM_Electrolysis,15,,Years,David et al. (2019): https://doi.org/10.1016/j.est.2019.03.001,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_SOEC_Electrolysis,3,,Years,IRENA (2020): ISBN: 978-92-9260-295-6,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HLDH_Biomass_Boiler,25,,Years,"DEA – Technology data for El and DH - Wood chips HOP, Wood pellets HOP, straw HOP - see Assumption.txt ",2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
 HLDH_Biomass_CHP,25,,Years,"DEA – Technology data for El and DH - Wood chips, wood pellets, Straw - see Assumption.txt",2023-12-13 00:00:00,Frida Sæther <frida.sather@sintef.no>
 HLDH_Coal_Boiler,25,,Years,Assumed equal to HLDH_Gas_Boiler,2024-03-12 00:00:00,Martha Pedersen <martha.pedersen@sintef.no>
