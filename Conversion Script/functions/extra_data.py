@@ -88,6 +88,21 @@ def capital_cost_change(parameters_dict: dict[str, pd.DataFrame], capital_cost_p
 
     return parameters_dict
 
+def storage_capital_cost_changer(parameters_dict: dict[str, pd.DataFrame], capital_cost_percentages: dict[str, float]) -> dict[str, pd.DataFrame]:
+
+    # Change capital cost of all storage technologies
+    for storage, percentage in capital_cost_percentages.items():
+        parameters_dict["Par_CapitalCostStorage"].loc[parameters_dict["Par_CapitalCostStorage"]["Storage"] == storage, "Value"] *= percentage
+
+    return parameters_dict
+
+# Zero storage capital cost
+def zero_storage_capital_cost(parameters_dict: dict[str, pd.DataFrame]) -> dict[str, pd.DataFrame]:
+    
+    parameters_dict["Par_CapitalCost"].loc[parameters_dict["Par_CapitalCost"]["Technology"].str.startswith("D_Heat"), "Value"] = 0.01
+
+    return parameters_dict
+
 
 def cool_low_building_no_2018(parameters_dict: dict[str, pd.DataFrame]) -> dict[str, pd.DataFrame]:
     
@@ -115,3 +130,81 @@ def add_technology_capital_cost(parameters_dict: dict[str, pd.DataFrame], tech: 
         parameters_dict["Par_CapitalCost"] = pd.concat([parameters_dict["Par_CapitalCost"], new_data], ignore_index=True)
 
     return parameters_dict
+
+
+def reweight_district_vs_building(parameters_dict: dict[str, pd.DataFrame], district_percentage: float) -> dict[str, pd.DataFrame]:
+    
+    specified_annual_demand = parameters_dict["Par_SpecifiedAnnualDemand"]
+
+    # Print fuels
+    print(specified_annual_demand["Fuel"].unique())
+
+    # Get total demand 2050 for district heating
+    district_demand_2050 = specified_annual_demand.loc[(specified_annual_demand["Year"] == 2050) & (specified_annual_demand["Fuel"].str.startswith("Heat_District")), "Value"].sum()
+
+    # Get total demand 2050 for building heating
+    building_demand_2050 = specified_annual_demand.loc[(specified_annual_demand["Year"] == 2050) & (specified_annual_demand["Fuel"].str.startswith("Heat_Low_Building")), "Value"].sum()
+
+    print("District demand 2050:", district_demand_2050, "Building demand 2050:", building_demand_2050)
+    print("Combined demand 2050:", district_demand_2050 + building_demand_2050)
+
+    # Get combined demand 2050
+    combined_demand_2050 = district_demand_2050 + building_demand_2050
+
+    # Make percentage be of combined demand, not total
+    district_percentage = district_percentage * specified_annual_demand.loc[(specified_annual_demand["Year"] == 2050) & (specified_annual_demand["Fuel"].str.contains("Heat")), "Value"].sum() / combined_demand_2050
+
+    print("District percentage:", district_percentage)
+
+    # Find multipliers
+    district_multiplier = district_percentage * combined_demand_2050 / district_demand_2050
+    building_multiplier = (1 - district_percentage) * combined_demand_2050 / building_demand_2050
+
+    # Multiply all district heating values with district_multiplier
+    parameters_dict["Par_SpecifiedAnnualDemand"].loc[parameters_dict["Par_SpecifiedAnnualDemand"]["Fuel"].str.startswith("Heat_District"), "Value"] *= district_multiplier
+
+    # Multiply all building heating values with building_multiplier
+    parameters_dict["Par_SpecifiedAnnualDemand"].loc[parameters_dict["Par_SpecifiedAnnualDemand"]["Fuel"].str.startswith("Heat_Low_Building"), "Value"] *= building_multiplier
+
+    # Verify combined demand
+    # Get total demand 2050 for district heating
+    district_demand_2050 = specified_annual_demand.loc[(specified_annual_demand["Year"] == 2050) & (specified_annual_demand["Fuel"].str.startswith("Heat_District")), "Value"].sum()
+
+    # Get total demand 2050 for building heating
+    building_demand_2050 = specified_annual_demand.loc[(specified_annual_demand["Year"] == 2050) & (specified_annual_demand["Fuel"].str.startswith("Heat_Low_Building")), "Value"].sum()
+
+    print("Combined demand 2050:", district_demand_2050 + building_demand_2050)
+
+    return parameters_dict
+
+
+def make_HLB_price_equal_HLDH(parameters_dict: dict[str, pd.DataFrame]) -> dict[str, pd.DataFrame]:
+    
+    # Extract HLDH capital cost data
+    HLDH_capital_cost = parameters_dict["Par_CapitalCostStorage"].loc[
+        parameters_dict["Par_CapitalCostStorage"]["Storage"] == "S_Heat_HLDH", 
+        ["Year", "Region", "Value"]
+    ]
+
+    # Extract HLB capital cost data
+    HLB_capital_cost = parameters_dict["Par_CapitalCostStorage"].loc[
+        parameters_dict["Par_CapitalCostStorage"]["Storage"] == "S_Heat_HLB", 
+        ["Year", "Region", "Value"]
+    ]
+
+    # Merge HLDH and HLB data on Year and Region
+    merged_data = pd.merge(
+        HLB_capital_cost, 
+        HLDH_capital_cost, 
+        on=["Year", "Region"], 
+        suffixes=('_HLB', '_HLDH')
+    )
+
+    # Update HLB values to equal corresponding HLDH values
+    parameters_dict["Par_CapitalCostStorage"].loc[
+        parameters_dict["Par_CapitalCostStorage"]["Storage"] == "S_Heat_HLB", 
+        "Value"
+    ] = merged_data["Value_HLDH"]
+
+    return parameters_dict
+    
