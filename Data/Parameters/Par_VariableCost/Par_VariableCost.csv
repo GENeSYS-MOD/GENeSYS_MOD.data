@@ -151,6 +151,14 @@ World,FRT_Ship_Conv,1,2035,0,,MEUR/PJ,,,
 World,FRT_Ship_Conv,1,2040,0,,MEUR/PJ,,,
 World,FRT_Ship_Conv,1,2045,0,,MEUR/PJ,,,
 World,FRT_Ship_Conv,1,2050,0,,MEUR/PJ,,,
+DE,HB_Convert_DH,1,2018,0.001,,MEUR/PJ,,,
+DE,HB_Convert_DH,1,2020,0.001,,MEUR/PJ,,,
+DE,HB_Convert_DH,1,2025,0.001,,MEUR/PJ,,,
+DE,HB_Convert_DH,1,2030,0.001,,MEUR/PJ,,,
+DE,HB_Convert_DH,1,2035,0.001,,MEUR/PJ,,,
+DE,HB_Convert_DH,1,2040,0.001,,MEUR/PJ,,,
+DE,HB_Convert_DH,1,2045,0.001,,MEUR/PJ,,,
+DE,HB_Convert_DH,1,2050,0.001,,MEUR/PJ,,,
 DE,HHI_BF_BOF_CCS,1,2018,1.44,,MEUR/PJ,,,
 DE,HHI_BF_BOF_CCS,2,2018,1.44,,MEUR/PJ,,,
 DE,HHI_BF_BOF_CCS,3,2018,1.44,,MEUR/PJ,,,
@@ -199,14 +207,6 @@ DE,HLI_Convert_DH,1,2035,0.001,,MEUR/PJ,,,
 DE,HLI_Convert_DH,1,2040,0.001,,MEUR/PJ,,,
 DE,HLI_Convert_DH,1,2045,0.001,,MEUR/PJ,,,
 DE,HLI_Convert_DH,1,2050,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2018,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2020,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2025,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2030,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2035,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2040,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2045,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2050,0.001,,MEUR/PJ,,,
 DE,HMI_Gas_CCS,1,2018,1.44,,MEUR/PJ,,,
 DE,HMI_Gas_CCS,1,2020,1.368,,MEUR/PJ,,,
 DE,HMI_Gas_CCS,1,2025,1.368,,MEUR/PJ,,,
@@ -225,84 +225,211 @@ DE,HMI_HardCoal_CCS,1,2045,1.368,,MEUR/PJ,,,
 DE,HMI_HardCoal_CCS,1,2050,1.368,,MEUR/PJ,,,
 World,P_Biomass,1,2018,0.01,,MEUR/PJ,,,
 World,P_Biomass,1,2020,0.01,,MEUR/PJ,,,
-World,P_Biomass,1,2025,0.01,,MEUR/PJ,,,
-World,P_Biomass,1,2030,0.01,,MEUR/PJ,,,
-World,P_Biomass,1,2035,0.01,,MEUR/PJ,,,
-World,P_Biomass,1,2040,0.01,,MEUR/PJ,,,
-World,P_Biomass,1,2045,0.01,,MEUR/PJ,,,
-World,P_Biomass,1,2050,0.01,,MEUR/PJ,,,
-DE,P_Biomass_CCS,1,2018,0.556,,MEUR/PJ,,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,P_Biomass_CCS,1,2020,0.4726,,MEUR/PJ,,,
-DE,P_Biomass_CCS,1,2025,0.4726,,MEUR/PJ,,,
-DE,P_Biomass_CCS,1,2030,0.4726,,MEUR/PJ,,,
-DE,P_Biomass_CCS,1,2035,0.4726,,MEUR/PJ,,,
-DE,P_Biomass_CCS,1,2040,0.4726,,MEUR/PJ,,,
-DE,P_Biomass_CCS,1,2045,0.4726,,MEUR/PJ,,,
-DE,P_Biomass_CCS,1,2050,0.4726,,MEUR/PJ,,,
-World,P_Biomass_CCS,1,2018,0.556,,MEUR/PJ,,,
+World,P_Biomass,1,2021,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass,1,2025,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass,1,2030,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass,1,2035,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass,1,2040,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass,1,2045,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass,1,2050,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass_CCS,1,2018,1.6124,,MEUR/PJ,,,
 World,P_Biomass_CCS,1,2020,0.4726,,MEUR/PJ,,,
-World,P_Biomass_CCS,1,2025,0.4726,,MEUR/PJ,,,
-World,P_Biomass_CCS,1,2030,0.4726,,MEUR/PJ,,,
-World,P_Biomass_CCS,1,2035,0.4726,,MEUR/PJ,,,
-World,P_Biomass_CCS,1,2040,0.4726,,MEUR/PJ,,,
-World,P_Biomass_CCS,1,2045,0.4726,,MEUR/PJ,,,
-World,P_Biomass_CCS,1,2050,0.4726,,MEUR/PJ,,,
+World,P_Biomass_CCS,1,2021,1.66522,,MEUR/PJ,Steam turbine biomass solid conventional w.CCS-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass_CCS,1,2025,1.6541,,MEUR/PJ,Steam turbine biomass solid conventional w.CCS-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass_CCS,1,2030,1.64298,,MEUR/PJ,Steam turbine biomass solid conventional w.CCS-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass_CCS,1,2035,1.63047,,MEUR/PJ,Steam turbine biomass solid conventional w.CCS-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass_CCS,1,2040,1.61796,,MEUR/PJ,Steam turbine biomass solid conventional w.CCS-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass_CCS,1,2045,1.61518,,MEUR/PJ,Steam turbine biomass solid conventional w.CCS-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Biomass_CCS,1,2050,1.6124,,MEUR/PJ,Steam turbine biomass solid conventional w.CCS-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Hardcoal,1,2018,0.01,,MEUR/PJ,,,
 World,P_Coal_Hardcoal,1,2020,0.01,,MEUR/PJ,,,
-World,P_Coal_Hardcoal,1,2025,0.01,,MEUR/PJ,,,
-World,P_Coal_Hardcoal,1,2030,0.01,,MEUR/PJ,,,
-World,P_Coal_Hardcoal,1,2035,0.01,,MEUR/PJ,,,
-World,P_Coal_Hardcoal,1,2040,0.01,,MEUR/PJ,,,
-World,P_Coal_Hardcoal,1,2045,0.01,,MEUR/PJ,,,
-World,P_Coal_Hardcoal,1,2050,0.01,,MEUR/PJ,,,
-DE,P_Coal_Hardcoal_CCS,1,2018,1.44,,MEUR/PJ,,,
-DE,P_Coal_Hardcoal_CCS,1,2020,1.368,,MEUR/PJ,,,
-DE,P_Coal_Hardcoal_CCS,1,2025,1.368,,MEUR/PJ,,,
-DE,P_Coal_Hardcoal_CCS,1,2030,1.368,,MEUR/PJ,,,
-DE,P_Coal_Hardcoal_CCS,1,2035,1.368,,MEUR/PJ,,,
-DE,P_Coal_Hardcoal_CCS,1,2040,1.368,,MEUR/PJ,,,
-DE,P_Coal_Hardcoal_CCS,1,2045,1.368,,MEUR/PJ,,,
-DE,P_Coal_Hardcoal_CCS,1,2050,1.368,,MEUR/PJ,,,
+World,P_Coal_Hardcoal,1,2021,0.6672,,MEUR/PJ,Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal,1,2025,0.6672,,MEUR/PJ,Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal,1,2030,0.6672,,MEUR/PJ,Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal,1,2035,0.6672,,MEUR/PJ,Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal,1,2040,0.6672,,MEUR/PJ,Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal,1,2045,0.6672,,MEUR/PJ,Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal,1,2050,0.6672,,MEUR/PJ,Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,1,2018,1.44,,MEUR/PJ,,,
+World,P_Coal_Hardcoal_CCS,1,2020,1.368,,MEUR/PJ,,,
+World,P_Coal_Hardcoal_CCS,1,2021,1.82924,,MEUR/PJ,Integrated gasification coal CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,1,2025,1.7931,,MEUR/PJ,Integrated gasification coal CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,1,2030,1.75696,,MEUR/PJ,Integrated gasification coal CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,1,2035,1.72499,,MEUR/PJ,Integrated gasification coal CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,1,2040,1.69302,,MEUR/PJ,Integrated gasification coal CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,1,2045,1.66244,,MEUR/PJ,Integrated gasification coal CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,1,2050,1.63186,,MEUR/PJ,Integrated gasification coal CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Lignite,1,2018,0.01,,MEUR/PJ,,,
 World,P_Coal_Lignite,1,2020,0.01,,MEUR/PJ,,,
-World,P_Coal_Lignite,1,2025,0.01,,MEUR/PJ,,,
-World,P_Coal_Lignite,1,2030,0.01,,MEUR/PJ,,,
-World,P_Coal_Lignite,1,2035,0.01,,MEUR/PJ,,,
-World,P_Coal_Lignite,1,2040,0.01,,MEUR/PJ,,,
-World,P_Coal_Lignite,1,2045,0.01,,MEUR/PJ,,,
-World,P_Coal_Lignite,1,2050,0.01,,MEUR/PJ,,,
-DE,P_Coal_Lignite_CCS,1,2018,1.44,,MEUR/PJ,,,
-DE,P_Coal_Lignite_CCS,1,2020,1.368,,MEUR/PJ,,,
-DE,P_Coal_Lignite_CCS,1,2025,1.368,,MEUR/PJ,,,
-DE,P_Coal_Lignite_CCS,1,2030,1.368,,MEUR/PJ,,,
-DE,P_Coal_Lignite_CCS,1,2035,1.368,,MEUR/PJ,,,
-DE,P_Coal_Lignite_CCS,1,2040,1.368,,MEUR/PJ,,,
-DE,P_Coal_Lignite_CCS,1,2045,1.368,,MEUR/PJ,,,
-DE,P_Coal_Lignite_CCS,1,2050,1.368,,MEUR/PJ,,,
-DE,P_Gas_CCS,1,2018,1.44,,MEUR/PJ,,,
-DE,P_Gas_CCS,1,2020,1.368,,MEUR/PJ,,,
-DE,P_Gas_CCS,1,2025,1.368,,MEUR/PJ,,,
-DE,P_Gas_CCS,1,2030,1.368,,MEUR/PJ,,,
-DE,P_Gas_CCS,1,2035,1.368,,MEUR/PJ,,,
-DE,P_Gas_CCS,1,2040,1.368,,MEUR/PJ,,,
-DE,P_Gas_CCS,1,2045,1.368,,MEUR/PJ,,,
-DE,P_Gas_CCS,1,2050,1.368,,MEUR/PJ,,,
+World,P_Coal_Lignite,1,2021,0.834,,MEUR/PJ,Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite,1,2025,0.834,,MEUR/PJ,Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite,1,2030,0.834,,MEUR/PJ,Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite,1,2035,0.834,,MEUR/PJ,Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite,1,2040,0.834,,MEUR/PJ,Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite,1,2045,0.834,,MEUR/PJ,Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite,1,2050,0.834,,MEUR/PJ,Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,1,2018,1.44,,MEUR/PJ,,,
+World,P_Coal_Lignite_CCS,1,2020,1.368,,MEUR/PJ,,,
+World,P_Coal_Lignite_CCS,1,2021,1.506555896,,MEUR/PJ,Integrated gasification lignitel CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,1,2025,1.480110354,,MEUR/PJ,Integrated gasification lignitel CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,1,2030,1.453664812,,MEUR/PJ,Integrated gasification lignitel CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,1,2035,1.429822836,,MEUR/PJ,Integrated gasification lignitel CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,1,2040,1.405980861,,MEUR/PJ,Integrated gasification lignitel CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,1,2045,1.382920963,,MEUR/PJ,Integrated gasification lignitel CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,1,2050,1.359861066,,MEUR/PJ,Integrated gasification lignitel CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_CSP,1,2018,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2020,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2021,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2025,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2030,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2035,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2040,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2045,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2050,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Gas_CCS,1,2018,1.44,,MEUR/PJ,,,
+World,P_Gas_CCS,1,2020,1.368,,MEUR/PJ,,,
+World,P_Gas_CCS,1,2021,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2025,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2030,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2035,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2040,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2045,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2050,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2018,0.036111111,,MEUR/PJ,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Geothermal,1,2020,0.036111111,,MEUR/PJ,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Geothermal,1,2021,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2025,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2030,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2035,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2040,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2045,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2050,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Large,1,2018,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Hydro_Large,1,2020,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Hydro_Large,1,2021,0.08896,,MEUR/PJ,Lakes - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Large,1,2025,0.08896,,MEUR/PJ,Lakes - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Large,1,2030,0.08896,,MEUR/PJ,Lakes - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Large,1,2035,0.08896,,MEUR/PJ,Lakes - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Large,1,2040,0.08896,,MEUR/PJ,Lakes - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Large,1,2045,0.08896,,MEUR/PJ,Lakes - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Large,1,2050,0.08896,,MEUR/PJ,Lakes - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Small,1,2018,1.38888889,,MEUR/PJ,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Hydro_Small,1,2020,1.38888889,,MEUR/PJ,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Hydro_Small,1,2021,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Small,1,2025,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Small,1,2030,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Small,1,2035,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Small,1,2040,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Small,1,2045,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_Small,1,2050,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Nuclear,1,2018,0.01,,MEUR/PJ,,,
 World,P_Nuclear,1,2020,0.01,,MEUR/PJ,,,
-World,P_Nuclear,1,2025,0.01,,MEUR/PJ,,,
-World,P_Nuclear,1,2030,0.01,,MEUR/PJ,,,
-World,P_Nuclear,1,2035,0.01,,MEUR/PJ,,,
-World,P_Nuclear,1,2040,0.01,,MEUR/PJ,,,
-World,P_Nuclear,1,2045,0.01,,MEUR/PJ,,,
-World,P_Nuclear,1,2050,0.01,,MEUR/PJ,,,
+World,P_Nuclear,1,2021,1.777777778,,MEUR/PJ,Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Nuclear,1,2025,1.916666667,,MEUR/PJ,Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Nuclear,1,2030,2.055555556,,MEUR/PJ,Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Nuclear,1,2035,2.083333333,,MEUR/PJ,Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Nuclear,1,2040,2.111111111,,MEUR/PJ,Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Nuclear,1,2045,2.138888889,,MEUR/PJ,Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Nuclear,1,2050,2.166666667,,MEUR/PJ,Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Ocean,1,2018,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Ocean,1,2020,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Ocean,1,2021,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Ocean,1,2025,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Ocean,1,2030,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Ocean,1,2035,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Ocean,1,2040,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Ocean,1,2045,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Ocean,1,2050,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Oil,1,2018,0,,MEUR/PJ,,,
 World,P_Oil,1,2020,0,,MEUR/PJ,,,
-World,P_Oil,1,2025,0,,MEUR/PJ,,,
-World,P_Oil,1,2030,0,,MEUR/PJ,,,
-World,P_Oil,1,2035,0,,MEUR/PJ,,,
-World,P_Oil,1,2040,0,,MEUR/PJ,,,
-World,P_Oil,1,2045,0,,MEUR/PJ,,,
-World,P_Oil,1,2050,0,,MEUR/PJ,,,
+World,P_Oil,1,2021,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Oil,1,2025,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Oil,1,2030,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Oil,1,2035,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Oil,1,2040,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Oil,1,2045,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Oil,1,2050,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2018,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Avg,1,2020,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Avg,1,2021,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2025,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2030,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2035,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2040,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2045,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2050,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2018,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Inf,1,2020,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Inf,1,2021,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2025,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2030,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2035,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2040,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2045,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2050,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2018,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Opt,1,2020,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Opt,1,2021,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2025,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2030,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2035,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2040,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2045,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2050,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Offshore_Deep,1,2018,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Deep,1,2020,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Deep,1,2021,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Deep,1,2025,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Deep,1,2030,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Deep,1,2035,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Deep,1,2040,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Deep,1,2045,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Deep,1,2050,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Shallow,1,2018,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Shallow,1,2020,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Shallow,1,2021,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Shallow,1,2025,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Shallow,1,2030,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Shallow,1,2035,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Shallow,1,2040,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Shallow,1,2045,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Shallow,1,2050,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Transitional,1,2018,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Transitional,1,2020,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Transitional,1,2021,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Transitional,1,2025,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Transitional,1,2030,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Transitional,1,2035,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Transitional,1,2040,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Transitional,1,2045,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Offshore_Transitional,1,2050,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Onshore_Avg,1,2018,0.005,,MEUR/PJ,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Onshore_Avg,1,2020,0.005,,MEUR/PJ,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Onshore_Avg,1,2021,0.798813119,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Avg,1,2025,0.779059155,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Avg,1,2030,0.746619736,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Avg,1,2035,0.73099738,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Avg,1,2040,0.715375024,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Avg,1,2045,0.707235762,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Avg,1,2050,0.6990965,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Inf,1,2018,0.004166667,,MEUR/PJ,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Onshore_Inf,1,2020,0.004166667,,MEUR/PJ,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Onshore_Inf,1,2021,0.798813119,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Inf,1,2025,0.779059155,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Inf,1,2030,0.746619736,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Inf,1,2035,0.73099738,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Inf,1,2040,0.715375024,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Inf,1,2045,0.707235762,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Inf,1,2050,0.6990965,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Opt,1,2018,0.006388889,,MEUR/PJ,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Onshore_Opt,1,2020,0.006388889,,MEUR/PJ,Wind onshore- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_Wind_Onshore_Opt,1,2021,0.798813119,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Opt,1,2025,0.779059155,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Opt,1,2030,0.746619736,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Opt,1,2035,0.73099738,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Opt,1,2040,0.715375024,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Opt,1,2045,0.707235762,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Wind_Onshore_Opt,1,2050,0.6990965,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,PSNG_Air_Bio,1,2018,0,,MEUR/PJ,,,
 World,PSNG_Air_Bio,1,2020,0,,MEUR/PJ,,,
 World,PSNG_Air_Bio,1,2025,0,,MEUR/PJ,,,
@@ -375,6 +502,14 @@ World,PSNG_Road_PHEV,1,2035,0,,MEUR/PJ,,,
 World,PSNG_Road_PHEV,1,2040,0,,MEUR/PJ,,,
 World,PSNG_Road_PHEV,1,2045,0,,MEUR/PJ,,,
 World,PSNG_Road_PHEV,1,2050,0,,MEUR/PJ,,,
+DE,R_Biogas,1,2018,5.176925274,,MEUR/PJ,,,
+DE,R_Biogas,1,2020,4.681741117,,MEUR/PJ,,,
+DE,R_Biogas,1,2025,4.963095752,,MEUR/PJ,,,
+DE,R_Biogas,1,2030,5.244450386,,MEUR/PJ,,,
+DE,R_Biogas,1,2035,5.52580502,,MEUR/PJ,,,
+DE,R_Biogas,1,2040,5.807159655,,MEUR/PJ,,,
+DE,R_Biogas,1,2045,6.088514289,,MEUR/PJ,,,
+DE,R_Biogas,1,2050,6.369868924,,MEUR/PJ,,,
 DE,R_Coal_Hardcoal,1,2018,2.138888889,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,R_Coal_Hardcoal,1,2020,2.138888889,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,R_Coal_Hardcoal,1,2025,2.333333333,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -399,6 +534,14 @@ DE,R_Gas,1,2035,10.02777778,,MEUR/PJ,Natural Gas Table 1.9- Financial assumption
 DE,R_Gas,1,2040,11.16666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,R_Gas,1,2045,11.16666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,R_Gas,1,2050,11.16666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+DE,R_Grass,1,2018,3.384912679,,MEUR/PJ,,,
+DE,R_Grass,1,2020,3.061138423,,MEUR/PJ,,,
+DE,R_Grass,1,2025,3.245101068,,MEUR/PJ,,,
+DE,R_Grass,1,2030,3.429063714,,MEUR/PJ,,,
+DE,R_Grass,1,2035,3.61302636,,MEUR/PJ,,,
+DE,R_Grass,1,2040,3.796989005,,MEUR/PJ,,,
+DE,R_Grass,1,2045,3.980951651,,MEUR/PJ,,,
+DE,R_Grass,1,2050,4.164914296,,MEUR/PJ,,,
 DE,R_Nuclear,1,2018,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,R_Nuclear,1,2020,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,R_Nuclear,1,2025,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -415,86 +558,6 @@ DE,R_Oil,1,2035,12.20555556,,MEUR/PJ,Oil Table 1.9- Financial assumptions for th
 DE,R_Oil,1,2040,12.07777778,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,R_Oil,1,2045,12.07777778,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,R_Oil,1,2050,12.07777778,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Biogas,1,2018,5.176925274,,MEUR/PJ,,,
-DE,R_Biogas,1,2020,4.681741117,,MEUR/PJ,,,
-DE,R_Biogas,1,2025,4.963095752,,MEUR/PJ,,,
-DE,R_Biogas,1,2030,5.244450386,,MEUR/PJ,,,
-DE,R_Biogas,1,2035,5.52580502,,MEUR/PJ,,,
-DE,R_Biogas,1,2040,5.807159655,,MEUR/PJ,,,
-DE,R_Biogas,1,2045,6.088514289,,MEUR/PJ,,,
-DE,R_Biogas,1,2050,6.369868924,,MEUR/PJ,,,
-World,P_CSP,1,2018,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2020,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2025,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2030,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2035,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2040,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2045,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2050,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,P_Geothermal,1,2018,0.833333334,,MEUR/PJ,,,
-DE,P_Geothermal,1,2020,0.708333334,,MEUR/PJ,,,
-DE,P_Geothermal,1,2025,0.708333334,,MEUR/PJ,,,
-DE,P_Geothermal,1,2030,0.708333334,,MEUR/PJ,,,
-DE,P_Geothermal,1,2035,0.708333334,,MEUR/PJ,,,
-DE,P_Geothermal,1,2040,0.708333334,,MEUR/PJ,,,
-DE,P_Geothermal,1,2045,0.708333334,,MEUR/PJ,,,
-DE,P_Geothermal,1,2050,0.708333334,,MEUR/PJ,,,
-World,P_Geothermal,1,2018,0.036111111,,MEUR/PJ,Geothermal high enthalpy Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Geothermal,1,2020,0.036111111,,MEUR/PJ,Geothermal high enthalpy Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Geothermal,1,2025,0.036111111,,MEUR/PJ,Geothermal high enthalpy Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Geothermal,1,2030,0.036111111,,MEUR/PJ,Geothermal high enthalpy Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Geothermal,1,2035,0.036111111,,MEUR/PJ,Geothermal high enthalpy Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Geothermal,1,2040,0.036111111,,MEUR/PJ,Geothermal high enthalpy Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Geothermal,1,2045,0.036111111,,MEUR/PJ,Geothermal high enthalpy Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Geothermal,1,2050,0.036111111,,MEUR/PJ,Geothermal high enthalpy Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Grass,1,2018,3.384912679,,MEUR/PJ,,,
-DE,R_Grass,1,2020,3.061138423,,MEUR/PJ,,,
-DE,R_Grass,1,2025,3.245101068,,MEUR/PJ,,,
-DE,R_Grass,1,2030,3.429063714,,MEUR/PJ,,,
-DE,R_Grass,1,2035,3.61302636,,MEUR/PJ,,,
-DE,R_Grass,1,2040,3.796989005,,MEUR/PJ,,,
-DE,R_Grass,1,2045,3.980951651,,MEUR/PJ,,,
-DE,R_Grass,1,2050,4.164914296,,MEUR/PJ,,,
-DE,P_Hydro_Large,1,2018,0,,MEUR/PJ,,,
-DE,P_Hydro_Large,1,2020,0,,MEUR/PJ,,,
-DE,P_Hydro_Large,1,2025,0,,MEUR/PJ,,,
-DE,P_Hydro_Large,1,2030,0,,MEUR/PJ,,,
-DE,P_Hydro_Large,1,2035,0,,MEUR/PJ,,,
-DE,P_Hydro_Large,1,2040,0,,MEUR/PJ,,,
-DE,P_Hydro_Large,1,2045,0,,MEUR/PJ,,,
-DE,P_Hydro_Large,1,2050,0,,MEUR/PJ,,,
-World,P_Hydro_Large,1,2018,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Large,1,2020,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Large,1,2025,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Large,1,2030,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Large,1,2035,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Large,1,2040,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Large,1,2045,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Large,1,2050,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,P_Hydro_Small,1,2018,0,,MEUR/PJ,,,
-DE,P_Hydro_Small,1,2020,0,,MEUR/PJ,,,
-DE,P_Hydro_Small,1,2025,0,,MEUR/PJ,,,
-DE,P_Hydro_Small,1,2030,0,,MEUR/PJ,,,
-DE,P_Hydro_Small,1,2035,0,,MEUR/PJ,,,
-DE,P_Hydro_Small,1,2040,0,,MEUR/PJ,,,
-DE,P_Hydro_Small,1,2045,0,,MEUR/PJ,,,
-DE,P_Hydro_Small,1,2050,0,,MEUR/PJ,,,
-World,P_Hydro_Small,1,2018,1.38888889,,MEUR/PJ,Hydro Run-of-River Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Small,1,2020,1.38888889,,MEUR/PJ,Hydro Run-of-River Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Small,1,2025,1.38888889,,MEUR/PJ,Hydro Run-of-River Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Small,1,2030,1.38888889,,MEUR/PJ,Hydro Run-of-River Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Small,1,2035,1.38888889,,MEUR/PJ,Hydro Run-of-River Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Small,1,2040,1.38888889,,MEUR/PJ,Hydro Run-of-River Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Small,1,2045,1.38888889,,MEUR/PJ,Hydro Run-of-River Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_Small,1,2050,1.38888889,,MEUR/PJ,Hydro Run-of-River Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Ocean,1,2018,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Ocean,1,2020,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Ocean,1,2025,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Ocean,1,2030,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Ocean,1,2035,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Ocean,1,2040,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Ocean,1,2045,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Ocean,1,2050,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,R_Paper_Cardboard,1,2018,9.257637081,,MEUR/PJ,,,
 DE,R_Paper_Cardboard,1,2020,8.372123969,,MEUR/PJ,,,
 DE,R_Paper_Cardboard,1,2025,8.875256419,,MEUR/PJ,,,
@@ -503,30 +566,6 @@ DE,R_Paper_Cardboard,1,2035,9.881521319,,MEUR/PJ,,,
 DE,R_Paper_Cardboard,1,2040,10.38465377,,MEUR/PJ,,,
 DE,R_Paper_Cardboard,1,2045,10.88778622,,MEUR/PJ,,,
 DE,R_Paper_Cardboard,1,2050,11.39091867,,MEUR/PJ,,,
-World,P_PV_Utility_Avg,1,2018,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Avg,1,2020,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Avg,1,2025,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Avg,1,2030,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Avg,1,2035,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Avg,1,2040,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Avg,1,2045,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Avg,1,2050,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Inf,1,2018,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Inf,1,2020,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Inf,1,2025,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Inf,1,2030,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Inf,1,2035,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Inf,1,2040,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Inf,1,2045,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Inf,1,2050,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Opt,1,2018,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Opt,1,2020,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Opt,1,2025,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Opt,1,2030,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Opt,1,2035,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Opt,1,2040,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Opt,1,2045,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Opt,1,2050,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,R_Residues,1,2018,3.982250211,,MEUR/PJ,,,
 DE,R_Residues,1,2020,3.601339321,,MEUR/PJ,,,
 DE,R_Residues,1,2025,3.817765963,,MEUR/PJ,,,
@@ -543,54 +582,6 @@ DE,R_Roundwood,1,2035,15.67075667,,MEUR/PJ,,,
 DE,R_Roundwood,1,2040,16.46865671,,MEUR/PJ,,,
 DE,R_Roundwood,1,2045,17.26655674,,MEUR/PJ,,,
 DE,R_Roundwood,1,2050,18.06445677,,MEUR/PJ,,,
-World,P_Wind_Offshore_Deep,1,2018,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Deep,1,2020,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Deep,1,2025,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Deep,1,2030,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Deep,1,2035,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Deep,1,2040,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Deep,1,2045,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Deep,1,2050,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Shallow,1,2018,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Shallow,1,2020,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Shallow,1,2025,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Shallow,1,2030,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Shallow,1,2035,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Shallow,1,2040,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Shallow,1,2045,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Shallow,1,2050,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters near- shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Transitional,1,2018,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Transitional,1,2020,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Transitional,1,2025,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Transitional,1,2030,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Transitional,1,2035,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Transitional,1,2040,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Transitional,1,2045,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Offshore_Transitional,1,2050,0.010833333,,MEUR/PJ,Wind-offshore - shallow waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Avg,1,2018,0.005,,MEUR/PJ,Wind onshore - medium resource area- medium height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Avg,1,2020,0.005,,MEUR/PJ,Wind onshore - medium resource area- medium height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Avg,1,2025,0.005,,MEUR/PJ,Wind onshore - medium resource area- medium height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Avg,1,2030,0.005,,MEUR/PJ,Wind onshore - medium resource area- medium height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Avg,1,2035,0.005,,MEUR/PJ,Wind onshore - medium resource area- medium height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Avg,1,2040,0.005,,MEUR/PJ,Wind onshore - medium resource area- medium height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Avg,1,2045,0.005,,MEUR/PJ,Wind onshore - medium resource area- medium height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Avg,1,2050,0.005,,MEUR/PJ,Wind onshore - medium resource area- medium height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Inf,1,2018,0.004166667,,MEUR/PJ,Wind onshore - low resource area- high hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Inf,1,2020,0.004166667,,MEUR/PJ,Wind onshore - low resource area- high hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Inf,1,2025,0.004166667,,MEUR/PJ,Wind onshore - low resource area- high hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Inf,1,2030,0.004166667,,MEUR/PJ,Wind onshore - low resource area- high hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Inf,1,2035,0.004166667,,MEUR/PJ,Wind onshore - low resource area- high hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Inf,1,2040,0.004166667,,MEUR/PJ,Wind onshore - low resource area- high hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Inf,1,2045,0.004166667,,MEUR/PJ,Wind onshore - low resource area- high hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Inf,1,2050,0.004166667,,MEUR/PJ,Wind onshore - low resource area- high hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Opt,1,2018,0.006388889,,MEUR/PJ,Wind onshore - Very high resource area- low hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Opt,1,2020,0.006388889,,MEUR/PJ,Wind onshore - Very high resource area- low hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Opt,1,2025,0.006388889,,MEUR/PJ,Wind onshore - Very high resource area- low hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Opt,1,2030,0.006388889,,MEUR/PJ,Wind onshore - Very high resource area- low hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Opt,1,2035,0.006388889,,MEUR/PJ,Wind onshore - Very high resource area- low hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Opt,1,2040,0.006388889,,MEUR/PJ,Wind onshore - Very high resource area- low hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Opt,1,2045,0.006388889,,MEUR/PJ,Wind onshore - Very high resource area- low hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Wind_Onshore_Opt,1,2050,0.006388889,,MEUR/PJ,Wind onshore - Very high resource area- low hub height Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 DE,R_Wood,1,2018,3.58402519,,MEUR/PJ,,,
 DE,R_Wood,1,2020,3.241205389,,MEUR/PJ,,,
 DE,R_Wood,1,2025,3.435989366,,MEUR/PJ,,,
@@ -599,6 +590,14 @@ DE,R_Wood,1,2035,3.825557322,,MEUR/PJ,,,
 DE,R_Wood,1,2040,4.0203413,,MEUR/PJ,,,
 DE,R_Wood,1,2045,4.215125277,,MEUR/PJ,,,
 DE,R_Wood,1,2050,4.409909255,,MEUR/PJ,,,
+DE,X_ATR_CCS,1,2018,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+DE,X_ATR_CCS,1,2020,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+DE,X_ATR_CCS,1,2025,0.3,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+DE,X_ATR_CCS,1,2030,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+DE,X_ATR_CCS,1,2035,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+DE,X_ATR_CCS,1,2040,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+DE,X_ATR_CCS,1,2045,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+DE,X_ATR_CCS,1,2050,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
 DE,X_DAC_HT,1,2018,1.44,,MEUR/PJ,,,
 DE,X_DAC_HT,1,2020,1.152,,MEUR/PJ,,,
 DE,X_DAC_HT,1,2025,1.152,,MEUR/PJ,,,
@@ -616,93 +615,85 @@ DE,X_DAC_LT,1,2040,1.152,,MEUR/PJ,,,
 DE,X_DAC_LT,1,2045,1.152,,MEUR/PJ,,,
 DE,X_DAC_LT,1,2050,1.152,,MEUR/PJ,,,
 DE,X_Electrolysis,1,2018,0.001,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2020,0.00065,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2025,0.00065,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2030,0.00065,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2035,0.00065,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2040,0.00065,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2045,0.00065,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2050,0.00065,,MEUR/PJ,,,
 World,X_Electrolysis,1,2018,0.001,,MEUR/PJ,,,
+DE,X_Electrolysis,1,2020,0.00065,,MEUR/PJ,,,
 World,X_Electrolysis,1,2020,0.001,,MEUR/PJ,,,
+DE,X_Electrolysis,1,2025,0.00065,,MEUR/PJ,,,
 World,X_Electrolysis,1,2025,0.001,,MEUR/PJ,,,
+DE,X_Electrolysis,1,2030,0.00065,,MEUR/PJ,,,
 World,X_Electrolysis,1,2030,0.001,,MEUR/PJ,,,
+DE,X_Electrolysis,1,2035,0.00065,,MEUR/PJ,,,
 World,X_Electrolysis,1,2035,0.001,,MEUR/PJ,,,
+DE,X_Electrolysis,1,2040,0.00065,,MEUR/PJ,,,
 World,X_Electrolysis,1,2040,0.001,,MEUR/PJ,,,
+DE,X_Electrolysis,1,2045,0.00065,,MEUR/PJ,,,
 World,X_Electrolysis,1,2045,0.001,,MEUR/PJ,,,
+DE,X_Electrolysis,1,2050,0.00065,,MEUR/PJ,,,
 World,X_Electrolysis,1,2050,0.001,,MEUR/PJ,,,
 DE,X_Fuel_Cell,1,2018,11.11111112,,MEUR/PJ,,,
 DE,X_Fuel_Cell,2,2018,11.11111112,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2020,4.513888893,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2020,4.513888893,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2025,4.333333337,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2025,4.333333337,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2030,4.152777781,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2030,4.152777781,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2035,3.520833336,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2035,3.520833336,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2040,2.888888891,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2040,2.888888891,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2045,2.888888891,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2045,2.888888891,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2050,2.888888891,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2050,2.888888891,,MEUR/PJ,,,
 World,X_Fuel_Cell,1,2018,11.11111112,,MEUR/PJ,,,
 World,X_Fuel_Cell,2,2018,11.11111112,,MEUR/PJ,,,
+DE,X_Fuel_Cell,1,2020,4.513888893,,MEUR/PJ,,,
+DE,X_Fuel_Cell,2,2020,4.513888893,,MEUR/PJ,,,
 World,X_Fuel_Cell,1,2020,6.94444445,,MEUR/PJ,,,
 World,X_Fuel_Cell,2,2020,6.94444445,,MEUR/PJ,,,
+DE,X_Fuel_Cell,1,2025,4.333333337,,MEUR/PJ,,,
+DE,X_Fuel_Cell,2,2025,4.333333337,,MEUR/PJ,,,
 World,X_Fuel_Cell,1,2025,6.666666672,,MEUR/PJ,,,
 World,X_Fuel_Cell,2,2025,6.666666672,,MEUR/PJ,,,
+DE,X_Fuel_Cell,1,2030,4.152777781,,MEUR/PJ,,,
+DE,X_Fuel_Cell,2,2030,4.152777781,,MEUR/PJ,,,
 World,X_Fuel_Cell,1,2030,6.388888894,,MEUR/PJ,,,
 World,X_Fuel_Cell,2,2030,6.388888894,,MEUR/PJ,,,
+DE,X_Fuel_Cell,1,2035,3.520833336,,MEUR/PJ,,,
+DE,X_Fuel_Cell,2,2035,3.520833336,,MEUR/PJ,,,
 World,X_Fuel_Cell,1,2035,5.416666671,,MEUR/PJ,,,
 World,X_Fuel_Cell,2,2035,5.416666671,,MEUR/PJ,,,
+DE,X_Fuel_Cell,1,2040,2.888888891,,MEUR/PJ,,,
+DE,X_Fuel_Cell,2,2040,2.888888891,,MEUR/PJ,,,
 World,X_Fuel_Cell,1,2040,4.444444448,,MEUR/PJ,,,
 World,X_Fuel_Cell,2,2040,4.444444448,,MEUR/PJ,,,
+DE,X_Fuel_Cell,1,2045,2.888888891,,MEUR/PJ,,,
+DE,X_Fuel_Cell,2,2045,2.888888891,,MEUR/PJ,,,
 World,X_Fuel_Cell,1,2045,4.444444448,,MEUR/PJ,,,
 World,X_Fuel_Cell,2,2045,4.444444448,,MEUR/PJ,,,
+DE,X_Fuel_Cell,1,2050,2.888888891,,MEUR/PJ,,,
+DE,X_Fuel_Cell,2,2050,2.888888891,,MEUR/PJ,,,
 World,X_Fuel_Cell,1,2050,4.444444448,,MEUR/PJ,,,
 World,X_Fuel_Cell,2,2050,4.444444448,,MEUR/PJ,,,
 DE,X_Methanation,1,2018,0.416666667,,MEUR/PJ,,,
 DE,X_Methanation,2,2018,1.277777779,,MEUR/PJ,,,
-DE,X_Methanation,1,2020,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2020,0.830555556,,MEUR/PJ,,,
-DE,X_Methanation,1,2025,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2025,0.830555556,,MEUR/PJ,,,
-DE,X_Methanation,1,2030,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2030,0.830555556,,MEUR/PJ,,,
-DE,X_Methanation,1,2035,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2035,0.830555556,,MEUR/PJ,,,
-DE,X_Methanation,1,2040,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2040,0.830555556,,MEUR/PJ,,,
-DE,X_Methanation,1,2045,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2045,0.830555556,,MEUR/PJ,,,
-DE,X_Methanation,1,2050,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2050,0.830555556,,MEUR/PJ,,,
 World,X_Methanation,1,2018,0.416666667,,MEUR/PJ,,,
 World,X_Methanation,2,2018,1.277777779,,MEUR/PJ,,,
+DE,X_Methanation,1,2020,0.270833334,,MEUR/PJ,,,
+DE,X_Methanation,2,2020,0.830555556,,MEUR/PJ,,,
 World,X_Methanation,1,2020,0.416666667,,MEUR/PJ,,,
 World,X_Methanation,2,2020,1.277777779,,MEUR/PJ,,,
+DE,X_Methanation,1,2025,0.270833334,,MEUR/PJ,,,
+DE,X_Methanation,2,2025,0.830555556,,MEUR/PJ,,,
 World,X_Methanation,1,2025,0.416666667,,MEUR/PJ,,,
 World,X_Methanation,2,2025,1.277777779,,MEUR/PJ,,,
+DE,X_Methanation,1,2030,0.270833334,,MEUR/PJ,,,
+DE,X_Methanation,2,2030,0.830555556,,MEUR/PJ,,,
 World,X_Methanation,1,2030,0.416666667,,MEUR/PJ,,,
 World,X_Methanation,2,2030,1.277777779,,MEUR/PJ,,,
+DE,X_Methanation,1,2035,0.270833334,,MEUR/PJ,,,
+DE,X_Methanation,2,2035,0.830555556,,MEUR/PJ,,,
 World,X_Methanation,1,2035,0.416666667,,MEUR/PJ,,,
 World,X_Methanation,2,2035,1.277777779,,MEUR/PJ,,,
+DE,X_Methanation,1,2040,0.270833334,,MEUR/PJ,,,
+DE,X_Methanation,2,2040,0.830555556,,MEUR/PJ,,,
 World,X_Methanation,1,2040,0.416666667,,MEUR/PJ,,,
 World,X_Methanation,2,2040,1.277777779,,MEUR/PJ,,,
+DE,X_Methanation,1,2045,0.270833334,,MEUR/PJ,,,
+DE,X_Methanation,2,2045,0.830555556,,MEUR/PJ,,,
 World,X_Methanation,1,2045,0.416666667,,MEUR/PJ,,,
 World,X_Methanation,2,2045,1.277777779,,MEUR/PJ,,,
+DE,X_Methanation,1,2050,0.270833334,,MEUR/PJ,,,
+DE,X_Methanation,2,2050,0.830555556,,MEUR/PJ,,,
 World,X_Methanation,1,2050,0.416666667,,MEUR/PJ,,,
 World,X_Methanation,2,2050,1.277777779,,MEUR/PJ,,,
-DE,X_ATR_CCS,1,2018,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2020,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2025,0.3,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2030,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2035,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2040,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2045,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2050,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
 DE,Z_Import_Gas,1,2021,25.38892024,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
 DE,Z_Import_Gas,1,2025,18.1333528,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
 DE,Z_Import_Gas,1,2030,5.20958202,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
@@ -739,3 +730,31 @@ DE,Z_Import_Oil,1,2035,9.740980225,,MEUR/PJ,own calculations based on IEA World 
 DE,Z_Import_Oil,1,2040,9.257385462,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
 DE,Z_Import_Oil,1,2045,8.773790699,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
 DE,Z_Import_Oil,1,2050,8.290195936,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2021,1.835785393,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2025,1.784791354,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2030,1.733797316,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2035,1.691302283,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2040,1.648807251,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2045,1.606312219,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2050,1.563817187,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2021,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2025,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2030,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2035,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2040,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2045,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2050,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2021,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2025,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2030,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2035,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2040,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2045,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2050,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2021,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2025,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2030,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2035,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2040,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2045,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2050,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>

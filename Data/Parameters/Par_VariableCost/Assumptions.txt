@@ -1,8 +1,43 @@
-Data given for 2020, 2030, 2040, 2050. 
-Linear interpolation for values between.
-Assumed 2020 to equal 2018
 
 For Z_import:
 Data given for 2010,2022,2030,2050.
 Linear interpolation for values between.
 LNG price for 2021 based on Worldbank, further values extrapulated using same Ratio als IEA Scenarios for Natural Gas.
+
+................................
+Source - Danish Energy Agency:
+
+DEA_technology_data_heating_installations: 
+	- Given values for 2020, 2025, 2030, 2040 and 2050. Linear interpolation for the years 2035 and 2045. 
+	- Assumed 2020 = 2021.
+	- Average taken of values for ex singel, ex apart, new singel and new apart
+
+DEA_technology_data_for_el_and_dh:
+	- Data given for 2020, 2030, 2050
+	- Linear interpolation for values between.
+	- Assumed 2020 to equal 2021
+
+................................
+
+Source - REF2020_Technology Assumptions_Energy
+
+	- Data given for 2020, 2030, 2040, 2050. 
+	- Linear interpolation for values between.
+	- Assumed 2020 to equal 2021
+
+................................
+
+Source - High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data
+
+	- Assumed 2020 to equal 2021
+
+................................
+
+Source - IEA - Global Energy and Climate 2023 Key Input Data
+
+	- Stated Policies Scenario for European Union:
+	- Data given for 2022, 2030, 2050
+	- Linear interpolation for values between.
+	- Assumed 2022 to equal 2021
+	- Exchange Rate used:  1$ = 0,92 EUR (Average of 2023)
+
