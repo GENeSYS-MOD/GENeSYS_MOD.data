@@ -298,70 +298,70 @@ DE,FRT_Ship_LNG,2045,8.325093603,,MEUR/gtkm/year,,,
 DE,FRT_Ship_LNG,2050,8.00872093,,MEUR/gtkm/year,,,
 World,HB_Biomass,2018,2890,,MEUR/GW,,,
 World,HB_Biomass,2020,2620,,MEUR/GW,,,
-World,HB_Biomass,2021,,,MEUR/GW,,,
-World,HB_Biomass,2025,2495,,MEUR/GW,,,
-World,HB_Biomass,2030,2370,,MEUR/GW,,,
-World,HB_Biomass,2035,2260,,MEUR/GW,,,
-World,HB_Biomass,2040,2150,,MEUR/GW,,,
-World,HB_Biomass,2045,2050,,MEUR/GW,,,
-World,HB_Biomass,2050,1950,,MEUR/GW,,,
-DE,HB_Convert_DH,2018,1,,MEUR/GW,,,
-DE,HB_Convert_DH,2020,1,,MEUR/GW,,,
-World,HB_Convert_DH,2021,,,MEUR/GW,,,
-DE,HB_Convert_DH,2025,1,,MEUR/GW,,,
-DE,HB_Convert_DH,2030,1,,MEUR/GW,,,
-DE,HB_Convert_DH,2035,1,,MEUR/GW,,,
-DE,HB_Convert_DH,2040,1,,MEUR/GW,,,
-DE,HB_Convert_DH,2045,1,,MEUR/GW,,,
-DE,HB_Convert_DH,2050,1,,MEUR/GW,,,
+World,HB_Biomass,2021,376.8125,,MEUR/GW,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,2025,396.03125,,MEUR/GW,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,2030,386.5,,MEUR/GW,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,2035,376.953125,,MEUR/GW,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,2040,367.40625,,MEUR/GW,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,2045,371.578125,,MEUR/GW,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,2050,375.75,,MEUR/GW,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Convert_DH,2018,1,,MEUR/GW,,,
+World,HB_Convert_DH,2020,1,,MEUR/GW,,,
+World,HB_Convert_DH,2021,1,,MEUR/GW,,,
+World,HB_Convert_DH,2025,1,,MEUR/GW,,,
+World,HB_Convert_DH,2030,1,,MEUR/GW,,,
+World,HB_Convert_DH,2035,1,,MEUR/GW,,,
+World,HB_Convert_DH,2040,1,,MEUR/GW,,,
+World,HB_Convert_DH,2045,1,,MEUR/GW,,,
+World,HB_Convert_DH,2050,1,,MEUR/GW,,,
 World,HB_Direct_Electric,2018,800,,MEUR/GW,,,
 World,HB_Direct_Electric,2020,800,,MEUR/GW,,,
-World,HB_Direct_Electric,2021,,,MEUR/GW,,,
-World,HB_Direct_Electric,2025,800,,MEUR/GW,,,
-World,HB_Direct_Electric,2030,800,,MEUR/GW,,,
-World,HB_Direct_Electric,2035,800,,MEUR/GW,,,
-World,HB_Direct_Electric,2040,800,,MEUR/GW,,,
-World,HB_Direct_Electric,2045,800,,MEUR/GW,,,
-World,HB_Direct_Electric,2050,800,,MEUR/GW,,,
+World,HB_Direct_Electric,2021,791.177084,,MEUR/GW,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,2025,771.010416,,MEUR/GW,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,2030,752.760416,,MEUR/GW,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,2035,733.942708,,MEUR/GW,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,2040,715.125,,MEUR/GW,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,2045,698.380208,,MEUR/GW,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,2050,681.635416,,MEUR/GW,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Gas_Boiler,2018,195,,MEUR/GW,,,
 World,HB_Gas_Boiler,2020,195,,MEUR/GW,,,
-World,HB_Gas_Boiler,2021,,,MEUR/GW,,,
-World,HB_Gas_Boiler,2025,195,,MEUR/GW,,,
-World,HB_Gas_Boiler,2030,195,,MEUR/GW,,,
-World,HB_Gas_Boiler,2035,195,,MEUR/GW,,,
-World,HB_Gas_Boiler,2040,195,,MEUR/GW,,,
-World,HB_Gas_Boiler,2045,195,,MEUR/GW,,,
-World,HB_Gas_Boiler,2050,195,,MEUR/GW,,,
+World,HB_Gas_Boiler,2021,192.4107143,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,2025,186.9017857,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,2030,183.3125,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,2035,178.9732143,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,2040,174.6339286,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,2045,170.5044643,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,2050,166.375,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Geothermal,2018,5250,,MEUR/GW,,,
 World,HB_Geothermal,2020,4970,,MEUR/GW,,,
-World,HB_Geothermal,2021,,,MEUR/GW,,,
-World,HB_Geothermal,2025,4720,,MEUR/GW,,,
-World,HB_Geothermal,2030,4470,,MEUR/GW,,,
-World,HB_Geothermal,2035,4245,,MEUR/GW,,,
-World,HB_Geothermal,2040,4020,,MEUR/GW,,,
-World,HB_Geothermal,2045,3815,,MEUR/GW,,,
-World,HB_Geothermal,2050,3610,,MEUR/GW,,,
+World,HB_Geothermal,2021,2880,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Geothermal,2025,2820,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Geothermal,2030,2660,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Geothermal,2035,2625,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Geothermal,2040,2590,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Geothermal,2045,2560,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Geothermal,2050,2530,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_H2_Boiler,2018,650,,MEUR/GW,,,
 World,HB_H2_Boiler,2020,627.1428571,,MEUR/GW,,,
-World,HB_H2_Boiler,2021,,,MEUR/GW,,,
-World,HB_H2_Boiler,2025,604.2857143,,MEUR/GW,,,
-World,HB_H2_Boiler,2030,581.4285714,,MEUR/GW,,,
-World,HB_H2_Boiler,2035,558.5714286,,MEUR/GW,,,
-World,HB_H2_Boiler,2040,535.7142857,,MEUR/GW,,,
-World,HB_H2_Boiler,2045,512.8571429,,MEUR/GW,,,
-World,HB_H2_Boiler,2050,490,,MEUR/GW,,,
+World,HB_H2_Boiler,2021,225.1205357,,MEUR/GW,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,2025,218.6750893,,MEUR/GW,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,2030,214.475625,,MEUR/GW,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,2035,209.3986607,,MEUR/GW,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,2040,204.3216965,,MEUR/GW,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,2045,199.4902232,,MEUR/GW,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,2050,194.65875,,MEUR/GW,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Hardcoal,2018,1600,,MEUR/GW,,,
 World,HB_Hardcoal,2020,1600,,MEUR/GW,,,
-World,HB_Hardcoal,2021,,,MEUR/GW,,,
-World,HB_Hardcoal,2025,1600,,MEUR/GW,,,
-World,HB_Hardcoal,2030,1600,,MEUR/GW,,,
-World,HB_Hardcoal,2035,1600,,MEUR/GW,,,
-World,HB_Hardcoal,2040,1600,,MEUR/GW,,,
-World,HB_Hardcoal,2045,1600,,MEUR/GW,,,
-World,HB_Hardcoal,2050,1600,,MEUR/GW,,,
+World,HB_Hardcoal,2021,351.1127694,,MEUR/GW,District heating boilers coal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Hardcoal,2025,378.121444,,MEUR/GW,District heating boilers coal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Hardcoal,2030,405.1301186,,MEUR/GW,District heating boilers coal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Hardcoal,2035,405.1301186,,MEUR/GW,District heating boilers coal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Hardcoal,2040,405.1301186,,MEUR/GW,District heating boilers coal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Hardcoal,2045,405.1301186,,MEUR/GW,District heating boilers coal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Hardcoal,2050,405.1301186,,MEUR/GW,District heating boilers coal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Heatpump_Aerial,2018,353,,MEUR/GW,DEA Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HB_Heatpump_Aerial,2020,353,,MEUR/GW,DEA Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
-World,HB_Heatpump_Aerial,2021,,,MEUR/GW,,,
+World,HB_Heatpump_Aerial,2021,353,,MEUR/GW,DEA Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HB_Heatpump_Aerial,2025,346,,MEUR/GW,DEA Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HB_Heatpump_Aerial,2030,336,,MEUR/GW,DEA Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HB_Heatpump_Aerial,2035,328,,MEUR/GW,DEA Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -370,7 +370,7 @@ World,HB_Heatpump_Aerial,2045,312,,MEUR/GW,DEA Technology data heating installat
 World,HB_Heatpump_Aerial,2050,304,,MEUR/GW,DEA Technology data heating installations - Heat pump Air-air - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HB_Heatpump_Ground,2018,1344,,MEUR/GW,DEA Technology data heating installations - Heat pump Ground-water - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HB_Heatpump_Ground,2020,1344,,MEUR/GW,DEA Technology data heating installations - Heat pump Ground-water - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
-World,HB_Heatpump_Ground,2021,,,MEUR/GW,,,
+World,HB_Heatpump_Ground,2021,1344,,MEUR/GW,DEA Technology data heating installations - Heat pump Ground-water - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HB_Heatpump_Ground,2025,1269,,MEUR/GW,DEA Technology data heating installations - Heat pump Ground-water - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HB_Heatpump_Ground,2030,1193,,MEUR/GW,DEA Technology data heating installations - Heat pump Ground-water - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HB_Heatpump_Ground,2035,1159,,MEUR/GW,DEA Technology data heating installations - Heat pump Ground-water - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -379,31 +379,31 @@ World,HB_Heatpump_Ground,2045,1092,,MEUR/GW,DEA Technology data heating installa
 World,HB_Heatpump_Ground,2050,1059,,MEUR/GW,DEA Technology data heating installations - Heat pump Ground-water - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HB_Lignite,2018,2000,,MEUR/GW,,,
 World,HB_Lignite,2020,2000,,MEUR/GW,,,
-World,HB_Lignite,2021,,,MEUR/GW,,,
-World,HB_Lignite,2025,2000,,MEUR/GW,,,
-World,HB_Lignite,2030,2000,,MEUR/GW,,,
-World,HB_Lignite,2035,2000,,MEUR/GW,,,
-World,HB_Lignite,2040,2000,,MEUR/GW,,,
-World,HB_Lignite,2045,2000,,MEUR/GW,,,
-World,HB_Lignite,2050,2000,,MEUR/GW,,,
+World,HB_Lignite,2021,418.9413726,,MEUR/GW,District heating boilers lignite - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Lignite,2025,451.1676321,,MEUR/GW,District heating boilers lignite - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Lignite,2030,483.3938915,,MEUR/GW,District heating boilers lignite - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Lignite,2035,483.3938915,,MEUR/GW,District heating boilers lignite - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Lignite,2040,483.3938915,,MEUR/GW,District heating boilers lignite - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Lignite,2045,483.3938915,,MEUR/GW,District heating boilers lignite - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Lignite,2050,483.3938915,,MEUR/GW,District heating boilers lignite - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Oil_Boiler,2018,495,,MEUR/GW,,,
 World,HB_Oil_Boiler,2020,495,,MEUR/GW,,,
-World,HB_Oil_Boiler,2021,,,MEUR/GW,,,
-World,HB_Oil_Boiler,2025,495,,MEUR/GW,,,
-World,HB_Oil_Boiler,2030,495,,MEUR/GW,,,
-World,HB_Oil_Boiler,2035,495,,MEUR/GW,,,
-World,HB_Oil_Boiler,2040,495,,MEUR/GW,,,
-World,HB_Oil_Boiler,2045,495,,MEUR/GW,,,
-World,HB_Oil_Boiler,2050,495,,MEUR/GW,,,
+World,HB_Oil_Boiler,2021,218.5,,MEUR/GW,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,2025,212.6875,,MEUR/GW,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,2030,209.6875,,MEUR/GW,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,2035,204.6875,,MEUR/GW,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,2040,199.6875,,MEUR/GW,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,2045,194.5625,,MEUR/GW,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,2050,189.4375,,MEUR/GW,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Solar_Thermal,2018,773,,MEUR/GW,,,
 World,HB_Solar_Thermal,2020,773,,MEUR/GW,,,
-World,HB_Solar_Thermal,2021,,,MEUR/GW,,,
-World,HB_Solar_Thermal,2025,773,,MEUR/GW,,,
-World,HB_Solar_Thermal,2030,773,,MEUR/GW,,,
-World,HB_Solar_Thermal,2035,773,,MEUR/GW,,,
-World,HB_Solar_Thermal,2040,773,,MEUR/GW,,,
-World,HB_Solar_Thermal,2045,773,,MEUR/GW,,,
-World,HB_Solar_Thermal,2050,773,,MEUR/GW,,,
+World,HB_Solar_Thermal,2021,678.5714286,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,2025,651.1904762,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,2030,623.8095238,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,2035,608.9285714,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,2040,594.047619,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,2045,579.1666667,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,2050,564.2857143,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HHI_BF_BOF,2018,442,,MEUR/GW,,,
 World,HHI_BF_BOF,2020,442,,MEUR/GW,,,
 World,HHI_BF_BOF,2021,,,MEUR/GW,,,
