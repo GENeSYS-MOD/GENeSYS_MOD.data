@@ -13,6 +13,10 @@ DEA_technology_data_for_el_and_dh:
 	- Linear interpolation for values between.
 	- Assumed 2020 to equal 2021
 
+technology_data_for_industrial_process_heat_0
+	- Data given for 2020, 2030,2040, 2050
+	- Linear interpolation for values between.
+	- Assumed 2020 to equal 2021
 ................................
 
 Source - REF2020_Technology Assumptions_Energy
@@ -36,4 +40,12 @@ Source - IEA - Global Energy and Climate 2023 Key Input Data
 	- Linear interpolation for values between.
 	- Assumed 2022 to equal 2021
 	- Exchange Rate used:  1$ = 0,92 EUR (Average of 2023)
+
+................................
+Source - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) , 10. September 2016, Directorate-General for Energy
+
+	- HHI_BF_BOF: Blast Furnance totalEU28
+	- values given for 2013, 2020, 2030, linear interpolation for other values
+	- given capacity of 103320kt per year and specific energy consumption of 3.4 MWh/t
+	- assuming capacity runs 8760 hours a year
 

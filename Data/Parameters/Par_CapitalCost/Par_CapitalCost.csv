@@ -127,7 +127,7 @@ DE,CHP_Oil,2045,930,,MEUR/GW,,,
 DE,CHP_Oil,2050,930,,MEUR/GW,,,
 World,D_Battery_Li-Ion,2018,290,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,2020,270,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Li-Ion,2021,,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Battery_Li-Ion,2021,270,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,2025,215,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,2030,160,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,2035,130,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -145,52 +145,52 @@ World,D_Battery_Redox,2045,330,,MEUR/GW,Danish Energy Agency Storage Data https:
 World,D_Battery_Redox,2050,330,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_CAES,2018,964.5454545,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_CAES,2020,964.5454545,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_CAES,2021,,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_CAES,2021,964.5454545,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_CAES,2025,964.5454545,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_CAES,2030,964.5454545,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_CAES,2035,964.5454545,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_CAES,2040,964.5454545,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_CAES,2045,964.5454545,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_CAES,2050,964.5454545,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_H2,2018,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_H2,2020,1,,MEUR/GW,Needs update,Needs update,Needs update
+World,D_Gas_H2,2018,1,,MEUR/GW,,,
+World,D_Gas_H2,2020,1,,MEUR/GW,,,
 World,D_Gas_H2,2021,,,MEUR/GW,,,
-World,D_Gas_H2,2025,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_H2,2030,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_H2,2035,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_H2,2040,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_H2,2045,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_H2,2050,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_Methane,2018,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_Methane,2020,1,,MEUR/GW,Needs update,Needs update,Needs update
+World,D_Gas_H2,2025,1,,MEUR/GW,,,
+World,D_Gas_H2,2030,1,,MEUR/GW,,,
+World,D_Gas_H2,2035,1,,MEUR/GW,,,
+World,D_Gas_H2,2040,1,,MEUR/GW,,,
+World,D_Gas_H2,2045,1,,MEUR/GW,,,
+World,D_Gas_H2,2050,1,,MEUR/GW,,,
+World,D_Gas_Methane,2018,1,,MEUR/GW,,,
+World,D_Gas_Methane,2020,1,,MEUR/GW,,,
 World,D_Gas_Methane,2021,,,MEUR/GW,,,
-World,D_Gas_Methane,2025,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_Methane,2030,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_Methane,2035,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_Methane,2040,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_Methane,2045,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Gas_Methane,2050,1,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HB,2018,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HB,2020,1200,,MEUR/GW,Needs update,Needs update,Needs update
+World,D_Gas_Methane,2025,1,,MEUR/GW,,,
+World,D_Gas_Methane,2030,1,,MEUR/GW,,,
+World,D_Gas_Methane,2035,1,,MEUR/GW,,,
+World,D_Gas_Methane,2040,1,,MEUR/GW,,,
+World,D_Gas_Methane,2045,1,,MEUR/GW,,,
+World,D_Gas_Methane,2050,1,,MEUR/GW,,,
+World,D_Heat_HB,2018,1200,,MEUR/GW,,,
+World,D_Heat_HB,2020,1200,,MEUR/GW,,,
 World,D_Heat_HB,2021,,,MEUR/GW,,,
-World,D_Heat_HB,2025,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HB,2030,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HB,2035,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HB,2040,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HB,2045,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HB,2050,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HLI,2018,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HLI,2020,1200,,MEUR/GW,Needs update,Needs update,Needs update
+World,D_Heat_HB,2025,1200,,MEUR/GW,,,
+World,D_Heat_HB,2030,1200,,MEUR/GW,,,
+World,D_Heat_HB,2035,1200,,MEUR/GW,,,
+World,D_Heat_HB,2040,1200,,MEUR/GW,,,
+World,D_Heat_HB,2045,1200,,MEUR/GW,,,
+World,D_Heat_HB,2050,1200,,MEUR/GW,,,
+World,D_Heat_HLI,2018,1200,,MEUR/GW,,,
+World,D_Heat_HLI,2020,1200,,MEUR/GW,,,
 World,D_Heat_HLI,2021,,,MEUR/GW,,,
-World,D_Heat_HLI,2025,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HLI,2030,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HLI,2035,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HLI,2040,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HLI,2045,1200,,MEUR/GW,Needs update,Needs update,Needs update
-World,D_Heat_HLI,2050,1200,,MEUR/GW,Needs update,Needs update,Needs update
+World,D_Heat_HLI,2025,1200,,MEUR/GW,,,
+World,D_Heat_HLI,2030,1200,,MEUR/GW,,,
+World,D_Heat_HLI,2035,1200,,MEUR/GW,,,
+World,D_Heat_HLI,2040,1200,,MEUR/GW,,,
+World,D_Heat_HLI,2045,1200,,MEUR/GW,,,
+World,D_Heat_HLI,2050,1200,,MEUR/GW,,,
 World,D_PHS,2018,1424.245455,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_PHS,2020,1424.245455,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS,2021,,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_PHS,2021,1424.245455,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_PHS,2025,1424.245455,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_PHS,2030,1424.245455,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_PHS,2035,1424.245455,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -406,13 +406,13 @@ World,HB_Solar_Thermal,2045,579.1666667,,MEUR/GW,solar heating - https://ens.dk/
 World,HB_Solar_Thermal,2050,564.2857143,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HHI_BF_BOF,2018,442,,MEUR/GW,,,
 World,HHI_BF_BOF,2020,442,,MEUR/GW,,,
-World,HHI_BF_BOF,2021,,,MEUR/GW,,,
-World,HHI_BF_BOF,2025,442,,MEUR/GW,,,
-World,HHI_BF_BOF,2030,442,,MEUR/GW,,,
-World,HHI_BF_BOF,2035,442,,MEUR/GW,,,
-World,HHI_BF_BOF,2040,442,,MEUR/GW,,,
-World,HHI_BF_BOF,2045,442,,MEUR/GW,,,
-World,HHI_BF_BOF,2050,442,,MEUR/GW,,,
+World,HHI_BF_BOF,2021,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HHI_BF_BOF,2025,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HHI_BF_BOF,2030,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HHI_BF_BOF,2035,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HHI_BF_BOF,2040,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HHI_BF_BOF,2045,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HHI_BF_BOF,2050,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HHI_BF_BOF_CCS,2018,566,,MEUR/GW,,,
 World,HHI_BF_BOF_CCS,2020,566,,MEUR/GW,,,
 World,HHI_BF_BOF_CCS,2021,,,MEUR/GW,,,
@@ -424,7 +424,7 @@ World,HHI_BF_BOF_CCS,2045,566,,MEUR/GW,,,
 World,HHI_BF_BOF_CCS,2050,566,,MEUR/GW,,,
 World,HHI_Bio_BF_BOF,2018,486.2,,MEUR/GW,,,
 World,HHI_Bio_BF_BOF,2020,486.2,,MEUR/GW,,,
-World,HHI_Bio_BF_BOF,2021,,,MEUR/GW,,,
+World,HHI_Bio_BF_BOF,2021,,,MEUR/GW,assumend 110% of HHI_BF_BOF,27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HHI_Bio_BF_BOF,2025,486.2,,MEUR/GW,,,
 World,HHI_Bio_BF_BOF,2030,486.2,,MEUR/GW,,,
 World,HHI_Bio_BF_BOF,2035,486.2,,MEUR/GW,,,
@@ -478,31 +478,31 @@ World,HHI_Scrap_EAF,2045,184,,MEUR/GW,,,
 World,HHI_Scrap_EAF,2050,184,,MEUR/GW,,,
 World,HLI_Biomass,2018,2890,,MEUR/GW,,,
 World,HLI_Biomass,2020,2620,,MEUR/GW,,,
-World,HLI_Biomass,2021,,,MEUR/GW,,,
-World,HLI_Biomass,2025,2495,,MEUR/GW,,,
-World,HLI_Biomass,2030,2370,,MEUR/GW,,,
-World,HLI_Biomass,2035,2260,,MEUR/GW,,,
-World,HLI_Biomass,2040,2150,,MEUR/GW,,,
-World,HLI_Biomass,2045,2050,,MEUR/GW,,,
-World,HLI_Biomass,2050,1950,,MEUR/GW,,,
-DE,HLI_Convert_DH,2018,1,,MEUR/GW,,,
-DE,HLI_Convert_DH,2020,1,,MEUR/GW,,,
-World,HLI_Convert_DH,2021,,,MEUR/GW,,,
-DE,HLI_Convert_DH,2025,1,,MEUR/GW,,,
-DE,HLI_Convert_DH,2030,1,,MEUR/GW,,,
-DE,HLI_Convert_DH,2035,1,,MEUR/GW,,,
-DE,HLI_Convert_DH,2040,1,,MEUR/GW,,,
-DE,HLI_Convert_DH,2045,1,,MEUR/GW,,,
-DE,HLI_Convert_DH,2050,1,,MEUR/GW,,,
+World,HLI_Biomass,2021,618.1818182,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Biomass,2025,604.5454545,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Biomass,2030,590.9090909,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Biomass,2035,577.2727273,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Biomass,2040,563.6363636,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Biomass,2045,550,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Biomass,2050,536.3636364,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Convert_DH,2018,1,,MEUR/GW,,,
+World,HLI_Convert_DH,2020,1,,MEUR/GW,,,
+World,HLI_Convert_DH,2021,1,,MEUR/GW,,,
+World,HLI_Convert_DH,2025,1,,MEUR/GW,,,
+World,HLI_Convert_DH,2030,1,,MEUR/GW,,,
+World,HLI_Convert_DH,2035,1,,MEUR/GW,,,
+World,HLI_Convert_DH,2040,1,,MEUR/GW,,,
+World,HLI_Convert_DH,2045,1,,MEUR/GW,,,
+World,HLI_Convert_DH,2050,1,,MEUR/GW,,,
 World,HLI_Direct_Electric,2018,800,,MEUR/GW,,,
 World,HLI_Direct_Electric,2020,800,,MEUR/GW,,,
-World,HLI_Direct_Electric,2021,,,MEUR/GW,,,
-World,HLI_Direct_Electric,2025,800,,MEUR/GW,,,
-World,HLI_Direct_Electric,2030,800,,MEUR/GW,,,
-World,HLI_Direct_Electric,2035,800,,MEUR/GW,,,
-World,HLI_Direct_Electric,2040,800,,MEUR/GW,,,
-World,HLI_Direct_Electric,2045,800,,MEUR/GW,,,
-World,HLI_Direct_Electric,2050,800,,MEUR/GW,,,
+World,HLI_Direct_Electric,2021,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler hot water 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Direct_Electric,2025,77.63888889,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler hot water 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Direct_Electric,2030,71.66666667,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler hot water 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Direct_Electric,2035,71.66666667,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler hot water 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Direct_Electric,2040,71.66666667,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler hot water 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Direct_Electric,2045,71.66666667,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler hot water 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Direct_Electric,2050,71.66666667,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler hot water 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Fuelcell,2018,3570,,MEUR/GW,,,
 World,HLI_Fuelcell,2020,2680,,MEUR/GW,,,
 World,HLI_Fuelcell,2021,,,MEUR/GW,,,
@@ -514,85 +514,85 @@ World,HLI_Fuelcell,2045,1805,,MEUR/GW,,,
 World,HLI_Fuelcell,2050,1740,,MEUR/GW,,,
 World,HLI_Gas_Boiler,2018,195,,MEUR/GW,,,
 World,HLI_Gas_Boiler,2020,195,,MEUR/GW,,,
-World,HLI_Gas_Boiler,2021,,,MEUR/GW,,,
-World,HLI_Gas_Boiler,2025,195,,MEUR/GW,,,
-World,HLI_Gas_Boiler,2030,195,,MEUR/GW,,,
-World,HLI_Gas_Boiler,2035,195,,MEUR/GW,,,
-World,HLI_Gas_Boiler,2040,195,,MEUR/GW,,,
-World,HLI_Gas_Boiler,2045,195,,MEUR/GW,,,
-World,HLI_Gas_Boiler,2050,195,,MEUR/GW,,,
+World,HLI_Gas_Boiler,2021,43.63636364,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,2025,40,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,2030,36.36363636,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,2035,36.36363636,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,2040,36.36363636,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,2045,36.36363636,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,2050,36.36363636,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Geothermal,2018,5250,,MEUR/GW,,,
 World,HLI_Geothermal,2020,4970,,MEUR/GW,,,
-World,HLI_Geothermal,2021,,,MEUR/GW,,,
-World,HLI_Geothermal,2025,4720,,MEUR/GW,,,
-World,HLI_Geothermal,2030,4470,,MEUR/GW,,,
-World,HLI_Geothermal,2035,4245,,MEUR/GW,,,
-World,HLI_Geothermal,2040,4020,,MEUR/GW,,,
-World,HLI_Geothermal,2045,3815,,MEUR/GW,,,
-World,HLI_Geothermal,2050,3610,,MEUR/GW,,,
+World,HLI_Geothermal,2021,2880,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Geothermal,2025,2820,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Geothermal,2030,2660,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Geothermal,2035,2625,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Geothermal,2040,2590,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Geothermal,2045,2560,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Geothermal,2050,2530,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_H2_Boiler,2018,650,,MEUR/GW,,,
 World,HLI_H2_Boiler,2020,627.1428571,,MEUR/GW,,,
-World,HLI_H2_Boiler,2021,,,MEUR/GW,,,
-World,HLI_H2_Boiler,2025,604.2857143,,MEUR/GW,,,
-World,HLI_H2_Boiler,2030,581.4285714,,MEUR/GW,,,
-World,HLI_H2_Boiler,2035,558.5714286,,MEUR/GW,,,
-World,HLI_H2_Boiler,2040,535.7142857,,MEUR/GW,,,
-World,HLI_H2_Boiler,2045,512.8571429,,MEUR/GW,,,
-World,HLI_H2_Boiler,2050,490,,MEUR/GW,,,
+World,HLI_H2_Boiler,2021,56.72727273,,MEUR/GW,130% of HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_H2_Boiler,2025,52,,MEUR/GW,130% of HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_H2_Boiler,2030,47.27272727,,MEUR/GW,130% of HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_H2_Boiler,2035,47.27272727,,MEUR/GW,130% of HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_H2_Boiler,2040,47.27272727,,MEUR/GW,130% of HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_H2_Boiler,2045,47.27272727,,MEUR/GW,130% of HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_H2_Boiler,2050,47.27272727,,MEUR/GW,130% of HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Hardcoal,2018,1600,,MEUR/GW,,,
 World,HLI_Hardcoal,2020,1600,,MEUR/GW,,,
-World,HLI_Hardcoal,2021,,,MEUR/GW,,,
-World,HLI_Hardcoal,2025,1600,,MEUR/GW,,,
-World,HLI_Hardcoal,2030,1600,,MEUR/GW,,,
-World,HLI_Hardcoal,2035,1600,,MEUR/GW,,,
-World,HLI_Hardcoal,2040,1600,,MEUR/GW,,,
-World,HLI_Hardcoal,2045,1600,,MEUR/GW,,,
-World,HLI_Hardcoal,2050,1600,,MEUR/GW,,,
+World,HLI_Hardcoal,2021,500,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Hardcoal,2025,500,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Hardcoal,2030,500,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Hardcoal,2035,500,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Hardcoal,2040,500,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Hardcoal,2045,500,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Hardcoal,2050,500,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Lignite,2018,2000,,MEUR/GW,,,
 World,HLI_Lignite,2020,2000,,MEUR/GW,,,
-World,HLI_Lignite,2021,,,MEUR/GW,,,
-World,HLI_Lignite,2025,2000,,MEUR/GW,,,
-World,HLI_Lignite,2030,2000,,MEUR/GW,,,
-World,HLI_Lignite,2035,2000,,MEUR/GW,,,
-World,HLI_Lignite,2040,2000,,MEUR/GW,,,
-World,HLI_Lignite,2045,2000,,MEUR/GW,,,
-World,HLI_Lignite,2050,2000,,MEUR/GW,,,
+World,HLI_Lignite,2021,595,,MEUR/GW,119% of HLI_Hardcoal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Lignite,2025,595,,MEUR/GW,119% of HLI_Hardcoal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Lignite,2030,595,,MEUR/GW,119% of HLI_Hardcoal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Lignite,2035,595,,MEUR/GW,119% of HLI_Hardcoal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Lignite,2040,595,,MEUR/GW,119% of HLI_Hardcoal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Lignite,2045,595,,MEUR/GW,119% of HLI_Hardcoal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Lignite,2050,595,,MEUR/GW,119% of HLI_Hardcoal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Oil_Boiler,2018,495,,MEUR/GW,,,
 World,HLI_Oil_Boiler,2020,495,,MEUR/GW,,,
-World,HLI_Oil_Boiler,2021,,,MEUR/GW,,,
-World,HLI_Oil_Boiler,2025,495,,MEUR/GW,,,
-World,HLI_Oil_Boiler,2030,495,,MEUR/GW,,,
-World,HLI_Oil_Boiler,2035,495,,MEUR/GW,,,
-World,HLI_Oil_Boiler,2040,495,,MEUR/GW,,,
-World,HLI_Oil_Boiler,2045,495,,MEUR/GW,,,
-World,HLI_Oil_Boiler,2050,495,,MEUR/GW,,,
+World,HLI_Oil_Boiler,2021,55,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Oil_Boiler,2025,50.78819024,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Oil_Boiler,2030,46.57638049,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Oil_Boiler,2035,45.58819024,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Oil_Boiler,2040,44.6,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Oil_Boiler,2045,44.32280923,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Oil_Boiler,2050,44.04561847,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Solar_Thermal,2018,773,,MEUR/GW,,,
 World,HLI_Solar_Thermal,2020,773,,MEUR/GW,,,
-World,HLI_Solar_Thermal,2021,,,MEUR/GW,,,
-World,HLI_Solar_Thermal,2025,773,,MEUR/GW,,,
-World,HLI_Solar_Thermal,2030,773,,MEUR/GW,,,
-World,HLI_Solar_Thermal,2035,773,,MEUR/GW,,,
-World,HLI_Solar_Thermal,2040,773,,MEUR/GW,,,
-World,HLI_Solar_Thermal,2045,773,,MEUR/GW,,,
-World,HLI_Solar_Thermal,2050,773,,MEUR/GW,,,
+World,HLI_Solar_Thermal,2021,678.5714286,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,2025,651.1904762,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,2030,623.8095238,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,2035,608.9285714,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,2040,594.047619,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,2045,579.1666667,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,2050,564.2857143,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMI_Biomass,2018,128,,MEUR/GW,,,
 World,HMI_Biomass,2020,128,,MEUR/GW,,,
-World,HMI_Biomass,2021,,,MEUR/GW,,,
-World,HMI_Biomass,2025,128,,MEUR/GW,,,
-World,HMI_Biomass,2030,128,,MEUR/GW,,,
-World,HMI_Biomass,2035,128,,MEUR/GW,,,
-World,HMI_Biomass,2040,128,,MEUR/GW,,,
-World,HMI_Biomass,2045,128,,MEUR/GW,,,
-World,HMI_Biomass,2050,128,,MEUR/GW,,,
+World,HMI_Biomass,2021,618.1818182,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Biomass,2025,604.5454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Biomass,2030,590.9090909,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Biomass,2035,577.2727273,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Biomass,2040,563.6363636,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Biomass,2045,550,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Biomass,2050,536.3636364,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMI_Gas,2018,71,,MEUR/GW,,,
 World,HMI_Gas,2020,71,,MEUR/GW,,,
-World,HMI_Gas,2021,,,MEUR/GW,,,
-World,HMI_Gas,2025,71,,MEUR/GW,,,
-World,HMI_Gas,2030,71,,MEUR/GW,,,
-World,HMI_Gas,2035,71,,MEUR/GW,,,
-World,HMI_Gas,2040,71,,MEUR/GW,,,
-World,HMI_Gas,2045,71,,MEUR/GW,,,
-World,HMI_Gas,2050,71,,MEUR/GW,,,
+World,HMI_Gas,2021,54.54545455,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas,2025,50,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas,2030,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas,2035,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas,2040,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas,2045,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas,2050,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMI_Gas_CCS,2018,365.9230769,,MEUR/GW,,,
 World,HMI_Gas_CCS,2020,361.3820225,,MEUR/GW,,,
 World,HMI_Gas_CCS,2021,,,MEUR/GW,,,
@@ -604,22 +604,22 @@ World,HMI_Gas_CCS,2045,335.2278481,,MEUR/GW,,,
 World,HMI_Gas_CCS,2050,329.1818182,,MEUR/GW,,,
 World,HMI_H2,2018,137,,MEUR/GW,,,
 World,HMI_H2,2020,137,,MEUR/GW,,,
-World,HMI_H2,2021,,,MEUR/GW,,,
-World,HMI_H2,2025,137,,MEUR/GW,,,
-World,HMI_H2,2030,137,,MEUR/GW,,,
-World,HMI_H2,2035,137,,MEUR/GW,,,
-World,HMI_H2,2040,137,,MEUR/GW,,,
-World,HMI_H2,2045,137,,MEUR/GW,,,
-World,HMI_H2,2050,137,,MEUR/GW,,,
+World,HMI_H2,2021,70.90909091,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_H2,2025,65,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_H2,2030,59.09090909,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_H2,2035,59.09090909,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_H2,2040,59.09090909,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_H2,2045,59.09090909,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_H2,2050,59.09090909,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMI_HardCoal,2018,128,,MEUR/GW,,,
 World,HMI_HardCoal,2020,128,,MEUR/GW,,,
-World,HMI_HardCoal,2021,,,MEUR/GW,,,
-World,HMI_HardCoal,2025,128,,MEUR/GW,,,
-World,HMI_HardCoal,2030,128,,MEUR/GW,,,
-World,HMI_HardCoal,2035,128,,MEUR/GW,,,
-World,HMI_HardCoal,2040,128,,MEUR/GW,,,
-World,HMI_HardCoal,2045,128,,MEUR/GW,,,
-World,HMI_HardCoal,2050,128,,MEUR/GW,,,
+World,HMI_HardCoal,2021,500,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal,2025,482.8819024,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal,2030,465.7638049,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal,2035,455.8819024,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal,2040,446,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal,2045,443.2280923,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal,2050,440.4561847,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMI_HardCoal_CCS,2018,268,,MEUR/GW,,,
 World,HMI_HardCoal_CCS,2020,258.8571429,,MEUR/GW,,,
 World,HMI_HardCoal_CCS,2021,,,MEUR/GW,,,
@@ -631,22 +631,22 @@ World,HMI_HardCoal_CCS,2045,213.1428571,,MEUR/GW,,,
 World,HMI_HardCoal_CCS,2050,204,,MEUR/GW,,,
 World,HMI_Oil,2018,106,,MEUR/GW,,,
 World,HMI_Oil,2020,106,,MEUR/GW,,,
-World,HMI_Oil,2021,,,MEUR/GW,,,
-World,HMI_Oil,2025,106,,MEUR/GW,,,
-World,HMI_Oil,2030,106,,MEUR/GW,,,
-World,HMI_Oil,2035,106,,MEUR/GW,,,
-World,HMI_Oil,2040,106,,MEUR/GW,,,
-World,HMI_Oil,2045,106,,MEUR/GW,,,
-World,HMI_Oil,2050,106,,MEUR/GW,,,
+World,HMI_Oil,2021,55,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Oil,2025,50.78819024,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Oil,2030,46.57638049,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Oil,2035,45.58819024,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Oil,2040,44.6,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Oil,2045,44.32280923,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Oil,2050,44.04561847,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMI_Steam_Electric,2018,103,,MEUR/GW,,,
 World,HMI_Steam_Electric,2020,103,,MEUR/GW,,,
-World,HMI_Steam_Electric,2021,,,MEUR/GW,,,
-World,HMI_Steam_Electric,2025,103,,MEUR/GW,,,
-World,HMI_Steam_Electric,2030,103,,MEUR/GW,,,
-World,HMI_Steam_Electric,2035,103,,MEUR/GW,,,
-World,HMI_Steam_Electric,2040,103,,MEUR/GW,,,
-World,HMI_Steam_Electric,2045,103,,MEUR/GW,,,
-World,HMI_Steam_Electric,2050,103,,MEUR/GW,,,
+World,HMI_Steam_Electric,2021,95.55555556,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Steam_Electric,2025,89.58333333,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Steam_Electric,2030,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Steam_Electric,2035,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Steam_Electric,2040,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Steam_Electric,2045,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Steam_Electric,2050,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Biomass,2018,2620,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Biomass,2020,2620,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Biomass,2021,2000,,MEUR/GW,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
