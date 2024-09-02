@@ -10,121 +10,121 @@ World,A_Air,2045,0.5,,MEUR/GW,,,
 World,A_Air,2050,0.5,,MEUR/GW,,,
 World,CHP_Biomass_Solid,2018,2200,,MEUR/GW,,,
 World,CHP_Biomass_Solid,2020,2090,,MEUR/GW,,,
-World,CHP_Biomass_Solid,2021,,,MEUR/GW,,,
-World,CHP_Biomass_Solid,2025,1980,,MEUR/GW,,,
-World,CHP_Biomass_Solid,2030,1925,,MEUR/GW,,,
-World,CHP_Biomass_Solid,2035,1870,,MEUR/GW,,,
-World,CHP_Biomass_Solid,2040,1870,,MEUR/GW,,,
-World,CHP_Biomass_Solid,2045,1870,,MEUR/GW,,,
-World,CHP_Biomass_Solid,2050,1870,,MEUR/GW,,,
+World,CHP_Biomass_Solid,2021,3300,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,2025,3145,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,2030,2990,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,2035,2870,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,2040,2750,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,2045,2645,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,2050,2540,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid_CCS,2018,6342.105,,MEUR/GW,,,
 World,CHP_Biomass_Solid_CCS,2020,6342.105,,MEUR/GW,,,
-World,CHP_Biomass_Solid_CCS,2021,,,MEUR/GW,,,
-World,CHP_Biomass_Solid_CCS,2025,6342.105,,MEUR/GW,,,
-World,CHP_Biomass_Solid_CCS,2030,6342.105,,MEUR/GW,,,
-World,CHP_Biomass_Solid_CCS,2035,6342.105,,MEUR/GW,,,
-World,CHP_Biomass_Solid_CCS,2040,6342.105,,MEUR/GW,,,
-World,CHP_Biomass_Solid_CCS,2045,6342.105,,MEUR/GW,,,
-World,CHP_Biomass_Solid_CCS,2050,6342.105,,MEUR/GW,,,
+World,CHP_Biomass_Solid_CCS,2021,5808,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,2025,5535.2,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,2030,5262.4,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,2035,5051.2,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,2040,4840,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,2045,4655.2,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,2050,4470.4,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal,2018,2030,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,CHP_Coal_Hardcoal,2020,2030,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CHP_Coal_Hardcoal,2021,,,MEUR/GW,,,
-World,CHP_Coal_Hardcoal,2025,2030,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CHP_Coal_Hardcoal,2030,2030,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CHP_Coal_Hardcoal,2035,2030,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CHP_Coal_Hardcoal,2040,2030,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CHP_Coal_Hardcoal,2045,2030,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,CHP_Coal_Hardcoal,2050,2030,,MEUR/GW,CHP Coal- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,CHP_Coal_Hardcoal_CCS,2018,4125,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2020,4125,,MEUR/GW,,,
-World,CHP_Coal_Hardcoal_CCS,2021,,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2025,4125,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2030,4125,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2035,4125,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2040,4125,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2045,4125,,MEUR/GW,,,
-DE,CHP_Coal_Hardcoal_CCS,2050,4125,,MEUR/GW,,,
+World,CHP_Coal_Hardcoal,2021,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,2025,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,2030,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,2035,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,2040,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,2045,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,2050,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,2018,4125,,MEUR/GW,,,
+World,CHP_Coal_Hardcoal_CCS,2020,4125,,MEUR/GW,,,
+World,CHP_Coal_Hardcoal_CCS,2021,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,2025,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,2030,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,2035,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,2040,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,2045,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,2050,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Lignite,2018,2030,,MEUR/GW,,,
 World,CHP_Coal_Lignite,2020,2030,,MEUR/GW,,,
-World,CHP_Coal_Lignite,2021,,,MEUR/GW,,,
-World,CHP_Coal_Lignite,2025,2030,,MEUR/GW,,,
-World,CHP_Coal_Lignite,2030,2030,,MEUR/GW,,,
-World,CHP_Coal_Lignite,2035,2030,,MEUR/GW,,,
-World,CHP_Coal_Lignite,2040,2030,,MEUR/GW,,,
-World,CHP_Coal_Lignite,2045,2030,,MEUR/GW,,,
-World,CHP_Coal_Lignite,2050,2030,,MEUR/GW,,,
-DE,CHP_Coal_Lignite_CCS,2018,3300,,MEUR/GW,,,
-DE,CHP_Coal_Lignite_CCS,2020,3300,,MEUR/GW,,,
-World,CHP_Coal_Lignite_CCS,2021,,,MEUR/GW,,,
-DE,CHP_Coal_Lignite_CCS,2025,3300,,MEUR/GW,,,
-DE,CHP_Coal_Lignite_CCS,2030,3300,,MEUR/GW,,,
-DE,CHP_Coal_Lignite_CCS,2035,3300,,MEUR/GW,,,
-DE,CHP_Coal_Lignite_CCS,2040,3300,,MEUR/GW,,,
-DE,CHP_Coal_Lignite_CCS,2045,3300,,MEUR/GW,,,
-DE,CHP_Coal_Lignite_CCS,2050,3300,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas,2018,935,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas,2020,858,,MEUR/GW,,,
-World,CHP_Gas_CCGT_Biogas,2021,,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas,2025,847,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas,2030,836,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas,2035,825,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas,2040,814,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas,2045,814,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas,2050,814,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas_CCS,2018,1402.5,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas_CCS,2020,1287,,MEUR/GW,,,
-World,CHP_Gas_CCGT_Biogas_CCS,2021,,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas_CCS,2025,1270.5,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas_CCS,2030,1254,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas_CCS,2035,1237.5,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas_CCS,2040,1221,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas_CCS,2045,1221,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Biogas_CCS,2050,1221,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural,2018,935,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural,2020,858,,MEUR/GW,,,
-World,CHP_Gas_CCGT_Natural,2021,,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural,2025,847,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural,2030,836,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural,2035,825,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural,2040,814,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural,2045,814,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural,2050,814,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural_CCS,2018,1402.5,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural_CCS,2020,1287,,MEUR/GW,,,
-World,CHP_Gas_CCGT_Natural_CCS,2021,,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural_CCS,2025,1270.5,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural_CCS,2030,1254,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural_CCS,2035,1237.5,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural_CCS,2040,1221,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural_CCS,2045,1221,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_Natural_CCS,2050,1221,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_SynGas,2018,935,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_SynGas,2020,858,,MEUR/GW,,,
-World,CHP_Gas_CCGT_SynGas,2021,,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_SynGas,2025,847,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_SynGas,2030,836,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_SynGas,2035,825,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_SynGas,2040,814,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_SynGas,2045,814,,MEUR/GW,,,
-DE,CHP_Gas_CCGT_SynGas,2050,814,,MEUR/GW,,,
-DE,CHP_Hydrogen_FuelCell,2018,1100,,MEUR/GW,,,
-DE,CHP_Hydrogen_FuelCell,2020,1081.25,,MEUR/GW,,,
-World,CHP_Hydrogen_FuelCell,2021,,,MEUR/GW,,,
-DE,CHP_Hydrogen_FuelCell,2025,1034.375,,MEUR/GW,,,
-DE,CHP_Hydrogen_FuelCell,2030,987.5,,MEUR/GW,,,
-DE,CHP_Hydrogen_FuelCell,2035,940.625,,MEUR/GW,,,
-DE,CHP_Hydrogen_FuelCell,2040,893.75,,MEUR/GW,,,
-DE,CHP_Hydrogen_FuelCell,2045,846.875,,MEUR/GW,,,
-DE,CHP_Hydrogen_FuelCell,2050,800,,MEUR/GW,,,
-DE,CHP_Oil,2018,930,,MEUR/GW,,,
-DE,CHP_Oil,2020,930,,MEUR/GW,,,
-World,CHP_Oil,2021,,,MEUR/GW,,,
-DE,CHP_Oil,2025,930,,MEUR/GW,,,
-DE,CHP_Oil,2030,930,,MEUR/GW,,,
-DE,CHP_Oil,2035,930,,MEUR/GW,,,
-DE,CHP_Oil,2040,930,,MEUR/GW,,,
-DE,CHP_Oil,2045,930,,MEUR/GW,,,
-DE,CHP_Oil,2050,930,,MEUR/GW,,,
+World,CHP_Coal_Lignite,2021,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,2025,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,2030,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,2035,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,2040,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,2045,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,2050,2030,,MEUR/GW,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,2018,3300,,MEUR/GW,,,
+World,CHP_Coal_Lignite_CCS,2020,3300,,MEUR/GW,,,
+World,CHP_Coal_Lignite_CCS,2021,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,2025,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,2030,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,2035,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,2040,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,2045,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,2050,3308.9,,MEUR/GW,"63% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS Rep.value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,2018,935,,MEUR/GW,,,
+World,CHP_Gas_CCGT_Biogas,2020,858,,MEUR/GW,,,
+World,CHP_Gas_CCGT_Biogas,2021,1000,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,2025,995,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,2030,990,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,2035,985,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,2040,980,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,2045,975,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,2050,970,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,2018,1402.5,,MEUR/GW,,,
+World,CHP_Gas_CCGT_Biogas_CCS,2020,1287,,MEUR/GW,,,
+World,CHP_Gas_CCGT_Biogas_CCS,2021,1760,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,2025,1751.2,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,2030,1742.4,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,2035,1733.6,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,2040,1724.8,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,2045,1716,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,2050,1707.2,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,2018,935,,MEUR/GW,,,
+World,CHP_Gas_CCGT_Natural,2020,858,,MEUR/GW,,,
+World,CHP_Gas_CCGT_Natural,2021,1000,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,2025,995,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,2030,990,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,2035,985,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,2040,980,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,2045,975,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,2050,970,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,2018,1402.5,,MEUR/GW,,,
+World,CHP_Gas_CCGT_Natural_CCS,2020,1287,,MEUR/GW,,,
+World,CHP_Gas_CCGT_Natural_CCS,2021,1760,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,2025,1751.2,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,2030,1742.4,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,2035,1733.6,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,2040,1724.8,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,2045,1716,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,2050,1707.2,,MEUR/GW,"76% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS Rep. value)",02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,2018,935,,MEUR/GW,,,
+World,CHP_Gas_CCGT_SynGas,2020,858,,MEUR/GW,,,
+World,CHP_Gas_CCGT_SynGas,2021,1000,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,2025,995,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,2030,990,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,2035,985,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,2040,980,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,2045,975,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,2050,970,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,2018,1100,,MEUR/GW,,,
+World,CHP_Hydrogen_FuelCell,2020,1081.25,,MEUR/GW,,,
+World,CHP_Hydrogen_FuelCell,2021,6300,,MEUR/GW,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,2025,5150,,MEUR/GW,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,2030,4000,,MEUR/GW,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,2035,3275,,MEUR/GW,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,2040,2550,,MEUR/GW,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,2045,2200,,MEUR/GW,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,2050,1850,,MEUR/GW,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,2018,930,,MEUR/GW,,,
+World,CHP_Oil,2020,930,,MEUR/GW,,,
+World,CHP_Oil,2021,1000,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,2025,995,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,2030,990,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,2035,985,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,2040,980,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,2045,975,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,2050,970,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,2018,290,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,2020,270,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,2021,270,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -406,13 +406,13 @@ World,HB_Solar_Thermal,2045,579.1666667,,MEUR/GW,solar heating - https://ens.dk/
 World,HB_Solar_Thermal,2050,564.2857143,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HHI_BF_BOF,2018,442,,MEUR/GW,,,
 World,HHI_BF_BOF,2020,442,,MEUR/GW,,,
-World,HHI_BF_BOF,2021,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HHI_BF_BOF,2025,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HHI_BF_BOF,2030,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HHI_BF_BOF,2035,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HHI_BF_BOF,2040,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HHI_BF_BOF,2045,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HHI_BF_BOF,2050,392,,MEUR/GW,Blast Furnace - Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables) - European Commission (europa.eu),27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HHI_BF_BOF,2021,442,,MEUR/GW,,,
+World,HHI_BF_BOF,2025,442,,MEUR/GW,,,
+World,HHI_BF_BOF,2030,442,,MEUR/GW,,,
+World,HHI_BF_BOF,2035,442,,MEUR/GW,,,
+World,HHI_BF_BOF,2040,442,,MEUR/GW,,,
+World,HHI_BF_BOF,2045,442,,MEUR/GW,,,
+World,HHI_BF_BOF,2050,442,,MEUR/GW,,,
 World,HHI_BF_BOF_CCS,2018,566,,MEUR/GW,,,
 World,HHI_BF_BOF_CCS,2020,566,,MEUR/GW,,,
 World,HHI_BF_BOF_CCS,2021,,,MEUR/GW,,,
@@ -424,7 +424,7 @@ World,HHI_BF_BOF_CCS,2045,566,,MEUR/GW,,,
 World,HHI_BF_BOF_CCS,2050,566,,MEUR/GW,,,
 World,HHI_Bio_BF_BOF,2018,486.2,,MEUR/GW,,,
 World,HHI_Bio_BF_BOF,2020,486.2,,MEUR/GW,,,
-World,HHI_Bio_BF_BOF,2021,,,MEUR/GW,assumend 110% of HHI_BF_BOF,27.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HHI_Bio_BF_BOF,2021,,,MEUR/GW,,,
 World,HHI_Bio_BF_BOF,2025,486.2,,MEUR/GW,,,
 World,HHI_Bio_BF_BOF,2030,486.2,,MEUR/GW,,,
 World,HHI_Bio_BF_BOF,2035,486.2,,MEUR/GW,,,

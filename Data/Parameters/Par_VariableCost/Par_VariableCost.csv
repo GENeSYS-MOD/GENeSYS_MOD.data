@@ -7,22 +7,6 @@ DE,A_Air,1,2035,0.425,,MEUR/PJ,,,
 DE,A_Air,1,2040,0.425,,MEUR/PJ,,,
 DE,A_Air,1,2045,0.425,,MEUR/PJ,,,
 DE,A_Air,1,2050,0.425,,MEUR/PJ,,,
-World,CHP_Coal_Hardcoal,1,2018,0.01,,MEUR/PJ,,,
-World,CHP_Coal_Hardcoal,1,2020,0.01,,MEUR/PJ,,,
-World,CHP_Coal_Hardcoal,1,2025,0.01,,MEUR/PJ,,,
-World,CHP_Coal_Hardcoal,1,2030,0.01,,MEUR/PJ,,,
-World,CHP_Coal_Hardcoal,1,2035,0.01,,MEUR/PJ,,,
-World,CHP_Coal_Hardcoal,1,2040,0.01,,MEUR/PJ,,,
-World,CHP_Coal_Hardcoal,1,2045,0.01,,MEUR/PJ,,,
-World,CHP_Coal_Hardcoal,1,2050,0.01,,MEUR/PJ,,,
-World,CHP_Coal_Lignite,1,2018,0,,MEUR/PJ,,,
-World,CHP_Coal_Lignite,1,2020,0,,MEUR/PJ,,,
-World,CHP_Coal_Lignite,1,2025,0,,MEUR/PJ,,,
-World,CHP_Coal_Lignite,1,2030,0,,MEUR/PJ,,,
-World,CHP_Coal_Lignite,1,2035,0,,MEUR/PJ,,,
-World,CHP_Coal_Lignite,1,2040,0,,MEUR/PJ,,,
-World,CHP_Coal_Lignite,1,2045,0,,MEUR/PJ,,,
-World,CHP_Coal_Lignite,1,2050,0,,MEUR/PJ,,,
 World,D_Battery_Li-Ion,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -947,3 +931,94 @@ World,HLI_Fuelcell,1,2035,,,MEUR/PJ,,,
 World,HLI_Fuelcell,1,2040,,,MEUR/PJ,,,
 World,HLI_Fuelcell,1,2045,,,MEUR/PJ,,,
 World,HLI_Fuelcell,1,2050,,,MEUR/PJ,,,
+World,CHP_Biomass_Solid,1,2021,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,1,2025,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,1,2030,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,1,2035,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,1,2040,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,1,2045,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,1,2050,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,1,2021,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,1,2025,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,1,2030,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,1,2035,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,1,2040,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,1,2045,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,1,2050,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,1,2021,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,1,2025,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,1,2030,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,1,2035,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,1,2040,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,1,2045,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,1,2050,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,1,2021,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,1,2025,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,1,2030,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,1,2035,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,1,2040,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,1,2045,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,1,2050,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,1,2021,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,1,2025,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,1,2030,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,1,2035,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,1,2040,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,1,2045,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,1,2050,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,1,2021,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,1,2025,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,1,2030,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,1,2035,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,1,2040,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,1,2045,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,1,2050,1.416666667,,MEUR/PJ,Steam turbine coal supercritical CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,1,2021,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,1,2025,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,1,2030,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,1,2035,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,1,2040,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,1,2045,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,1,2050,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,1,2021,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,1,2025,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,1,2030,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,1,2035,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,1,2040,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,1,2045,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,1,2050,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,1,2021,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,1,2025,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,1,2030,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,1,2035,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,1,2040,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,1,2045,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,1,2050,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,1,2021,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,1,2025,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,1,2030,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,1,2035,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,1,2040,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,1,2045,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,1,2050,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,1,2021,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,1,2025,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,1,2030,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,1,2035,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,1,2040,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,1,2045,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,1,2050,1.111111111,,MEUR/PJ,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,1,2021,18.05555556,,MEUR/PJ,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,1,2025,12.5,,MEUR/PJ,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,1,2030,6.944444444,,MEUR/PJ,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,1,2035,4.861111111,,MEUR/PJ,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,1,2040,2.777777778,,MEUR/PJ,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,1,2045,2.5,,MEUR/PJ,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,1,2050,2.222222222,,MEUR/PJ,Solid oxide fuel cells CHP- Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,1,2021,1.111111111,,MEUR/PJ,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,1,2025,1.111111111,,MEUR/PJ,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,1,2030,1.111111111,,MEUR/PJ,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,1,2035,1.111111111,,MEUR/PJ,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,1,2040,1.111111111,,MEUR/PJ,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,1,2045,1.111111111,,MEUR/PJ,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,CHP_Oil,1,2050,1.111111111,,MEUR/PJ,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
