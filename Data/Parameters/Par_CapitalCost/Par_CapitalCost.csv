@@ -505,13 +505,13 @@ World,HLI_Direct_Electric,2045,71.66666667,,MEUR/GW,Energy Agency Denmark (2022)
 World,HLI_Direct_Electric,2050,71.66666667,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler hot water 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Fuelcell,2018,3570,,MEUR/GW,,,
 World,HLI_Fuelcell,2020,2680,,MEUR/GW,,,
-World,HLI_Fuelcell,2021,,,MEUR/GW,,,
-World,HLI_Fuelcell,2025,2380,,MEUR/GW,,,
-World,HLI_Fuelcell,2030,2080,,MEUR/GW,,,
-World,HLI_Fuelcell,2035,1975,,MEUR/GW,,,
-World,HLI_Fuelcell,2040,1870,,MEUR/GW,,,
-World,HLI_Fuelcell,2045,1805,,MEUR/GW,,,
-World,HLI_Fuelcell,2050,1740,,MEUR/GW,,,
+World,HLI_Fuelcell,2021,6300,,MEUR/GW,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,2025,5150,,MEUR/GW,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,2030,4000,,MEUR/GW,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,2035,3275,,MEUR/GW,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,2040,2550,,MEUR/GW,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,2045,2200,,MEUR/GW,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,2050,1850,,MEUR/GW,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Gas_Boiler,2018,195,,MEUR/GW,,,
 World,HLI_Gas_Boiler,2020,195,,MEUR/GW,,,
 World,HLI_Gas_Boiler,2021,43.63636364,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -595,13 +595,13 @@ World,HMI_Gas,2045,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boil
 World,HMI_Gas,2050,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMI_Gas_CCS,2018,365.9230769,,MEUR/GW,,,
 World,HMI_Gas_CCS,2020,361.3820225,,MEUR/GW,,,
-World,HMI_Gas_CCS,2021,,,MEUR/GW,,,
-World,HMI_Gas_CCS,2025,356.6321839,,MEUR/GW,,,
-World,HMI_Gas_CCS,2030,351.6588235,,MEUR/GW,,,
-World,HMI_Gas_CCS,2035,346.4457831,,MEUR/GW,,,
-World,HMI_Gas_CCS,2040,340.9753086,,MEUR/GW,,,
-World,HMI_Gas_CCS,2045,335.2278481,,MEUR/GW,,,
-World,HMI_Gas_CCS,2050,329.1818182,,MEUR/GW,,,
+World,HMI_Gas_CCS,2021,96.00000001,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,2025,88,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,2030,79.99999999,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,2035,79.99999999,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,2040,79.99999999,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,2045,79.99999999,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,2050,79.99999999,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMI_H2,2018,137,,MEUR/GW,,,
 World,HMI_H2,2020,137,,MEUR/GW,,,
 World,HMI_H2,2021,70.90909091,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -622,13 +622,13 @@ World,HMI_HardCoal,2045,443.2280923,,MEUR/GW,Energy Agency Denmark (2022): Steam
 World,HMI_HardCoal,2050,440.4561847,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMI_HardCoal_CCS,2018,268,,MEUR/GW,,,
 World,HMI_HardCoal_CCS,2020,258.8571429,,MEUR/GW,,,
-World,HMI_HardCoal_CCS,2021,,,MEUR/GW,,,
-World,HMI_HardCoal_CCS,2025,249.7142857,,MEUR/GW,,,
-World,HMI_HardCoal_CCS,2030,240.5714286,,MEUR/GW,,,
-World,HMI_HardCoal_CCS,2035,231.4285714,,MEUR/GW,,,
-World,HMI_HardCoal_CCS,2040,222.2857143,,MEUR/GW,,,
-World,HMI_HardCoal_CCS,2045,213.1428571,,MEUR/GW,,,
-World,HMI_HardCoal_CCS,2050,204,,MEUR/GW,,,
+World,HMI_HardCoal_CCS,2021,815,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,2025,787.0975009,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,2030,759.195002,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,2035,743.0875009,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,2040,726.98,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,2045,722.4617904,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,2050,717.9435811,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMI_Oil,2018,106,,MEUR/GW,,,
 World,HMI_Oil,2020,106,,MEUR/GW,,,
 World,HMI_Oil,2021,55,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -710,15 +710,15 @@ World,P_CSP,2035,902,,MEUR/GW,CSP (solar field parabolic trough) - https://www.s
 World,P_CSP,2040,880,,MEUR/GW,CSP (solar field parabolic trough) - https://www.sciencedirect.com/science/article/pii/S096014812300486X,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_CSP,2045,860,,MEUR/GW,CSP (solar field parabolic trough) - https://www.sciencedirect.com/science/article/pii/S096014812300486X,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_CSP,2050,840,,MEUR/GW,CSP (solar field parabolic trough) - https://www.sciencedirect.com/science/article/pii/S096014812300486X,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2018,600,,MEUR/GW,Gas turbine combined cycle gas advanced- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,P_Gas_CCGT,2020,600,,MEUR/GW,Gas turbine combined cycle gas advanced- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Gas_CCGT,2018,600,,MEUR/GW,Gas turbine combined cycle gas advanced- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
+World,P_Gas_CCGT,2020,600,,MEUR/GW,Gas turbine combined cycle gas advanced- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Gas_CCGT,2021,935.7679918,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2025,909.1836739,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2030,882.5993559,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2035,874.6240606,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2040,866.6487652,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2045,858.6734698,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2050,850.6981744,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,2025,909.1836739,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,2030,882.5993559,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,2035,874.6240606,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,2040,866.6487652,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,2045,858.6734698,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,2050,850.6981744,,MEUR/GW, Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCS,2018,1500,,MEUR/GW,,,
 World,P_Gas_CCS,2020,1500,,MEUR/GW,,,
 World,P_Gas_CCS,2021,2852,,MEUR/GW,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -728,24 +728,24 @@ World,P_Gas_CCS,2035,2714,,MEUR/GW,CCGT + CCS - https://www.iea.org/data-and-sta
 World,P_Gas_CCS,2040,2576,,MEUR/GW,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCS,2045,2438,,MEUR/GW,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCS,2050,2300,,MEUR/GW,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_Engines,2018,620,,MEUR/GW,,,
-DE,P_Gas_Engines,2020,590,,MEUR/GW,,,
+World,P_Gas_Engines,2018,620,,MEUR/GW,,,
+World,P_Gas_Engines,2020,590,,MEUR/GW,,,
 World,P_Gas_Engines,2021,1010,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_Engines,2025,980,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_Engines,2030,950,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_Engines,2035,937.5,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_Engines,2040,925,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_Engines,2045,912.5,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_Engines,2050,900,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2018,400,,MEUR/GW,,,
-DE,P_Gas_OCGT,2020,381.3953488,,MEUR/GW,,,
+World,P_Gas_Engines,2025,980,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,2030,950,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,2035,937.5,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,2040,925,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,2045,912.5,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,2050,900,,MEUR/GW,Gas engine natural gas - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,2018,400,,MEUR/GW,,,
+World,P_Gas_OCGT,2020,381.3953488,,MEUR/GW,,,
 World,P_Gas_OCGT,2021,776.2620841,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2025,760.3114934,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2030,744.3609026,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2035,739.044039,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2040,733.7271754,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2045,728.4103118,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2050,723.0934482,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,2025,760.3114934,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,2030,744.3609026,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,2035,739.044039,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,2040,733.7271754,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,2045,728.4103118,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,2050,723.0934482,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Geothermal,2018,4970,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Geothermal,2020,4970,,MEUR/GW,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Geothermal,2021,2622,,MEUR/GW,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -755,15 +755,15 @@ World,P_Geothermal,2035,2484,,MEUR/GW,Geothermal - https://www.iea.org/data-and-
 World,P_Geothermal,2040,2438,,MEUR/GW,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Geothermal,2045,2392,,MEUR/GW,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Geothermal,2050,2346,,MEUR/GW,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_H2_OCGT,2018,516,,MEUR/GW,,,
-DE,P_H2_OCGT,2020,490.2,,MEUR/GW,,,
+World,P_H2_OCGT,2018,516,,MEUR/GW,,,
+World,P_H2_OCGT,2020,490.2,,MEUR/GW,,,
 World,P_H2_OCGT,2021,892.7013968,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_H2_OCGT,2025,874.3582174,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_H2_OCGT,2030,856.015038,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_H2_OCGT,2035,849.9006449,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_H2_OCGT,2040,843.7862517,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_H2_OCGT,2045,837.6718586,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-DE,P_H2_OCGT,2050,831.5574655,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,2025,874.3582174,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,2030,856.015038,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,2035,849.9006449,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,2040,843.7862517,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,2045,837.6718586,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,2050,831.5574655,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Hydro_Large,2018,1650,,MEUR/GW,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Hydro_Large,2020,1650,,MEUR/GW,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Hydro_Large,2021,2100,,MEUR/GW,Lakes - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -1072,91 +1072,91 @@ World,X_ATR_CCS,2045,750,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentat
 World,X_ATR_CCS,2050,750,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
 World,X_Biofuel,2018,731.4227642,,MEUR/GW,,,
 World,X_Biofuel,2020,625.8719182,,MEUR/GW,,,
-World,X_Biofuel,2021,,,MEUR/GW,,,
-World,X_Biofuel,2025,460.8558067,,MEUR/GW,,,
-World,X_Biofuel,2030,347.8718025,,MEUR/GW,,,
-World,X_Biofuel,2035,309.21938,,MEUR/GW,,,
-World,X_Biofuel,2040,282.4600106,,MEUR/GW,,,
-World,X_Biofuel,2045,255.7006412,,MEUR/GW,,,
-World,X_Biofuel,2050,237.8610615,,MEUR/GW,,,
-DE,X_DAC_HT,2018,815,,MEUR/GW,,,
-DE,X_DAC_HT,2020,791.7142857,,MEUR/GW,,,
+World,X_Biofuel,2021,800,,MEUR/GW,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,2025,740,,MEUR/GW,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,2030,680,,MEUR/GW,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,2035,660,,MEUR/GW,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,2040,640,,MEUR/GW,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,2045,625,,MEUR/GW,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,2050,610,,MEUR/GW,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_DAC_HT,2018,815,,MEUR/GW,,,
+World,X_DAC_HT,2020,791.7142857,,MEUR/GW,,,
 World,X_DAC_HT,2021,,,MEUR/GW,,,
-DE,X_DAC_HT,2025,562.4142857,,MEUR/GW,,,
-DE,X_DAC_HT,2030,345.6,,MEUR/GW,,,
-DE,X_DAC_HT,2035,284.7571429,,MEUR/GW,,,
-DE,X_DAC_HT,2040,227.1428571,,MEUR/GW,,,
-DE,X_DAC_HT,2045,201.7571429,,MEUR/GW,,,
-DE,X_DAC_HT,2050,177.6,,MEUR/GW,,,
-DE,X_DAC_LT,2018,730,,MEUR/GW,,,
-DE,X_DAC_LT,2020,709.1428571,,MEUR/GW,,,
+World,X_DAC_HT,2025,562.4142857,,MEUR/GW,,,
+World,X_DAC_HT,2030,345.6,,MEUR/GW,,,
+World,X_DAC_HT,2035,284.7571429,,MEUR/GW,,,
+World,X_DAC_HT,2040,227.1428571,,MEUR/GW,,,
+World,X_DAC_HT,2045,201.7571429,,MEUR/GW,,,
+World,X_DAC_HT,2050,177.6,,MEUR/GW,,,
+World,X_DAC_LT,2018,730,,MEUR/GW,,,
+World,X_DAC_LT,2020,709.1428571,,MEUR/GW,,,
 World,X_DAC_LT,2021,,,MEUR/GW,,,
-DE,X_DAC_LT,2025,503.4857143,,MEUR/GW,,,
-DE,X_DAC_LT,2030,309.0285714,,MEUR/GW,,,
-DE,X_DAC_LT,2035,254.6428571,,MEUR/GW,,,
-DE,X_DAC_LT,2040,203.1428571,,MEUR/GW,,,
-DE,X_DAC_LT,2045,180.6285714,,MEUR/GW,,,
-DE,X_DAC_LT,2050,159.2,,MEUR/GW,,,
+World,X_DAC_LT,2025,503.4857143,,MEUR/GW,,,
+World,X_DAC_LT,2030,309.0285714,,MEUR/GW,,,
+World,X_DAC_LT,2035,254.6428571,,MEUR/GW,,,
+World,X_DAC_LT,2040,203.1428571,,MEUR/GW,,,
+World,X_DAC_LT,2045,180.6285714,,MEUR/GW,,,
+World,X_DAC_LT,2050,159.2,,MEUR/GW,,,
 World,X_Electrolysis,2018,800,,MEUR/GW,,,
 World,X_Electrolysis,2020,685,,MEUR/GW,,,
-World,X_Electrolysis,2021,,,MEUR/GW,,,
-World,X_Electrolysis,2025,500,,MEUR/GW,,,
-World,X_Electrolysis,2030,363,,MEUR/GW,,,
-World,X_Electrolysis,2035,325,,MEUR/GW,,,
-World,X_Electrolysis,2040,296,,MEUR/GW,,,
-World,X_Electrolysis,2045,267,,MEUR/GW,,,
-World,X_Electrolysis,2050,248,,MEUR/GW,,,
+World,X_Electrolysis,2021,1300,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,2025,975,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,2030,650,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,2035,575,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,2040,500,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,2045,425,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,2050,350,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Fuel_Cell,2018,3570,,MEUR/GW,,,
 World,X_Fuel_Cell,2020,2680,,MEUR/GW,,,
-World,X_Fuel_Cell,2021,,,MEUR/GW,,,
-World,X_Fuel_Cell,2025,2380,,MEUR/GW,,,
-World,X_Fuel_Cell,2030,2080,,MEUR/GW,,,
-World,X_Fuel_Cell,2035,1975,,MEUR/GW,,,
-World,X_Fuel_Cell,2040,1870,,MEUR/GW,,,
-World,X_Fuel_Cell,2045,1805,,MEUR/GW,,,
-World,X_Fuel_Cell,2050,1740,,MEUR/GW,,,
-DE,X_Gasifier,2018,1,,MEUR/GW,,,
-DE,X_Gasifier,2020,0.971428571,,MEUR/GW,,,
-World,X_Gasifier,2021,,,MEUR/GW,,,
-DE,X_Gasifier,2025,0.942857143,,MEUR/GW,,,
-DE,X_Gasifier,2030,0.914285714,,MEUR/GW,,,
-DE,X_Gasifier,2035,0.885714286,,MEUR/GW,,,
-DE,X_Gasifier,2040,0.857142857,,MEUR/GW,,,
-DE,X_Gasifier,2045,0.828571429,,MEUR/GW,,,
-DE,X_Gasifier,2050,0.8,,MEUR/GW,,,
-DE,X_Liquifier,2018,1,,MEUR/GW,,,
-DE,X_Liquifier,2020,0.971428571,,MEUR/GW,,,
-World,X_Liquifier,2021,,,MEUR/GW,,,
-DE,X_Liquifier,2025,0.942857143,,MEUR/GW,,,
-DE,X_Liquifier,2030,0.914285714,,MEUR/GW,,,
-DE,X_Liquifier,2035,0.885714286,,MEUR/GW,,,
-DE,X_Liquifier,2040,0.857142857,,MEUR/GW,,,
-DE,X_Liquifier,2045,0.828571429,,MEUR/GW,,,
-DE,X_Liquifier,2050,0.8,,MEUR/GW,,,
+World,X_Fuel_Cell,2021,3500,,MEUR/GW,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2025,3295.233872,,MEUR/GW,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2030,3090.467743,,MEUR/GW,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2035,2980.9793,,MEUR/GW,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2040,2871.490857,,MEUR/GW,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2045,2769.760282,,MEUR/GW,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2050,2668.029706,,MEUR/GW,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,2018,1,,MEUR/GW,,,
+World,X_Gasifier,2020,0.971428571,,MEUR/GW,,,
+World,X_Gasifier,2021,1400,,MEUR/GW,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,2025,1350,,MEUR/GW,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,2030,1300,,MEUR/GW,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,2035,1275,,MEUR/GW,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,2040,1250,,MEUR/GW,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,2045,1225,,MEUR/GW,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,2050,1200,,MEUR/GW,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,2018,1,,MEUR/GW,,,
+World,X_Liquifier,2020,0.971428571,,MEUR/GW,,,
+World,X_Liquifier,2021,200,,MEUR/GW,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,2025,200,,MEUR/GW,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,2030,200,,MEUR/GW,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,2035,200,,MEUR/GW,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,2040,200,,MEUR/GW,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,2045,200,,MEUR/GW,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,2050,200,,MEUR/GW,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Methanation,2018,558,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,X_Methanation,2020,558,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,X_Methanation,2021,,,MEUR/GW,,,
-World,X_Methanation,2025,409,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,X_Methanation,2030,309,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,X_Methanation,2035,274,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,X_Methanation,2040,251,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,X_Methanation,2045,227,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,X_Methanation,2050,211,,MEUR/GW,Methanation- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,X_Powerfuel,2018,947,,MEUR/GW,,,
-DE,X_Powerfuel,2020,919.9428571,,MEUR/GW,,,
-World,X_Powerfuel,2021,,,MEUR/GW,,,
-DE,X_Powerfuel,2025,892.8857143,,MEUR/GW,,,
-DE,X_Powerfuel,2030,865.8285714,,MEUR/GW,,,
-DE,X_Powerfuel,2035,838.7714286,,MEUR/GW,,,
-DE,X_Powerfuel,2040,730.5428571,,MEUR/GW,,,
-DE,X_Powerfuel,2045,706.1914286,,MEUR/GW,,,
-DE,X_Powerfuel,2050,681.84,,MEUR/GW,,,
+World,X_Methanation,2021,5590,,MEUR/GW,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2025,4350,,MEUR/GW,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2030,3110,,MEUR/GW,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2035,2685,,MEUR/GW,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2040,2260,,MEUR/GW,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2045,1905,,MEUR/GW,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2050,1550,,MEUR/GW,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,2018,947,,MEUR/GW,,,
+World,X_Powerfuel,2020,919.9428571,,MEUR/GW,,,
+World,X_Powerfuel,2021,3400,,MEUR/GW,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,2025,3050,,MEUR/GW,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,2030,2700,,MEUR/GW,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,2035,2350,,MEUR/GW,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,2040,2000,,MEUR/GW,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,2045,1850,,MEUR/GW,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,2050,1700,,MEUR/GW,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_SMR,2018,683.5536,,MEUR/GW,,,
 World,X_SMR,2020,653.3420571,,MEUR/GW,,,
-World,X_SMR,2021,,,MEUR/GW,,,
-World,X_SMR,2025,623.1305143,,MEUR/GW,,,
-World,X_SMR,2030,592.9189714,,MEUR/GW,,,
-World,X_SMR,2035,562.7074286,,MEUR/GW,,,
-World,X_SMR,2040,532.4958857,,MEUR/GW,,,
-World,X_SMR,2045,502.2843429,,MEUR/GW,,,
-World,X_SMR,2050,472.0728,,MEUR/GW,,,
+World,X_SMR,2021,4456.48,,MEUR/GW,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,2025,4456.48,,MEUR/GW,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,2030,4456.48,,MEUR/GW,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,2035,4456.48,,MEUR/GW,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,2040,4456.48,,MEUR/GW,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,2045,4456.48,,MEUR/GW,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,2050,4456.48,,MEUR/GW,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>

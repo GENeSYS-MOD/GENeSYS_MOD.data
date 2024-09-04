@@ -1,12 +1,12 @@
 Region,Technology,Mode_of_operation,Year,Value,,Unit,Source,Updated at,Updated by
-DE,A_Air,1,2018,0.5,,MEUR/PJ,,,
-DE,A_Air,1,2020,0.425,,MEUR/PJ,,,
-DE,A_Air,1,2025,0.425,,MEUR/PJ,,,
-DE,A_Air,1,2030,0.425,,MEUR/PJ,,,
-DE,A_Air,1,2035,0.425,,MEUR/PJ,,,
-DE,A_Air,1,2040,0.425,,MEUR/PJ,,,
-DE,A_Air,1,2045,0.425,,MEUR/PJ,,,
-DE,A_Air,1,2050,0.425,,MEUR/PJ,,,
+World,A_Air,1,2018,0.5,,MEUR/PJ,,,
+World,A_Air,1,2020,0.425,,MEUR/PJ,,,
+World,A_Air,1,2025,0.425,,MEUR/PJ,,,
+World,A_Air,1,2030,0.425,,MEUR/PJ,,,
+World,A_Air,1,2035,0.425,,MEUR/PJ,,,
+World,A_Air,1,2040,0.425,,MEUR/PJ,,,
+World,A_Air,1,2045,0.425,,MEUR/PJ,,,
+World,A_Air,1,2050,0.425,,MEUR/PJ,,,
 World,D_Battery_Li-Ion,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -135,78 +135,80 @@ World,FRT_Ship_Conv,1,2035,0,,MEUR/PJ,,,
 World,FRT_Ship_Conv,1,2040,0,,MEUR/PJ,,,
 World,FRT_Ship_Conv,1,2045,0,,MEUR/PJ,,,
 World,FRT_Ship_Conv,1,2050,0,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2018,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2020,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2025,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2030,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2035,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2040,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2045,0.001,,MEUR/PJ,,,
-DE,HB_Convert_DH,1,2050,0.001,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,1,2018,1.44,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,2,2018,1.44,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,3,2018,1.44,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,4,2018,1.44,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,1,2020,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,2,2020,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,3,2020,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,4,2020,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,1,2025,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,2,2025,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,3,2025,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,4,2025,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,1,2030,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,2,2030,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,3,2030,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,4,2030,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,1,2035,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,2,2035,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,3,2035,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,4,2035,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,1,2040,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,2,2040,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,3,2040,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,4,2040,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,1,2045,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,2,2045,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,3,2045,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,4,2045,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,1,2050,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,2,2050,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,3,2050,1.368,,MEUR/PJ,,,
-DE,HHI_BF_BOF_CCS,4,2050,1.368,,MEUR/PJ,,,
-DE,HHI_DRI_EAF_CCS,1,2018,1.44,,MEUR/PJ,,,
-DE,HHI_DRI_EAF_CCS,1,2020,1.224,,MEUR/PJ,,,
-DE,HHI_DRI_EAF_CCS,1,2025,1.224,,MEUR/PJ,,,
-DE,HHI_DRI_EAF_CCS,1,2030,1.224,,MEUR/PJ,,,
-DE,HHI_DRI_EAF_CCS,1,2035,1.224,,MEUR/PJ,,,
-DE,HHI_DRI_EAF_CCS,1,2040,1.224,,MEUR/PJ,,,
-DE,HHI_DRI_EAF_CCS,1,2045,1.224,,MEUR/PJ,,,
-DE,HHI_DRI_EAF_CCS,1,2050,1.224,,MEUR/PJ,,,
-DE,HLI_Convert_DH,1,2018,0.001,,MEUR/PJ,,,
-DE,HLI_Convert_DH,1,2020,0.001,,MEUR/PJ,,,
-DE,HLI_Convert_DH,1,2025,0.001,,MEUR/PJ,,,
-DE,HLI_Convert_DH,1,2030,0.001,,MEUR/PJ,,,
-DE,HLI_Convert_DH,1,2035,0.001,,MEUR/PJ,,,
-DE,HLI_Convert_DH,1,2040,0.001,,MEUR/PJ,,,
-DE,HLI_Convert_DH,1,2045,0.001,,MEUR/PJ,,,
-DE,HLI_Convert_DH,1,2050,0.001,,MEUR/PJ,,,
-DE,HMI_Gas_CCS,1,2018,1.44,,MEUR/PJ,,,
-DE,HMI_Gas_CCS,1,2020,1.368,,MEUR/PJ,,,
-DE,HMI_Gas_CCS,1,2025,1.368,,MEUR/PJ,,,
-DE,HMI_Gas_CCS,1,2030,1.368,,MEUR/PJ,,,
-DE,HMI_Gas_CCS,1,2035,1.368,,MEUR/PJ,,,
-DE,HMI_Gas_CCS,1,2040,1.368,,MEUR/PJ,,,
-DE,HMI_Gas_CCS,1,2045,1.368,,MEUR/PJ,,,
-DE,HMI_Gas_CCS,1,2050,1.368,,MEUR/PJ,,,
-DE,HMI_HardCoal_CCS,1,2018,1.44,,MEUR/PJ,,,
-DE,HMI_HardCoal_CCS,1,2020,1.368,,MEUR/PJ,,,
-DE,HMI_HardCoal_CCS,1,2025,1.368,,MEUR/PJ,,,
-DE,HMI_HardCoal_CCS,1,2030,1.368,,MEUR/PJ,,,
-DE,HMI_HardCoal_CCS,1,2035,1.368,,MEUR/PJ,,,
-DE,HMI_HardCoal_CCS,1,2040,1.368,,MEUR/PJ,,,
-DE,HMI_HardCoal_CCS,1,2045,1.368,,MEUR/PJ,,,
-DE,HMI_HardCoal_CCS,1,2050,1.368,,MEUR/PJ,,,
+World,HB_Convert_DH,1,2018,0.001,,MEUR/PJ,,,
+World,HB_Convert_DH,1,2020,0.001,,MEUR/PJ,,,
+World,HB_Convert_DH,1,2025,0.001,,MEUR/PJ,,,
+World,HB_Convert_DH,1,2030,0.001,,MEUR/PJ,,,
+World,HB_Convert_DH,1,2035,0.001,,MEUR/PJ,,,
+World,HB_Convert_DH,1,2040,0.001,,MEUR/PJ,,,
+World,HB_Convert_DH,1,2045,0.001,,MEUR/PJ,,,
+World,HB_Convert_DH,1,2050,0.001,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,1,2018,1.44,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,2,2018,1.44,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,3,2018,1.44,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,4,2018,1.44,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,1,2020,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,2,2020,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,3,2020,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,4,2020,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,1,2025,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,2,2025,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,3,2025,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,4,2025,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,1,2030,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,2,2030,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,3,2030,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,4,2030,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,1,2035,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,2,2035,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,3,2035,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,4,2035,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,1,2040,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,2,2040,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,3,2040,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,4,2040,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,1,2045,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,2,2045,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,3,2045,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,4,2045,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,1,2050,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,2,2050,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,3,2050,1.368,,MEUR/PJ,,,
+World,HHI_BF_BOF_CCS,4,2050,1.368,,MEUR/PJ,,,
+World,HHI_DRI_EAF_CCS,1,2018,1.44,,MEUR/PJ,,,
+World,HHI_DRI_EAF_CCS,1,2020,1.224,,MEUR/PJ,,,
+World,HHI_DRI_EAF_CCS,1,2025,1.224,,MEUR/PJ,,,
+World,HHI_DRI_EAF_CCS,1,2030,1.224,,MEUR/PJ,,,
+World,HHI_DRI_EAF_CCS,1,2035,1.224,,MEUR/PJ,,,
+World,HHI_DRI_EAF_CCS,1,2040,1.224,,MEUR/PJ,,,
+World,HHI_DRI_EAF_CCS,1,2045,1.224,,MEUR/PJ,,,
+World,HHI_DRI_EAF_CCS,1,2050,1.224,,MEUR/PJ,,,
+World,HLI_Convert_DH,1,2018,0.001,,MEUR/PJ,,,
+World,HLI_Convert_DH,1,2020,0.001,,MEUR/PJ,,,
+World,HLI_Convert_DH,1,2025,0.001,,MEUR/PJ,,,
+World,HLI_Convert_DH,1,2030,0.001,,MEUR/PJ,,,
+World,HLI_Convert_DH,1,2035,0.001,,MEUR/PJ,,,
+World,HLI_Convert_DH,1,2040,0.001,,MEUR/PJ,,,
+World,HLI_Convert_DH,1,2045,0.001,,MEUR/PJ,,,
+World,HLI_Convert_DH,1,2050,0.001,,MEUR/PJ,,,
+World,HMI_Gas_CCS,1,2018,1.44,,MEUR/PJ,,,
+World,HMI_Gas_CCS,1,2020,1.368,,MEUR/PJ,,,
+World,HMI_Gas_CCS,1,2021,0.277166667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,1,2025,0.264972222,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,1,2030,0.252777778,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,1,2035,0.253666667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,1,2040,0.254555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,1,2045,0.255611111,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_Gas_CCS,1,2050,0.256666667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,1,2018,1.44,,MEUR/PJ,,,
+World,HMI_HardCoal_CCS,1,2020,1.368,,MEUR/PJ,,,
+World,HMI_HardCoal_CCS,1,2021,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,1,2025,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,1,2030,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,1,2035,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,1,2040,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,1,2045,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,1,2050,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Biomass,1,2018,0.01,,MEUR/PJ,,,
 World,P_Biomass,1,2020,0.01,,MEUR/PJ,,,
 World,P_Biomass,1,2021,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -486,234 +488,202 @@ World,PSNG_Road_PHEV,1,2035,0,,MEUR/PJ,,,
 World,PSNG_Road_PHEV,1,2040,0,,MEUR/PJ,,,
 World,PSNG_Road_PHEV,1,2045,0,,MEUR/PJ,,,
 World,PSNG_Road_PHEV,1,2050,0,,MEUR/PJ,,,
-DE,R_Biogas,1,2018,5.176925274,,MEUR/PJ,,,
-DE,R_Biogas,1,2020,4.681741117,,MEUR/PJ,,,
-DE,R_Biogas,1,2025,4.963095752,,MEUR/PJ,,,
-DE,R_Biogas,1,2030,5.244450386,,MEUR/PJ,,,
-DE,R_Biogas,1,2035,5.52580502,,MEUR/PJ,,,
-DE,R_Biogas,1,2040,5.807159655,,MEUR/PJ,,,
-DE,R_Biogas,1,2045,6.088514289,,MEUR/PJ,,,
-DE,R_Biogas,1,2050,6.369868924,,MEUR/PJ,,,
-DE,R_Coal_Hardcoal,1,2018,2.138888889,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Coal_Hardcoal,1,2020,2.138888889,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Coal_Hardcoal,1,2025,2.333333333,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Coal_Hardcoal,1,2030,2.555555556,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Coal_Hardcoal,1,2035,2.833333333,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Coal_Hardcoal,1,2040,3.083333333,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Coal_Hardcoal,1,2045,3.083333333,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Coal_Hardcoal,1,2050,3.083333333,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Coal_Lignite,1,2018,2.324665638,,MEUR/PJ,,,
-DE,R_Coal_Lignite,1,2020,1.413396708,,MEUR/PJ,,,
-DE,R_Coal_Lignite,1,2025,1.342726872,,MEUR/PJ,,,
-DE,R_Coal_Lignite,1,2030,1.275590529,,MEUR/PJ,,,
-DE,R_Coal_Lignite,1,2035,1.211811002,,MEUR/PJ,,,
-DE,R_Coal_Lignite,1,2040,1.151220452,,MEUR/PJ,,,
-DE,R_Coal_Lignite,1,2045,1.09365943,,MEUR/PJ,,,
-DE,R_Coal_Lignite,1,2050,1.038976458,,MEUR/PJ,,,
-DE,R_Gas,1,2018,6.166666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Gas,1,2020,6.166666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Gas,1,2025,8.333333333,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Gas,1,2030,9.083333333,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Gas,1,2035,10.02777778,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Gas,1,2040,11.16666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Gas,1,2045,11.16666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Gas,1,2050,11.16666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Grass,1,2018,3.384912679,,MEUR/PJ,,,
-DE,R_Grass,1,2020,3.061138423,,MEUR/PJ,,,
-DE,R_Grass,1,2025,3.245101068,,MEUR/PJ,,,
-DE,R_Grass,1,2030,3.429063714,,MEUR/PJ,,,
-DE,R_Grass,1,2035,3.61302636,,MEUR/PJ,,,
-DE,R_Grass,1,2040,3.796989005,,MEUR/PJ,,,
-DE,R_Grass,1,2045,3.980951651,,MEUR/PJ,,,
-DE,R_Grass,1,2050,4.164914296,,MEUR/PJ,,,
-DE,R_Nuclear,1,2018,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Nuclear,1,2020,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Nuclear,1,2025,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Nuclear,1,2030,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Nuclear,1,2035,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Nuclear,1,2040,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Nuclear,1,2045,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Nuclear,1,2050,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Oil,1,2018,9.788888889,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Oil,1,2020,9.788888889,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Oil,1,2025,11.06111111,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Oil,1,2030,12.33333333,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Oil,1,2035,12.20555556,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Oil,1,2040,12.07777778,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Oil,1,2045,12.07777778,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Oil,1,2050,12.07777778,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-DE,R_Paper_Cardboard,1,2018,9.257637081,,MEUR/PJ,,,
-DE,R_Paper_Cardboard,1,2020,8.372123969,,MEUR/PJ,,,
-DE,R_Paper_Cardboard,1,2025,8.875256419,,MEUR/PJ,,,
-DE,R_Paper_Cardboard,1,2030,9.378388869,,MEUR/PJ,,,
-DE,R_Paper_Cardboard,1,2035,9.881521319,,MEUR/PJ,,,
-DE,R_Paper_Cardboard,1,2040,10.38465377,,MEUR/PJ,,,
-DE,R_Paper_Cardboard,1,2045,10.88778622,,MEUR/PJ,,,
-DE,R_Paper_Cardboard,1,2050,11.39091867,,MEUR/PJ,,,
-DE,R_Residues,1,2018,3.982250211,,MEUR/PJ,,,
-DE,R_Residues,1,2020,3.601339321,,MEUR/PJ,,,
-DE,R_Residues,1,2025,3.817765963,,MEUR/PJ,,,
-DE,R_Residues,1,2030,4.034192605,,MEUR/PJ,,,
-DE,R_Residues,1,2035,4.250619247,,MEUR/PJ,,,
-DE,R_Residues,1,2040,4.467045888,,MEUR/PJ,,,
-DE,R_Residues,1,2045,4.68347253,,MEUR/PJ,,,
-DE,R_Residues,1,2050,4.899899172,,MEUR/PJ,,,
-DE,R_Roundwood,1,2018,14.68136063,,MEUR/PJ,,,
-DE,R_Roundwood,1,2020,13.27705657,,MEUR/PJ,,,
-DE,R_Roundwood,1,2025,14.0749566,,MEUR/PJ,,,
-DE,R_Roundwood,1,2030,14.87285664,,MEUR/PJ,,,
-DE,R_Roundwood,1,2035,15.67075667,,MEUR/PJ,,,
-DE,R_Roundwood,1,2040,16.46865671,,MEUR/PJ,,,
-DE,R_Roundwood,1,2045,17.26655674,,MEUR/PJ,,,
-DE,R_Roundwood,1,2050,18.06445677,,MEUR/PJ,,,
-DE,R_Wood,1,2018,3.58402519,,MEUR/PJ,,,
-DE,R_Wood,1,2020,3.241205389,,MEUR/PJ,,,
-DE,R_Wood,1,2025,3.435989366,,MEUR/PJ,,,
-DE,R_Wood,1,2030,3.630773344,,MEUR/PJ,,,
-DE,R_Wood,1,2035,3.825557322,,MEUR/PJ,,,
-DE,R_Wood,1,2040,4.0203413,,MEUR/PJ,,,
-DE,R_Wood,1,2045,4.215125277,,MEUR/PJ,,,
-DE,R_Wood,1,2050,4.409909255,,MEUR/PJ,,,
-DE,X_ATR_CCS,1,2018,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2020,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2025,0.3,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2030,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2035,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2040,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2045,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_ATR_CCS,1,2050,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-DE,X_DAC_HT,1,2018,1.44,,MEUR/PJ,,,
-DE,X_DAC_HT,1,2020,1.152,,MEUR/PJ,,,
-DE,X_DAC_HT,1,2025,1.152,,MEUR/PJ,,,
-DE,X_DAC_HT,1,2030,1.152,,MEUR/PJ,,,
-DE,X_DAC_HT,1,2035,1.152,,MEUR/PJ,,,
-DE,X_DAC_HT,1,2040,1.152,,MEUR/PJ,,,
-DE,X_DAC_HT,1,2045,1.152,,MEUR/PJ,,,
-DE,X_DAC_HT,1,2050,1.152,,MEUR/PJ,,,
-DE,X_DAC_LT,1,2018,1.44,,MEUR/PJ,,,
-DE,X_DAC_LT,1,2020,1.152,,MEUR/PJ,,,
-DE,X_DAC_LT,1,2025,1.152,,MEUR/PJ,,,
-DE,X_DAC_LT,1,2030,1.152,,MEUR/PJ,,,
-DE,X_DAC_LT,1,2035,1.152,,MEUR/PJ,,,
-DE,X_DAC_LT,1,2040,1.152,,MEUR/PJ,,,
-DE,X_DAC_LT,1,2045,1.152,,MEUR/PJ,,,
-DE,X_DAC_LT,1,2050,1.152,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2018,0.001,,MEUR/PJ,,,
+World,R_Biogas,1,2018,5.176925274,,MEUR/PJ,,,
+World,R_Biogas,1,2020,4.681741117,,MEUR/PJ,,,
+World,R_Biogas,1,2025,4.963095752,,MEUR/PJ,,,
+World,R_Biogas,1,2030,5.244450386,,MEUR/PJ,,,
+World,R_Biogas,1,2035,5.52580502,,MEUR/PJ,,,
+World,R_Biogas,1,2040,5.807159655,,MEUR/PJ,,,
+World,R_Biogas,1,2045,6.088514289,,MEUR/PJ,,,
+World,R_Biogas,1,2050,6.369868924,,MEUR/PJ,,,
+World,R_Coal_Hardcoal,1,2018,2.138888889,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Coal_Hardcoal,1,2020,2.138888889,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Coal_Hardcoal,1,2025,2.333333333,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Coal_Hardcoal,1,2030,2.555555556,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Coal_Hardcoal,1,2035,2.833333333,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Coal_Hardcoal,1,2040,3.083333333,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Coal_Hardcoal,1,2045,3.083333333,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Coal_Hardcoal,1,2050,3.083333333,,MEUR/PJ,Coal Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Coal_Lignite,1,2018,2.324665638,,MEUR/PJ,,,
+World,R_Coal_Lignite,1,2020,1.413396708,,MEUR/PJ,,,
+World,R_Coal_Lignite,1,2025,1.342726872,,MEUR/PJ,,,
+World,R_Coal_Lignite,1,2030,1.275590529,,MEUR/PJ,,,
+World,R_Coal_Lignite,1,2035,1.211811002,,MEUR/PJ,,,
+World,R_Coal_Lignite,1,2040,1.151220452,,MEUR/PJ,,,
+World,R_Coal_Lignite,1,2045,1.09365943,,MEUR/PJ,,,
+World,R_Coal_Lignite,1,2050,1.038976458,,MEUR/PJ,,,
+World,R_Gas,1,2018,6.166666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Gas,1,2020,6.166666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Gas,1,2025,8.333333333,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Gas,1,2030,9.083333333,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Gas,1,2035,10.02777778,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Gas,1,2040,11.16666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Gas,1,2045,11.16666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Gas,1,2050,11.16666667,,MEUR/PJ,Natural Gas Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Grass,1,2018,3.384912679,,MEUR/PJ,,,
+World,R_Grass,1,2020,3.061138423,,MEUR/PJ,,,
+World,R_Grass,1,2025,3.245101068,,MEUR/PJ,,,
+World,R_Grass,1,2030,3.429063714,,MEUR/PJ,,,
+World,R_Grass,1,2035,3.61302636,,MEUR/PJ,,,
+World,R_Grass,1,2040,3.796989005,,MEUR/PJ,,,
+World,R_Grass,1,2045,3.980951651,,MEUR/PJ,,,
+World,R_Grass,1,2050,4.164914296,,MEUR/PJ,,,
+World,R_Nuclear,1,2018,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Nuclear,1,2020,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Nuclear,1,2025,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Nuclear,1,2030,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Nuclear,1,2035,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Nuclear,1,2040,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Nuclear,1,2045,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Nuclear,1,2050,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Oil,1,2018,9.788888889,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Oil,1,2020,9.788888889,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Oil,1,2025,11.06111111,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Oil,1,2030,12.33333333,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Oil,1,2035,12.20555556,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Oil,1,2040,12.07777778,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Oil,1,2045,12.07777778,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Oil,1,2050,12.07777778,,MEUR/PJ,Oil Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,R_Paper_Cardboard,1,2018,9.257637081,,MEUR/PJ,,,
+World,R_Paper_Cardboard,1,2020,8.372123969,,MEUR/PJ,,,
+World,R_Paper_Cardboard,1,2025,8.875256419,,MEUR/PJ,,,
+World,R_Paper_Cardboard,1,2030,9.378388869,,MEUR/PJ,,,
+World,R_Paper_Cardboard,1,2035,9.881521319,,MEUR/PJ,,,
+World,R_Paper_Cardboard,1,2040,10.38465377,,MEUR/PJ,,,
+World,R_Paper_Cardboard,1,2045,10.88778622,,MEUR/PJ,,,
+World,R_Paper_Cardboard,1,2050,11.39091867,,MEUR/PJ,,,
+World,R_Residues,1,2018,3.982250211,,MEUR/PJ,,,
+World,R_Residues,1,2020,3.601339321,,MEUR/PJ,,,
+World,R_Residues,1,2025,3.817765963,,MEUR/PJ,,,
+World,R_Residues,1,2030,4.034192605,,MEUR/PJ,,,
+World,R_Residues,1,2035,4.250619247,,MEUR/PJ,,,
+World,R_Residues,1,2040,4.467045888,,MEUR/PJ,,,
+World,R_Residues,1,2045,4.68347253,,MEUR/PJ,,,
+World,R_Residues,1,2050,4.899899172,,MEUR/PJ,,,
+World,R_Roundwood,1,2018,14.68136063,,MEUR/PJ,,,
+World,R_Roundwood,1,2020,13.27705657,,MEUR/PJ,,,
+World,R_Roundwood,1,2025,14.0749566,,MEUR/PJ,,,
+World,R_Roundwood,1,2030,14.87285664,,MEUR/PJ,,,
+World,R_Roundwood,1,2035,15.67075667,,MEUR/PJ,,,
+World,R_Roundwood,1,2040,16.46865671,,MEUR/PJ,,,
+World,R_Roundwood,1,2045,17.26655674,,MEUR/PJ,,,
+World,R_Roundwood,1,2050,18.06445677,,MEUR/PJ,,,
+World,R_Wood,1,2018,3.58402519,,MEUR/PJ,,,
+World,R_Wood,1,2020,3.241205389,,MEUR/PJ,,,
+World,R_Wood,1,2025,3.435989366,,MEUR/PJ,,,
+World,R_Wood,1,2030,3.630773344,,MEUR/PJ,,,
+World,R_Wood,1,2035,3.825557322,,MEUR/PJ,,,
+World,R_Wood,1,2040,4.0203413,,MEUR/PJ,,,
+World,R_Wood,1,2045,4.215125277,,MEUR/PJ,,,
+World,R_Wood,1,2050,4.409909255,,MEUR/PJ,,,
+World,X_ATR_CCS,1,2018,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+World,X_ATR_CCS,1,2020,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+World,X_ATR_CCS,1,2021,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+World,X_ATR_CCS,1,2025,0.3,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+World,X_ATR_CCS,1,2030,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+World,X_ATR_CCS,1,2035,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+World,X_ATR_CCS,1,2040,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+World,X_ATR_CCS,1,2045,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+World,X_ATR_CCS,1,2050,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
+World,X_DAC_HT,1,2018,1.44,,MEUR/PJ,,,
+World,X_DAC_HT,1,2020,1.152,,MEUR/PJ,,,
+World,X_DAC_HT,1,2021,,,MEUR/PJ,,,
+World,X_DAC_HT,1,2025,1.152,,MEUR/PJ,,,
+World,X_DAC_HT,1,2030,1.152,,MEUR/PJ,,,
+World,X_DAC_HT,1,2035,1.152,,MEUR/PJ,,,
+World,X_DAC_HT,1,2040,1.152,,MEUR/PJ,,,
+World,X_DAC_HT,1,2045,1.152,,MEUR/PJ,,,
+World,X_DAC_HT,1,2050,1.152,,MEUR/PJ,,,
+World,X_DAC_LT,1,2018,1.44,,MEUR/PJ,,,
+World,X_DAC_LT,1,2020,1.152,,MEUR/PJ,,,
+World,X_DAC_LT,1,2021,,,MEUR/PJ,,,
+World,X_DAC_LT,1,2025,1.152,,MEUR/PJ,,,
+World,X_DAC_LT,1,2030,1.152,,MEUR/PJ,,,
+World,X_DAC_LT,1,2035,1.152,,MEUR/PJ,,,
+World,X_DAC_LT,1,2040,1.152,,MEUR/PJ,,,
+World,X_DAC_LT,1,2045,1.152,,MEUR/PJ,,,
+World,X_DAC_LT,1,2050,1.152,,MEUR/PJ,,,
 World,X_Electrolysis,1,2018,0.001,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2020,0.00065,,MEUR/PJ,,,
 World,X_Electrolysis,1,2020,0.001,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2025,0.00065,,MEUR/PJ,,,
-World,X_Electrolysis,1,2025,0.001,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2030,0.00065,,MEUR/PJ,,,
-World,X_Electrolysis,1,2030,0.001,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2035,0.00065,,MEUR/PJ,,,
-World,X_Electrolysis,1,2035,0.001,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2040,0.00065,,MEUR/PJ,,,
-World,X_Electrolysis,1,2040,0.001,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2045,0.00065,,MEUR/PJ,,,
-World,X_Electrolysis,1,2045,0.001,,MEUR/PJ,,,
-DE,X_Electrolysis,1,2050,0.00065,,MEUR/PJ,,,
-World,X_Electrolysis,1,2050,0.001,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2018,11.11111112,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2018,11.11111112,,MEUR/PJ,,,
+World,X_Electrolysis,1,2021,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2025,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2030,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2035,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2040,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2045,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2050,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Fuel_Cell,1,2018,11.11111112,,MEUR/PJ,,,
-World,X_Fuel_Cell,2,2018,11.11111112,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2020,4.513888893,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2020,4.513888893,,MEUR/PJ,,,
 World,X_Fuel_Cell,1,2020,6.94444445,,MEUR/PJ,,,
+World,X_Fuel_Cell,1,2021,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,1,2025,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,1,2030,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,1,2035,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,1,2040,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,1,2045,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,1,2050,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2,2018,11.11111112,,MEUR/PJ,,,
 World,X_Fuel_Cell,2,2020,6.94444445,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2025,4.333333337,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2025,4.333333337,,MEUR/PJ,,,
-World,X_Fuel_Cell,1,2025,6.666666672,,MEUR/PJ,,,
-World,X_Fuel_Cell,2,2025,6.666666672,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2030,4.152777781,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2030,4.152777781,,MEUR/PJ,,,
-World,X_Fuel_Cell,1,2030,6.388888894,,MEUR/PJ,,,
-World,X_Fuel_Cell,2,2030,6.388888894,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2035,3.520833336,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2035,3.520833336,,MEUR/PJ,,,
-World,X_Fuel_Cell,1,2035,5.416666671,,MEUR/PJ,,,
-World,X_Fuel_Cell,2,2035,5.416666671,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2040,2.888888891,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2040,2.888888891,,MEUR/PJ,,,
-World,X_Fuel_Cell,1,2040,4.444444448,,MEUR/PJ,,,
-World,X_Fuel_Cell,2,2040,4.444444448,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2045,2.888888891,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2045,2.888888891,,MEUR/PJ,,,
-World,X_Fuel_Cell,1,2045,4.444444448,,MEUR/PJ,,,
-World,X_Fuel_Cell,2,2045,4.444444448,,MEUR/PJ,,,
-DE,X_Fuel_Cell,1,2050,2.888888891,,MEUR/PJ,,,
-DE,X_Fuel_Cell,2,2050,2.888888891,,MEUR/PJ,,,
-World,X_Fuel_Cell,1,2050,4.444444448,,MEUR/PJ,,,
-World,X_Fuel_Cell,2,2050,4.444444448,,MEUR/PJ,,,
-DE,X_Methanation,1,2018,0.416666667,,MEUR/PJ,,,
-DE,X_Methanation,2,2018,1.277777779,,MEUR/PJ,,,
+World,X_Fuel_Cell,2,2021,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2,2025,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2,2030,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2,2035,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2,2040,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2,2045,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Fuel_Cell,2,2050,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Methanation,1,2018,0.416666667,,MEUR/PJ,,,
+World,X_Methanation,1,2020,0.270833334,,MEUR/PJ,,,
+World,X_Methanation,1,2021,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2025,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2030,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2035,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2040,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2045,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2050,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Methanation,2,2018,1.277777779,,MEUR/PJ,,,
-DE,X_Methanation,1,2020,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2020,0.830555556,,MEUR/PJ,,,
-World,X_Methanation,1,2020,0.416666667,,MEUR/PJ,,,
-World,X_Methanation,2,2020,1.277777779,,MEUR/PJ,,,
-DE,X_Methanation,1,2025,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2025,0.830555556,,MEUR/PJ,,,
-World,X_Methanation,1,2025,0.416666667,,MEUR/PJ,,,
-World,X_Methanation,2,2025,1.277777779,,MEUR/PJ,,,
-DE,X_Methanation,1,2030,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2030,0.830555556,,MEUR/PJ,,,
-World,X_Methanation,1,2030,0.416666667,,MEUR/PJ,,,
-World,X_Methanation,2,2030,1.277777779,,MEUR/PJ,,,
-DE,X_Methanation,1,2035,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2035,0.830555556,,MEUR/PJ,,,
-World,X_Methanation,1,2035,0.416666667,,MEUR/PJ,,,
-World,X_Methanation,2,2035,1.277777779,,MEUR/PJ,,,
-DE,X_Methanation,1,2040,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2040,0.830555556,,MEUR/PJ,,,
-World,X_Methanation,1,2040,0.416666667,,MEUR/PJ,,,
-World,X_Methanation,2,2040,1.277777779,,MEUR/PJ,,,
-DE,X_Methanation,1,2045,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2045,0.830555556,,MEUR/PJ,,,
-World,X_Methanation,1,2045,0.416666667,,MEUR/PJ,,,
-World,X_Methanation,2,2045,1.277777779,,MEUR/PJ,,,
-DE,X_Methanation,1,2050,0.270833334,,MEUR/PJ,,,
-DE,X_Methanation,2,2050,0.830555556,,MEUR/PJ,,,
-World,X_Methanation,1,2050,0.416666667,,MEUR/PJ,,,
-World,X_Methanation,2,2050,1.277777779,,MEUR/PJ,,,
-DE,Z_Import_Gas,1,2021,25.38892024,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2025,18.1333528,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2030,5.20958202,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2035,4.989176627,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2040,4.768771234,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2045,4.548365841,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2050,4.327960447,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_H2,1,2018,99,,MEUR/PJ,,,
-DE,Z_Import_H2,1,2020,50,,MEUR/PJ,,,
-DE,Z_Import_H2,1,2025,35,,MEUR/PJ,,,
-DE,Z_Import_H2,1,2030,29,,MEUR/PJ,,,
-DE,Z_Import_H2,1,2035,23,,MEUR/PJ,,,
-DE,Z_Import_H2,1,2040,17,,MEUR/PJ,,,
-DE,Z_Import_H2,1,2045,13.334,,MEUR/PJ,,,
-DE,Z_Import_H2,1,2050,10.4177,,MEUR/PJ,,,
-DE,Z_Import_Hardcoal,1,2021,6.552409617,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Hardcoal,1,2025,5.015914877,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Hardcoal,1,2030,2.388130469,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Hardcoal,1,2035,2.261996818,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Hardcoal,1,2040,2.135863166,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Hardcoal,1,2045,2.009729515,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Hardcoal,1,2050,1.883595863,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2021,8.655920895,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2025,10.32983565,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2030,2.96768759,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2035,2.842131577,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2040,2.716575564,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2045,2.59101955,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2050,2.465463537,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Oil,1,2021,13.55984363,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Oil,1,2025,12.29712397,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Oil,1,2030,10.22457499,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Oil,1,2035,9.740980225,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Oil,1,2040,9.257385462,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Oil,1,2045,8.773790699,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Oil,1,2050,8.290195936,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,X_Methanation,2,2020,0.830555556,,MEUR/PJ,,,
+World,X_Methanation,2,2021,6.027777778,,MEUR/PJ,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2,2025,5.027777778,,MEUR/PJ,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2,2030,4.027777778,,MEUR/PJ,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2,2035,4.027777778,,MEUR/PJ,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2,2040,4.027777778,,MEUR/PJ,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2,2045,4.027777778,,MEUR/PJ,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,2,2050,4.027777778,,MEUR/PJ,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2021,25.38892024,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2025,18.1333528,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2030,5.20958202,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2035,4.989176627,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2040,4.768771234,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2045,4.548365841,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2050,4.327960447,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_H2,1,2018,99,,MEUR/PJ,,,
+World,Z_Import_H2,1,2020,50,,MEUR/PJ,,,
+World,Z_Import_H2,1,2025,35,,MEUR/PJ,,,
+World,Z_Import_H2,1,2030,29,,MEUR/PJ,,,
+World,Z_Import_H2,1,2035,23,,MEUR/PJ,,,
+World,Z_Import_H2,1,2040,17,,MEUR/PJ,,,
+World,Z_Import_H2,1,2045,13.334,,MEUR/PJ,,,
+World,Z_Import_H2,1,2050,10.4177,,MEUR/PJ,,,
+World,Z_Import_Hardcoal,1,2021,6.552409617,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2025,5.015914877,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2030,2.388130469,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2035,2.261996818,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2040,2.135863166,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2045,2.009729515,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2050,1.883595863,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2021,8.655920895,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2025,10.32983565,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2030,2.96768759,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2035,2.842131577,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2040,2.716575564,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2045,2.59101955,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2050,2.465463537,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2021,13.55984363,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2025,12.29712397,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2030,10.22457499,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2035,9.740980225,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2040,9.257385462,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2045,8.773790699,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2050,8.290195936,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
 World,P_H2_OCGT,1,2021,1.835785393,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_H2_OCGT,1,2025,1.784791354,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_H2_OCGT,1,2030,1.733797316,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -924,13 +894,13 @@ World,HLI_Lignite,1,2035,0.28157,,MEUR/PJ,111% of HLI_Hardcoal - https://energy.
 World,HLI_Lignite,1,2040,0.282556667,,MEUR/PJ,111% of HLI_Hardcoal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,03.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Lignite,1,2045,0.283728333,,MEUR/PJ,111% of HLI_Hardcoal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Lignite,1,2050,0.2849,,MEUR/PJ,111% of HLI_Hardcoal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,05.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HLI_Fuelcell,1,2021,,,MEUR/PJ,,,
-World,HLI_Fuelcell,1,2025,,,MEUR/PJ,,,
-World,HLI_Fuelcell,1,2030,,,MEUR/PJ,,,
-World,HLI_Fuelcell,1,2035,,,MEUR/PJ,,,
-World,HLI_Fuelcell,1,2040,,,MEUR/PJ,,,
-World,HLI_Fuelcell,1,2045,,,MEUR/PJ,,,
-World,HLI_Fuelcell,1,2050,,,MEUR/PJ,,,
+World,HLI_Fuelcell,1,2021,18.05555556,,MEUR/PJ,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,1,2025,12.5,,MEUR/PJ,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,1,2030,6.944444444,,MEUR/PJ,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,1,2035,4.861111111,,MEUR/PJ,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,1,2040,2.777777778,,MEUR/PJ,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,1,2045,2.5,,MEUR/PJ,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Fuelcell,1,2050,2.222222222,,MEUR/PJ,Assumption: same as CHP_Hydrogen_FuelCell,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,1,2021,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,1,2025,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,1,2030,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -1022,3 +992,38 @@ World,CHP_Oil,1,2035,1.111111111,,MEUR/PJ,assumend equal chp gas -https://ars.el
 World,CHP_Oil,1,2040,1.111111111,,MEUR/PJ,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Oil,1,2045,1.111111111,,MEUR/PJ,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Oil,1,2050,1.111111111,,MEUR/PJ,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,1,2021,0.75,,MEUR/PJ,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,1,2025,0.694444444,,MEUR/PJ,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,1,2030,0.638888889,,MEUR/PJ,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,1,2035,0.625,,MEUR/PJ,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,1,2040,0.611111111,,MEUR/PJ,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,1,2045,0.597222222,,MEUR/PJ,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Gasifier,1,2050,0.583333333,,MEUR/PJ,Gasifier biomass producer gas small - medium scale - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,1,2021,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,1,2025,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,1,2030,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,1,2035,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,1,2040,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,1,2045,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Biofuel,1,2050,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2021,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2025,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2030,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2035,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2040,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2045,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2050,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,1,2021,2.510805556,,MEUR/PJ,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,1,2025,2.038183333,,MEUR/PJ,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,1,2030,1.565561111,,MEUR/PJ,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,1,2035,1.255402778,,MEUR/PJ,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,1,2040,0.945244444,,MEUR/PJ,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,1,2045,0.782780556,,MEUR/PJ,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Powerfuel,1,2050,0.620316667,,MEUR/PJ,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2021,1.777777778,,MEUR/PJ,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2025,1.916666667,,MEUR/PJ,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2030,2.055555556,,MEUR/PJ,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2035,2.083333333,,MEUR/PJ,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2040,2.111111111,,MEUR/PJ,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2045,2.138888889,,MEUR/PJ,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2050,2.166666667,,MEUR/PJ,LW-SMR - https://www.sciencedirect.com/science/article/pii/S0306261923000338#f0025 ,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
