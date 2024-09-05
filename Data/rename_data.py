@@ -34,13 +34,14 @@ def rename_technologies(data_folder_path, rename_mapping):
                 # Strip whitespace from column names
                 df.columns = df.columns.str.strip()
 
-                # Identify 'Unnamed' columns and rename them to empty string
-                df.columns = [col if not col.startswith('Unnamed') else '' for col in df.columns]
 
                 # Replace old technology names with new ones using the mapping in all columns
                 for col in df.columns:
                     if df[col].dtype == 'object':  # Only apply to string columns
                         df[col] = df[col].str.strip().replace(rename_mapping)
+
+                # Identify 'Unnamed' columns and rename them to empty string
+                df.columns = [col if not col.startswith('Unnamed') else '' for col in df.columns]
 
                 # Save the renamed CSV file with a '_renamed' suffix
                 csv_path = os.path.join(item_path, csv_file)

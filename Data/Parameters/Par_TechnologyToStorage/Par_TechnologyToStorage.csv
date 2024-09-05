@@ -7,14 +7,14 @@ D_PHS,S_PHS,1,2035,0.9,,Fraction,Rozali et al. (2013): ISBN 978-88-95608-26-6,05
 D_PHS,S_PHS,1,2040,0.9,,Fraction,Rozali et al. (2013): ISBN 978-88-95608-26-6,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_PHS,S_PHS,1,2045,0.9,,Fraction,Rozali et al. (2013): ISBN 978-88-95608-26-6,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_PHS,S_PHS,1,2050,0.9,,Fraction,Rozali et al. (2013): ISBN 978-88-95608-26-6,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Gas_H2,S_Gas_H2,1,2018,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Gas_H2,S_Gas_H2,1,2020,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Gas_H2,S_Gas_H2,1,2025,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Gas_H2,S_Gas_H2,1,2030,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Gas_H2,S_Gas_H2,1,2035,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Gas_H2,S_Gas_H2,1,2040,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Gas_H2,S_Gas_H2,1,2045,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Gas_H2,S_Gas_H2,1,2050,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Gas_H2,S_Gas_H2,1,2018,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Gas_H2,S_Gas_H2,1,2020,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Gas_H2,S_Gas_H2,1,2025,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Gas_H2,S_Gas_H2,1,2030,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Gas_H2,S_Gas_H2,1,2035,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Gas_H2,S_Gas_H2,1,2040,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Gas_H2,S_Gas_H2,1,2045,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Gas_H2,S_Gas_H2,1,2050,0.99,,Fraction,Energy Agency Denmark (2024): H2 caverns - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_Gas_Methane,S_Gas_Methane,1,2018,0.99,,Fraction,Assumption: Same as H2,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_Gas_Methane,S_Gas_Methane,1,2020,0.99,,Fraction,Assumption: Same as H2,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_Gas_Methane,S_Gas_Methane,1,2025,0.99,,Fraction,Assumption: Same as H2,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -23,14 +23,14 @@ D_Gas_Methane,S_Gas_Methane,1,2035,0.99,,Fraction,Assumption: Same as H2,05.08.2
 D_Gas_Methane,S_Gas_Methane,1,2040,0.99,,Fraction,Assumption: Same as H2,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_Gas_Methane,S_Gas_Methane,1,2045,0.99,,Fraction,Assumption: Same as H2,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_Gas_Methane,S_Gas_Methane,1,2050,0.99,,Fraction,Assumption: Same as H2,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Battery_Li-Ion,S_Battery_Li-Ion,1,2018,0.98,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Battery_Li-Ion,S_Battery_Li-Ion,1,2020,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Battery_Li-Ion,S_Battery_Li-Ion,1,2025,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Battery_Li-Ion,S_Battery_Li-Ion,1,2030,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Battery_Li-Ion,S_Battery_Li-Ion,1,2035,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Battery_Li-Ion,S_Battery_Li-Ion,1,2040,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Battery_Li-Ion,S_Battery_Li-Ion,1,2045,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Battery_Li-Ion,S_Battery_Li-Ion,1,2050,0.99,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Battery_Li-Ion,S_Battery_Li-Ion,1,2018,0.98,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Battery_Li-Ion,S_Battery_Li-Ion,1,2020,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Battery_Li-Ion,S_Battery_Li-Ion,1,2025,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Battery_Li-Ion,S_Battery_Li-Ion,1,2030,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Battery_Li-Ion,S_Battery_Li-Ion,1,2035,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Battery_Li-Ion,S_Battery_Li-Ion,1,2040,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Battery_Li-Ion,S_Battery_Li-Ion,1,2045,0.985,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Battery_Li-Ion,S_Battery_Li-Ion,1,2050,0.99,,Fraction,Energy Agency Denmark (2024): Lithium-Ion - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_Battery_Redox,S_Battery_Redox,1,2018,0.9,,Fraction,Viswanathan et al. (2022): Publication No: PNNL-33283- Assumption: 80% RTE- charge and discharge same,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_Battery_Redox,S_Battery_Redox,1,2020,0.9,,Fraction,Viswanathan et al. (2022): Publication No: PNNL-33283- Assumption: 80% RTE- charge and discharge same,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_Battery_Redox,S_Battery_Redox,1,2025,0.9,,Fraction,Viswanathan et al. (2022): Publication No: PNNL-33283- Assumption: 80% RTE- charge and discharge same,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -39,27 +39,27 @@ D_Battery_Redox,S_Battery_Redox,1,2035,0.91125,,Fraction,Huang et al. (2023): ht
 D_Battery_Redox,S_Battery_Redox,1,2040,0.9225,,Fraction,Huang et al. (2023): https://doi.org/10.1016/j.electacta.2023.143025- Possible RTE improvements of 9%- interpolated until 2051,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_Battery_Redox,S_Battery_Redox,1,2045,0.93375,,Fraction,Huang et al. (2023): https://doi.org/10.1016/j.electacta.2023.143025- Possible RTE improvements of 9%- interpolated until 2052,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_Battery_Redox,S_Battery_Redox,1,2050,0.945,,Fraction,Huang et al. (2023): https://doi.org/10.1016/j.electacta.2023.143025- Possible RTE improvements of 9%- interpolated until 2053,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HLI,S_Heat_HLI,1,2018,1,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HLI,S_Heat_HLI,1,2020,1,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HLI,S_Heat_HLI,1,2025,1,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HLI,S_Heat_HLI,1,2030,1,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HLI,S_Heat_HLI,1,2035,1,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HLI,S_Heat_HLI,1,2040,1,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HLI,S_Heat_HLI,1,2045,1,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HLI,S_Heat_HLI,1,2050,1,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HB,S_Heat_HB,1,2018,1,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HB,S_Heat_HB,1,2020,1,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HB,S_Heat_HB,1,2025,1,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HB,S_Heat_HB,1,2030,1,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HB,S_Heat_HB,1,2035,1,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HB,S_Heat_HB,1,2040,1,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HB,S_Heat_HB,1,2045,1,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_Heat_HB,S_Heat_HB,1,2050,1,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_CAES,S_CAES,1,2018,0.8,,Fraction,Energy Agency Denmark (2024): CAES - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_CAES,S_CAES,1,2020,0.8,,Fraction,Energy Agency Denmark (2024): CAES - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_CAES,S_CAES,1,2025,0.8,,Fraction,Energy Agency Denmark (2024): CAES - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_CAES,S_CAES,1,2030,0.84,,Fraction,Energy Agency Denmark (2024): CAES - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_CAES,S_CAES,1,2035,0.84,,Fraction,Energy Agency Denmark (2024): CAES - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_CAES,S_CAES,1,2040,0.84,,Fraction,Energy Agency Denmark (2024): CAES - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_CAES,S_CAES,1,2045,0.84,,Fraction,Energy Agency Denmark (2024): CAES - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-D_CAES,S_CAES,1,2050,0.85,,Fraction,Energy Agency Denmark (2024): CAES - upper ,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HLI,S_Heat_HLI,1,2018,1.0,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HLI,S_Heat_HLI,1,2020,1.0,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HLI,S_Heat_HLI,1,2025,1.0,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HLI,S_Heat_HLI,1,2030,1.0,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HLI,S_Heat_HLI,1,2035,1.0,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HLI,S_Heat_HLI,1,2040,1.0,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HLI,S_Heat_HLI,1,2045,1.0,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HLI,S_Heat_HLI,1,2050,1.0,,Fraction,Energy Agency Denmark (2024): Large Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HB,S_Heat_HB,1,2018,1.0,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HB,S_Heat_HB,1,2020,1.0,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HB,S_Heat_HB,1,2025,1.0,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HB,S_Heat_HB,1,2030,1.0,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HB,S_Heat_HB,1,2035,1.0,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HB,S_Heat_HB,1,2040,1.0,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HB,S_Heat_HB,1,2045,1.0,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_Heat_HB,S_Heat_HB,1,2050,1.0,,Fraction,Energy Agency Denmark (2024): Small Hot Water Tank,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_CAES,S_CAES,1,2018,0.8,,Fraction,Energy Agency Denmark (2024): CAES - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_CAES,S_CAES,1,2020,0.8,,Fraction,Energy Agency Denmark (2024): CAES - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_CAES,S_CAES,1,2025,0.8,,Fraction,Energy Agency Denmark (2024): CAES - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_CAES,S_CAES,1,2030,0.84,,Fraction,Energy Agency Denmark (2024): CAES - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_CAES,S_CAES,1,2035,0.84,,Fraction,Energy Agency Denmark (2024): CAES - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_CAES,S_CAES,1,2040,0.84,,Fraction,Energy Agency Denmark (2024): CAES - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_CAES,S_CAES,1,2045,0.84,,Fraction,Energy Agency Denmark (2024): CAES - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_CAES,S_CAES,1,2050,0.85,,Fraction,Energy Agency Denmark (2024): CAES - upper,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>

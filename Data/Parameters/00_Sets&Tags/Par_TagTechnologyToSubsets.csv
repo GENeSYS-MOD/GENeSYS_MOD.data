@@ -264,8 +264,8 @@ P_PV_Utility_Inf,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffle
 P_PV_Utility_Tracking,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 P_CSP,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 P_Geothermal,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-P_Hydro_Small,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-P_Hydro_Large,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Hydro_RoR,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Hydro_Reservoir,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 P_Ocean,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 P_Biomass,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 P_Biomass_CCS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -326,8 +326,8 @@ P_PV_Utility_Inf,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffl
 P_PV_Utility_Tracking,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 P_CSP,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 P_Geothermal,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-P_Hydro_Small,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-P_Hydro_Large,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Hydro_RoR,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Hydro_Reservoir,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 P_Ocean,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 P_Coal_Hardcoal,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 P_Coal_Lignite,PowerSupply,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -350,8 +350,8 @@ X_SMR,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@w
 X_Biofuel,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 X_Powerfuel,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 P_H2_OCGT,SectorCoupling,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-P_Hydro_Large,Hydro,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-P_Hydro_Small,Hydro,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Hydro_Reservoir,Hydro,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+P_Hydro_RoR,Hydro,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 R_Grass,Biomass,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 R_Wood,Biomass,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 R_Residues,Biomass,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
