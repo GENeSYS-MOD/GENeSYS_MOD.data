@@ -1,0 +1,531 @@
+Region,Technology,Fuel,Mode_of_operation,Year,Value,,Unit,Source,Updated at,Updated by
+World,CHP_Biomass_Solid,Biomass,1,2035,2.482808023,,PJ,IEA Energy Technology Essentials (2007): Biomass for power generation and chp (power mode only) + learning rate from chp mode,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Biomass,1,2040,2.482808023,,PJ,IEA Energy Technology Essentials (2007): Biomass for power generation and chp (power mode only) + learning rate from chp mode,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Biomass,1,2045,2.482808023,,PJ,IEA Energy Technology Essentials (2007): Biomass for power generation and chp (power mode only) + learning rate from chp mode,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Biomass,1,2050,2.482808023,,PJ,IEA Energy Technology Essentials (2007): Biomass for power generation and chp (power mode only) + learning rate from chp mode,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Biomass,2,2035,3.438395415,,PJ,Energy Agency Denmark (2024): Biomass CHP average ,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Biomass,2,2040,3.438395415,,PJ,Energy Agency Denmark (2024): Biomass CHP average ,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Biomass,2,2045,3.438395415,,PJ,Energy Agency Denmark (2024): Biomass CHP average ,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Biomass,2,2050,3.438395415,,PJ,Energy Agency Denmark (2024): Biomass CHP average ,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Biomass,1,2035,2.758675581,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Biomass,1,2040,2.758675581,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Biomass,1,2045,2.758675581,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Biomass,1,2050,2.758675581,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Biomass,2,2035,3.82043935,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Biomass,2,2040,3.82043935,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Biomass,2,2045,3.82043935,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Biomass,2,2050,3.82043935,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,Hardcoal,1,2035,1.923076923,,PJ,Energy Agency Denmark (2024): CHP Coal ,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,Hardcoal,1,2040,1.923076923,,PJ,Energy Agency Denmark (2024): CHP Coal ,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,Hardcoal,1,2045,1.923076923,,PJ,Energy Agency Denmark (2024): CHP Coal ,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,Hardcoal,1,2050,1.923076923,,PJ,Energy Agency Denmark (2024): CHP Coal ,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,Hardcoal,2,2035,2.208682407,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,Hardcoal,2,2040,2.208682407,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,Hardcoal,2,2045,2.208682407,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal,Hardcoal,2,2050,2.208682407,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,Hardcoal,1,2035,2.136752137,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,Hardcoal,1,2040,2.136752137,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,Hardcoal,1,2045,2.136752137,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,Hardcoal,1,2050,2.136752137,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2035,2.454091563,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2040,2.454091563,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2045,2.454091563,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,Hardcoal,2,2050,2.454091563,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,Lignite,1,2035,1.923076923,,PJ,Energy Agency Denmark (2024): CHP Coal ,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,Lignite,1,2040,1.923076923,,PJ,Energy Agency Denmark (2024): CHP Coal ,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,Lignite,1,2045,1.923076923,,PJ,Energy Agency Denmark (2024): CHP Coal ,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,Lignite,1,2050,1.923076923,,PJ,Energy Agency Denmark (2024): CHP Coal ,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,Lignite,2,2035,2.208682407,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,Lignite,2,2040,2.208682407,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,Lignite,2,2045,2.208682407,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite,Lignite,2,2050,2.208682407,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,Lignite,1,2035,2.136752137,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,Lignite,1,2040,2.136752137,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,Lignite,1,2045,2.136752137,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,Lignite,1,2050,2.136752137,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,Lignite,2,2035,2.454091563,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,Lignite,2,2040,2.454091563,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,Lignite,2,2045,2.454091563,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,Lignite,2,2050,2.454091563,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,Gas_Bio,1,2035,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,Gas_Bio,1,2040,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,Gas_Bio,1,2045,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,Gas_Bio,1,2050,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,Gas_Bio,2,2035,1.853448276,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,Gas_Bio,2,2040,1.853448276,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,Gas_Bio,2,2045,1.853448276,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas,Gas_Bio,2,2050,1.853448276,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,1,2035,1.821493624,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,1,2040,1.821493624,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,1,2045,1.821493624,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,1,2050,1.821493624,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2035,2.059386973,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2040,2.059386973,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2045,2.059386973,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,Gas_Bio,2,2050,2.059386973,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,Gas_Natural,1,2035,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,Gas_Natural,1,2040,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,Gas_Natural,1,2045,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,Gas_Natural,1,2050,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,Gas_Natural,2,2035,1.853448276,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,Gas_Natural,2,2040,1.853448276,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,Gas_Natural,2,2045,1.853448276,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,Gas_Natural,2,2050,1.853448276,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,1,2035,1.821493624,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,1,2040,1.821493624,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,1,2045,1.821493624,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,1,2050,1.821493624,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2035,2.059386973,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2040,2.059386973,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2045,2.059386973,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,Gas_Natural,2,2050,2.059386973,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,Gas_Synth,1,2035,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,Gas_Synth,1,2040,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,Gas_Synth,1,2045,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,Gas_Synth,1,2050,1.639344262,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,Gas_Synth,2,2035,1.762295082,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,Gas_Synth,2,2040,1.762295082,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,Gas_Synth,2,2045,1.762295082,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_SynGas,Gas_Synth,2,2050,1.762295082,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,H2,1,2035,2,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,H2,1,2040,2,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,H2,1,2045,2,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,H2,1,2050,2,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2035,0.278509255,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2040,0.278509255,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2045,0.278509255,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2050,0.278509255,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_H2,H2,1,2035,0.456536892,,PJ,Energy Agency Denmark (2024): FCV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_H2,H2,1,2040,0.456536892,,PJ,Energy Agency Denmark (2024): FCV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_H2,H2,1,2045,0.456536892,,PJ,Energy Agency Denmark (2024): FCV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_H2,H2,1,2050,0.456536892,,PJ,Energy Agency Denmark (2024): FCV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2035,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2040,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2045,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2050,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2035,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2040,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2045,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2050,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2035,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2040,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2045,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2050,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_LNG,LNG,1,2035,0.493526331,,PJ,icct (2020): Decarbonization of on-road freight transport and the role of LNG from a German perspective + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_LNG,LNG,1,2040,0.493526331,,PJ,icct (2020): Decarbonization of on-road freight transport and the role of LNG from a German perspective + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_LNG,LNG,1,2045,0.493526331,,PJ,icct (2020): Decarbonization of on-road freight transport and the role of LNG from a German perspective + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_LNG,LNG,1,2050,0.493526331,,PJ,icct (2020): Decarbonization of on-road freight transport and the role of LNG from a German perspective + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_OH,Power,1,2035,0.358327814,,PJ,Fraunhofer ISI (2023): BOLD - Accompanying research for overhead line trucks in Germany + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_OH,Power,1,2040,0.358327814,,PJ,Fraunhofer ISI (2023): BOLD - Accompanying research for overhead line trucks in Germany + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_OH,Power,1,2045,0.358327814,,PJ,Fraunhofer ISI (2023): BOLD - Accompanying research for overhead line trucks in Germany + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_OH,Power,1,2050,0.358327814,,PJ,Fraunhofer ISI (2023): BOLD - Accompanying research for overhead line trucks in Germany + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Oil,1,2035,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Oil,1,2040,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Oil,1,2045,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Oil,1,2050,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,1,2035,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,1,2040,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,1,2045,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,1,2050,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Biofuel,2,2035,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Biofuel,2,2040,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Biofuel,2,2045,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Biofuel,2,2050,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,2,2035,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,2,2040,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,2,2045,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,2,2050,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,3,2035,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,3,2040,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,3,2045,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Power,3,2050,0.636368822,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Powerfuel,3,2035,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Powerfuel,3,2040,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Powerfuel,3,2045,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_PHEV,Powerfuel,3,2050,1.245191481,,PJ,Xu et al. (2023): https://doi.org/10.1016/j.trd.2023.103661 + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Biomass,Biomass,1,2035,1.101428179,,PJ,Energy Agency Denmark (2023): Biomass boiler upper (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Biomass,Biomass,1,2040,1.101428179,,PJ,Energy Agency Denmark (2023): Biomass boiler upper (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Biomass,Biomass,1,2045,1.101428179,,PJ,Energy Agency Denmark (2023): Biomass boiler upper (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Biomass,Biomass,1,2050,1.101428179,,PJ,Energy Agency Denmark (2023): Biomass boiler upper (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Natural,1,2035,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Natural,1,2040,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Natural,1,2045,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Natural,1,2050,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Bio,2,2035,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Bio,2,2040,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Bio,2,2045,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Bio,2,2050,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Synth,3,2035,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Synth,3,2040,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Synth,3,2045,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Gas_Boiler,Gas_Synth,3,2050,1.020408163,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_H2_Boiler,H2,1,2035,1.094890511,,PJ,Rosenow (2024) and Eunomia (2023: Technical feasibility of hydrogen boilers in homes) and interpolated between 2018 and 2050,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_H2_Boiler,H2,1,2040,1.094890511,,PJ,Rosenow (2024) and Eunomia (2023: Technical feasibility of hydrogen boilers in homes) and interpolated between 2018 and 2050,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_H2_Boiler,H2,1,2045,1.094890511,,PJ,Rosenow (2024) and Eunomia (2023: Technical feasibility of hydrogen boilers in homes) and interpolated between 2018 and 2050,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_H2_Boiler,H2,1,2050,1.094890511,,PJ,Rosenow (2024) and Eunomia (2023: Technical feasibility of hydrogen boilers in homes) and interpolated between 2018 and 2050,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Hardcoal,Hardcoal,1,2035,1.117318436,,PJ,Vakkilainen (2017): Chapter 3,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Hardcoal,Hardcoal,1,2040,1.117318436,,PJ,Vakkilainen (2017): Chapter 3,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Hardcoal,Hardcoal,1,2045,1.117318436,,PJ,Vakkilainen (2017): Chapter 3,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Hardcoal,Hardcoal,1,2050,1.117318436,,PJ,Vakkilainen (2017): Chapter 3,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Heatpump_Aerial,Power,1,2035,0.310077519,,PJ,Energy Agency Denmark (2023): HP air-water (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Heatpump_Aerial,Power,1,2040,0.310077519,,PJ,Energy Agency Denmark (2023): HP air-water (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Heatpump_Aerial,Power,1,2045,0.310077519,,PJ,Energy Agency Denmark (2023): HP air-water (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Heatpump_Aerial,Power,1,2050,0.310077519,,PJ,Energy Agency Denmark (2023): HP air-water (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Heatpump_Ground,Power,1,2035,0.294117647,,PJ,Energy Agency Denmark (2023): HP ground-water (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Heatpump_Ground,Power,1,2040,0.294117647,,PJ,Energy Agency Denmark (2023): HP ground-water (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Heatpump_Ground,Power,1,2045,0.294117647,,PJ,Energy Agency Denmark (2023): HP ground-water (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Heatpump_Ground,Power,1,2050,0.294117647,,PJ,Energy Agency Denmark (2023): HP ground-water (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Lignite,Lignite,1,2035,1.117318436,,PJ,Vakkilainen (2017): Chapter 3,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Lignite,Lignite,1,2040,1.117318436,,PJ,Vakkilainen (2017): Chapter 3,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Lignite,Lignite,1,2045,1.117318436,,PJ,Vakkilainen (2017): Chapter 3,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Lignite,Lignite,1,2050,1.117318436,,PJ,Vakkilainen (2017): Chapter 3,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Oil_Boiler,Oil,1,2035,1.075268817,,PJ,Energy Agency Denmark (2023): Oil Boiler,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Oil_Boiler,Oil,1,2040,1.075268817,,PJ,Energy Agency Denmark (2023): Oil Boiler,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Oil_Boiler,Oil,1,2045,1.075268817,,PJ,Energy Agency Denmark (2023): Oil Boiler,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Oil_Boiler,Oil,1,2050,1.075268817,,PJ,Energy Agency Denmark (2023): Oil Boiler,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HHI_BF_BOF,Gas_Natural,2,2035,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Gas_Natural,2,2040,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Gas_Natural,2,2045,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Gas_Natural,2,2050,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,2,2035,1.539324808,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,2,2040,1.539324808,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,2,2045,1.539324808,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,2,2050,1.539324808,,PJ,,,
+World,HHI_BF_BOF,Gas_Synth,3,2035,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Gas_Synth,3,2040,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Gas_Synth,3,2045,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Gas_Synth,3,2050,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,3,2035,1.539324808,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,3,2040,1.539324808,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,3,2045,1.539324808,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,3,2050,1.539324808,,PJ,,,
+World,HHI_BF_BOF,Gas_Bio,4,2035,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Gas_Bio,4,2040,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Gas_Bio,4,2045,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Gas_Bio,4,2050,0.384831202,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,4,2035,1.539324808,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,4,2040,1.539324808,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,4,2045,1.539324808,,PJ,,,
+World,HHI_BF_BOF,Hardcoal,4,2050,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,1,2035,2.174296292,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,1,2040,2.174296292,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,1,2045,2.174296292,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,1,2050,2.174296292,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Natural,2,2035,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Natural,2,2040,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Natural,2,2045,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Natural,2,2050,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,2,2035,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,2,2040,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,2,2045,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,2,2050,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Synth,3,2035,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Synth,3,2040,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Synth,3,2045,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Synth,3,2050,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,3,2035,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,3,2040,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,3,2045,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,3,2050,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Bio,4,2035,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Bio,4,2040,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Bio,4,2045,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Gas_Bio,4,2050,0.384831202,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,4,2035,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,4,2040,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,4,2045,1.539324808,,PJ,,,
+World,HHI_BF_BOF_CCS,Hardcoal,4,2050,1.539324808,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,1,2035,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,1,2040,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,1,2045,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,1,2050,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Natural,1,2035,0.491391518,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Natural,1,2040,0.491391518,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Natural,1,2045,0.491391518,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Natural,1,2050,0.491391518,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,2,2035,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,2,2040,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,2,2045,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,2,2050,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Synth,2,2035,0.491391518,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Synth,2,2040,0.491391518,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Synth,2,2045,0.491391518,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Synth,2,2050,0.491391518,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,3,2035,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,3,2040,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,3,2045,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Biomass,3,2050,1.965566071,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Bio,3,2035,0.491391518,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Bio,3,2040,0.491391518,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Bio,3,2045,0.491391518,,PJ,,,
+World,HHI_Bio_BF_BOF,Gas_Bio,3,2050,0.491391518,,PJ,,,
+World,HHI_DRI_EAF,Gas_Natural,1,2035,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Gas_Natural,1,2040,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Gas_Natural,1,2045,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Gas_Natural,1,2050,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Power,1,2035,0.436717897,,PJ,,,
+World,HHI_DRI_EAF,Power,1,2040,0.436717897,,PJ,,,
+World,HHI_DRI_EAF,Power,1,2045,0.436717897,,PJ,,,
+World,HHI_DRI_EAF,Power,1,2050,0.436717897,,PJ,,,
+World,HHI_DRI_EAF,Gas_Synth,2,2035,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Gas_Synth,2,2040,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Gas_Synth,2,2045,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Gas_Synth,2,2050,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Power,2,2035,0.436717897,,PJ,,,
+World,HHI_DRI_EAF,Power,2,2040,0.436717897,,PJ,,,
+World,HHI_DRI_EAF,Power,2,2045,0.436717897,,PJ,,,
+World,HHI_DRI_EAF,Power,2,2050,0.436717897,,PJ,,,
+World,HHI_DRI_EAF,Gas_Bio,3,2035,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Gas_Bio,3,2040,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Gas_Bio,3,2045,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Gas_Bio,3,2050,2.292768959,,PJ,,,
+World,HHI_DRI_EAF,Power,3,2035,0.436717897,,PJ,,,
+World,HHI_DRI_EAF,Power,3,2040,0.436717897,,PJ,,,
+World,HHI_DRI_EAF,Power,3,2045,0.436717897,,PJ,,,
+World,HHI_DRI_EAF,Power,3,2050,0.436717897,,PJ,,,
+World,HHI_DRI_EAF_CCS,Gas_Natural,1,2035,2.292768959,,PJ,,,
+World,HHI_DRI_EAF_CCS,Gas_Natural,1,2040,2.292768959,,PJ,,,
+World,HHI_DRI_EAF_CCS,Gas_Natural,1,2045,2.292768959,,PJ,,,
+World,HHI_DRI_EAF_CCS,Gas_Natural,1,2050,2.292768959,,PJ,,,
+World,HHI_DRI_EAF_CCS,Power,1,2035,0.436717897,,PJ,,,
+World,HHI_DRI_EAF_CCS,Power,1,2040,0.436717897,,PJ,,,
+World,HHI_DRI_EAF_CCS,Power,1,2045,0.436717897,,PJ,,,
+World,HHI_DRI_EAF_CCS,Power,1,2050,0.436717897,,PJ,,,
+World,HHI_Scrap_EAF,Power,1,2035,1.510416667,,PJ,Fraunhofer et al. (2016): Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables),04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HHI_Scrap_EAF,Power,1,2040,1.510416667,,PJ,Fraunhofer et al. (2016): Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables),04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HHI_Scrap_EAF,Power,1,2045,1.510416667,,PJ,Fraunhofer et al. (2016): Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables),04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HHI_Scrap_EAF,Power,1,2050,1.510416667,,PJ,Fraunhofer et al. (2016): Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables),04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Biomass,Biomass,1,2035,1.075268817,,PJ,Energy Agency Denmark (2022): Hot water boiler wood,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Biomass,Biomass,1,2040,1.075268817,,PJ,Energy Agency Denmark (2022): Hot water boiler wood,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Biomass,Biomass,1,2045,1.075268817,,PJ,Energy Agency Denmark (2022): Hot water boiler wood,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Biomass,Biomass,1,2050,1.075268817,,PJ,Energy Agency Denmark (2022): Hot water boiler wood,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Natural,1,2035,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Natural,1,2040,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Natural,1,2045,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Natural,1,2050,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Bio,2,2035,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Bio,2,2040,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Bio,2,2045,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Bio,2,2050,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Synth,3,2035,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Synth,3,2040,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Synth,3,2045,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Gas_Boiler,Gas_Synth,3,2050,1.041666667,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_H2_Boiler,H2,1,2035,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_H2_Boiler,H2,1,2040,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_H2_Boiler,H2,1,2045,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_H2_Boiler,H2,1,2050,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Hardcoal,Hardcoal,1,2035,1.086956522,,PJ,Energy Agency Denmark (2022): Hot water boiler coal,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Hardcoal,Hardcoal,1,2040,1.086956522,,PJ,Energy Agency Denmark (2022): Hot water boiler coal,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Hardcoal,Hardcoal,1,2045,1.086956522,,PJ,Energy Agency Denmark (2022): Hot water boiler coal,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Hardcoal,Hardcoal,1,2050,1.086956522,,PJ,Energy Agency Denmark (2022): Hot water boiler coal,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Lignite,Lignite,1,2035,1.086956522,,PJ,Energy Agency Denmark (2022): Hot water boiler coal,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Lignite,Lignite,1,2040,1.086956522,,PJ,Energy Agency Denmark (2022): Hot water boiler coal,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Lignite,Lignite,1,2045,1.086956522,,PJ,Energy Agency Denmark (2022): Hot water boiler coal,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Lignite,Lignite,1,2050,1.086956522,,PJ,Energy Agency Denmark (2022): Hot water boiler coal,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Biomass,Biomass,1,2035,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Biomass,Biomass,1,2040,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Biomass,Biomass,1,2045,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Biomass,Biomass,1,2050,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Natural,1,2035,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Natural,1,2040,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Natural,1,2045,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Natural,1,2050,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Bio,2,2035,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Bio,2,2040,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Bio,2,2045,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Bio,2,2050,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Synth,3,2035,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Synth,3,2040,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Synth,3,2045,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas,Gas_Synth,3,2050,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas_CCS,Gas_Natural,1,2035,1.157407408,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas_CCS,Gas_Natural,1,2040,1.157407408,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas_CCS,Gas_Natural,1,2045,1.157407408,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas_CCS,Gas_Natural,1,2050,1.157407408,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_H2,H2,1,2035,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_H2,H2,1,2040,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_H2,H2,1,2045,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_H2,H2,1,2050,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_HardCoal,Hardcoal,1,2035,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_HardCoal,Hardcoal,1,2040,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_HardCoal,Hardcoal,1,2045,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_HardCoal,Hardcoal,1,2050,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,Hardcoal,1,2035,1.207729469,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,Hardcoal,1,2040,1.207729469,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,Hardcoal,1,2045,1.207729469,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,Hardcoal,1,2050,1.207729469,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Biomass,Biomass,1,2035,3.310410697,,PJ,IEA Energy Technology Essentials (2007): Biomass for power generation and chp + learning rate from CHP_Biomass,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Biomass,Biomass,1,2040,3.310410697,,PJ,IEA Energy Technology Essentials (2007): Biomass for power generation and chp + learning rate from CHP_Biomass,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Biomass,Biomass,1,2045,3.310410697,,PJ,IEA Energy Technology Essentials (2007): Biomass for power generation and chp + learning rate from CHP_Biomass,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Biomass,Biomass,1,2050,3.310410697,,PJ,IEA Energy Technology Essentials (2007): Biomass for power generation and chp + learning rate from CHP_Biomass,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Biomass_CCS,Biomass,1,2035,3.678234108,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Biomass_CCS,Biomass,1,2040,3.678234108,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Biomass_CCS,Biomass,1,2045,3.678234108,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Biomass_CCS,Biomass,1,2050,3.678234108,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Hardcoal,Hardcoal,1,2035,2.298076923,,PJ,eurostat (2023): Production of lignite in the EU - statistics + learning rate from CHP_Coal,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Hardcoal,Hardcoal,1,2040,2.298076923,,PJ,eurostat (2023): Production of lignite in the EU - statistics + learning rate from CHP_Coal,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Hardcoal,Hardcoal,1,2045,2.298076923,,PJ,eurostat (2023): Production of lignite in the EU - statistics + learning rate from CHP_Coal,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Hardcoal,Hardcoal,1,2050,2.298076923,,PJ,eurostat (2023): Production of lignite in the EU - statistics + learning rate from CHP_Coal,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,Hardcoal,1,2035,2.553418803,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,Hardcoal,1,2040,2.553418803,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,Hardcoal,1,2045,2.553418803,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,Hardcoal,1,2050,2.553418803,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Lignite,Lignite,1,2035,2.41902834,,PJ,eurostat (2023): Production of lignite in the EU - statistics + learning rate from CHP_Coal,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Lignite,Lignite,1,2040,2.41902834,,PJ,eurostat (2023): Production of lignite in the EU - statistics + learning rate from CHP_Coal,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Lignite,Lignite,1,2045,2.41902834,,PJ,eurostat (2023): Production of lignite in the EU - statistics + learning rate from CHP_Coal,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Lignite,Lignite,1,2050,2.41902834,,PJ,eurostat (2023): Production of lignite in the EU - statistics + learning rate from CHP_Coal,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,Lignite,1,2035,2.687809267,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,Lignite,1,2040,2.687809267,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,Lignite,1,2045,2.687809267,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,Lignite,1,2050,2.687809267,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Natural,1,2035,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Natural,1,2040,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Natural,1,2045,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Natural,1,2050,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Bio,2,2035,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Bio,2,2040,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Bio,2,2045,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Bio,2,2050,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Synth,3,2035,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Synth,3,2040,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Synth,3,2045,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,Gas_Synth,3,2050,1.754385965,,PJ,Energy Agency Denmark (2024): Gas turb. Cc - average ,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Natural,1,2035,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Natural,1,2040,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Natural,1,2045,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Natural,1,2050,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Bio,2,2035,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Bio,2,2040,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Bio,2,2045,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Bio,2,2050,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Synth,3,2035,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Synth,3,2040,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Synth,3,2045,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,Gas_Synth,3,2050,1.949317739,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Natural,1,2035,2.325581395,,PJ,Energy Agency Denmark (2024): OCGT - Natural gas,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Natural,1,2040,2.325581395,,PJ,Energy Agency Denmark (2024): OCGT - Natural gas,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Natural,1,2045,2.325581395,,PJ,Energy Agency Denmark (2024): OCGT - Natural gas,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Natural,1,2050,2.325581395,,PJ,Energy Agency Denmark (2024): OCGT - Natural gas,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Bio,2,2035,2.5,,PJ,Energy Agency Denmark (2024): Open Cycle Gas Turbine - p. 382,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Bio,2,2040,2.5,,PJ,Energy Agency Denmark (2024): Open Cycle Gas Turbine - p. 382,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Bio,2,2045,2.5,,PJ,Energy Agency Denmark (2024): Open Cycle Gas Turbine - p. 382,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Bio,2,2050,2.5,,PJ,Energy Agency Denmark (2024): Open Cycle Gas Turbine - p. 382,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Synth,3,2035,2.702702703,,PJ,Abouemara et al. (2024): upper bound: https://doi.org/10.1016/j.fuel.2023.130511 - same learning curve as as natural gas / biogas,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Synth,3,2040,2.702702703,,PJ,Abouemara et al. (2024): upper bound: https://doi.org/10.1016/j.fuel.2023.130511 - same learning curve as as natural gas / biogas,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Synth,3,2045,2.702702703,,PJ,Abouemara et al. (2024): upper bound: https://doi.org/10.1016/j.fuel.2023.130511 - same learning curve as as natural gas / biogas,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,Gas_Synth,3,2050,2.702702703,,PJ,Abouemara et al. (2024): upper bound: https://doi.org/10.1016/j.fuel.2023.130511 - same learning curve as as natural gas / biogas,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_H2_OCGT,H2,1,2035,2.325581395,,PJ,Assumption: Same as Gas_OCGT,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_H2_OCGT,H2,1,2040,2.325581395,,PJ,Assumption: Same as Gas_OCGT,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_H2_OCGT,H2,1,2045,2.325581395,,PJ,Assumption: Same as Gas_OCGT,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_H2_OCGT,H2,1,2050,2.325581395,,PJ,Assumption: Same as Gas_OCGT,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Oil,1,2035,0.275,,PJ,FVV 2016: Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Oil,1,2040,0.275,,PJ,FVV 2016: Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Oil,1,2045,0.275,,PJ,FVV 2016: Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Oil,1,2050,0.275,,PJ,FVV 2016: Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Biofuel,2,2035,0.31625,,PJ,FVV 2016: Renewables in Transport 2050 + higher consumption due to lower heating value (+15%),02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Biofuel,2,2040,0.31625,,PJ,FVV 2016: Renewables in Transport 2050 + higher consumption due to lower heating value (+15%),02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Biofuel,2,2045,0.31625,,PJ,FVV 2016: Renewables in Transport 2050 + higher consumption due to lower heating value (+15%),02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Biofuel,2,2050,0.31625,,PJ,FVV 2016: Renewables in Transport 2050 + higher consumption due to lower heating value (+15%),02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Powerfuel,3,2035,0.275,,PJ,FVV 2016: Renewables in Transport 2050 (same as diesel),02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Powerfuel,3,2040,0.275,,PJ,FVV 2016: Renewables in Transport 2050 (same as diesel),02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Powerfuel,3,2045,0.275,,PJ,FVV 2016: Renewables in Transport 2050 (same as diesel),02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,Powerfuel,3,2050,0.275,,PJ,FVV 2016: Renewables in Transport 2050 (same as diesel),02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,Power,1,2035,0.108333333,,PJ,FVV 2016: Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,Power,1,2040,0.108333333,,PJ,FVV 2016: Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,Power,1,2045,0.108333333,,PJ,FVV 2016: Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,Power,1,2050,0.108333333,,PJ,FVV 2016: Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,Power,1,2035,0.373333333,,PJ,FVV 2016: Renewables in Transport 2050,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,Power,1,2040,0.373333333,,PJ,FVV 2016: Renewables in Transport 2050,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,Power,1,2045,0.373333333,,PJ,FVV 2016: Renewables in Transport 2050,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,Power,1,2050,0.373333333,,PJ,FVV 2016: Renewables in Transport 2050,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_H2,H2,1,2035,0.566666667,,PJ,FVV 2016: Renewables in Transport 2050,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_H2,H2,1,2040,0.566666667,,PJ,FVV 2016: Renewables in Transport 2050,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_H2,H2,1,2045,0.566666667,,PJ,FVV 2016: Renewables in Transport 2050,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_H2,H2,1,2050,0.566666667,,PJ,FVV 2016: Renewables in Transport 2050,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2035,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2040,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2045,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2050,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2035,1.188333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2040,1.188333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2045,1.188333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2050,1.188333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2035,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2040,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2045,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2050,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_LNG,LNG,1,2035,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_LNG,LNG,1,2040,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_LNG,LNG,1,2045,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_LNG,LNG,1,2050,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Oil,1,2035,0.958333333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Oil,1,2040,0.958333333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Oil,1,2045,0.958333333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Oil,1,2050,0.958333333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,1,2035,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,1,2040,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,1,2045,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,1,2050,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Biofuel,2,2035,1.102083333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Biofuel,2,2040,1.102083333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Biofuel,2,2045,1.102083333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Biofuel,2,2050,1.102083333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,2,2035,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,2,2040,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,2,2045,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,2,2050,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,3,2035,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,3,2040,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,3,2045,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Power,3,2050,0.430553333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Powerfuel,3,2035,0.958333333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Powerfuel,3,2040,0.958333333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Powerfuel,3,2045,0.958333333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,Powerfuel,3,2050,0.958333333,,PJ,Fraunhofer 2015: Interaktion EE-Strom- Wärme Und Verkehr,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Alkaline_Electrolysis,Power,1,2035,1.60858388,,PJ,Energy Agency Denmark (2024): AEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Alkaline_Electrolysis,Power,1,2040,1.60858388,,PJ,Energy Agency Denmark (2024): AEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Alkaline_Electrolysis,Power,1,2045,1.60858388,,PJ,Energy Agency Denmark (2024): AEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Alkaline_Electrolysis,Power,1,2050,1.60858388,,PJ,Energy Agency Denmark (2024): AEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Biofuel,Biomass,1,2035,1.587301587,,PJ,Energy Agency Denmark (2024): Gasifier CFB Bio-SNG,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Biofuel,Biomass,1,2040,1.587301587,,PJ,Energy Agency Denmark (2024): Gasifier CFB Bio-SNG,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Biofuel,Biomass,1,2045,1.587301587,,PJ,Energy Agency Denmark (2024): Gasifier CFB Bio-SNG,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Biofuel,Biomass,1,2050,1.587301587,,PJ,Energy Agency Denmark (2024): Gasifier CFB Bio-SNG,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_HT,Power,1,2045,4.986,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_HT,Power,1,2050,4.986,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Heat_Low_Industrial,1,2035,5.4,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Heat_Low_Industrial,1,2040,5.4,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Heat_Low_Industrial,1,2045,5.4,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Heat_Low_Industrial,1,2050,5.4,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Power,1,2035,0.81,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Power,1,2040,0.81,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Power,1,2045,0.81,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Power,1,2050,0.81,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,Power,1,2035,1.60858388,,PJ,Energy Agency Denmark (2024): AEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,Power,1,2040,1.60858388,,PJ,Energy Agency Denmark (2024): AEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,Power,1,2045,1.60858388,,PJ,Energy Agency Denmark (2024): AEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,Power,1,2050,1.60858388,,PJ,Energy Agency Denmark (2024): AEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_PEM_Electrolysis,Power,1,2035,1.709456751,,PJ,Energy Agency Denmark (2024): PEMEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_PEM_Electrolysis,Power,1,2040,1.709456751,,PJ,Energy Agency Denmark (2024): PEMEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_PEM_Electrolysis,Power,1,2045,1.709456751,,PJ,Energy Agency Denmark (2024): Hydrogen to jet,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_PEM_Electrolysis,Power,1,2050,1.709456751,,PJ,Energy Agency Denmark (2024): Hydrogen to jet,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Powerfuel,H2,1,2035,1.363013699,,PJ,Energy Agency Denmark (2024): Hydrogen to jet,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Powerfuel,H2,1,2040,1.363013699,,PJ,Energy Agency Denmark (2024): Hydrogen to jet,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Powerfuel,H2,1,2045,1.363013699,,PJ,Energy Agency Denmark (2024): Hydrogen to jet,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Powerfuel,H2,1,2050,1.363013699,,PJ,Energy Agency Denmark (2024): Hydrogen to jet,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Powerfuel,Power,1,2035,0.006849315,,PJ,Energy Agency Denmark (2024): Hydrogen to jet,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Powerfuel,Power,1,2040,0.006849315,,PJ,Energy Agency Denmark (2024): Hydrogen to jet,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Powerfuel,Power,1,2045,0.006849315,,PJ,Energy Agency Denmark (2024): Hydrogen to jet,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Powerfuel,Power,1,2050,0.006849315,,PJ,Energy Agency Denmark (2024): Hydrogen to jet,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SMR,Heat_Medium_Industrial,1,2035,0.387365314,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06209,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SMR,Heat_Medium_Industrial,1,2040,0.387365314,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06210,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SMR,Heat_Medium_Industrial,1,2045,0.387365314,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06211,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SMR,Heat_Medium_Industrial,1,2050,0.387365314,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06212,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SOEC_Electrolysis,Power,1,2035,1.156843553,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SOEC_Electrolysis,Power,1,2040,1.156843553,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SOEC_Electrolysis,Power,1,2045,1.156843553,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SOEC_Electrolysis,Power,1,2050,1.156843553,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SOEC_Electrolysis,Heat_Medium_Industrial,1,2035,0.280229184,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SOEC_Electrolysis,Heat_Medium_Industrial,1,2040,0.280229184,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SOEC_Electrolysis,Heat_Medium_Industrial,1,2045,0.280229184,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SOEC_Electrolysis,Heat_Medium_Industrial,1,2050,0.280229184,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>

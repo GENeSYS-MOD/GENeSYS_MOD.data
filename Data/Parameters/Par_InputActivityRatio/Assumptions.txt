@@ -1,0 +1,9 @@
+Scenarios:
+- EnVis Green, EnVis NECP Essentials, and EnVis REPowerEU++: Development of high-efficiency Technologies
+- EnVis EU Trinity: Low improvement in technology Efficiency (same Efficiency as other Scenarios until 2030, from 2030 on no improvements)
+
+
+Technologies:
+- CHP (where applicable): Mode of Operation 1 equivalent to full condensation mode (only electricity), mode of Operation 2 calculated with equation: n = n_full_condensation_mode * (cb / (cb + cv))
+
+- X_SMR: natural gas share feedstock / process from source, calculated HMI Input through HMI_Gas (thus HMI Input increases over time, because HMI_Gas Efficiency increases, while SMR Efficiency and Shares are constant)
