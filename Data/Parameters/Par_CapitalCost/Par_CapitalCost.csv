@@ -1007,60 +1007,60 @@ World,PSNG_Road_PHEV,2035,1158.888889,,MEUR/Gpkm/year,see transport.xlsx,26.08.2
 World,PSNG_Road_PHEV,2040,1135.87963,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,PSNG_Road_PHEV,2045,1129.166667,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,PSNG_Road_PHEV,2050,1122.453704,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,R_Biogas,2018,771,,MEUR/GW,,,
-World,R_Biogas,2020,715.3357143,,MEUR/GW,,,
-World,R_Biogas,2021,715.3357143,,MEUR/GW,,,
-World,R_Biogas,2025,675.7428571,,MEUR/GW,,,
-World,R_Biogas,2030,636.2857143,,MEUR/GW,,,
-World,R_Biogas,2035,597.0285714,,MEUR/GW,,,
-World,R_Biogas,2040,564.2857143,,MEUR/GW,,,
-World,R_Biogas,2045,530.7,,MEUR/GW,,,
-World,R_Biogas,2050,500.65,,MEUR/GW,,,
-World,R_Grass,2018,0.01,,MEUR/GW,,,
-World,R_Grass,2020,0.009785714,,MEUR/GW,,,
-World,R_Grass,2021,0.009785714,,MEUR/GW,,,
-World,R_Grass,2025,0.009571429,,MEUR/GW,,,
-World,R_Grass,2030,0.009357143,,MEUR/GW,,,
-World,R_Grass,2035,0.009142857,,MEUR/GW,,,
-World,R_Grass,2040,0.008928571,,MEUR/GW,,,
-World,R_Grass,2045,0.008714286,,MEUR/GW,,,
-World,R_Grass,2050,0.0085,,MEUR/GW,,,
-World,R_Paper_Cardboard,2018,0.01,,MEUR/GW,,,
-World,R_Paper_Cardboard,2020,0.009785714,,MEUR/GW,,,
-World,R_Paper_Cardboard,2021,0.009785714,,MEUR/GW,,,
-World,R_Paper_Cardboard,2025,0.009571429,,MEUR/GW,,,
-World,R_Paper_Cardboard,2030,0.009357143,,MEUR/GW,,,
-World,R_Paper_Cardboard,2035,0.009142857,,MEUR/GW,,,
-World,R_Paper_Cardboard,2040,0.008928571,,MEUR/GW,,,
-World,R_Paper_Cardboard,2045,0.008714286,,MEUR/GW,,,
-World,R_Paper_Cardboard,2050,0.0085,,MEUR/GW,,,
-World,R_Residues,2018,0.01,,MEUR/GW,,,
-World,R_Residues,2020,0.009785714,,MEUR/GW,,,
-World,R_Residues,2021,0.009785714,,MEUR/GW,,,
-World,R_Residues,2025,0.009571429,,MEUR/GW,,,
-World,R_Residues,2030,0.009357143,,MEUR/GW,,,
-World,R_Residues,2035,0.009142857,,MEUR/GW,,,
-World,R_Residues,2040,0.008928571,,MEUR/GW,,,
-World,R_Residues,2045,0.008714286,,MEUR/GW,,,
-World,R_Residues,2050,0.0085,,MEUR/GW,,,
-World,R_Roundwood,2018,0.01,,MEUR/GW,,,
-World,R_Roundwood,2020,0.009785714,,MEUR/GW,,,
-World,R_Roundwood,2021,0.009785714,,MEUR/GW,,,
-World,R_Roundwood,2025,0.009571429,,MEUR/GW,,,
-World,R_Roundwood,2030,0.009357143,,MEUR/GW,,,
-World,R_Roundwood,2035,0.009142857,,MEUR/GW,,,
-World,R_Roundwood,2040,0.008928571,,MEUR/GW,,,
-World,R_Roundwood,2045,0.008714286,,MEUR/GW,,,
-World,R_Roundwood,2050,0.0085,,MEUR/GW,,,
-World,R_Wood,2018,0.01,,MEUR/GW,,,
-World,R_Wood,2020,0.009785714,,MEUR/GW,,,
-World,R_Wood,2021,0.009785714,,MEUR/GW,,,
-World,R_Wood,2025,0.009571429,,MEUR/GW,,,
-World,R_Wood,2030,0.009357143,,MEUR/GW,,,
-World,R_Wood,2035,0.009142857,,MEUR/GW,,,
-World,R_Wood,2040,0.008928571,,MEUR/GW,,,
-World,R_Wood,2045,0.008714286,,MEUR/GW,,,
-World,R_Wood,2050,0.0085,,MEUR/GW,,,
+World,R_Biogas,2018,771,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,2020,715.3357143,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",06.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,2021,715.3357143,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",07.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,2025,675.7428571,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",08.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,2030,636.2857143,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",09.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,2035,597.0285714,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",10.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,2040,564.2857143,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",11.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,2045,530.7,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",12.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,2050,500.65,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",13.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,2018,0.01,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",14.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,2020,0.009785714,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",15.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,2021,0.009785714,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",16.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,2025,0.009571429,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",17.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,2030,0.009357143,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",18.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,2035,0.009142857,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",19.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,2040,0.008928571,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",20.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,2045,0.008714286,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",21.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,2050,0.0085,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",22.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,2018,0.01,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",23.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,2020,0.009785714,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",24.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,2021,0.009785714,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",25.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,2025,0.009571429,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",26.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,2030,0.009357143,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",27.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,2035,0.009142857,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",28.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,2040,0.008928571,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",29.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,2045,0.008714286,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",30.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,2050,0.0085,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",01.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,2018,0.01,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",02.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,2020,0.009785714,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",03.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,2021,0.009785714,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",04.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,2025,0.009571429,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",05.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,2030,0.009357143,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",06.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,2035,0.009142857,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",07.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,2040,0.008928571,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",08.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,2045,0.008714286,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",09.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,2050,0.0085,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",10.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,2018,0.01,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",11.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,2020,0.009785714,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",12.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,2021,0.009785714,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",13.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,2025,0.009571429,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",14.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,2030,0.009357143,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",15.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,2035,0.009142857,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",16.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,2040,0.008928571,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",17.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,2045,0.008714286,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",18.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,2050,0.0085,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",19.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,2018,0.01,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",20.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,2020,0.009785714,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",21.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,2021,0.009785714,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",22.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,2025,0.009571429,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",23.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,2030,0.009357143,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",24.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,2035,0.009142857,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",25.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,2040,0.008928571,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",26.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,2045,0.008714286,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",27.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,2050,0.0085,,MEUR/GW,"Biomass Futures project, D3.3: Atlas of EU biomass potentials",28.10.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,X_ATR_CCS,2018,830,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
 World,X_ATR_CCS,2020,830,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
 World,X_ATR_CCS,2021,830,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
