@@ -58,7 +58,7 @@ HB_Biomass,20,,Years,Energy Agency Denmark (2023) Wood stove,30.07.2024,Nikita M
 HB_Convert_DH,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 HB_Direct_Electric,30,,Years,Energy Agency Denmark (2023) Electric heating,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HB_Gas_Boiler,22.5,,Years,Energy Agency Denmark (2023) Gas boiler apartment / single (average),30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HB_Geothermal,41,,Years,,,
+HB_Geothermal,37.5,,Years,U.S. Department of Energy (2011): Guide to Geothermal Heat Pumps,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HB_H2_Boiler,15,,Years,Aunedi et al. (2023),30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HB_Hardcoal,20,,Years,Assumption: Same as Biomass,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HB_Heatpump_Aerial,18,,Years,Energy Agency Denmark (2023) HP air-water apartment / single (average),30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -97,14 +97,14 @@ PSNG_Road_H2,20,,Years,Candelaresi et al. (2021): https://doi.org/10.1016/j.ijhy
 PSNG_Road_ICE,17.8,,Years,Nguyen-Tien et al. (2024): ISSN 2042-2695,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PSNG_Road_LNG,17.8,,Years,Assumption: Same as ICE,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PSNG_Road_PHEV,25,,Years,Nguyen-Tien et al. (2024): ISSN 2042-2695,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-R_Coal_Hardcoal,100,,Years,Was machen?,,
-R_Coal_Lignite,100,,Years,Was machen?,,
-R_Gas,100,,Years,Was machen?,,
-R_Nuclear,100,,Years,Was machen?,,
-R_Oil,100,,Years,Was machen?,,
-R_Biogas,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
-P_CSP,30,,Years,Gasa et al. (2022): https://doi.org/10.1016/j.est.2022.105219,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-P_Geothermal,30,,Years,Geothermal medium enthalpy EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
+R_Coal_Hardcoal,100,,Years,Irrelevant,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+R_Coal_Lignite,100,,Years,Irrelevant,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+R_Gas,100,,Years,Irrelevant,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+R_Nuclear,100,,Years,Irrelevant,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+R_Oil,100,,Years,Irrelevant,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+R_Biogas,100,,Years,Assumed (not effective),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_CSP,30,,Years,Gasa et al. (2022): https://doi.org/10.1016/j.est.2022.105219,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+P_Geothermal,30,,Years,Geothermal medium enthalpy EU Reference Scenario 2020,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 R_Grass,101,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 P_Hydro_Large,60,,Years,Lakes EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
 P_Hydro_Small,50,,Years,Run of river EU Reference Scenario 2020,19.10.2023,Stian Backe <stian.backe@sintef.no>
@@ -129,7 +129,6 @@ X_Biofuel,30,,Years,Liu et al. (2022): https://doi.org/10.1007/s13399-022-03614-
 X_DAC_HT,20,,Years,Terlouw et al. (2021): https://doi.org/10.1021/acs.est.1c03263,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 X_DAC_LT,20,,Years,Terlouw et al. (2021): https://doi.org/10.1021/acs.est.1c03263,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 X_Electrolysis,25,,Years,David et al. (2019): https://doi.org/10.1016/j.est.2019.03.001,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-X_Fuel_Cell,31,,Years,,,
 X_Gasifier,30,,Years,Concawe and Aramco (2024): E-Fuels: A techno-economic assessment [...]: ISBN: 978-2-87567-184-4,31.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 X_Liquifier,30,,Years,Concawe and Aramco (2024): E-Fuels: A techno-economic assessment [...]: ISBN: 978-2-87567-184-4,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 X_Methanation,30,,Years,Concawe and Aramco (2024): E-Fuels: A techno-economic assessment [...]: ISBN: 978-2-87567-184-4,01.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
