@@ -13,11 +13,13 @@ def search_non_utf8_characters():
                 try:
                     with open(file_path, 'r', encoding='utf-8') as f:
                         for line_number, line in enumerate(f, start=1):
-                            1+1 # Something needs to be done in python in try-part. Hence, placeholder to minimize computing power.  See below for code that iterates search of non-utf-8-characters over lines of utf-8-openable files.
-                            """try: 
+                            #1+1 # Something needs to be done in python in try-part. Hence, placeholder to minimize computing power.  See below for code that iterates search of non-utf-8-characters over lines of utf-8-openable files.
+                            try: 
                                 line.encode('utf-8')
                             except UnicodeEncodeError as e:
-                                non_utf8_lines.append(line_number)"""
+                                # Log the line number and file that causes the error
+                                print(f"UTF-8 encoding error in file '{file_path}' at line {line_number}: {e}")
+                                non_utf8_lines.append(line_number)
                 except UnicodeDecodeError:
                     with open(file_path, 'rb') as f:
                         line_number = 0

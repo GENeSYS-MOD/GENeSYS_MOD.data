@@ -1,4 +1,4 @@
-﻿Region,Region2,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
+Region,Region2,Fuel,Year,Value,Unnamed: 5,Unit,Source,Updated at,Updated by
 AL,AL,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AL,AT,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AL,BA,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1422,7 +1422,7 @@ UK,RS,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Mosk
 UK,SE,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,SI,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,SK,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,UK,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,UK,Power,2018,0.5,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
 UK,EE,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,LT,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,LV,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1431,3 +1431,33 @@ UK,RU,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Mosk
 UK,BY,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,NONEU_Balkan,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,TR,Power,2018,0.1,,Factor,assumption (moved from code),19.01.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TBD,AT,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,BE,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,BG,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,CH,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,CZ,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,DE,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,DK,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,EE,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,ES,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,FI,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,FR,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,GR,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,HR,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,HU,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,IE,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,IT,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,LT,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,LU,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,LV,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,NL,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,NO,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,NONEU_Balkan,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,PL,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,PT,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,RO,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,SE,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,SI,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,SK,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,TR,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"
+TBD,UK,Power,2018,0.3,,Factor,"Automatically generated entry, please add source!",08.10.2024,"Automatically generated entry, please add!"

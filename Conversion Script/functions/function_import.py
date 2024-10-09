@@ -18,7 +18,12 @@ def master_function(settings_file,output_file_format, output_format, processing_
     validate_input(output_file_format, output_format, processing_option, settings_file, scenario_option)
 
     # check for utf-8-errors
-    search_non_utf8_characters()
+    #search_non_utf8_characters()
+
+    try:
+        search_non_utf8_characters()  # Assuming this function checks for non-UTF-8 files
+    except UnicodeDecodeError as e:
+        print("Non UTF-8 characters found in file" + '{relative_path}')
 
     # Ensure unique_values_concatenated is defined
     unique_values_concatenated = read_settings_file(excel_file_path, output_csv_directory, scenario_option, output_format)
