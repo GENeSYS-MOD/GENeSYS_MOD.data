@@ -1,7 +1,5 @@
 Technology,Value,,Unit,Source,Updated at,Updated by
 A_Air,100.0,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
-A_Rooftop_Commercial,35.0,,Years,Energy Agency Denmark (2020) Rooftop Comm&industrial,17.10.2023,Dana Reulein <dana.reulein@sintef.no> <dana.reulein@sintef.no>
-A_Rooftop_Residential,35.0,,Years,Energy Agency Denmark (2020) Rooftop Residential,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
 CHP_Biomass_Solid,25.0,,Years,Energy Agency Denmark (2024) Biomass CHP,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CHP_Biomass_Solid_CCS,25.0,,Years,Assumption: CCS lifetime longer than generation plant- thus plant lifetime decisive,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CHP_Coal_Hardcoal,25.0,,Years,Energy Agency Denmark (2020) Coal CHP,19.10.2023,Stian Backe <stian.backe@sintef.no>
@@ -26,6 +24,8 @@ D_PHS,50.0,,Years,Energy Agency Denmark (2020)- PHS,17.10.2023,Dana Reulein <dan
 D_PHS_Residual,50.0,,Years,Energy Agency Denmark (2020)- PHS,17.10.2023,Dana Reulein <dana.reulein@sintef.no>
 FRT_Rail_Conv,20.0,,Years,Zenith et al. (2019): https://doi.org/10.1177/0954409719867495,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FRT_Rail_Electric,20.0,,Years,Zenith et al. (2019): https://doi.org/10.1177/0954409719867495,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+A_Rooftop_Commercial,100,,Years,Assumed (not effective),06.09.2023,Stian Backe <stian.backe@sintef.no>
+A_Rooftop_Residential,100,,Years,Assumed (not effective),07.09.2023,Stian Backe <stian.backe@sintef.no>
 FRT_Road_BEV,13.8,,Years,Energy Agency Denmark (2024) BEV L1,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FRT_Road_H2,13.8,,Years,Energy Agency Denmark (2024) FCV L1,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FRT_Road_ICE,13.8,,Years,Energy Agency Denmark (2024) Diesel L1,24.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
