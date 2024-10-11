@@ -71,70 +71,70 @@ World,D_PHS_Residual,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stabili
 World,D_PHS_Residual,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_PHS_Residual,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_PHS_Residual,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,FRT_Rail_Conv,1,2018,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2020,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2025,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2030,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2035,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2040,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2045,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2050,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2018,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2020,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2025,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2030,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2035,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2040,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2045,0.0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2050,0.0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2018,0.0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2020,0.0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2025,0.0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2030,0.0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2035,0.0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2040,0.0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2045,0.0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2050,0.0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2018,0.0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2020,0.0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2025,0.0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2030,0.0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2035,0.0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2040,0.0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2045,0.0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2050,0.0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2018,0.0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2020,0.0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2025,0.0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2030,0.0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2035,0.0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2040,0.0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2045,0.0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2050,0.0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2018,0.0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2020,0.0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2025,0.0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2030,0.0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2035,0.0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2040,0.0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2045,0.0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2050,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2018,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2020,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2025,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2030,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2035,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2040,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2045,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2050,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2018,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2020,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2025,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2030,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2035,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2040,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2045,0.0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2050,0.0,,MEUR/PJ,,,
+World,FRT_Rail_Conv,1,2018,0,,MEUR/PJ,,,
+World,FRT_Rail_Conv,1,2020,0,,MEUR/PJ,,,
+World,FRT_Rail_Conv,1,2025,0,,MEUR/PJ,,,
+World,FRT_Rail_Conv,1,2030,0,,MEUR/PJ,,,
+World,FRT_Rail_Conv,1,2035,0,,MEUR/PJ,,,
+World,FRT_Rail_Conv,1,2040,0,,MEUR/PJ,,,
+World,FRT_Rail_Conv,1,2045,0,,MEUR/PJ,,,
+World,FRT_Rail_Conv,1,2050,0,,MEUR/PJ,,,
+World,FRT_Rail_Electric,1,2018,0,,MEUR/PJ,,,
+World,FRT_Rail_Electric,1,2020,0,,MEUR/PJ,,,
+World,FRT_Rail_Electric,1,2025,0,,MEUR/PJ,,,
+World,FRT_Rail_Electric,1,2030,0,,MEUR/PJ,,,
+World,FRT_Rail_Electric,1,2035,0,,MEUR/PJ,,,
+World,FRT_Rail_Electric,1,2040,0,,MEUR/PJ,,,
+World,FRT_Rail_Electric,1,2045,0,,MEUR/PJ,,,
+World,FRT_Rail_Electric,1,2050,0,,MEUR/PJ,,,
+World,FRT_Road_BEV,1,2018,0,,MEUR/PJ,,,
+World,FRT_Road_BEV,1,2020,0,,MEUR/PJ,,,
+World,FRT_Road_BEV,1,2025,0,,MEUR/PJ,,,
+World,FRT_Road_BEV,1,2030,0,,MEUR/PJ,,,
+World,FRT_Road_BEV,1,2035,0,,MEUR/PJ,,,
+World,FRT_Road_BEV,1,2040,0,,MEUR/PJ,,,
+World,FRT_Road_BEV,1,2045,0,,MEUR/PJ,,,
+World,FRT_Road_BEV,1,2050,0,,MEUR/PJ,,,
+World,FRT_Road_H2,1,2018,0,,MEUR/PJ,,,
+World,FRT_Road_H2,1,2020,0,,MEUR/PJ,,,
+World,FRT_Road_H2,1,2025,0,,MEUR/PJ,,,
+World,FRT_Road_H2,1,2030,0,,MEUR/PJ,,,
+World,FRT_Road_H2,1,2035,0,,MEUR/PJ,,,
+World,FRT_Road_H2,1,2040,0,,MEUR/PJ,,,
+World,FRT_Road_H2,1,2045,0,,MEUR/PJ,,,
+World,FRT_Road_H2,1,2050,0,,MEUR/PJ,,,
+World,FRT_Road_ICE,1,2018,0,,MEUR/PJ,,,
+World,FRT_Road_ICE,1,2020,0,,MEUR/PJ,,,
+World,FRT_Road_ICE,1,2025,0,,MEUR/PJ,,,
+World,FRT_Road_ICE,1,2030,0,,MEUR/PJ,,,
+World,FRT_Road_ICE,1,2035,0,,MEUR/PJ,,,
+World,FRT_Road_ICE,1,2040,0,,MEUR/PJ,,,
+World,FRT_Road_ICE,1,2045,0,,MEUR/PJ,,,
+World,FRT_Road_ICE,1,2050,0,,MEUR/PJ,,,
+World,FRT_Road_PHEV,1,2018,0,,MEUR/PJ,,,
+World,FRT_Road_PHEV,1,2020,0,,MEUR/PJ,,,
+World,FRT_Road_PHEV,1,2025,0,,MEUR/PJ,,,
+World,FRT_Road_PHEV,1,2030,0,,MEUR/PJ,,,
+World,FRT_Road_PHEV,1,2035,0,,MEUR/PJ,,,
+World,FRT_Road_PHEV,1,2040,0,,MEUR/PJ,,,
+World,FRT_Road_PHEV,1,2045,0,,MEUR/PJ,,,
+World,FRT_Road_PHEV,1,2050,0,,MEUR/PJ,,,
+World,FRT_Ship_Bio,1,2018,0,,MEUR/PJ,,,
+World,FRT_Ship_Bio,1,2020,0,,MEUR/PJ,,,
+World,FRT_Ship_Bio,1,2025,0,,MEUR/PJ,,,
+World,FRT_Ship_Bio,1,2030,0,,MEUR/PJ,,,
+World,FRT_Ship_Bio,1,2035,0,,MEUR/PJ,,,
+World,FRT_Ship_Bio,1,2040,0,,MEUR/PJ,,,
+World,FRT_Ship_Bio,1,2045,0,,MEUR/PJ,,,
+World,FRT_Ship_Bio,1,2050,0,,MEUR/PJ,,,
+World,FRT_Ship_Conv,1,2018,0,,MEUR/PJ,,,
+World,FRT_Ship_Conv,1,2020,0,,MEUR/PJ,,,
+World,FRT_Ship_Conv,1,2025,0,,MEUR/PJ,,,
+World,FRT_Ship_Conv,1,2030,0,,MEUR/PJ,,,
+World,FRT_Ship_Conv,1,2035,0,,MEUR/PJ,,,
+World,FRT_Ship_Conv,1,2040,0,,MEUR/PJ,,,
+World,FRT_Ship_Conv,1,2045,0,,MEUR/PJ,,,
+World,FRT_Ship_Conv,1,2050,0,,MEUR/PJ,,,
 World,HB_Convert_DH,1,2018,0.001,,MEUR/PJ,,,
 World,HB_Convert_DH,1,2020,0.001,,MEUR/PJ,,,
 World,HB_Convert_DH,1,2025,0.001,,MEUR/PJ,,,
@@ -191,24 +191,24 @@ World,HLI_Convert_DH,1,2035,0.001,,MEUR/PJ,,,
 World,HLI_Convert_DH,1,2040,0.001,,MEUR/PJ,,,
 World,HLI_Convert_DH,1,2045,0.001,,MEUR/PJ,,,
 World,HLI_Convert_DH,1,2050,0.001,,MEUR/PJ,,,
-World,HMI_Gas_CCS,1,2018,1.44,,MEUR/PJ,,,
-World,HMI_Gas_CCS,1,2020,1.368,,MEUR/PJ,,,
-World,HMI_Gas_CCS,1,2021,0.277166667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,1,2025,0.264972222,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,1,2030,0.252777778,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,1,2035,0.253666667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,1,2040,0.254555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,1,2045,0.255611111,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,1,2050,0.256666667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,1,2018,1.44,,MEUR/PJ,,,
-World,HMI_HardCoal_CCS,1,2020,1.368,,MEUR/PJ,,,
-World,HMI_HardCoal_CCS,1,2021,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,1,2025,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,1,2030,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,1,2035,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,1,2040,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,1,2045,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,1,2050,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,1,2018,1.44,,MEUR/PJ,,,
+World,HMHI_Gas_CCS,1,2020,1.368,,MEUR/PJ,,,
+World,HMHI_Gas_CCS,1,2021,0.277166667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,1,2025,0.264972222,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,1,2030,0.252777778,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,1,2035,0.253666667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,1,2040,0.254555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,1,2045,0.255611111,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,1,2050,0.256666667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,1,2018,1.44,,MEUR/PJ,,,
+World,HMHI_HardCoal_CCS,1,2020,1.368,,MEUR/PJ,,,
+World,HMHI_HardCoal_CCS,1,2021,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,1,2025,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,1,2030,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,1,2035,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,1,2040,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,1,2045,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,1,2050,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Biomass,1,2018,0.01,,MEUR/PJ,,,
 World,P_Biomass,1,2020,0.01,,MEUR/PJ,,,
 World,P_Biomass,1,2021,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -263,33 +263,33 @@ World,P_Coal_Lignite_CCS,1,2035,1.429822836,,MEUR/PJ,Integrated gasification lig
 World,P_Coal_Lignite_CCS,1,2040,1.405980861,,MEUR/PJ,Integrated gasification lignitel CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Lignite_CCS,1,2045,1.382920963,,MEUR/PJ,Integrated gasification lignitel CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Lignite_CCS,1,2050,1.359861066,,MEUR/PJ,Integrated gasification lignitel CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_CSP,1,2018,0.0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2020,0.0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2021,0.0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2025,0.0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2030,0.0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2035,0.0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2040,0.0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2045,0.0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_CSP,1,2050,0.0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2018,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2020,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2021,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2025,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2030,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2035,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2040,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2045,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_CSP,1,2050,0,,MEUR/PJ,CSP (solar field- parabolic trough) Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Gas_CCS,1,2018,1.44,,MEUR/PJ,,,
 World,P_Gas_CCS,1,2020,1.368,,MEUR/PJ,,,
-World,P_Gas_CCS,1,2021,0.0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Gas_CCS,1,2025,0.0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Gas_CCS,1,2030,0.0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Gas_CCS,1,2035,0.0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Gas_CCS,1,2040,0.0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Gas_CCS,1,2045,0.0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Gas_CCS,1,2050,0.0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2021,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2025,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2030,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2035,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2040,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2045,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,1,2050,0,,MEUR/PJ,CCGT + CCS - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Geothermal,1,2018,0.036111111,,MEUR/PJ,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Geothermal,1,2020,0.036111111,,MEUR/PJ,Geothermal Power- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,P_Geothermal,1,2021,0.0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Geothermal,1,2025,0.0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Geothermal,1,2030,0.0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Geothermal,1,2035,0.0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Geothermal,1,2040,0.0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Geothermal,1,2045,0.0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Geothermal,1,2050,0.0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2021,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2025,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2030,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2035,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2040,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2045,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Geothermal,1,2050,0,,MEUR/PJ,Geothermal - https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Hydro_Reservoir,1,2018,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Hydro_Reservoir,1,2020,0.833333334,,MEUR/PJ,Hydro Reservoir/Dam- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Hydro_Reservoir,1,2021,0.08896,,MEUR/PJ,Lakes - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -301,13 +301,13 @@ World,P_Hydro_Reservoir,1,2045,0.08896,,MEUR/PJ,Lakes - https://energy.ec.europa
 World,P_Hydro_Reservoir,1,2050,0.08896,,MEUR/PJ,Lakes - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Hydro_RoR,1,2018,1.38888889,,MEUR/PJ,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Hydro_RoR,1,2020,1.38888889,,MEUR/PJ,Hydro Run-of-River- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Hydro_RoR,1,2021,0.0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Hydro_RoR,1,2025,0.0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Hydro_RoR,1,2030,0.0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Hydro_RoR,1,2035,0.0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Hydro_RoR,1,2040,0.0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Hydro_RoR,1,2045,0.0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Hydro_RoR,1,2050,0.0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_RoR,1,2021,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_RoR,1,2025,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_RoR,1,2030,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_RoR,1,2035,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_RoR,1,2040,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_RoR,1,2045,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Hydro_RoR,1,2050,0,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Nuclear,1,2018,0.01,,MEUR/PJ,,,
 World,P_Nuclear,1,2020,0.01,,MEUR/PJ,,,
 World,P_Nuclear,1,2021,1.777777778,,MEUR/PJ,Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -326,8 +326,8 @@ World,P_Ocean,1,2035,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference
 World,P_Ocean,1,2040,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Ocean,1,2045,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Ocean,1,2050,0.02890249,,MEUR/PJ,Tidal and waves Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_Oil,1,2018,0.0,,MEUR/PJ,,,
-World,P_Oil,1,2020,0.0,,MEUR/PJ,,,
+World,P_Oil,1,2018,0,,MEUR/PJ,,,
+World,P_Oil,1,2020,0,,MEUR/PJ,,,
 World,P_Oil,1,2021,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Oil,1,2025,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Oil,1,2030,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -335,33 +335,33 @@ World,P_Oil,1,2035,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-s
 World,P_Oil,1,2040,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Oil,1,2045,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Oil,1,2050,1.77364,,MEUR/PJ,diesel engine farm - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Avg,1,2018,0.0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Avg,1,2020,0.0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Avg,1,2021,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Avg,1,2025,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Avg,1,2030,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Avg,1,2035,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Avg,1,2040,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Avg,1,2045,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Avg,1,2050,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Inf,1,2018,0.0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Inf,1,2020,0.0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Inf,1,2021,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Inf,1,2025,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Inf,1,2030,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Inf,1,2035,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Inf,1,2040,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Inf,1,2045,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Inf,1,2050,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Opt,1,2018,0.0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Opt,1,2020,0.0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
-World,P_PV_Utility_Opt,1,2021,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Opt,1,2025,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Opt,1,2030,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Opt,1,2035,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Opt,1,2040,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Opt,1,2045,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Opt,1,2050,0.0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2018,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Avg,1,2020,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Avg,1,2021,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2025,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2030,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2035,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2040,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2045,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,1,2050,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2018,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Inf,1,2020,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Inf,1,2021,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2025,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2030,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2035,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2040,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2045,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,1,2050,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2018,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Opt,1,2020,0,,MEUR/PJ,PV fixed tilted Table 1.7 High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
+World,P_PV_Utility_Opt,1,2021,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2025,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2030,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2035,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2040,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2045,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,1,2050,0,,MEUR/PJ,Utility-scale ground mounted PV - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Wind_Offshore_Deep,1,2018,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Wind_Offshore_Deep,1,2020,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Wind_Offshore_Deep,1,2021,0.010833333,,MEUR/PJ,Wind-offshore - deep waters distant from shore high resource area Power&Heat EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -416,78 +416,78 @@ World,P_Wind_Onshore_Opt,1,2035,0.73099738,,MEUR/PJ,Onshore turbines - https://e
 World,P_Wind_Onshore_Opt,1,2040,0.715375024,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Wind_Onshore_Opt,1,2045,0.707235762,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Wind_Onshore_Opt,1,2050,0.6990965,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Bio,1,2018,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2020,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2025,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2030,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2035,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2040,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2045,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2050,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2018,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2020,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2025,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2030,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2035,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2040,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2045,0.0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2050,0.0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2018,0.0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2020,0.0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2025,0.0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2030,0.0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2035,0.0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2040,0.0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2045,0.0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2050,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2018,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2020,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2025,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2030,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2035,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2040,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2045,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2050,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2018,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2020,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2025,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2030,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2035,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2040,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2045,0.0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2050,0.0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2018,0.0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2020,0.0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2025,0.0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2030,0.0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2035,0.0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2040,0.0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2045,0.0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2050,0.0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2018,0.0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2020,0.0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2025,0.0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2030,0.0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2035,0.0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2040,0.0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2045,0.0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2050,0.0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2018,0.0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2020,0.0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2025,0.0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2030,0.0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2035,0.0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2040,0.0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2045,0.0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2050,0.0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2018,0.0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2020,0.0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2025,0.0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2030,0.0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2035,0.0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2040,0.0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2045,0.0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2050,0.0,,MEUR/PJ,,,
+World,PSNG_Air_Bio,1,2018,0,,MEUR/PJ,,,
+World,PSNG_Air_Bio,1,2020,0,,MEUR/PJ,,,
+World,PSNG_Air_Bio,1,2025,0,,MEUR/PJ,,,
+World,PSNG_Air_Bio,1,2030,0,,MEUR/PJ,,,
+World,PSNG_Air_Bio,1,2035,0,,MEUR/PJ,,,
+World,PSNG_Air_Bio,1,2040,0,,MEUR/PJ,,,
+World,PSNG_Air_Bio,1,2045,0,,MEUR/PJ,,,
+World,PSNG_Air_Bio,1,2050,0,,MEUR/PJ,,,
+World,PSNG_Air_Conv,1,2018,0,,MEUR/PJ,,,
+World,PSNG_Air_Conv,1,2020,0,,MEUR/PJ,,,
+World,PSNG_Air_Conv,1,2025,0,,MEUR/PJ,,,
+World,PSNG_Air_Conv,1,2030,0,,MEUR/PJ,,,
+World,PSNG_Air_Conv,1,2035,0,,MEUR/PJ,,,
+World,PSNG_Air_Conv,1,2040,0,,MEUR/PJ,,,
+World,PSNG_Air_Conv,1,2045,0,,MEUR/PJ,,,
+World,PSNG_Air_Conv,1,2050,0,,MEUR/PJ,,,
+World,PSNG_Air_H2,1,2018,0,,MEUR/PJ,,,
+World,PSNG_Air_H2,1,2020,0,,MEUR/PJ,,,
+World,PSNG_Air_H2,1,2025,0,,MEUR/PJ,,,
+World,PSNG_Air_H2,1,2030,0,,MEUR/PJ,,,
+World,PSNG_Air_H2,1,2035,0,,MEUR/PJ,,,
+World,PSNG_Air_H2,1,2040,0,,MEUR/PJ,,,
+World,PSNG_Air_H2,1,2045,0,,MEUR/PJ,,,
+World,PSNG_Air_H2,1,2050,0,,MEUR/PJ,,,
+World,PSNG_Rail_Conv,1,2018,0,,MEUR/PJ,,,
+World,PSNG_Rail_Conv,1,2020,0,,MEUR/PJ,,,
+World,PSNG_Rail_Conv,1,2025,0,,MEUR/PJ,,,
+World,PSNG_Rail_Conv,1,2030,0,,MEUR/PJ,,,
+World,PSNG_Rail_Conv,1,2035,0,,MEUR/PJ,,,
+World,PSNG_Rail_Conv,1,2040,0,,MEUR/PJ,,,
+World,PSNG_Rail_Conv,1,2045,0,,MEUR/PJ,,,
+World,PSNG_Rail_Conv,1,2050,0,,MEUR/PJ,,,
+World,PSNG_Rail_Electric,1,2018,0,,MEUR/PJ,,,
+World,PSNG_Rail_Electric,1,2020,0,,MEUR/PJ,,,
+World,PSNG_Rail_Electric,1,2025,0,,MEUR/PJ,,,
+World,PSNG_Rail_Electric,1,2030,0,,MEUR/PJ,,,
+World,PSNG_Rail_Electric,1,2035,0,,MEUR/PJ,,,
+World,PSNG_Rail_Electric,1,2040,0,,MEUR/PJ,,,
+World,PSNG_Rail_Electric,1,2045,0,,MEUR/PJ,,,
+World,PSNG_Rail_Electric,1,2050,0,,MEUR/PJ,,,
+World,PSNG_Road_BEV,1,2018,0,,MEUR/PJ,,,
+World,PSNG_Road_BEV,1,2020,0,,MEUR/PJ,,,
+World,PSNG_Road_BEV,1,2025,0,,MEUR/PJ,,,
+World,PSNG_Road_BEV,1,2030,0,,MEUR/PJ,,,
+World,PSNG_Road_BEV,1,2035,0,,MEUR/PJ,,,
+World,PSNG_Road_BEV,1,2040,0,,MEUR/PJ,,,
+World,PSNG_Road_BEV,1,2045,0,,MEUR/PJ,,,
+World,PSNG_Road_BEV,1,2050,0,,MEUR/PJ,,,
+World,PSNG_Road_H2,1,2018,0,,MEUR/PJ,,,
+World,PSNG_Road_H2,1,2020,0,,MEUR/PJ,,,
+World,PSNG_Road_H2,1,2025,0,,MEUR/PJ,,,
+World,PSNG_Road_H2,1,2030,0,,MEUR/PJ,,,
+World,PSNG_Road_H2,1,2035,0,,MEUR/PJ,,,
+World,PSNG_Road_H2,1,2040,0,,MEUR/PJ,,,
+World,PSNG_Road_H2,1,2045,0,,MEUR/PJ,,,
+World,PSNG_Road_H2,1,2050,0,,MEUR/PJ,,,
+World,PSNG_Road_ICE,1,2018,0,,MEUR/PJ,,,
+World,PSNG_Road_ICE,1,2020,0,,MEUR/PJ,,,
+World,PSNG_Road_ICE,1,2025,0,,MEUR/PJ,,,
+World,PSNG_Road_ICE,1,2030,0,,MEUR/PJ,,,
+World,PSNG_Road_ICE,1,2035,0,,MEUR/PJ,,,
+World,PSNG_Road_ICE,1,2040,0,,MEUR/PJ,,,
+World,PSNG_Road_ICE,1,2045,0,,MEUR/PJ,,,
+World,PSNG_Road_ICE,1,2050,0,,MEUR/PJ,,,
+World,PSNG_Road_PHEV,1,2018,0,,MEUR/PJ,,,
+World,PSNG_Road_PHEV,1,2020,0,,MEUR/PJ,,,
+World,PSNG_Road_PHEV,1,2025,0,,MEUR/PJ,,,
+World,PSNG_Road_PHEV,1,2030,0,,MEUR/PJ,,,
+World,PSNG_Road_PHEV,1,2035,0,,MEUR/PJ,,,
+World,PSNG_Road_PHEV,1,2040,0,,MEUR/PJ,,,
+World,PSNG_Road_PHEV,1,2045,0,,MEUR/PJ,,,
+World,PSNG_Road_PHEV,1,2050,0,,MEUR/PJ,,,
 World,R_Biogas,1,2018,5.176925274,,MEUR/PJ,,,
 World,R_Biogas,1,2020,4.681741117,,MEUR/PJ,,,
 World,R_Biogas,1,2025,4.963095752,,MEUR/PJ,,,
@@ -605,13 +605,13 @@ World,X_DAC_LT,1,2045,1.152,,MEUR/PJ,,,
 World,X_DAC_LT,1,2050,1.152,,MEUR/PJ,,,
 World,X_Electrolysis,1,2018,0.001,,MEUR/PJ,,,
 World,X_Electrolysis,1,2020,0.001,,MEUR/PJ,,,
-World,X_Electrolysis,1,2021,0.0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,1,2025,0.0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,1,2030,0.0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,1,2035,0.0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,1,2040,0.0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,1,2045,0.0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,1,2050,0.0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2021,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2025,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2030,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2035,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2040,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2045,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,1,2050,0,,MEUR/PJ,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Fuel_Cell,1,2018,11.11111112,,MEUR/PJ,,,
 World,X_Fuel_Cell,1,2020,6.94444445,,MEUR/PJ,,,
 World,X_Fuel_Cell,1,2021,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -632,13 +632,13 @@ World,X_Fuel_Cell,2,2045,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.e
 World,X_Fuel_Cell,2,2050,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Methanation,1,2018,0.416666667,,MEUR/PJ,,,
 World,X_Methanation,1,2020,0.270833334,,MEUR/PJ,,,
-World,X_Methanation,1,2021,0.0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Methanation,1,2025,0.0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Methanation,1,2030,0.0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Methanation,1,2035,0.0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Methanation,1,2040,0.0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Methanation,1,2045,0.0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Methanation,1,2050,0.0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2021,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2025,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2030,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2035,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2040,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2045,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Methanation,1,2050,0,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Methanation,2,2018,1.277777779,,MEUR/PJ,,,
 World,X_Methanation,2,2020,0.830555556,,MEUR/PJ,,,
 World,X_Methanation,2,2021,6.027777778,,MEUR/PJ,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -655,12 +655,12 @@ World,Z_Import_Gas,1,2035,4.989176627,,MEUR/PJ,own calculations based on IEA Wor
 World,Z_Import_Gas,1,2040,4.768771234,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
 World,Z_Import_Gas,1,2045,4.548365841,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
 World,Z_Import_Gas,1,2050,4.327960447,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_H2,1,2018,99.0,,MEUR/PJ,,,
-World,Z_Import_H2,1,2020,50.0,,MEUR/PJ,,,
-World,Z_Import_H2,1,2025,35.0,,MEUR/PJ,,,
-World,Z_Import_H2,1,2030,29.0,,MEUR/PJ,,,
-World,Z_Import_H2,1,2035,23.0,,MEUR/PJ,,,
-World,Z_Import_H2,1,2040,17.0,,MEUR/PJ,,,
+World,Z_Import_H2,1,2018,99,,MEUR/PJ,,,
+World,Z_Import_H2,1,2020,50,,MEUR/PJ,,,
+World,Z_Import_H2,1,2025,35,,MEUR/PJ,,,
+World,Z_Import_H2,1,2030,29,,MEUR/PJ,,,
+World,Z_Import_H2,1,2035,23,,MEUR/PJ,,,
+World,Z_Import_H2,1,2040,17,,MEUR/PJ,,,
 World,Z_Import_H2,1,2045,13.334,,MEUR/PJ,,,
 World,Z_Import_H2,1,2050,10.4177,,MEUR/PJ,,,
 World,Z_Import_Hardcoal,1,2021,6.552409617,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
@@ -691,48 +691,48 @@ World,P_H2_OCGT,1,2035,1.691302283,,MEUR/PJ,assumend 115% of OCGT - https://www.
 World,P_H2_OCGT,1,2040,1.648807251,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_H2_OCGT,1,2045,1.606312219,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_H2_OCGT,1,2050,1.563817187,,MEUR/PJ,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Commercial,1,2021,0.0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Commercial,1,2025,0.0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Commercial,1,2030,0.0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Commercial,1,2035,0.0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Commercial,1,2040,0.0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Commercial,1,2045,0.0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Commercial,1,2050,0.0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Residential,1,2021,0.0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Residential,1,2025,0.0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Residential,1,2030,0.0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Residential,1,2035,0.0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Residential,1,2040,0.0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Residential,1,2045,0.0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Rooftop_Residential,1,2050,0.0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Tracking,1,2021,0.0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Tracking,1,2025,0.0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Tracking,1,2030,0.0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Tracking,1,2035,0.0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Tracking,1,2040,0.0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Tracking,1,2045,0.0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_PV_Utility_Tracking,1,2050,0.0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Biomass,1,2021,0.0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Biomass,1,2025,0.0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Biomass,1,2030,0.0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Biomass,1,2035,0.0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Biomass,1,2040,0.0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Biomass,1,2045,0.0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Biomass,1,2050,0.0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Direct_Electric,1,2021,0.0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Direct_Electric,1,2025,0.0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Direct_Electric,1,2030,0.0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Direct_Electric,1,2035,0.0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Direct_Electric,1,2040,0.0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Direct_Electric,1,2045,0.0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Direct_Electric,1,2050,0.0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Gas_Boiler,1,2021,0.0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Gas_Boiler,1,2025,0.0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Gas_Boiler,1,2030,0.0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Gas_Boiler,1,2035,0.0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Gas_Boiler,1,2040,0.0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Gas_Boiler,1,2045,0.0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Gas_Boiler,1,2050,0.0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2021,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2025,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2030,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2035,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2040,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2045,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,1,2050,0,,MEUR/PJ,Rooftop PV commercial & industrial - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2021,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2025,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2030,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2035,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2040,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2045,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,1,2050,0,,MEUR/PJ,Rooftop PV residential - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2021,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2025,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2030,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2035,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2040,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2045,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,1,2050,0,,MEUR/PJ,Utility-scale ground mounted PV tracker - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,1,2021,0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,1,2025,0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,1,2030,0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,1,2035,0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,1,2040,0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,1,2045,0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Biomass,1,2050,0,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,1,2021,0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,1,2025,0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,1,2030,0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,1,2035,0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,1,2040,0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,1,2045,0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Direct_Electric,1,2050,0,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,1,2021,0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,1,2025,0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,1,2030,0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,1,2035,0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,1,2040,0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,1,2045,0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Gas_Boiler,1,2050,0,,MEUR/PJ,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Geothermal,1,2021,1.683333333,,MEUR/PJ,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Geothermal,1,2025,1.686111111,,MEUR/PJ,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Geothermal,1,2030,1.811111111,,MEUR/PJ,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -740,13 +740,13 @@ World,HB_Geothermal,1,2035,1.829166667,,MEUR/PJ,"Geothermal DH, 1200m, E-https:/
 World,HB_Geothermal,1,2040,1.847222222,,MEUR/PJ,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Geothermal,1,2045,1.788888889,,MEUR/PJ,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Geothermal,1,2050,1.730555556,,MEUR/PJ,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_H2_Boiler,1,2021,0.0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_H2_Boiler,1,2025,0.0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_H2_Boiler,1,2030,0.0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_H2_Boiler,1,2035,0.0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_H2_Boiler,1,2040,0.0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_H2_Boiler,1,2045,0.0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_H2_Boiler,1,2050,0.0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,1,2021,0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,1,2025,0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,1,2030,0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,1,2035,0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,1,2040,0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,1,2045,0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_H2_Boiler,1,2050,0,,MEUR/PJ,117% of natural gas boiler - https://commission.europa.eu/system/files/2021-04/07.05_mf35_presentation_ehi_hydrogen_buildings.pdf,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Hardcoal,1,2021,0.122222222,,MEUR/PJ,District heating boilers coal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Hardcoal,1,2025,0.122222222,,MEUR/PJ,District heating boilers coal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Hardcoal,1,2030,0.122222222,,MEUR/PJ,District heating boilers coal - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -761,34 +761,34 @@ World,HB_Lignite,1,2035,0.147222222,,MEUR/PJ,District heating boilers lignite - 
 World,HB_Lignite,1,2040,0.147222222,,MEUR/PJ,District heating boilers lignite - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Lignite,1,2045,0.147222222,,MEUR/PJ,District heating boilers lignite - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Lignite,1,2050,0.147222222,,MEUR/PJ,District heating boilers lignite - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Oil_Boiler,1,2021,0.0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Oil_Boiler,1,2025,0.0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Oil_Boiler,1,2030,0.0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Oil_Boiler,1,2035,0.0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Oil_Boiler,1,2040,0.0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Oil_Boiler,1,2045,0.0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Oil_Boiler,1,2050,0.0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Solar_Thermal,1,2021,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Solar_Thermal,1,2025,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Solar_Thermal,1,2030,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Solar_Thermal,1,2035,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Solar_Thermal,1,2040,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Solar_Thermal,1,2045,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Solar_Thermal,1,2050,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Aerial,1,2021,0.0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Aerial,1,2025,0.0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Aerial,1,2030,0.0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Aerial,1,2035,0.0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Aerial,1,2040,0.0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Aerial,1,2045,0.0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Aerial,1,2050,0.0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Ground,1,2021,0.0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Ground,1,2025,0.0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Ground,1,2030,0.0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Ground,1,2035,0.0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Ground,1,2040,0.0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Ground,1,2045,0.0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HB_Heatpump_Ground,1,2050,0.0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,1,2021,0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,1,2025,0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,1,2030,0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,1,2035,0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,1,2040,0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,1,2045,0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Oil_Boiler,1,2050,0,,MEUR/PJ,oil boiler - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,1,2021,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,1,2025,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,1,2030,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,1,2035,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,1,2040,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,1,2045,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Solar_Thermal,1,2050,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Aerial,1,2021,0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Aerial,1,2025,0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Aerial,1,2030,0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Aerial,1,2035,0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Aerial,1,2040,0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Aerial,1,2045,0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Aerial,1,2050,0,,MEUR/PJ,HP air-air - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Ground,1,2021,0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Ground,1,2025,0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Ground,1,2030,0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Ground,1,2035,0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Ground,1,2040,0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Ground,1,2045,0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HB_Heatpump_Ground,1,2050,0,,MEUR/PJ,HP ground-water - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Biomass,1,2021,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Biomass,1,2025,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Biomass,1,2030,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -831,55 +831,55 @@ World,HLI_Oil_Boiler,1,2035,0.225888889,,MEUR/PJ,Energy Agency Denmark (2022): H
 World,HLI_Oil_Boiler,1,2040,0.226777778,,MEUR/PJ,Energy Agency Denmark (2022): Hot water boiler oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Oil_Boiler,1,2045,0.227833333,,MEUR/PJ,Energy Agency Denmark (2022): Hot water boiler oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Oil_Boiler,1,2050,0.228888889,,MEUR/PJ,Energy Agency Denmark (2022): Hot water boiler oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HLI_Solar_Thermal,1,2021,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HLI_Solar_Thermal,1,2025,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HLI_Solar_Thermal,1,2030,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HLI_Solar_Thermal,1,2035,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HLI_Solar_Thermal,1,2040,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HLI_Solar_Thermal,1,2045,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HLI_Solar_Thermal,1,2050,0.0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,1,2021,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,1,2025,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,1,2030,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,1,2035,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,1,2040,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,1,2045,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,1,2050,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,1,2021,0.277166667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,1,2025,0.264972222,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,1,2030,0.252777778,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,1,2035,0.253666667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,1,2040,0.254555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,1,2045,0.255611111,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,1,2050,0.256666667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,1,2021,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,1,2025,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,1,2030,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,1,2035,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,1,2040,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,1,2045,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,1,2050,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,1,2021,0.249388889,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,1,2025,0.237194444,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,1,2030,0.225,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,1,2035,0.225888889,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,1,2040,0.226777778,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,1,2045,0.227833333,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,1,2050,0.228888889,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,1,2021,1.10745,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,1,2025,1.081575,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,1,2030,1.0557,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,1,2035,1.029825,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,1,2040,1.00395,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,1,2045,0.978075,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,1,2050,0.9522,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,1,2021,0.277166667,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,1,2025,0.264972222,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,1,2030,0.252777778,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,1,2035,0.253666667,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,1,2040,0.254555556,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,1,2045,0.255611111,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,1,2050,0.256666667,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,1,2021,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,1,2025,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,1,2030,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,1,2035,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,1,2040,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,1,2045,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Solar_Thermal,1,2050,0,,MEUR/PJ,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,1,2021,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,1,2025,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,1,2030,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,1,2035,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,1,2040,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,1,2045,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,1,2050,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,1,2021,0.277166667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,1,2025,0.264972222,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,1,2030,0.252777778,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,1,2035,0.253666667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,1,2040,0.254555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,1,2045,0.255611111,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,1,2050,0.256666667,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,1,2021,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,1,2025,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,1,2030,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,1,2035,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,1,2040,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,1,2045,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,1,2050,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,1,2021,0.249388889,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,1,2025,0.237194444,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,1,2030,0.225,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,1,2035,0.225888889,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,1,2040,0.226777778,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,1,2045,0.227833333,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,1,2050,0.228888889,,MEUR/PJ,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,1,2021,1.10745,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,1,2025,1.081575,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,1,2030,1.0557,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,1,2035,1.029825,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,1,2040,1.00395,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,1,2045,0.978075,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,1,2050,0.9522,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,1,2021,0.277166667,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,1,2025,0.264972222,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,1,2030,0.252777778,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,1,2035,0.253666667,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,1,2040,0.254555556,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,1,2045,0.255611111,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,1,2050,0.256666667,,MEUR/PJ,equal to HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_H2_Boiler,1,2021,0.277166667,,MEUR/PJ,equal to  HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_H2_Boiler,1,2025,0.264972222,,MEUR/PJ,equal to  HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_H2_Boiler,1,2030,0.252777778,,MEUR/PJ,equal to  HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -1006,13 +1006,13 @@ World,X_Biofuel,1,2035,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.d
 World,X_Biofuel,1,2040,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Biofuel,1,2045,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Biofuel,1,2050,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Liquifier,1,2021,0.0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Liquifier,1,2025,0.0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Liquifier,1,2030,0.0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Liquifier,1,2035,0.0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Liquifier,1,2040,0.0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Liquifier,1,2045,0.0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Liquifier,1,2050,0.0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2021,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2025,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2030,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2035,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2040,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2045,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Liquifier,1,2050,0,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Powerfuel,1,2021,2.510805556,,MEUR/PJ,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Powerfuel,1,2025,2.038183333,,MEUR/PJ,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Powerfuel,1,2030,1.565561111,,MEUR/PJ,Power to Jet Fuel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>

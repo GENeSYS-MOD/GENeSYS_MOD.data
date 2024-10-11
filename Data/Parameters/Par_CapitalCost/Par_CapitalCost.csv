@@ -575,78 +575,150 @@ World,HLI_Solar_Thermal,2035,608.9285714,,MEUR/GW,solar heating - https://ens.dk
 World,HLI_Solar_Thermal,2040,594.047619,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Solar_Thermal,2045,579.1666667,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Solar_Thermal,2050,564.2857143,,MEUR/GW,solar heating - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,2018,128,,MEUR/GW,,,
-World,HMI_Biomass,2020,128,,MEUR/GW,,,
-World,HMI_Biomass,2021,618.1818182,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,2025,604.5454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,2030,590.9090909,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,2035,577.2727273,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,2040,563.6363636,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,2045,550,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Biomass,2050,536.3636364,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,2018,71,,MEUR/GW,,,
-World,HMI_Gas,2020,71,,MEUR/GW,,,
-World,HMI_Gas,2021,54.54545455,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,2025,50,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,2030,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,2035,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,2040,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,2045,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas,2050,45.45454545,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,2018,365.9230769,,MEUR/GW,,,
-World,HMI_Gas_CCS,2020,361.3820225,,MEUR/GW,,,
-World,HMI_Gas_CCS,2021,96.00000001,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,2025,88,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,2030,79.99999999,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,2035,79.99999999,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,2040,79.99999999,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,2045,79.99999999,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Gas_CCS,2050,79.99999999,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,2018,137,,MEUR/GW,,,
-World,HMI_H2,2020,137,,MEUR/GW,,,
-World,HMI_H2,2021,70.90909091,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,2025,65,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,2030,59.09090909,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,2035,59.09090909,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,2040,59.09090909,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,2045,59.09090909,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_H2,2050,59.09090909,,MEUR/GW,130% of HMI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,2018,128,,MEUR/GW,,,
-World,HMI_HardCoal,2020,128,,MEUR/GW,,,
-World,HMI_HardCoal,2021,500,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,2025,482.8819024,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,2030,465.7638049,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,2035,455.8819024,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,2040,446,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,2045,443.2280923,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal,2050,440.4561847,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,2018,268,,MEUR/GW,,,
-World,HMI_HardCoal_CCS,2020,258.8571429,,MEUR/GW,,,
-World,HMI_HardCoal_CCS,2021,815,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,2025,787.0975009,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,2030,759.195002,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,2035,743.0875009,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,2040,726.98,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,2045,722.4617904,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,2050,717.9435811,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,2018,106,,MEUR/GW,,,
-World,HMI_Oil,2020,106,,MEUR/GW,,,
-World,HMI_Oil,2021,55,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,2025,50.78819024,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,2030,46.57638049,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,2035,45.58819024,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,2040,44.6,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,2045,44.32280923,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Oil,2050,44.04561847,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,2018,103,,MEUR/GW,,,
-World,HMI_Steam_Electric,2020,103,,MEUR/GW,,,
-World,HMI_Steam_Electric,2021,95.55555556,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,2025,89.58333333,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,2030,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,2035,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,2040,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,2045,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,HMI_Steam_Electric,2050,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HLI_Heatpump,2018,730,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,2020,730,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,2021,730,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,2025,690,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,2030,650,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,2035,625,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,2040,600,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,2045,590,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,2050,580,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - see Assumption.txt,,
+World,HMHI_Biomass,2018,128,,MEUR/GW,,,
+World,HMHI_Biomass,2020,128,,MEUR/GW,,,
+World,HMHI_Biomass,2021,618.18,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,2025,604.55,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,2030,590.91,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,2035,577.27,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,2040,563.64,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,2045,550,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Biomass,2050,536.36,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,2018,71,,MEUR/GW,,,
+World,HMHI_Gas,2020,71,,MEUR/GW,,,
+World,HMHI_Gas,2021,54.55,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,2025,50,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,2030,45.45,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,2035,45.45,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,2040,45.45,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,2045,45.45,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas,2050,45.45,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler gas,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,2018,365.92,,MEUR/GW,,,
+World,HMHI_Gas_CCS,2020,361.38,,MEUR/GW,,,
+World,HMHI_Gas_CCS,2021,96,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,2025,88,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,2030,80,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,2035,80,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,2040,80,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,2045,80,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,2050,80,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,2018,137,,MEUR/GW,,,
+World,HMHI_H2,2020,137,,MEUR/GW,,,
+World,HMHI_H2,2021,70.91,,MEUR/GW,130% of HMHI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,2025,65,,MEUR/GW,130% of HMHI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,2030,59.09,,MEUR/GW,130% of HMHI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,2035,59.09,,MEUR/GW,130% of HMHI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,2040,59.09,,MEUR/GW,130% of HMHI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,2045,59.09,,MEUR/GW,130% of HMHI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_H2,2050,59.09,,MEUR/GW,130% of HMHI_Gas - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,2018,128,,MEUR/GW,,,
+World,HMHI_HardCoal,2020,128,,MEUR/GW,,,
+World,HMHI_HardCoal,2021,500,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,2025,482.88,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,2030,465.76,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,2035,455.88,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,2040,446,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,2045,443.23,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal,2050,440.46,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Coal,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,2018,268,,MEUR/GW,,,
+World,HMHI_HardCoal_CCS,2020,258.86,,MEUR/GW,,,
+World,HMHI_HardCoal_CCS,2021,815,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,2025,787.1,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,2030,759.2,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,2035,743.09,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,2040,726.98,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,2045,722.46,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,2050,717.94,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,2018,106,,MEUR/GW,,,
+World,HMHI_Oil,2020,106,,MEUR/GW,,,
+World,HMHI_Oil,2021,55,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,2025,50.79,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,2030,46.58,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,2035,45.59,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,2040,44.6,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,2045,44.32,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Oil,2050,44.05,,MEUR/GW,Energy Agency Denmark (2022): Steam boiler Oil,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,2018,103,,MEUR/GW,,,
+World,HMHI_Steam_Electric,2020,103,,MEUR/GW,,,
+World,HMHI_Steam_Electric,2021,95.56,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,2025,89.58,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,2030,83.61,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,2035,83.61,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,2040,83.61,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,2045,83.61,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,2050,83.61,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,HMLI_Heatpump,2018,853.33,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,2020,1183.33,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,2021,1183.33,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,2025,1096.67,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,2030,1010,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,2035,946.67,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,2040,883.33,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,2045,853.33,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,2050,823.33,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,,
+World,HD_Heatpump_Air,2018,910,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_Air,2020,910,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_Air,2021,910,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_Air,2025,910,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_Air,2030,810,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_Air,2035,810,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_Air,2040,810,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_Air,2045,810,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_Air,2050,810,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_ExcessHeat,2018,710,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_ExcessHeat,2020,710,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_ExcessHeat,2021,710,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_ExcessHeat,2025,710,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_ExcessHeat,2030,610,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_ExcessHeat,2035,610,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_ExcessHeat,2040,610,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_ExcessHeat,2045,610,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Heatpump_ExcessHeat,2050,610,,MEUR/GW,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - see Assumption.txt ",13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Electric_Boiler,2018,115,,MEUR/GW,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Electric_Boiler,2020,115,,MEUR/GW,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Electric_Boiler,2021,115,,MEUR/GW,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Electric_Boiler,2025,110,,MEUR/GW,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Electric_Boiler,2030,105,,MEUR/GW,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Electric_Boiler,2035,103.75,,MEUR/GW,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Electric_Boiler,2040,102.5,,MEUR/GW,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Electric_Boiler,2045,101.25,,MEUR/GW,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Electric_Boiler,2050,100,,MEUR/GW,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Geothermal,2018,2642,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Geothermal,2020,2642,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Geothermal,2021,2642,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Geothermal,2025,2576,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Geothermal,2030,2460,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Geothermal,2035,2426,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Geothermal,2040,2392,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Geothermal,2045,2359,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Geothermal,2050,2326,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Solar_Thermal,2018,329.65,,MEUR/GW,DEA – Technology data for El and DH - Solar district heating - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Solar_Thermal,2020,329.65,,MEUR/GW,DEA – Technology data for El and DH - Solar district heating - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Solar_Thermal,2021,329.65,,MEUR/GW,DEA – Technology data for El and DH - Solar district heating - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Solar_Thermal,2025,324.33,,MEUR/GW,DEA – Technology data for El and DH - Solar district heating - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Solar_Thermal,2030,319.01,,MEUR/GW,DEA – Technology data for El and DH - Solar district heating - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Solar_Thermal,2035,313.6949515,,MEUR/GW,DEA – Technology data for El and DH - Solar district heating - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Solar_Thermal,2040,308.378088,,MEUR/GW,DEA – Technology data for El and DH - Solar district heating - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Solar_Thermal,2045,303.0612245,,MEUR/GW,DEA – Technology data for El and DH - Solar district heating - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HD_Solar_Thermal,2050,297.744361,,MEUR/GW,DEA – Technology data for El and DH - Solar district heating - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,CHP_WasteToEnergy,2018,9727.87,,MEUR/GW,DEA – Technology data for El and DH - WtE CHP - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,CHP_WasteToEnergy,2020,9493.88,,MEUR/GW,DEA – Technology data for El and DH - WtE CHP - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,CHP_WasteToEnergy,2021,9493.88,,MEUR/GW,DEA – Technology data for El and DH - WtE CHP - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,CHP_WasteToEnergy,2025,9268.39,,MEUR/GW,DEA – Technology data for El and DH - WtE CHP - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,CHP_WasteToEnergy,2030,9042.91,,MEUR/GW,DEA – Technology data for El and DH - WtE CHP - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,CHP_WasteToEnergy,2035,8762.647693,,MEUR/GW,DEA – Technology data for El and DH - WtE CHP - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,CHP_WasteToEnergy,2040,8482.384535,,MEUR/GW,DEA – Technology data for El and DH - WtE CHP - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,CHP_WasteToEnergy,2045,8202.121377,,MEUR/GW,DEA – Technology data for El and DH - WtE CHP - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,CHP_WasteToEnergy,2050,7921.858219,,MEUR/GW,DEA – Technology data for El and DH - WtE CHP - see Assumption.txt ,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,P_Biomass,2018,2620,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Biomass,2020,2620,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Biomass,2021,2000,,MEUR/GW,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>

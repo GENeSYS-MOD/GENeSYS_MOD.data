@@ -4,5 +4,7 @@ Mobility_Freight,Transportation,1
 Mobility_Passenger,Transportation,1
 Heat_Buildings,Buildings,1
 Heat_Low_Industrial,Industry,1
-Heat_Medium_Industrial,Industry,1
+Heat_MediumLow_Industrial,Industry,1
+Heat_MediumHigh_Industrial,Industry,1
 Heat_High_Industrial,Industry,1
+Heat_District,Buildings,1

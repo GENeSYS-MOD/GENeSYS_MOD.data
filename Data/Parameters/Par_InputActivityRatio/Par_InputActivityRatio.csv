@@ -176,9 +176,9 @@ World,CHP_Gas_CCGT_SynGas,Gas_Synth,2,2040,1.852443309,,PJ,Energy Agency Denmark
 World,CHP_Gas_CCGT_SynGas,Gas_Synth,2,2045,1.837623762,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_SynGas,Gas_Synth,2,2050,1.695526696,,PJ,Energy Agency Denmark (2024): Gas turb. CC steam extract (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Hydrogen_FuelCell,H2,1,2018,2.083333333,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Hydrogen_FuelCell,H2,1,2020,2.0,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Hydrogen_FuelCell,H2,1,2025,2.0,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Hydrogen_FuelCell,H2,1,2030,2.0,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,H2,1,2020,2,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,H2,1,2025,2,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,H2,1,2030,2,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Hydrogen_FuelCell,H2,1,2035,1.97044335,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Hydrogen_FuelCell,H2,1,2040,1.941747573,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Hydrogen_FuelCell,H2,1,2045,1.913875598,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -199,78 +199,78 @@ World,CHP_Oil,Oil,2,2035,3.173673439,,PJ,US EPA and CHP Partnership (2017): Cata
 World,CHP_Oil,Oil,2,2040,3.173673439,,PJ,US EPA and CHP Partnership (2017): Catalog of CHP Technologies: ICE minus 13% HHV difference between natural gas and oil,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Oil,Oil,2,2045,3.173673439,,PJ,US EPA and CHP Partnership (2017): Catalog of CHP Technologies: ICE minus 13% HHV difference between natural gas and oil,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Oil,Oil,2,2050,3.173673439,,PJ,US EPA and CHP Partnership (2017): Catalog of CHP Technologies: ICE minus 13% HHV difference between natural gas and oil,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,D_Battery_Li-Ion,Power,1,2018,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Li-Ion,Power,1,2020,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Li-Ion,Power,1,2025,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Li-Ion,Power,1,2030,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Li-Ion,Power,1,2035,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Li-Ion,Power,1,2040,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Li-Ion,Power,1,2045,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Li-Ion,Power,1,2050,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2018,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2020,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2025,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2030,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2035,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2040,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2045,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,2050,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2018,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2020,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2025,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2030,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2035,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2040,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2045,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,2050,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2018,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2020,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2025,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2030,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2035,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2040,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2045,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,2050,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2018,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2020,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2025,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2030,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2035,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2040,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2045,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,2050,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HB,Heat_Buildings,1,2018,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HB,Heat_Buildings,1,2020,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HB,Heat_Buildings,1,2025,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HB,Heat_Buildings,1,2030,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HB,Heat_Buildings,1,2035,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HB,Heat_Buildings,1,2040,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HB,Heat_Buildings,1,2045,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HB,Heat_Buildings,1,2050,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2018,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2020,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2025,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2030,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2035,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2040,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2045,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Heat_HLI,Heat_Low_Industrial,1,2050,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2018,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2020,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2025,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2030,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2035,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2040,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2045,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,2050,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2018,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2020,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2025,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2030,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2035,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2040,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2045,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,2050,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2018,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2020,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2025,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2030,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2035,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2040,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2045,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,2050,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2018,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2020,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2025,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2030,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2035,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2040,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2045,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,2050,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2018,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2020,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2025,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2030,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2035,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2040,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2045,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,2050,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2018,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2020,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2025,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2030,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2035,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2040,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2045,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,2050,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2018,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2020,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2025,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2030,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2035,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2040,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2045,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,2050,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HB,Heat_Buildings,1,2018,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HB,Heat_Buildings,1,2020,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HB,Heat_Buildings,1,2025,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HB,Heat_Buildings,1,2030,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HB,Heat_Buildings,1,2035,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HB,Heat_Buildings,1,2040,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HB,Heat_Buildings,1,2045,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HB,Heat_Buildings,1,2050,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2018,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2020,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2025,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2030,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2035,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2040,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2045,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Heat_HLI,Heat_Low_Industrial,1,2050,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2018,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2020,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2025,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2030,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2035,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2040,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2045,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,2050,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2018,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2020,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2025,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2030,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2035,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2040,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2045,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,2050,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,FRT_Rail_Conv,Oil,1,2018,0.303007519,,PJ,FVV (2016): Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Rail_Conv,Oil,1,2020,0.30075188,,PJ,FVV (2016): Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Rail_Conv,Oil,1,2025,0.296052632,,PJ,FVV (2016): Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -447,22 +447,22 @@ World,HB_Biomass,Biomass,1,2035,1.08770193,,PJ,Energy Agency Denmark (2023): Bio
 World,HB_Biomass,Biomass,1,2040,1.074313589,,PJ,Energy Agency Denmark (2023): Biomass boiler upper (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,Biomass,1,2045,1.06125083,,PJ,Energy Agency Denmark (2023): Biomass boiler upper (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,Biomass,1,2050,1.04850192,,PJ,Energy Agency Denmark (2023): Biomass boiler upper (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,Heat_District,1,2018,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,Heat_District,1,2020,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,Heat_District,1,2025,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,Heat_District,1,2030,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,Heat_District,1,2035,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,Heat_District,1,2040,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,Heat_District,1,2045,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,Heat_District,1,2050,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Direct_Electric,Power,1,2018,1.0,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Direct_Electric,Power,1,2020,1.0,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Direct_Electric,Power,1,2025,1.0,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Direct_Electric,Power,1,2030,1.0,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Direct_Electric,Power,1,2035,1.0,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Direct_Electric,Power,1,2040,1.0,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Direct_Electric,Power,1,2045,1.0,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Direct_Electric,Power,1,2050,1.0,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Convert_DH,Heat_District,1,2018,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Convert_DH,Heat_District,1,2020,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Convert_DH,Heat_District,1,2025,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Convert_DH,Heat_District,1,2030,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Convert_DH,Heat_District,1,2035,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Convert_DH,Heat_District,1,2040,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Convert_DH,Heat_District,1,2045,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Convert_DH,Heat_District,1,2050,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Direct_Electric,Power,1,2018,1,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Direct_Electric,Power,1,2020,1,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Direct_Electric,Power,1,2025,1,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Direct_Electric,Power,1,2030,1,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Direct_Electric,Power,1,2035,1,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Direct_Electric,Power,1,2040,1,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Direct_Electric,Power,1,2045,1,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Direct_Electric,Power,1,2050,1,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Gas_Boiler,Gas_Natural,1,2018,1.030927835,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Gas_Boiler,Gas_Natural,1,2020,1.030927835,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Gas_Boiler,Gas_Natural,1,2025,1.030927835,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -807,22 +807,22 @@ World,HLI_Biomass,Biomass,1,2035,1.072386059,,PJ,Energy Agency Denmark (2022): H
 World,HLI_Biomass,Biomass,1,2040,1.069518717,,PJ,Energy Agency Denmark (2022): Hot water boiler wood,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Biomass,Biomass,1,2045,1.066666667,,PJ,Energy Agency Denmark (2022): Hot water boiler wood,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Biomass,Biomass,1,2050,1.063829787,,PJ,Energy Agency Denmark (2022): Hot water boiler wood,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,Heat_District,1,2018,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,Heat_District,1,2020,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,Heat_District,1,2025,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,Heat_District,1,2030,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,Heat_District,1,2035,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,Heat_District,1,2040,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,Heat_District,1,2045,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,Heat_District,1,2050,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Convert_DH,Heat_District,1,2018,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Convert_DH,Heat_District,1,2020,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Convert_DH,Heat_District,1,2025,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Convert_DH,Heat_District,1,2030,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Convert_DH,Heat_District,1,2035,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Convert_DH,Heat_District,1,2040,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Convert_DH,Heat_District,1,2045,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Convert_DH,Heat_District,1,2050,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,Power,1,2018,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,Power,1,2020,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,Power,1,2025,1.005025126,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2030,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2035,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2040,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2045,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2050,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2030,1,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2035,1,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2040,1,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2045,1,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2050,1,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Gas_Boiler,Gas_Natural,1,2018,1.063829787,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Gas_Boiler,Gas_Natural,1,2020,1.063829787,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Gas_Boiler,Gas_Natural,1,2025,1.052631579,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -887,86 +887,182 @@ World,HLI_Solar_Thermal,Area_Rooftop_Commercial,1,2035,0.165826357,,km2,,,
 World,HLI_Solar_Thermal,Area_Rooftop_Commercial,1,2040,0.165826357,,km2,,,
 World,HLI_Solar_Thermal,Area_Rooftop_Commercial,1,2045,0.165826357,,km2,,,
 World,HLI_Solar_Thermal,Area_Rooftop_Commercial,1,2050,0.165826357,,km2,,,
-World,HMI_Biomass,Biomass,1,2018,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Biomass,Biomass,1,2020,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Biomass,Biomass,1,2025,1.098901099,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Biomass,Biomass,1,2030,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Biomass,Biomass,1,2035,1.08401084,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Biomass,Biomass,1,2040,1.081081081,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Biomass,Biomass,1,2045,1.078167116,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Biomass,Biomass,1,2050,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Natural,1,2018,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Natural,1,2020,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Natural,1,2025,1.058201058,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Natural,1,2030,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Natural,1,2035,1.038961039,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Natural,1,2040,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Natural,1,2045,1.033591731,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Natural,1,2050,1.030927835,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Bio,2,2018,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Bio,2,2020,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Bio,2,2025,1.058201058,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Bio,2,2030,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Bio,2,2035,1.038961039,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Bio,2,2040,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Bio,2,2045,1.033591731,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Bio,2,2050,1.030927835,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Synth,3,2018,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Synth,3,2020,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Synth,3,2025,1.058201058,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Synth,3,2030,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Synth,3,2035,1.038961039,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Synth,3,2040,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Synth,3,2045,1.033591731,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas,Gas_Synth,3,2050,1.030927835,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas_CCS,Gas_Natural,1,2018,1.19474313,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas_CCS,Gas_Natural,1,2020,1.19474313,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas_CCS,Gas_Natural,1,2025,1.175778953,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas_CCS,Gas_Natural,1,2030,1.157407408,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas_CCS,Gas_Natural,1,2035,1.154401154,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas_CCS,Gas_Natural,1,2040,1.151410478,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas_CCS,Gas_Natural,1,2045,1.148435257,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Gas_CCS,Gas_Natural,1,2050,1.145475372,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_H2,H2,1,2018,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_H2,H2,1,2020,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_H2,H2,1,2025,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_H2,H2,1,2030,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_H2,H2,1,2035,1.15942029,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_H2,H2,1,2040,1.142857143,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_H2,H2,1,2045,1.126760563,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_H2,H2,1,2050,1.111111111,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal,Hardcoal,1,2018,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal,Hardcoal,1,2020,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal,Hardcoal,1,2025,1.098901099,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal,Hardcoal,1,2030,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal,Hardcoal,1,2035,1.081081081,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal,Hardcoal,1,2040,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal,Hardcoal,1,2045,1.069518717,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal,Hardcoal,1,2050,1.063829787,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,Hardcoal,1,2018,1.234567901,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,Hardcoal,1,2020,1.234567901,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,Hardcoal,1,2025,1.221001221,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,Hardcoal,1,2030,1.207729469,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,Hardcoal,1,2035,1.201201201,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,Hardcoal,1,2040,1.19474313,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,Hardcoal,1,2045,1.18835413,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_HardCoal_CCS,Hardcoal,1,2050,1.182033097,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Oil,Oil,1,2018,1.052631579,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Oil,Oil,1,2020,1.052631579,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Oil,Oil,1,2025,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Oil,Oil,1,2030,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Oil,Oil,1,2035,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Oil,Oil,1,2040,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Oil,Oil,1,2045,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Oil,Oil,1,2050,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Steam_Electric,Power,1,2018,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Steam_Electric,Power,1,2020,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Steam_Electric,Power,1,2025,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Steam_Electric,Power,1,2030,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Steam_Electric,Power,1,2035,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Steam_Electric,Power,1,2040,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Steam_Electric,Power,1,2045,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMI_Steam_Electric,Power,1,2050,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Heatpump,Power,1,2018,0.257731959,,PJ,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,Power,1,2020,0.257731959,,PJ,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,Power,1,2025,0.255448258,,PJ,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,Power,1,2030,0.253164557,,PJ,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,Power,1,2035,0.250651757,,PJ,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,Power,1,2040,0.248138958,,PJ,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,Power,1,2045,0.246919602,,PJ,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HLI_Heatpump,Power,1,2050,0.245700246,,PJ,DEA – Technology data for industrial process heat - heat pump 60 to 80 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMHI_Biomass,Biomass,1,2018,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,1,2020,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,1,2025,1.098901099,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,1,2030,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,1,2035,1.08401084,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,1,2040,1.081081081,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,1,2045,1.078167116,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,1,2050,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,2,2018,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,2,2020,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,2,2025,1.098901099,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,2,2030,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,2,2035,1.08401084,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,2,2040,1.081081081,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,2,2045,1.078167116,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Biomass,Biomass,2,2050,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,1,2018,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,1,2020,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,1,2025,1.058201058,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,1,2030,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,1,2035,1.038961039,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,1,2040,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,1,2045,1.033591731,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,1,2050,1.030927835,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,2,2018,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,2,2020,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,2,2025,1.058201058,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,2,2030,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,2,2035,1.038961039,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,2,2040,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,2,2045,1.033591731,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,2,2050,1.030927835,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,3,2018,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,3,2020,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,3,2025,1.058201058,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,3,2030,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,3,2035,1.038961039,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,3,2040,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,3,2045,1.033591731,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,3,2050,1.030927835,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,4,2018,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,4,2020,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,4,2025,1.058201058,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,4,2030,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,4,2035,1.038961039,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,4,2040,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,4,2045,1.033591731,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Natural,4,2050,1.030927835,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,5,2018,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,5,2020,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,5,2025,1.058201058,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,5,2030,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,5,2035,1.038961039,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,5,2040,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,5,2045,1.033591731,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Bio,5,2050,1.030927835,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,6,2018,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,6,2020,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,6,2025,1.058201058,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,6,2030,1.041666667,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,6,2035,1.038961039,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,6,2040,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,6,2045,1.033591731,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas,Gas_Synth,6,2050,1.030927835,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,1,2018,1.19474313,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,1,2020,1.19474313,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,1,2025,1.175778953,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,1,2030,1.157407408,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,1,2035,1.154401154,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,1,2040,1.151410478,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,1,2045,1.148435257,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,1,2050,1.145475372,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,2,2018,1.19474313,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,2,2020,1.19474313,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,2,2025,1.175778953,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,2,2030,1.157407408,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,2,2035,1.154401154,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,2,2040,1.151410478,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,2,2045,1.148435257,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,Gas_Natural,2,2050,1.145475372,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,1,2018,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,1,2020,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,1,2025,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,1,2030,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,1,2035,1.15942029,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,1,2040,1.142857143,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,1,2045,1.126760563,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,1,2050,1.111111111,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,2,2018,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,2,2020,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,2,2025,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,2,2030,1.176470588,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,2,2035,1.15942029,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,2,2040,1.142857143,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,2,2045,1.126760563,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_H2,H2,2,2050,1.111111111,,PJ,TNO Technology Factsheet 2020: H2 Industrial Boiler (with assumption: flat until 2030- then going up),21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,1,2018,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,1,2020,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,1,2025,1.098901099,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,1,2030,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,1,2035,1.081081081,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,1,2040,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,1,2045,1.069518717,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,1,2050,1.063829787,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,1,2018,1.234567901,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,1,2020,1.234567901,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,1,2025,1.221001221,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,1,2030,1.207729469,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,1,2035,1.201201201,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,1,2040,1.19474313,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,1,2045,1.18835413,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,1,2050,1.182033097,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,1,2018,1.052631579,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,1,2020,1.052631579,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,1,2025,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,1,2030,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,1,2035,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,1,2040,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,1,2045,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,1,2050,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2018,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2020,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2025,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2030,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2035,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2040,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2045,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2050,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,2,2018,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,2,2020,1.111111111,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,2,2025,1.098901099,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,2,2030,1.086956522,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,2,2035,1.081081081,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,2,2040,1.075268817,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,2,2045,1.069518717,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal,Hardcoal,2,2050,1.063829787,,PJ,Energy Agency Denmark (2022): Steam boiler Coal,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,2,2018,1.234567901,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,2,2020,1.234567901,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,2,2025,1.221001221,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,2,2030,1.207729469,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,2,2035,1.201201201,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,2,2040,1.19474313,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,2,2045,1.18835413,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,Hardcoal,2,2050,1.182033097,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,2,2018,1.052631579,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,2,2020,1.052631579,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,2,2025,1.03626943,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,2,2030,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,2,2035,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,2,2040,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,2,2045,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Oil,Oil,2,2050,1.020408163,,PJ,Energy Agency Denmark (2022): Steam boiler Oil,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2018,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2020,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2025,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2030,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2035,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2040,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2045,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2050,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMLI_Heatpump,Power,1,2018,0.392156863,,PJ,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,Power,1,2020,0.392156863,,PJ,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,Power,1,2025,0.381263617,,PJ,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,Power,1,2030,0.37037037,,PJ,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,Power,1,2035,0.363756614,,PJ,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,Power,1,2040,0.357142857,,PJ,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,Power,1,2045,0.354010025,,PJ,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
+World,HMLI_Heatpump,Power,1,2050,0.350877193,,PJ,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,P_Biomass,Biomass,1,2018,3.333333333,,PJ,IEA Energy Technology Essentials (2007): Biomass for power generation and chp + learning rate from CHP_Biomass,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Biomass,Biomass,1,2020,3.329490874,,PJ,IEA Energy Technology Essentials (2007): Biomass for power generation and chp + learning rate from CHP_Biomass,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Biomass,Biomass,1,2025,3.319923372,,PJ,IEA Energy Technology Essentials (2007): Biomass for power generation and chp + learning rate from CHP_Biomass,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1066,11 +1162,11 @@ World,P_Gas_CCS,Gas_Synth,3,2050,1.883239171,,PJ,Energy Agency Denmark (2024): G
 World,P_Gas_Engines,Gas_Natural,1,2018,2.083333333,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,Gas_Natural,1,2020,2.083333333,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,Gas_Natural,1,2025,2.040816327,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2030,2.0,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2035,2.0,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2040,2.0,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2045,2.0,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2050,2.0,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2030,2,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2035,2,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2040,2,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2045,2,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2050,2,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,Gas_Bio,2,2018,2.222222222,,PJ,Energy Agency Denmark (2024): Natural gas engine plant - p. 373,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,Gas_Bio,2,2020,2.222222222,,PJ,Energy Agency Denmark (2024): Natural gas engine plant - p. 373,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,Gas_Bio,2,2025,2.173913043,,PJ,Energy Agency Denmark (2024): Natural gas engine plant - p. 373,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1343,14 +1439,14 @@ World,X_Biofuel,Biomass,1,2035,1.544401544,,PJ,Energy Agency Denmark (2024): Gas
 World,X_Biofuel,Biomass,1,2040,1.503759398,,PJ,Energy Agency Denmark (2024): Gasifier CFB Bio-SNG,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Biofuel,Biomass,1,2045,1.465201465,,PJ,Energy Agency Denmark (2024): Gasifier CFB Bio-SNG,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Biofuel,Biomass,1,2050,1.428571429,,PJ,Energy Agency Denmark (2024): Gasifier CFB Bio-SNG,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_HT,Air,1,2018,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_HT,Air,1,2020,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_HT,Air,1,2025,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_HT,Air,1,2030,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_HT,Air,1,2035,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_HT,Air,1,2040,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_HT,Air,1,2045,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_HT,Air,1,2050,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_HT,Air,1,2018,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_HT,Air,1,2020,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_HT,Air,1,2025,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_HT,Air,1,2030,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_HT,Air,1,2035,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_HT,Air,1,2040,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_HT,Air,1,2045,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_HT,Air,1,2050,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_HT,Power,1,2018,5.724,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_HT,Power,1,2020,5.724,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_HT,Power,1,2025,5.2488,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1359,14 +1455,14 @@ World,X_DAC_HT,Power,1,2035,4.986,,PJ,Energy Agency Denmark (2024): Liquid DAC,0
 World,X_DAC_HT,Power,1,2040,4.986,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_HT,Power,1,2045,4.8618,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_HT,Power,1,2050,4.7376,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_LT,Air,1,2018,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_LT,Air,1,2020,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_LT,Air,1,2025,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_LT,Air,1,2030,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_LT,Air,1,2035,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_LT,Air,1,2040,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_LT,Air,1,2045,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_LT,Air,1,2050,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Air,1,2018,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Air,1,2020,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Air,1,2025,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Air,1,2030,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Air,1,2035,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Air,1,2040,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Air,1,2045,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Air,1,2050,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_LT,Heat_Low_Industrial,1,2018,6.66,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_LT,Heat_Low_Industrial,1,2020,6.3,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_LT,Heat_Low_Industrial,1,2025,5.4,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1519,19 +1615,67 @@ World,X_SOEC_Electrolysis,Heat_Medium_Industrial,1,2035,0.271896595,,PJ,Energy A
 World,X_SOEC_Electrolysis,Heat_Medium_Industrial,1,2040,0.263676814,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_SOEC_Electrolysis,Heat_Medium_Industrial,1,2045,0.260129225,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_SOEC_Electrolysis,Heat_Medium_Industrial,1,2050,0.256675828,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Buy,ETS,1,2018,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Buy,ETS,1,2020,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Buy,ETS,1,2025,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Buy,ETS,1,2030,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Buy,ETS,1,2035,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Buy,ETS,1,2040,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Buy,ETS,1,2045,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Buy,ETS,1,2050,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Sell,ETS_Source,1,2018,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Sell,ETS_Source,1,2020,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Sell,ETS_Source,1,2025,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Sell,ETS_Source,1,2030,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Sell,ETS_Source,1,2035,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Sell,ETS_Source,1,2040,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Sell,ETS_Source,1,2045,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Sell,ETS_Source,1,2050,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Buy,ETS,1,2018,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Buy,ETS,1,2020,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Buy,ETS,1,2025,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Buy,ETS,1,2030,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Buy,ETS,1,2035,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Buy,ETS,1,2040,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Buy,ETS,1,2045,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Buy,ETS,1,2050,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Sell,ETS_Source,1,2018,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Sell,ETS_Source,1,2020,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Sell,ETS_Source,1,2025,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Sell,ETS_Source,1,2030,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Sell,ETS_Source,1,2035,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Sell,ETS_Source,1,2040,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Sell,ETS_Source,1,2045,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Sell,ETS_Source,1,2050,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HD_Heatpump_ExcessHeat,Power,1,2018,0.20,,PJ,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_ExcessHeat,Power,1,2020,0.20,,PJ,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_ExcessHeat,Power,1,2025,0.20,,PJ,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_ExcessHeat,Power,1,2030,0.19,,PJ,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_ExcessHeat,Power,1,2035,0.19,,PJ,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_ExcessHeat,Power,1,2040,0.19,,PJ,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_ExcessHeat,Power,1,2045,0.19,,PJ,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_ExcessHeat,Power,1,2050,0.19,,PJ,"DEA – Technology data for El and DH - Comp. hp, excess heat 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_Air,Power,1,2018,0.29,,PJ,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_Air,Power,1,2020,0.29,,PJ,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_Air,Power,1,2025,0.29,,PJ,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_Air,Power,1,2030,0.28,,PJ,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_Air,Power,1,2035,0.28,,PJ,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_Air,Power,1,2040,0.28,,PJ,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_Air,Power,1,2045,0.28,,PJ,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Heatpump_Air,Power,1,2050,0.28,,PJ,"DEA – Technology data for El and DH - Comp. hp, airsource 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,1,2018,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,1,2020,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,1,2025,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,1,2030,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,1,2035,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,1,2040,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,1,2045,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,1,2050,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,2,2018,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,2,2020,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,2,2025,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,2,2030,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,2,2035,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,2,2040,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,2,2045,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,2,2050,4.17,,PJ,DEA – Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Geothermal,Power,1,2018,0.20,,PJ,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - Assumed SCOP=5,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Geothermal,Power,1,2020,0.20,,PJ,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - Assumed SCOP=5,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Geothermal,Power,1,2025,0.20,,PJ,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - Assumed SCOP=5,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Geothermal,Power,1,2030,0.20,,PJ,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - Assumed SCOP=5,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Geothermal,Power,1,2035,0.20,,PJ,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - Assumed SCOP=5,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Geothermal,Power,1,2040,0.20,,PJ,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - Assumed SCOP=5,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Geothermal,Power,1,2045,0.20,,PJ,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - Assumed SCOP=5,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Geothermal,Power,1,2050,0.20,,PJ,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - Assumed SCOP=5,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Electric_Boiler,Power,1,2018,1.01,,PJ,DEA – Technology data for El and DH - Electric boiler - assumed 99%,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Electric_Boiler,Power,1,2020,1.01,,PJ,DEA – Technology data for El and DH - Electric boiler - assumed 99%,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Electric_Boiler,Power,1,2025,1.01,,PJ,DEA – Technology data for El and DH - Electric boiler - assumed 99%,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Electric_Boiler,Power,1,2030,1.01,,PJ,DEA – Technology data for El and DH - Electric boiler - assumed 99%,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Electric_Boiler,Power,1,2035,1.01,,PJ,DEA – Technology data for El and DH - Electric boiler - assumed 99%,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Electric_Boiler,Power,1,2040,1.01,,PJ,DEA – Technology data for El and DH - Electric boiler - assumed 99%,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Electric_Boiler,Power,1,2045,1.01,,PJ,DEA – Technology data for El and DH - Electric boiler - assumed 99%,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,HD_Electric_Boiler,Power,1,2050,1.01,,PJ,DEA – Technology data for El and DH - Electric boiler - assumed 99%,11.10.2024,Stian Backe <stian.backe@sintef.no>
