@@ -1,0 +1,178 @@
+'''regions:
+- SE
+- DE
+- FI
+
+new_regions:
+- SCANDENAVIA'''
+
+no_change_parameters: 
+    [Par_AnnualEmissionLimit,
+    Sets,
+    Par_AnnualSectoralEmissionLimit,
+    Par_BaseYearSlack,
+    Par_CapacityFactor,
+    Par_CapitalCostStorage,
+    Par_EmissionActivityRatio,
+    Par_EmissionContentPerFuel,
+    Par_FixedCost,
+    Par_InputActivityRatio,
+    Par_MinStorageCharge,
+    Par_ModelPeriodEmissionLimit,
+    Par_ModelPeriodExogenousEmission,
+    Par_OperationalLife,
+    Par_OperationalLifeStorage,
+    Par_ProductionChangeCost,
+    Par_ProductionGrowthLimit,
+    Par_RampingDownFactor,
+    Par_RampingUpFactor,
+    Par_ResidualStorageCapacity,
+    Par_SelfSufficiency,
+    Par_StorageLevelStart,
+    Par_TechnologyFromStorage,
+    Par_TechnologyToStorage,
+    Par_TotalAnnualMinActivity,
+    Par_TotalAnnualMinCapacity,
+    Par_TradeLossFactor]
+
+
+# Indexed by 2
+
+Par_RegionalModelPeriodEmissionLimit:
+    aggregation_Method: sum 
+    index_count: 2
+    regions_to_aggregate: "regions.yaml"
+
+Par_ReserveMargin:
+    aggregation_Method: sum 
+    index_count: 2
+    regions_to_aggregate: "regions.yaml"
+
+Par_GeneralDiscountRate:
+    aggregation_Method: sum 
+    index_count: 2
+    regions_to_aggregate: "regions.yaml"
+
+Par_RegionalCCSLimit:
+    aggregation_Method: sum 
+    index_count: 2
+    regions_to_aggregate: "regions.yaml"
+
+Par_ModalPeriodActivityMax:
+    aggregation_Method: sum 
+    index_count: 2
+    regions_to_aggregate: "regions.yaml"
+
+Par_SocialDiscountRate:
+    aggregation_Method: sum 
+    index_count: 2
+    regions_to_aggregate: "regions.yaml"
+
+Par_TechnologyDiscountRate:
+    aggregation_Method: sum 
+    index_count: 2
+    regions_to_aggregate: "regions.yaml"
+
+# Indexed by 3
+
+Par_TotalAnnualMaxCapacity: 
+    aggregation_Method: sum 
+    index_count: 3
+    regions_to_aggregate: "regions.yaml"
+
+Par_AnnualExogenousEmission:
+    aggregation_Method: sum 
+    index_count: 3
+    regions_to_aggregate: "regions.yaml"
+
+Par_BaseYearProduction:
+    aggregation_Method: sum
+    index_count: 3
+    regions_to_aggregate: "regions.yaml"
+
+Par_CapitalCost:
+    aggregation_Method: sum 
+    index_count: 3
+    regions_to_aggregate: "regions.yaml"
+
+Par_REMinProductionTarget:
+    aggregation_Method: sum 
+    index_count: 3
+    regions_to_aggregate: "regions.yaml"
+
+Par_ResidualCapacity:
+    aggregation_Method: sum 
+    index_count: 3
+    regions_to_aggregate: "regions.yaml"
+
+Par_TotalAnnualMaxActivity: 
+    aggregation_Method: sum 
+    index_count: 3
+    regions_to_aggregate: "regions.yaml"
+
+Par_TradeCosts:
+    aggregation_Method: sum 
+    index_count: 3
+    regions_to_aggregate: "regions.yaml"
+
+Par_EmissionPenalty:
+    aggregation_Method: sum 
+    index_count: 3
+    regions_to_aggregate: "regions.yaml"
+
+Par_RegionalAnnualEmissionLimit:
+    aggregation_Method: sum 
+    index_count: 3
+    regions_to_aggregate: "regions.yaml"
+
+Par_SpecifiedAnnualDemand:
+    aggregation_Method: sum 
+    index_count: 3
+    regions_to_aggregate: "regions.yaml"
+
+#indexed by 4
+
+Par_ComissionedTradeCapacity:
+    aggregation_Method: sum 
+    index_count: 4
+    regions_to_aggregate: "regions.yaml"
+
+Par_GrowthRateTradeCapacity:
+    aggregation_Method: sum 
+    index_count: 4
+    regions_to_aggregate: "regions.yaml"
+
+Par_TradeCapacity:
+    aggregation_Method: sum 
+    index_count: 4
+    regions_to_aggregate: "regions.yaml"
+
+Par_TradeCapacityGrowthCosts:
+    aggregation_Method: sum 
+    index_count: 4
+    regions_to_aggregate: "regions.yaml"
+
+Par_TradeRoute:
+    aggregation_Method: sum 
+    index_count: 4
+    regions_to_aggregate: "regions.yaml"
+
+Par_ModalSplitByFuel:
+    aggregation_Method: sum 
+    index_count: 4
+    regions_to_aggregate: "regions.yaml"
+
+Par_OutputActivityRatio:
+    aggregation_Method: sum 
+    index_count: 4
+    regions_to_aggregate: "regions.yaml"
+
+Par_RegionalBaseYearProduction:
+    aggregation_Method: sum 
+    index_count: 4
+    regions_to_aggregate: "regions.yaml"
+
+Par_VariableCosts:
+    aggregation_Method: sum 
+    index_count: 4
+    regions_to_aggregate: "regions.yaml"

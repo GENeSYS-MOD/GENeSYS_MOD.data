@@ -63,6 +63,14 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                             print(f"Excel data for sheet '{sheet_name}' is empty. Skipping merge.")
                             continue
                         
+                        # Drop rows with NaN values in the Excel data for sheets containing Region 2
+                        if any(col in df_excel.columns for col in ["Region2"]):
+                            df_excel.dropna(inplace=True)
+                        
+                        # Check if there are still NaN values in the Excel data
+                        if df_excel.isna().any().any():
+                            raise ValueError(f"Cells without entries exist in the sheet '{sheet_name}'. Please ensure that this is intended.")
+                        
                         # Convert Excel data to match CSV data types
                         for col in df_excel.columns:
                             if col in df_csv_for_comparison.columns:
@@ -72,12 +80,14 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                         headers_csv = df_csv_for_comparison.columns.tolist()
                         headers_excel = df_excel.columns.tolist()
                         
-                        if headers_csv != headers_excel:
+                        if set(headers_csv) != set(headers_excel):
                             raise ValueError(f"Header mismatch in sheet '{sheet_name}':\n"
                                              f"CSV headers: {headers_csv}\n"
                                              f"Excel headers: {headers_excel}")
                         
                         # Ensure the merge columns are of the same type
+                        df_excel = df_excel[headers_csv]
+
                         merge_columns = headers_excel[:-1]
                         for col in merge_columns:
                             if df_csv_for_comparison[col].dtype != df_excel[col].dtype:
@@ -117,7 +127,7 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                                 merged_df[col] = ""
                         
                         # Select only existing columns
-                        valid_columns = [col for col in headers_excel + list(additional_columns) if col in merged_df.columns]
+                        valid_columns = [col for col in df_csv.columns if col in merged_df.columns]
                         merged_df = merged_df[valid_columns]
                         
                         # Save the updated CSV file
@@ -130,7 +140,8 @@ def find_matching_sheets(excel_file_path, base_directory, data_dict):
                         processed_sheets += 1
 
                         # Exit after processing the specified number of sheets for easier debugging
-                        # if processed_sheets >= num_sheets_to_process:
-                        #     return csv_files_info
+                        #num_sheets_to_process = 2
+                        #if processed_sheets >= num_sheets_to_process:
+                            #return csv_files_info
     
     return csv_files_info

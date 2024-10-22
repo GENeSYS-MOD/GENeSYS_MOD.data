@@ -1,6 +1,6 @@
 import os
 
-def validate_input(output_file_format, output_format, processing_option, settings_file):
+def validate_input(output_file_format, output_format, processing_option, settings_file, scenario_option):
     
     valid_file_formats = ['csv', 'excel']
     if output_file_format.lower() not in valid_file_formats:
@@ -18,5 +18,27 @@ def validate_input(output_file_format, output_format, processing_option, setting
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"The specified filter file '{settings_file}' does not exist in the directory.")
 
+    # Scenario check
+    data_folder = os.path.join(os.getcwd(), '..', 'Data', 'Parameters')
+    scenario_folder_paths = []
+    existing_scenarios = set()
+
+    if scenario_option.lower() != "none":
+        # folders inside data_folder (inside 'Parameters')
+        for folder_name in os.listdir(data_folder):
+            folder_path = os.path.join(data_folder, folder_name)
+            if os.path.isdir(folder_path):
+                # check for scenario folder inside these folders
+                for subfolder in os.listdir(folder_path):
+                    subfolder_path = os.path.join(folder_path, subfolder)
+                    if os.path.isdir(subfolder_path):
+                        if subfolder.lower() == scenario_option.lower():
+                            scenario_folder_paths.append(subfolder_path)
+                        existing_scenarios.add(subfolder)
+
+        if not scenario_folder_paths:
+            existing_scenarios_list = sorted(list(existing_scenarios), key=lambda s: s.lower())
+            expected_folders = ', '.join(f"'{d}'" for d in existing_scenarios_list)
+            raise FileNotFoundError(f"No scenario folder found for option: '{scenario_option}'. Expected: {expected_folders}, or 'None'.")
 
     return True

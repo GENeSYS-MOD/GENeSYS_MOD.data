@@ -7,6 +7,7 @@ from functions.process_parameters import process_regular_parameters
 from functions.output_parameters import output_regular_parameters
 from functions.read_filter_timeseries import read_filter_timeseries
 from functions.output_timeseries import output_timeseries
+from functions.data_error_check import search_non_utf8_characters
 import sys
 
 def master_function(settings_file,output_file_format, output_format, processing_option, scenario_option):
@@ -14,7 +15,15 @@ def master_function(settings_file,output_file_format, output_format, processing_
     current_directory, excel_file_path, parameter_directory, sets_and_tags_directory, timeseries_directory, output_csv_directory, output_excel_directory, output_excel_file_path, output_excel_file_path_timeseries = directories(settings_file, scenario_option)
 
     # Validate user input
-    validate_input(output_file_format, output_format, processing_option, settings_file)
+    validate_input(output_file_format, output_format, processing_option, settings_file, scenario_option)
+
+    # check for utf-8-errors
+    #search_non_utf8_characters()
+
+    try:
+        search_non_utf8_characters()  # Assuming this function checks for non-UTF-8 files
+    except UnicodeDecodeError as e:
+        print("Non UTF-8 characters found in file" + '{relative_path}')
 
     # Ensure unique_values_concatenated is defined
     unique_values_concatenated = read_settings_file(excel_file_path, output_csv_directory, scenario_option, output_format)
