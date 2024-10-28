@@ -34,6 +34,7 @@ def master_function(settings_file,output_file_format, output_format, processing_
         # Process files and store dataframes with their names
         for path in regular_parameter_paths:
             df_pivot, worksheet_name, data_overwritten = process_regular_parameters(path, unique_values_concatenated, output_format, scenario_option)
+
             worksheets_data[worksheet_name] = df_pivot  # or df_original based on your requirement
 
             # Check if data was overwritten and add to the list
@@ -46,7 +47,8 @@ def master_function(settings_file,output_file_format, output_format, processing_
             readable_name = worksheet.replace("Par_", "")
             print(readable_name)
         print("\n")  # Prints a blank line    
-        
+
+        #worksheets_data["Sets"]["Region"] = worksheets_data["Sets"]["Region"].drop(0)
 
         # Call the function to output data
         output_regular_parameters(worksheets_data, output_excel_directory, output_excel_file_path, output_csv_directory, output_file_format, scenario_option)

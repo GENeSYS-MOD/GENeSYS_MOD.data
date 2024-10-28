@@ -49,6 +49,6 @@ def read_settings_file(file_path, output_csv_directory, scenario_option, output_
         unique_values_concatenated.loc[:, 'Output Format'] = np.nan
         unique_values_concatenated['Output Format'] = unique_values_concatenated['Output Format'].astype('object')
         unique_values_concatenated.at[0, 'Output Format'] = output_format
-    
+
     # Return the concatenated DataFrame of unique values
     return unique_values_concatenated

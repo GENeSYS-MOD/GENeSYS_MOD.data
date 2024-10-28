@@ -14,6 +14,8 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
     data_overwritten = False
 
 
+
+
     # Check if a subdirectory for the scenario exists and read additional CSV file
     scenario_folder_path = os.path.join(os.path.dirname(csv_file_path), scenario_option)
     if os.path.exists(scenario_folder_path) and os.path.isdir(scenario_folder_path):
@@ -67,8 +69,55 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
 
     for header in unique_values_concatenated.columns:
         if header in df.columns:
-            df = df[df[header].isin(unique_values_concatenated[header])]    
-    
+            df = df[df[header].isin(unique_values_concatenated[header])]
+
+    # If no entry exists for these parameters, use the world entry to create one
+    if worksheet_name in ["Par_CapitalCost", "Par_VariableCost", "Par_FixedCost", "Par_AvailabilityFactor", "Par_InputActivityRatio",
+                          "Par_OutputActivityRatio", "Par_EmissionsPenaltyTagTechnology", "Par_ReserveMarginTagTechnology",
+                          "Par_EmissionActivityRatio", "Par_ReserveMarginTagFuel", "Par_ReserveMargin", "Par_ReserveMarginTagTechnology",
+                          "Par_CapitalCostStorage"]:
+    #if worksheet_name in ["Par_CapitalCost"]:
+
+        #print(worksheet_name)
+
+        world_rows = df[df['Region'] == 'World']
+
+        # Initialize an empty list to hold the rows to be added
+        new_rows = []
+
+        # Loop through each region
+        for region in unique_values_concatenated["Region"].dropna():
+            if region != "World":
+
+                # Loop through each 'world' row
+                for _, world_row in world_rows.iterrows():
+
+                    # Check if a row for this region already exists
+                    condition = (df['Region'] == region)
+
+                    for col in df.columns:
+                        if col != 'Region':  # Exclude 'region' from this comparison
+
+                            condition &= (df[col] == world_row[col])
+
+                    # If the condition is False for all rows, add the new row
+                    if not condition.all():
+
+                        # If it doesn't exist, create a new row with the region
+                        new_row = world_row.copy()  # copy the world row
+                        new_row['Region'] = region  # change region to the current one
+                        new_rows.append(new_row)  # add to list of new rows
+
+        # Convert the list of new rows into a DataFrame
+        new_rows_df = pd.DataFrame(new_rows)
+
+        # Concatenate the original DataFrame with the new rows
+        df = pd.concat([df, new_rows_df])
+
+        # If you want to drop the 'World' rows, uncomment the next line
+        df = df[df['Region'] != 'World']
+
+
     # Initialize df_pivot
     df_pivot = df  # Default to original DataFrame
 
