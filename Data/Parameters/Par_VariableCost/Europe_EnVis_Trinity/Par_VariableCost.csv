@@ -1,15 +1,50 @@
 Region,Technology,Mode_of_operation,Year,Value,,Unit,Source,Updated at,Updated by
-DE,Z_Import_Gas,1,2021,25.3889202380802,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2025,18.2535739242388,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2030,5.53017168286489,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2035,5.57024539071174,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2040,5.61031909855859,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2045,5.65039280640543,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_Gas,1,2050,5.69046651425228,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2021,8.65592089491897,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2025,10.3983207494116,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2030,3.15031451903139,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2035,3.17314288511133,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2040,3.19597125119127,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2045,3.21879961727121,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-DE,Z_Import_LNG,1,2050,3.24162798335114,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_Gas,1,2021,25.38892024,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_Gas,1,2025,18.25357392,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_Gas,1,2030,5.530171683,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_Gas,1,2035,5.570245391,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_Gas,1,2040,5.610319099,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_Gas,1,2045,5.650392806,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_Gas,1,2050,5.690466514,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_LNG,1,2021,8.655920895,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_LNG,1,2025,10.39832075,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_LNG,1,2030,3.150314519,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_LNG,1,2035,3.173142885,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_LNG,1,2040,3.195971251,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_LNG,1,2045,3.218799617,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+DE,Z_Import_LNG,1,2050,3.241627983,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2021,2.3805,,MEUR/PJ,assumend 115% of OCGT (upper) - https://www.sciencedirect.com/science/article/pii/S0360319921039768,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2025,2.323,,MEUR/PJ,assumend 115% of OCGT (upper) - https://www.sciencedirect.com/science/article/pii/S0360319921039768,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2030,2.251125,,MEUR/PJ,assumend 115% of OCGT (upper) - https://www.sciencedirect.com/science/article/pii/S0360319921039768,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2035,2.208,,MEUR/PJ,assumend 115% of OCGT (upper) - https://www.sciencedirect.com/science/article/pii/S0360319921039768,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2040,2.1505,,MEUR/PJ,assumend 115% of OCGT (upper) - https://www.sciencedirect.com/science/article/pii/S0360319921039768,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2045,2.093,,MEUR/PJ,assumend 115% of OCGT (upper) - https://www.sciencedirect.com/science/article/pii/S0360319921039768,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_H2_OCGT,1,2050,2.0355,,MEUR/PJ,assumend 115% of OCGT (upper) - https://www.sciencedirect.com/science/article/pii/S0360319921039768,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,1,2021,0.89,,MEUR/PJ,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,1,2025,0.89,,MEUR/PJ,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,1,2030,0.89,,MEUR/PJ,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,1,2035,0.89,,MEUR/PJ,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,1,2040,0.89,,MEUR/PJ,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,1,2045,0.89,,MEUR/PJ,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCGT,1,2050,0.89,,MEUR/PJ,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,1,2021,1.18,,MEUR/PJ,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,1,2025,1.18,,MEUR/PJ,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,1,2030,1.18,,MEUR/PJ,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,1,2035,1.18,,MEUR/PJ,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,1,2040,1.18,,MEUR/PJ,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,1,2045,1.18,,MEUR/PJ,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_Engines,1,2050,1.18,,MEUR/PJ,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,1,2021,1.48,,MEUR/PJ,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,1,2025,1.43,,MEUR/PJ,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,1,2030,1.3675,,MEUR/PJ,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,1,2035,1.33,,MEUR/PJ,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,1,2040,1.28,,MEUR/PJ,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,1,2045,1.23,,MEUR/PJ,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_OCGT,1,2050,1.18,,MEUR/PJ,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2021,0.08,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR medium size decentralized,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2025,0.065,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR medium size decentralized,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2030,0.05,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR medium size decentralized,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2035,0.05,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR medium size decentralized,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2040,0.05,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR medium size decentralized,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2045,0.05,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR medium size decentralized,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_SMR,1,2050,0.05,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR medium size decentralized,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
