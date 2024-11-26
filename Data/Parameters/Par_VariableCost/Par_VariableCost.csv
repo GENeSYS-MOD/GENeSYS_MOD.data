@@ -47,14 +47,14 @@ World,D_Gas_Methane,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stabilit
 World,D_Gas_Methane,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Gas_Methane,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Gas_Methane,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HLI_Tank_Large,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HLI_Tank_Large,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HLI_Tank_Large,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HLI_Tank_Large,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HLI_Tank_Large,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HLI_Tank_Large,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HLI_Tank_Large,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HLI_Tank_Large,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_PHS,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_PHS,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_PHS,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -1048,3 +1048,19 @@ World,P_Gas_OCGT,1,2035,1.48,,MEUR/PJ,Gas turbine simple cycle (small and medium
 World,P_Gas_OCGT,1,2040,1.44,,MEUR/PJ,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_OCGT,1,2045,1.4,,MEUR/PJ,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_OCGT,1,2050,1.36,,MEUR/PJ,Gas turbine simple cycle (small and medium scale plant) back pressure - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,,Alena Diesing <ad@wip.tu-berlin.de>
+World,D_HB_Tank_Small,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HB_Tank_Small,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HB_Tank_Small,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HB_Tank_Small,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HB_Tank_Small,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HB_Tank_Small,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HB_Tank_Small,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HB_Tank_Small,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HD_Pit,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HD_Pit,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HD_Pit,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HD_Pit,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HD_Pit,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HD_Pit,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HD_Pit,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_HD_Pit,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>

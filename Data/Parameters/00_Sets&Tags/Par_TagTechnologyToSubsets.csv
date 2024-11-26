@@ -26,8 +26,9 @@ D_Battery_Redox,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löf
 D_Gas_Methane,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_Gas_H2,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_CAES,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-D_Heat_HLI,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-D_Heat_HB,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_HLI_Tank_Large,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_HB_Tank_Small,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_HD_Pit,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_PHS,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 HB_Gas_Boiler,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 HB_Biomass,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -235,8 +236,9 @@ D_Battery_Li-Ion,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Lö
 D_Battery_Redox,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_Gas_Methane,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_Gas_H2,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-D_Heat_HLI,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-D_Heat_HB,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_HLI_Tank_Large,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_HB_Tank_Small,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_HD_Pit,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_PHS,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_PHS_Residual,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_CAES,StorageDummies,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
@@ -247,8 +249,9 @@ D_Battery_Redox,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler
 D_Gas_Methane,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_Gas_H2,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_CAES,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-D_Heat_HB,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
-D_Heat_HLI,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_HLI_Tank_Large,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_HB_Tank_Small,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
+D_HD_Pit,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 D_PHS,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 HB_Biomass,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>
 HB_Direct_Electric,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Löffler <kl@wip.tu-berlin.de>

@@ -21,8 +21,9 @@ D_CAES,Transportation,1
 D_CAES,Storages,1
 D_Gas_H2,Storages,1
 D_Gas_Methane,Storages,1
-D_Heat_HLI,Storages,1
-D_Heat_HB,Storages,1
+D_HLI_Tank_Large,Storages,1
+D_HB_Tank_Small,Storages,1
+D_HD_Pit,Storages,1
 D_PHS,Storages,1
 D_PHS_Residual,Storages,1
 FRT_Rail_Conv,Transportation,1
