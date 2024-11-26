@@ -1,8 +1,8 @@
 Region,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
+World,Power,All,0,,Fraction,,,
 AT,Power,2030,1,,Fraction,https://commission.europa.eu/document/download/7702dbb6-8677-42ad-8578-56aa5dcdcc90_en?filename=NEKP_Aktualisierung_2023_2024_final_EN.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 BE,Power,2030,0.485,,Fraction,https://commission.europa.eu/document/download/e0d758c6-a2e0-408f-9251-559801675f43_en?filename=SWD_Assessment_draft_updated_NECP_Belgium_2023_0.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 BG,Power,2030,0.422,,Fraction,https://commission.europa.eu/document/download/7a3af142-cd29-49ce-955f-349479d278d3_en?filename=SWD_Assessment_draft_updated_NECP_%20Bulgaria_2024.pdf.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
-CH,Power,2030,0,,Fraction,,,
 CZ,Power,2030,0.375,,Fraction,https://commission.europa.eu/document/download/70364812-3095-4eda-9c6f-80c10fd40c0a_en?filename=SWD_Assessment_draft_updated_NECP_Czechia_2023.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 DE,Power,2030,0.8,,Fraction,https://commission.europa.eu/document/download/cd8ba2d6-1af6-4f37-aa07-059989bb1264_en?filename=GERMANY%E2%80%93FINAL_UPDATED_NECP_2021-2030_%28ENGLISH%29.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 DK,Power,2030,1,,Fraction,https://commission.europa.eu/document/download/570f47f7-6005-4a47-b0b9-8a70e33c019b_en?filename=SWD_Assessment_draft_updated_NECP_Denmark_2023.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -19,13 +19,9 @@ LT,Power,2030,1,,Fraction,https://commission.europa.eu/document/download/d84f1a9
 LU,Power,2030,0.373,,Fraction,https://commission.europa.eu/document/download/fc6b2693-3204-4a6a-8d31-f676aa87682b_en?filename=SWD_Assessment_draft_updated_NECP_Luxembourg_2023.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 LV,Power,2030,0.63,,Fraction,https://commission.europa.eu/document/download/46341e64-4bdc-466b-b6c1-6cf41821b838_en?filename=SWD_Assessment_draft_updated_NECP_Latvia_2023_0.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 NL,Power,2030,0.862,,Fraction,https://commission.europa.eu/document/download/1fecc161-a1ab-473d-81eb-d9ef616bc0b1_en?filename=SWD_Assessment_draft_updated_NECP_Netherlands.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
-NO,Power,2030,0,,Fraction,,,
 PL,Power,2030,0.501,,Fraction,https://commission.europa.eu/document/download/87125ae9-14dc-4d3d-9952-b0f55f5db0a7_en?filename=SWD_Assessment_draft_updated_NECP_Poland_2024.pdf.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 PT,Power,2030,0.85,,Fraction,https://commission.europa.eu/document/download/7ff8ab0f-a9ea-466b-99bf-904dc6b281b9_en?filename=SWD_Assessment_draft_updated_NECP_Portugal_2023.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 RO,Power,2030,0.558,,Fraction,https://commission.europa.eu/document/download/32433a1b-41e6-4afd-80bb-e720a9880b70_en?filename=SWD_Assessment_draft_updated_NECP_Romania_2023.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SE,Power,2030,0.88,,Fraction,https://commission.europa.eu/document/download/5c97f5af-6a80-4919-ab14-31b790c5da7b_en?filename=SWD_Assessment_draft_updated_NECP_Sweden_2023.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SI,Power,2030,0.523,,Fraction,https://commission.europa.eu/document/download/e2f0866b-994b-433b-8b13-3ffeec57f923_en?filename=SWD_Assessment_draft_updated_NECP_Slovenia_2023.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SK,Power,2030,0.295,,Fraction,https://commission.europa.eu/document/download/70a86797-719b-472a-bb4c-88dbc4aaca28_en?filename=SWD_Assessment_draft_updated_NECP_Slovakia_2023.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
-TR,Power,2030,0,,Fraction,,,
-UK,Power,2030,0,,Fraction,,,
-NONEU_Balkan,Power,2030,0,,Fraction,,,

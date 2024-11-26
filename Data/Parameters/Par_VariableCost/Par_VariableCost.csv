@@ -7,142 +7,23 @@ World,A_Air,1,2035,0.425,,MEUR/PJ,,,
 World,A_Air,1,2040,0.425,,MEUR/PJ,,,
 World,A_Air,1,2045,0.425,,MEUR/PJ,,,
 World,A_Air,1,2050,0.425,,MEUR/PJ,,,
-World,D_Battery_Li-Ion,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Li-Ion,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Li-Ion,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Li-Ion,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Li-Ion,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Li-Ion,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Li-Ion,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Li-Ion,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Redox,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Redox,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Redox,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Redox,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Redox,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Redox,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Redox,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Battery_Redox,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_CAES,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_CAES,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_CAES,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_CAES,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_CAES,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_CAES,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_CAES,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_CAES,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_H2,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_H2,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_H2,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_H2,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_H2,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_H2,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_H2,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_H2,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_Methane,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_Methane,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_Methane,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_Methane,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_Methane,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_Methane,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_Methane,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Gas_Methane,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_Heat_HLI,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS_Residual,1,2018,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS_Residual,1,2020,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS_Residual,1,2025,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS_Residual,1,2030,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS_Residual,1,2035,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS_Residual,1,2040,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS_Residual,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,D_PHS_Residual,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,FRT_Rail_Conv,1,2018,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2020,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2025,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2030,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2035,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2040,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2045,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2050,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2018,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2020,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2025,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2030,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2035,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2040,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2045,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2050,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2018,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2020,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2025,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2030,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2035,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2040,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2045,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2050,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2018,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2020,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2025,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2030,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2035,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2040,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2045,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2050,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2018,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2020,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2025,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2030,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2035,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2040,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2045,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2050,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2018,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2020,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2025,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2030,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2035,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2040,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2045,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2050,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2018,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2020,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2025,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2030,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2035,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2040,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2045,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2050,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2018,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2020,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2025,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2030,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2035,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2040,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2045,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2050,0,,MEUR/PJ,,,
-World,HB_Convert_DH,1,2018,0.001,,MEUR/PJ,,,
-World,HB_Convert_DH,1,2020,0.001,,MEUR/PJ,,,
-World,HB_Convert_DH,1,2025,0.001,,MEUR/PJ,,,
-World,HB_Convert_DH,1,2030,0.001,,MEUR/PJ,,,
-World,HB_Convert_DH,1,2035,0.001,,MEUR/PJ,,,
-World,HB_Convert_DH,1,2040,0.001,,MEUR/PJ,,,
-World,HB_Convert_DH,1,2045,0.001,,MEUR/PJ,,,
-World,HB_Convert_DH,1,2050,0.001,,MEUR/PJ,,,
+World,D_Battery_Li-Ion,1,All,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Battery_Redox,1,All,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_CAES,1,All,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_H2,1,All,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_Methane,1,All,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Heat_HLI,1,All,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_PHS,1,All,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_PHS_Residual,1,All,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Rail_Conv,1,All,0,,MEUR/PJ,,,
+World,FRT_Rail_Electric,1,All,0,,MEUR/PJ,,,
+World,FRT_Road_BEV,1,All,0,,MEUR/PJ,,,
+World,FRT_Road_H2,1,All,0,,MEUR/PJ,,,
+World,FRT_Road_ICE,1,All,0,,MEUR/PJ,,,
+World,FRT_Road_PHEV,1,All,0,,MEUR/PJ,,,
+World,FRT_Ship_Bio,1,All,0,,MEUR/PJ,,,
+World,FRT_Ship_Conv,1,All,0,,MEUR/PJ,,,
+World,HB_Convert_DH,1,All,0.001,,MEUR/PJ,,,
 World,HHI_BF_BOF_CCS,1,2018,1.44,,MEUR/PJ,,,
 World,HHI_BF_BOF_CCS,2,2018,1.44,,MEUR/PJ,,,
 World,HHI_BF_BOF_CCS,3,2018,1.44,,MEUR/PJ,,,
@@ -416,78 +297,15 @@ World,P_Wind_Onshore_Opt,1,2035,0.73099738,,MEUR/PJ,Onshore turbines - https://e
 World,P_Wind_Onshore_Opt,1,2040,0.715375024,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Wind_Onshore_Opt,1,2045,0.707235762,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Wind_Onshore_Opt,1,2050,0.6990965,,MEUR/PJ,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Bio,1,2018,0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2020,0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2025,0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2030,0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2035,0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2040,0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2045,0,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2050,0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2018,0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2020,0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2025,0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2030,0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2035,0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2040,0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2045,0,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2050,0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2018,0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2020,0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2025,0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2030,0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2035,0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2040,0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2045,0,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2050,0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2018,0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2020,0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2025,0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2030,0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2035,0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2040,0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2045,0,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2050,0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2018,0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2020,0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2025,0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2030,0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2035,0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2040,0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2045,0,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2050,0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2018,0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2020,0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2025,0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2030,0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2035,0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2040,0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2045,0,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2050,0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2018,0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2020,0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2025,0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2030,0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2035,0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2040,0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2045,0,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2050,0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2018,0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2020,0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2025,0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2030,0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2035,0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2040,0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2045,0,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2050,0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2018,0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2020,0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2025,0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2030,0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2035,0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2040,0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2045,0,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2050,0,,MEUR/PJ,,,
+World,PSNG_Air_Bio,1,All,0,,MEUR/PJ,,,
+World,PSNG_Air_Conv,1,All,0,,MEUR/PJ,,,
+World,PSNG_Air_H2,1,All,0,,MEUR/PJ,,,
+World,PSNG_Rail_Conv,1,All,0,,MEUR/PJ,,,
+World,PSNG_Rail_Electric,1,All,0,,MEUR/PJ,,,
+World,PSNG_Road_BEV,1,All,0,,MEUR/PJ,,,
+World,PSNG_Road_H2,1,All,0,,MEUR/PJ,,,
+World,PSNG_Road_ICE,1,All,0,,MEUR/PJ,,,
+World,PSNG_Road_PHEV,1,All,0,,MEUR/PJ,,,
 World,R_Biogas,1,2018,5.176925274,,MEUR/PJ,,,
 World,R_Biogas,1,2020,4.681741117,,MEUR/PJ,,,
 World,R_Biogas,1,2025,4.963095752,,MEUR/PJ,,,
