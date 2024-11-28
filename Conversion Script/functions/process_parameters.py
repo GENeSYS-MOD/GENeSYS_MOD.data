@@ -12,7 +12,7 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
 
     # Initialize data_overwritten as False
     data_overwritten = False
-
+    print("File being processed:"+csv_file_path)
 
     # Check if a subdirectory for the scenario exists and read additional CSV file
     scenario_folder_path = os.path.join(os.path.dirname(csv_file_path), scenario_option)
