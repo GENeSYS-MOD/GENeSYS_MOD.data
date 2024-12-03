@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def process_regular_parameters(csv_file_path, unique_values_concatenated, output_format, scenario_option):
+def process_regular_parameters(csv_file_path, unique_values_concatenated, output_format, scenario_option, debugging_output):
     # Compute and truncate worksheet_name to ensure it doesn't exceed 31 characters
     worksheet_name = os.path.splitext(os.path.basename(csv_file_path))[0]
     if len(worksheet_name) > 31:
@@ -12,7 +12,8 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
 
     # Initialize data_overwritten as False
     data_overwritten = False
-    print("File being processed:"+csv_file_path)
+    if debugging_output == True:
+        print("File being processed:"+csv_file_path)
 
     # Check if a subdirectory for the scenario exists and read additional CSV file
     scenario_folder_path = os.path.join(os.path.dirname(csv_file_path), scenario_option)
