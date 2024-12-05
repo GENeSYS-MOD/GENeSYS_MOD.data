@@ -53,6 +53,8 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
         # Define the replacement years
         replacement_years = unique_values_concatenated['Year']
         replacement_years = replacement_years.dropna()
+        replacement_years = replacement_years.astype(int)
+        replacement_years = replacement_years.astype(str)
 
         # Create new rows by repeating the 'All' rows with different years
         new_rows = []
@@ -68,17 +70,12 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
                 df = df.iloc[:, :(value_col_index + 1)]
 
                 # Check if a similar row already exists
-                columns_to_check = [col for col in df.columns if col not in ['Value']]
+                columns_to_check = [col for col in df.columns if col != 'Value']
 
-                if not columns_to_check:  # If there are no columns to check, skip
-                    new_rows.append(new_row)
-                    continue
+                is_duplicate = ((df[columns_to_check] == new_row[columns_to_check].to_dict()).all(axis=1)).any()               
 
-                # Compare the existing rows to the new row excluding the 'Value' column
-                match_condition = (df[columns_to_check] == new_row[columns_to_check].to_dict()).all(axis=1)
-
-                # Only append the new row if it doesn't already exist
-                if not match_condition.any():
+                # Only add the new row if it's not a duplicate
+                if not is_duplicate:
                     new_rows.append(new_row)
 
         # Convert new rows to DataFrame if there are new rows to append
