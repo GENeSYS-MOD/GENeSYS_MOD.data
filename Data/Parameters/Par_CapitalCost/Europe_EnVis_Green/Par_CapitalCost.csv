@@ -244,3 +244,38 @@ World,X_Powerfuel,2035,1880,,MEUR/GW,Power to Jet Fuel (lower)- https://ens.dk/e
 World,X_Powerfuel,2040,1600,,MEUR/GW,Power to Jet Fuel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Powerfuel,2045,1480,,MEUR/GW,Power to Jet Fuel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Powerfuel,2050,1360,,MEUR/GW,Power to Jet Fuel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_PV_Rooftop_Commercial,2018,860,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,2018,1190,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,2018,540,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,2018,540,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,2018,540,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,2018,600,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Deep,2018,2420,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Shallow,2018,1700,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Transitional,2018,2120,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Onshore_Avg,2018,870,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Onshore_Inf,2018,870,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Onshore_Opt,2018,870,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Biomass,2018,2000,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,2018,5980,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_H2_OCGT,2018,773,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural,2018,870,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCGT,2018,850,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,2018,960,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_OCGT,2018,638,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SMR,2018,805,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,2018,5412,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Hardcoal_CCS,2018,2923.2,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Coal_Lignite_CCS,2018,2923.2,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,2018,1640,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Natural_CCS,2018,1640,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_Gas_CCS,2018,89.45454545,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMI_HardCoal_CCS,2018,720,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Biomass_CCS,2018,4050,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,2018,3450,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Coal_Lignite_CCS,2018,3600,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,2018,2852,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,2018,830,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2018,1050,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Biofuel,2018,768,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Powerfuel,2018,2720,,MEUR/GW,need update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
