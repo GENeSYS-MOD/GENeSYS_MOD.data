@@ -1,0 +1,372 @@
+parameters:
+  unchanged_files:
+    - Par_AnnualEmissionLimit
+    - Sets
+    - Par_AnnualSectoralEmissionLimit
+    - Par_BaseYearSlack
+    - Par_CapacityFactor
+    - Par_CapitalCostStorage
+    - Par_EmissionActivityRatio
+    - Par_EmissionContentPerFuel
+    - Par_FixedCost
+    - Par_InputActivityRatio
+    - Par_MinStorageCharge
+    - Par_ModelPeriodEmissionLimit
+    - Par_ModelPeriodExogenousEmission
+    - Par_OperationalLife
+    - Par_OperationalLifeStorage
+    - Par_ProductionChangeCost
+    - Par_ProductionGrowthLimit
+    - Par_RampingDownFactor
+    - Par_RampingUpFactor
+    - Par_ResidualStorageCapacity
+    - Par_SelfSufficiency
+    - Par_StorageLevelStart
+    - Par_TechnologyFromStorage
+    - Par_TechnologyToStorage
+    - Par_TotalAnnualMinActivity
+    - Par_TotalAnnualMinCapacity
+    - Par_TradeLossFactor
+
+  changed_files1:
+    - file_name: Par_GeneralDiscountRate
+      method: "copy"
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+  changed_files:
+    - file_name: Par_RegionalModelPeriodEmissionLimit
+      method: "copy"
+      index_count: 2
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_ReserveMargin
+      method: "copy"
+      index_count: 2
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    #- file_name: Par_GeneralDiscountRate
+      #method: "copy"
+      #index_count: 1
+      #regions_to_split: 
+        #- 'NO'
+      #new_regions: 
+        #- 'NO1'
+        #- 'NO2'
+      #split_ratio: 
+        #'NO1': 1.0
+        #'NO2': 1.0
+
+    #- file_name: Par_RegionalCCSLimit
+      #method: "copy"
+      #index_count: 1
+      #regions_to_split: 
+        #- 'NO'
+      #new_regions: 
+        #- 'NO1'
+        #- 'NO2'
+      #split_ratio: 
+        #'NO1': 1.0
+        #'NO2': 1.0
+
+    - file_name: Par_ModalPeriodActivityMax
+      method: "copy"
+      index_count: 2
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    #- file_name: Par_SocialDiscountRate
+      #method: "copy"
+      #index_count: 1
+      #regions_to_split: 
+        #- 'NO'
+      #new_regions: 
+        #- 'NO1'
+        #- 'NO2'
+      #split_ratio: 
+        #'NO1': 1.0
+        #'NO2': 1.0
+
+    - file_name: Par_TechnologyDiscountRate
+      method: "copy"
+      index_count: 2
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_TotalAnnualMaxCapacity
+      method: "copy"
+      index_count: 3
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_AnnualExogenousEmission
+      method: "copy"
+      index_count: 3
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_BaseYearProduction
+      method: "copy"
+      index_count: 3
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_CapitalCost
+      method: "copy"
+      index_count: 3
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_REMinProductionTarget
+      method: "copy"
+      index_count: 3
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_ResidualCapacity
+      method: "copy"
+      index_count: 3
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_TotalAnnualMaxActivity
+      method: "copy"
+      index_count: 3
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_EmissionPenalty
+      method: "copy"
+      index_count: 3
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_RegionalAnnualEmissionLimit
+      method: "copy"
+      index_count: 3
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+         
+    - file_name: Par_SpecifiedAnnualDemand
+      method: "copy"
+      index_count: 3
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_ComissionedTradeCapacity
+      method: "copy"
+      index_count: 4
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_GrowthRateTradeCapacity
+      method: "copy"
+      index_count: 4
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_TradeCapacity
+      method: "copy"
+      index_count: 4
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_TradeCapacityGrowthCosts
+      method: "copy"
+      index_count: 3
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    #- file_name: Par_TradeRoute
+      #method: "copy"
+      #index_count: 3
+      #regions_to_split: 
+        #- 'NO'
+      #new_regions: 
+        #- 'NO1'
+        #- 'NO2'
+      #split_ratio: 
+        #'NO1': 1.0
+        #'NO2': 1.0
+
+    - file_name: Par_ModalSplitByFuel
+      method: "copy"
+      index_count: 4
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_OutputActivityRatio
+      method: "copy"
+      index_count: 4
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_RegionalBaseYearProduction
+      method: "copy"
+      index_count: 4
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+    - file_name: Par_VariableCosts
+      method: "copy"
+      index_count: 4
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+
+  #trade_files:
+    #- file_name: Par_TradeCapacity
+      #method: trade # no function
+      #index_count: 3
+      #regions_to_split:
+        #- 'NO'
+      #new_regions:
+        #- 'NO1'
+        #- 'NO2'
+      #split_ratio: 
+        #'NO1': 1.0
+        #'NO2': 1.0
+      #value:
+        #'NO1' - 'NO2': 23
+        #'NO2' - 'NO1': 45
+
+
