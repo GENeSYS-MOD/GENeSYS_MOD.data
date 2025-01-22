@@ -22,8 +22,6 @@ AT,D_PHS,All,13.25,,GW,,,
 AT,HB_Solar_Thermal,All,999999,,GW,,,
 AT,HLI_Solar_Thermal,All,999999,,GW,,,
 AT,P_CSP,All,8.19,,GW,,,
-AT,P_Hydro_Reservoir,All,7.8182,,GW,,,
-AT,P_Hydro_RoR,All,10.1998,,GW,,,
 AT,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 AT,P_PV_Rooftop_Residential,All,999999,,GW,,,
 AT,P_PV_Utility_Avg,All,13.04177943,,GW,,,
@@ -59,8 +57,6 @@ BE,D_PHS,All,0.625,,GW,,,
 BE,HB_Solar_Thermal,All,999999,,GW,,,
 BE,HLI_Solar_Thermal,All,999999,,GW,,,
 BE,P_CSP,All,3.51,,GW,,,
-BE,P_Hydro_Reservoir,All,0.154916667,,GW,,,
-BE,P_Hydro_RoR,All,1.700400433,,GW,,,
 BE,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 BE,P_PV_Rooftop_Residential,All,999999,,GW,,,
 BE,P_PV_Utility_Avg,All,12.64234829,,GW,,,
@@ -79,8 +75,6 @@ BG,D_PHS,All,0,,GW,,,
 BG,HB_Solar_Thermal,All,999999,,GW,,,
 BG,HLI_Solar_Thermal,All,999999,,GW,,,
 BG,P_CSP,All,13.13,,GW,,,
-BG,P_Hydro_Reservoir,All,3.0329,,GW,,,
-BG,P_Hydro_RoR,All,1.1232,,GW,,,
 BG,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 BG,P_PV_Rooftop_Residential,All,999999,,GW,,,
 BG,P_PV_Utility_Avg,All,7.30912474,,GW,,,
@@ -134,8 +128,6 @@ CZ,D_PHS,All,0.625,,GW,,,
 CZ,HB_Solar_Thermal,All,999999,,GW,,,
 CZ,HLI_Solar_Thermal,All,999999,,GW,,,
 CZ,P_CSP,All,11.05,,GW,,,
-CZ,P_Hydro_Reservoir,All,0.325,,GW,,,
-CZ,P_Hydro_RoR,All,2.444,,GW,,,
 CZ,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 CZ,P_PV_Rooftop_Residential,All,999999,,GW,,,
 CZ,P_PV_Utility_Avg,All,16.45828438,,GW,,,
@@ -158,8 +150,6 @@ DE,D_PHS,All,0.125,,GW,,,
 DE,HB_Solar_Thermal,All,999999,,GW,,,
 DE,HLI_Solar_Thermal,All,999999,,GW,,,
 DE,P_CSP,All,43.42,,GW,,,
-DE,P_Hydro_Reservoir,All,9.27524,,GW,,,
-DE,P_Hydro_RoR,All,7.74163,,GW,,,
 DE,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 DE,P_PV_Rooftop_Residential,All,999999,,GW,,,
 DE,P_PV_Utility_Avg,All,85.87309284,,GW,,,
@@ -178,8 +168,6 @@ DK,D_PHS,All,0,,GW,,,
 DK,HB_Solar_Thermal,All,999999,,GW,,,
 DK,HLI_Solar_Thermal,All,999999,,GW,,,
 DK,P_CSP,All,6.89,,GW,,,
-DK,P_Hydro_Reservoir,All,0,,GW,,,
-DK,P_Hydro_RoR,All,0,,GW,,,
 DK,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 DK,P_PV_Rooftop_Residential,All,999999,,GW,,,
 DK,P_PV_Utility_Avg,All,7.550832487,,GW,,,
@@ -198,8 +186,6 @@ EE,D_PHS,All,0,,GW,,,
 EE,HB_Solar_Thermal,All,999999,,GW,,,
 EE,HLI_Solar_Thermal,All,999999,,GW,,,
 EE,P_CSP,All,2.47,,GW,,,
-EE,P_Hydro_Reservoir,All,0,,GW,,,
-EE,P_Hydro_RoR,All,0,,GW,,,
 EE,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 EE,P_PV_Rooftop_Residential,All,999999,,GW,,,
 EE,P_PV_Utility_Avg,All,1.120837931,,GW,,,
@@ -218,8 +204,6 @@ ES,D_PHS,All,37.75,,GW,,,
 ES,HB_Solar_Thermal,All,999999,,GW,,,
 ES,HLI_Solar_Thermal,All,999999,,GW,,,
 ES,P_CSP,All,71.63,,GW,,,
-ES,P_Hydro_Reservoir,All,18.61384615,,GW,,,
-ES,P_Hydro_RoR,All,7.782918,,GW,,,
 ES,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 ES,P_PV_Rooftop_Residential,All,999999,,GW,,,
 ES,P_PV_Utility_Avg,All,105.3,,GW,,,
@@ -238,8 +222,6 @@ FI,D_PHS,All,0,,GW,,,
 FI,HB_Solar_Thermal,All,999999,,GW,,,
 FI,HLI_Solar_Thermal,All,999999,,GW,,,
 FI,P_CSP,All,5.98,,GW,,,
-FI,P_Hydro_Reservoir,All,4.095,,GW,,,
-FI,P_Hydro_RoR,All,0,,GW,,,
 FI,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 FI,P_PV_Rooftop_Residential,All,999999,,GW,,,
 FI,P_PV_Utility_Avg,All,11.27204821,,GW,,,
@@ -258,8 +240,6 @@ FR,D_PHS,All,7.25,,GW,,,
 FR,HB_Solar_Thermal,All,999999,,GW,,,
 FR,HLI_Solar_Thermal,All,999999,,GW,,,
 FR,P_CSP,All,75.79,,GW,,,
-FR,P_Hydro_Reservoir,All,13.4225,,GW,,,
-FR,P_Hydro_RoR,All,16.5308,,GW,,,
 FR,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 FR,P_PV_Rooftop_Residential,All,999999,,GW,,,
 FR,P_PV_Utility_Avg,All,98.96481901,,GW,,,
@@ -278,8 +258,6 @@ GR,D_PHS,All,0.125,,GW,,,
 GR,HB_Solar_Thermal,All,999999,,GW,,,
 GR,HLI_Solar_Thermal,All,999999,,GW,,,
 GR,P_CSP,All,21.19,,GW,,,
-GR,P_Hydro_Reservoir,All,0.2938,,GW,,,
-GR,P_Hydro_RoR,All,1.8356,,GW,,,
 GR,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 GR,P_PV_Rooftop_Residential,All,999999,,GW,,,
 GR,P_PV_Utility_Avg,All,36.4,,GW,,,
@@ -298,8 +276,6 @@ HR,D_PHS,All,0.75,,GW,,,
 HR,HB_Solar_Thermal,All,999999,,GW,,,
 HR,HLI_Solar_Thermal,All,999999,,GW,,,
 HR,P_CSP,All,3.51,,GW,,,
-HR,P_Hydro_Reservoir,All,2.47,,GW,,,
-HR,P_Hydro_RoR,All,0.39,,GW,,,
 HR,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 HR,P_PV_Rooftop_Residential,All,999999,,GW,,,
 HR,P_PV_Utility_Avg,All,5.049336686,,GW,,,
@@ -318,8 +294,6 @@ HU,D_PHS,All,0,,GW,,,
 HU,HB_Solar_Thermal,All,999999,,GW,,,
 HU,HLI_Solar_Thermal,All,999999,,GW,,,
 HU,P_CSP,All,13.91,,GW,,,
-HU,P_Hydro_Reservoir,All,0.065,,GW,,,
-HU,P_Hydro_RoR,All,0,,GW,,,
 HU,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 HU,P_PV_Rooftop_Residential,All,999999,,GW,,,
 HU,P_PV_Utility_Avg,All,10.10873483,,GW,,,
@@ -338,8 +312,6 @@ IE,D_PHS,All,0,,GW,,,
 IE,HB_Solar_Thermal,All,999999,,GW,,,
 IE,HLI_Solar_Thermal,All,999999,,GW,,,
 IE,P_CSP,All,11.83,,GW,,,
-IE,P_Hydro_Reservoir,All,0.3094,,GW,,,
-IE,P_Hydro_RoR,All,0.3796,,GW,,,
 IE,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 IE,P_PV_Rooftop_Residential,All,999999,,GW,,,
 IE,P_PV_Utility_Avg,All,7.055003939,,GW,,,
@@ -358,8 +330,6 @@ IT,D_PHS,All,28,,GW,,,
 IT,HB_Solar_Thermal,All,999999,,GW,,,
 IT,HLI_Solar_Thermal,All,999999,,GW,,,
 IT,P_CSP,All,37.18,,GW,,,
-IT,P_Hydro_Reservoir,All,9.5784,,GW,,,
-IT,P_Hydro_RoR,All,19.6326,,GW,,,
 IT,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 IT,P_PV_Rooftop_Residential,All,999999,,GW,,,
 IT,P_PV_Utility_Avg,All,64.21987813,,GW,,,
@@ -378,8 +348,6 @@ LT,D_PHS,All,0,,GW,,,
 LT,HB_Solar_Thermal,All,999999,,GW,,,
 LT,HLI_Solar_Thermal,All,999999,,GW,,,
 LT,P_CSP,All,7.15,,GW,,,
-LT,P_Hydro_Reservoir,All,0.16796,,GW,,,
-LT,P_Hydro_RoR,All,1.17,,GW,,,
 LT,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 LT,P_PV_Rooftop_Residential,All,999999,,GW,,,
 LT,P_PV_Utility_Avg,All,15.6,,GW,,,
@@ -398,8 +366,6 @@ LU,D_PHS,All,0,,GW,,,
 LU,HB_Solar_Thermal,All,999999,,GW,,,
 LU,HLI_Solar_Thermal,All,999999,,GW,,,
 LU,P_CSP,All,0.39,,GW,,,
-LU,P_Hydro_Reservoir,All,0.052,,GW,,,
-LU,P_Hydro_RoR,All,1.573,,GW,,,
 LU,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 LU,P_PV_Rooftop_Residential,All,999999,,GW,,,
 LU,P_PV_Utility_Avg,All,0.928822943,,GW,,,
@@ -418,8 +384,6 @@ LV,D_PHS,All,0,,GW,,,
 LV,HB_Solar_Thermal,All,999999,,GW,,,
 LV,HLI_Solar_Thermal,All,999999,,GW,,,
 LV,P_CSP,All,4.68,,GW,,,
-LV,P_Hydro_Reservoir,All,2.0722,,GW,,,
-LV,P_Hydro_RoR,All,0,,GW,,,
 LV,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 LV,P_PV_Rooftop_Residential,All,999999,,GW,,,
 LV,P_PV_Utility_Avg,All,13,,GW,,,
@@ -472,8 +436,6 @@ NL,D_PHS,All,0,,GW,,,
 NL,HB_Solar_Thermal,All,999999,,GW,,,
 NL,HLI_Solar_Thermal,All,999999,,GW,,,
 NL,P_CSP,All,4.94,,GW,,,
-NL,P_Hydro_Reservoir,All,0.0494,,GW,,,
-NL,P_Hydro_RoR,All,0,,GW,,,
 NL,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 NL,P_PV_Rooftop_Residential,All,999999,,GW,,,
 NL,P_PV_Utility_Avg,All,15.65203385,,GW,,,
@@ -530,8 +492,6 @@ NONEU_Balkan,A_Rooftop_Residential,All,100.1888111,,GW,,,
 NONEU_Balkan,D_PHS,All,5.3367795,,GW,,,
 NONEU_Balkan,P_CSP,All,22.98771429,,GW,,,
 NONEU_Balkan,P_Geothermal,All,1.17,,GW,,,
-NONEU_Balkan,P_Hydro_Reservoir,All,5.561772362,,GW,,,
-NONEU_Balkan,P_Hydro_RoR,All,4.136164952,,GW,,,
 NONEU_Balkan,P_Ocean,All,0.117673885,,GW,,,
 NONEU_Balkan,P_PV_Utility_Avg,All,37.95441319,,GW,,,
 NONEU_Balkan,P_PV_Utility_Inf,All,37.95441319,,GW,,,
@@ -549,8 +509,6 @@ PL,D_PHS,All,0,,GW,,,
 PL,HB_Solar_Thermal,All,999999,,GW,,,
 PL,HLI_Solar_Thermal,All,999999,,GW,,,
 PL,P_CSP,All,37.96,,GW,,,
-PL,P_Hydro_Reservoir,All,1.2467,,GW,,,
-PL,P_Hydro_RoR,All,1.8369,,GW,,,
 PL,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 PL,P_PV_Rooftop_Residential,All,999999,,GW,,,
 PL,P_PV_Utility_Avg,All,67.6,,GW,,,
@@ -569,8 +527,6 @@ PT,D_PHS,All,0.875,,GW,,,
 PT,HB_Solar_Thermal,All,999999,,GW,,,
 PT,HLI_Solar_Thermal,All,999999,,GW,,,
 PT,P_CSP,All,9.62,,GW,,,
-PT,P_Hydro_Reservoir,All,8.7269,,GW,,,
-PT,P_Hydro_RoR,All,0,,GW,,,
 PT,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 PT,P_PV_Rooftop_Residential,All,999999,,GW,,,
 PT,P_PV_Utility_Avg,All,10.89353324,,GW,,,
@@ -589,8 +545,6 @@ RO,D_PHS,All,0,,GW,,,
 RO,HB_Solar_Thermal,All,999999,,GW,,,
 RO,HLI_Solar_Thermal,All,999999,,GW,,,
 RO,P_CSP,All,36.79,,GW,,,
-RO,P_Hydro_Reservoir,All,8.31012325,,GW,,,
-RO,P_Hydro_RoR,All,0,,GW,,,
 RO,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 RO,P_PV_Rooftop_Residential,All,999999,,GW,,,
 RO,P_PV_Utility_Avg,All,57.2,,GW,,,
@@ -643,8 +597,6 @@ SE,D_PHS,All,16,,GW,,,
 SE,HB_Solar_Thermal,All,999999,,GW,,,
 SE,HLI_Solar_Thermal,All,999999,,GW,,,
 SE,P_CSP,All,8.06,,GW,,,
-SE,P_Hydro_Reservoir,All,14.586,,GW,,,
-SE,P_Hydro_RoR,All,6.474,,GW,,,
 SE,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 SE,P_PV_Rooftop_Residential,All,999999,,GW,,,
 SE,P_PV_Utility_Avg,All,18.5999362,,GW,,,
@@ -663,8 +615,6 @@ SI,D_PHS,All,0,,GW,,,
 SI,HB_Solar_Thermal,All,999999,,GW,,,
 SI,HLI_Solar_Thermal,All,999999,,GW,,,
 SI,P_CSP,All,1.3,,GW,,,
-SI,P_Hydro_Reservoir,All,1.3949,,GW,,,
-SI,P_Hydro_RoR,All,0.234,,GW,,,
 SI,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 SI,P_PV_Rooftop_Residential,All,999999,,GW,,,
 SI,P_PV_Utility_Avg,All,2.449814718,,GW,,,
@@ -683,8 +633,6 @@ SK,D_PHS,All,0,,GW,,,
 SK,HB_Solar_Thermal,All,999999,,GW,,,
 SK,HLI_Solar_Thermal,All,999999,,GW,,,
 SK,P_CSP,All,5.07,,GW,,,
-SK,P_Hydro_Reservoir,All,2.038465,,GW,,,
-SK,P_Hydro_RoR,All,1.257308,,GW,,,
 SK,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 SK,P_PV_Rooftop_Residential,All,999999,,GW,,,
 SK,P_PV_Utility_Avg,All,7.626105957,,GW,,,
@@ -704,8 +652,6 @@ TR,HB_Solar_Thermal,All,91.83109367,,GW,,,
 TR,HLI_Solar_Thermal,All,130.2454544,,GW,,,
 TR,P_CSP,All,9168.12,,GW,,,
 TR,P_Geothermal,All,0,,GW,,,
-TR,P_Hydro_Reservoir,All,40.82,,GW,,,
-TR,P_Hydro_RoR,All,15.08,,GW,,,
 TR,P_Ocean,All,0,,GW,,,
 TR,P_PV_Rooftop_Commercial,All,1299998.7,,GW,,,
 TR,P_PV_Rooftop_Residential,All,1299998.7,,GW,,,
@@ -741,8 +687,6 @@ UK,D_PHS,All,3.25,,GW,,,
 UK,HB_Solar_Thermal,All,999999,,GW,,,
 UK,HLI_Solar_Thermal,All,999999,,GW,,,
 UK,P_CSP,All,44.72,,GW,,,
-UK,P_Hydro_Reservoir,All,1.4586,,GW,,,
-UK,P_Hydro_RoR,All,0,,GW,,,
 UK,P_PV_Rooftop_Commercial,All,999999,,GW,,,
 UK,P_PV_Rooftop_Residential,All,999999,,GW,,,
 UK,P_PV_Utility_Avg,All,66.32116224,,GW,,,
@@ -1962,22 +1906,6 @@ DE_BB,P_H2_OCGT,2035,999999,,GW,,,
 DE_BB,P_H2_OCGT,2040,999999,,GW,,,
 DE_BB,P_H2_OCGT,2045,999999,,GW,,,
 DE_BB,P_H2_OCGT,2050,999999,,GW,,,
-DE_BB,P_Hydro_Reservoir,2018,0.005432,,GW,,,
-DE_BB,P_Hydro_Reservoir,2020,0.005432,,GW,,,
-DE_BB,P_Hydro_Reservoir,2025,0.005432,,GW,,,
-DE_BB,P_Hydro_Reservoir,2030,0.005432,,GW,,,
-DE_BB,P_Hydro_Reservoir,2035,0.005432,,GW,,,
-DE_BB,P_Hydro_Reservoir,2040,0.005432,,GW,,,
-DE_BB,P_Hydro_Reservoir,2045,0.005432,,GW,,,
-DE_BB,P_Hydro_Reservoir,2050,0.005432,,GW,,,
-DE_BB,P_Hydro_RoR,2018,0.002568,,GW,,,
-DE_BB,P_Hydro_RoR,2020,0.002568,,GW,,,
-DE_BB,P_Hydro_RoR,2025,0.002568,,GW,,,
-DE_BB,P_Hydro_RoR,2030,0.002568,,GW,,,
-DE_BB,P_Hydro_RoR,2035,0.002568,,GW,,,
-DE_BB,P_Hydro_RoR,2040,0.002568,,GW,,,
-DE_BB,P_Hydro_RoR,2045,0.002568,,GW,,,
-DE_BB,P_Hydro_RoR,2050,0.002568,,GW,,,
 DE_BB,P_Nuclear,2018,999999,,GW,,,
 DE_BB,P_Nuclear,2025,999999,,GW,,,
 DE_BB,P_Nuclear,2030,999999,,GW,,,
@@ -2780,14 +2708,6 @@ DE_BE,P_H2_OCGT,2035,999999,,GW,,,
 DE_BE,P_H2_OCGT,2040,999999,,GW,,,
 DE_BE,P_H2_OCGT,2045,999999,,GW,,,
 DE_BE,P_H2_OCGT,2050,999999,,GW,,,
-DE_BE,P_Hydro_RoR,2018,1.00E-05,,GW,,,
-DE_BE,P_Hydro_RoR,2020,1.00E-05,,GW,,,
-DE_BE,P_Hydro_RoR,2025,1.00E-05,,GW,,,
-DE_BE,P_Hydro_RoR,2030,1.00E-05,,GW,,,
-DE_BE,P_Hydro_RoR,2035,1.00E-05,,GW,,,
-DE_BE,P_Hydro_RoR,2040,1.00E-05,,GW,,,
-DE_BE,P_Hydro_RoR,2045,1.00E-05,,GW,,,
-DE_BE,P_Hydro_RoR,2050,1.00E-05,,GW,,,
 DE_BE,P_Nuclear,2018,999999,,GW,,,
 DE_BE,P_Nuclear,2025,999999,,GW,,,
 DE_BE,P_Nuclear,2030,999999,,GW,,,
@@ -3591,22 +3511,6 @@ DE_BW,P_H2_OCGT,2035,999999,,GW,,,
 DE_BW,P_H2_OCGT,2040,999999,,GW,,,
 DE_BW,P_H2_OCGT,2045,999999,,GW,,,
 DE_BW,P_H2_OCGT,2050,999999,,GW,,,
-DE_BW,P_Hydro_Reservoir,2018,0.831096,,GW,,,
-DE_BW,P_Hydro_Reservoir,2020,0.831096,,GW,,,
-DE_BW,P_Hydro_Reservoir,2025,0.831096,,GW,,,
-DE_BW,P_Hydro_Reservoir,2030,0.831096,,GW,,,
-DE_BW,P_Hydro_Reservoir,2035,0.831096,,GW,,,
-DE_BW,P_Hydro_Reservoir,2040,0.831096,,GW,,,
-DE_BW,P_Hydro_Reservoir,2045,0.831096,,GW,,,
-DE_BW,P_Hydro_Reservoir,2050,0.831096,,GW,,,
-DE_BW,P_Hydro_RoR,2018,0.392904,,GW,,,
-DE_BW,P_Hydro_RoR,2020,0.392904,,GW,,,
-DE_BW,P_Hydro_RoR,2025,0.392904,,GW,,,
-DE_BW,P_Hydro_RoR,2030,0.392904,,GW,,,
-DE_BW,P_Hydro_RoR,2035,0.392904,,GW,,,
-DE_BW,P_Hydro_RoR,2040,0.392904,,GW,,,
-DE_BW,P_Hydro_RoR,2045,0.392904,,GW,,,
-DE_BW,P_Hydro_RoR,2050,0.392904,,GW,,,
 DE_BW,P_Nuclear,2018,999999,,GW,,,
 DE_BW,P_Nuclear,2025,999999,,GW,,,
 DE_BW,P_Nuclear,2030,999999,,GW,,,
@@ -4410,22 +4314,6 @@ DE_BY,P_H2_OCGT,2035,999999,,GW,,,
 DE_BY,P_H2_OCGT,2040,999999,,GW,,,
 DE_BY,P_H2_OCGT,2045,999999,,GW,,,
 DE_BY,P_H2_OCGT,2050,999999,,GW,,,
-DE_BY,P_Hydro_Reservoir,2018,2.05941,,GW,,,
-DE_BY,P_Hydro_Reservoir,2020,2.05941,,GW,,,
-DE_BY,P_Hydro_Reservoir,2025,2.05941,,GW,,,
-DE_BY,P_Hydro_Reservoir,2030,2.05941,,GW,,,
-DE_BY,P_Hydro_Reservoir,2035,2.05941,,GW,,,
-DE_BY,P_Hydro_Reservoir,2040,2.05941,,GW,,,
-DE_BY,P_Hydro_Reservoir,2045,2.05941,,GW,,,
-DE_BY,P_Hydro_Reservoir,2050,2.05941,,GW,,,
-DE_BY,P_Hydro_RoR,2018,0.973593,,GW,,,
-DE_BY,P_Hydro_RoR,2020,0.973593,,GW,,,
-DE_BY,P_Hydro_RoR,2025,0.973593,,GW,,,
-DE_BY,P_Hydro_RoR,2030,0.973593,,GW,,,
-DE_BY,P_Hydro_RoR,2035,0.973593,,GW,,,
-DE_BY,P_Hydro_RoR,2040,0.973593,,GW,,,
-DE_BY,P_Hydro_RoR,2045,0.973593,,GW,,,
-DE_BY,P_Hydro_RoR,2050,0.973593,,GW,,,
 DE_BY,P_Nuclear,2018,999999,,GW,,,
 DE_BY,P_Nuclear,2025,999999,,GW,,,
 DE_BY,P_Nuclear,2030,999999,,GW,,,
@@ -5228,22 +5116,6 @@ DE_HB,P_H2_OCGT,2035,999999,,GW,,,
 DE_HB,P_H2_OCGT,2040,999999,,GW,,,
 DE_HB,P_H2_OCGT,2045,999999,,GW,,,
 DE_HB,P_H2_OCGT,2050,999999,,GW,,,
-DE_HB,P_Hydro_Reservoir,2018,0.00679,,GW,,,
-DE_HB,P_Hydro_Reservoir,2020,0.00679,,GW,,,
-DE_HB,P_Hydro_Reservoir,2025,0.00679,,GW,,,
-DE_HB,P_Hydro_Reservoir,2030,0.00679,,GW,,,
-DE_HB,P_Hydro_Reservoir,2035,0.00679,,GW,,,
-DE_HB,P_Hydro_Reservoir,2040,0.00679,,GW,,,
-DE_HB,P_Hydro_Reservoir,2045,0.00679,,GW,,,
-DE_HB,P_Hydro_Reservoir,2050,0.00679,,GW,,,
-DE_HB,P_Hydro_RoR,2018,0.00321429,,GW,,,
-DE_HB,P_Hydro_RoR,2020,0.00321,,GW,,,
-DE_HB,P_Hydro_RoR,2025,0.00321429,,GW,,,
-DE_HB,P_Hydro_RoR,2030,0.00321429,,GW,,,
-DE_HB,P_Hydro_RoR,2035,0.00321429,,GW,,,
-DE_HB,P_Hydro_RoR,2040,0.00321429,,GW,,,
-DE_HB,P_Hydro_RoR,2045,0.00321429,,GW,,,
-DE_HB,P_Hydro_RoR,2050,0.00321429,,GW,,,
 DE_HB,P_Nuclear,2018,999999,,GW,,,
 DE_HB,P_Nuclear,2025,999999,,GW,,,
 DE_HB,P_Nuclear,2030,999999,,GW,,,
@@ -6046,22 +5918,6 @@ DE_HE,P_H2_OCGT,2035,999999,,GW,,,
 DE_HE,P_H2_OCGT,2040,999999,,GW,,,
 DE_HE,P_H2_OCGT,2045,999999,,GW,,,
 DE_HE,P_H2_OCGT,2050,999999,,GW,,,
-DE_HE,P_Hydro_Reservoir,2018,0.07469,,GW,,,
-DE_HE,P_Hydro_Reservoir,2020,0.07469,,GW,,,
-DE_HE,P_Hydro_Reservoir,2025,0.07469,,GW,,,
-DE_HE,P_Hydro_Reservoir,2030,0.07469,,GW,,,
-DE_HE,P_Hydro_Reservoir,2035,0.07469,,GW,,,
-DE_HE,P_Hydro_Reservoir,2040,0.07469,,GW,,,
-DE_HE,P_Hydro_Reservoir,2045,0.07469,,GW,,,
-DE_HE,P_Hydro_Reservoir,2050,0.07469,,GW,,,
-DE_HE,P_Hydro_RoR,2018,0.03531,,GW,,,
-DE_HE,P_Hydro_RoR,2020,0.03531,,GW,,,
-DE_HE,P_Hydro_RoR,2025,0.03531,,GW,,,
-DE_HE,P_Hydro_RoR,2030,0.03531,,GW,,,
-DE_HE,P_Hydro_RoR,2035,0.03531,,GW,,,
-DE_HE,P_Hydro_RoR,2040,0.03531,,GW,,,
-DE_HE,P_Hydro_RoR,2045,0.03531,,GW,,,
-DE_HE,P_Hydro_RoR,2050,0.03531,,GW,,,
 DE_HE,P_Nuclear,2018,999999,,GW,,,
 DE_HE,P_Nuclear,2025,999999,,GW,,,
 DE_HE,P_Nuclear,2030,999999,,GW,,,
@@ -6864,21 +6720,6 @@ DE_HH,P_H2_OCGT,2035,999999,,GW,,,
 DE_HH,P_H2_OCGT,2040,999999,,GW,,,
 DE_HH,P_H2_OCGT,2045,999999,,GW,,,
 DE_HH,P_H2_OCGT,2050,999999,,GW,,,
-DE_HH,P_Hydro_Reservoir,2018,6.79E-05,,GW,,,
-DE_HH,P_Hydro_Reservoir,2025,6.79E-05,,GW,,,
-DE_HH,P_Hydro_Reservoir,2030,6.79E-05,,GW,,,
-DE_HH,P_Hydro_Reservoir,2035,6.79E-05,,GW,,,
-DE_HH,P_Hydro_Reservoir,2040,6.79E-05,,GW,,,
-DE_HH,P_Hydro_Reservoir,2045,6.79E-05,,GW,,,
-DE_HH,P_Hydro_Reservoir,2050,6.79E-05,,GW,,,
-DE_HH,P_Hydro_RoR,2018,3.21E-05,,GW,,,
-DE_HH,P_Hydro_RoR,2020,1.00E-05,,GW,,,
-DE_HH,P_Hydro_RoR,2025,3.21E-05,,GW,,,
-DE_HH,P_Hydro_RoR,2030,3.21E-05,,GW,,,
-DE_HH,P_Hydro_RoR,2035,3.21E-05,,GW,,,
-DE_HH,P_Hydro_RoR,2040,3.21E-05,,GW,,,
-DE_HH,P_Hydro_RoR,2045,3.21E-05,,GW,,,
-DE_HH,P_Hydro_RoR,2050,3.21E-05,,GW,,,
 DE_HH,P_Nuclear,2018,999999,,GW,,,
 DE_HH,P_Nuclear,2025,999999,,GW,,,
 DE_HH,P_Nuclear,2030,999999,,GW,,,
@@ -7681,22 +7522,6 @@ DE_MV,P_H2_OCGT,2035,999999,,GW,,,
 DE_MV,P_H2_OCGT,2040,999999,,GW,,,
 DE_MV,P_H2_OCGT,2045,999999,,GW,,,
 DE_MV,P_H2_OCGT,2050,999999,,GW,,,
-DE_MV,P_Hydro_Reservoir,2018,0.003395,,GW,,,
-DE_MV,P_Hydro_Reservoir,2020,0.003395,,GW,,,
-DE_MV,P_Hydro_Reservoir,2025,0.003395,,GW,,,
-DE_MV,P_Hydro_Reservoir,2030,0.003395,,GW,,,
-DE_MV,P_Hydro_Reservoir,2035,0.003395,,GW,,,
-DE_MV,P_Hydro_Reservoir,2040,0.003395,,GW,,,
-DE_MV,P_Hydro_Reservoir,2045,0.003395,,GW,,,
-DE_MV,P_Hydro_Reservoir,2050,0.003395,,GW,,,
-DE_MV,P_Hydro_RoR,2018,0.001605,,GW,,,
-DE_MV,P_Hydro_RoR,2020,0.001605,,GW,,,
-DE_MV,P_Hydro_RoR,2025,0.001605,,GW,,,
-DE_MV,P_Hydro_RoR,2030,0.001605,,GW,,,
-DE_MV,P_Hydro_RoR,2035,0.001605,,GW,,,
-DE_MV,P_Hydro_RoR,2040,0.001605,,GW,,,
-DE_MV,P_Hydro_RoR,2045,0.001605,,GW,,,
-DE_MV,P_Hydro_RoR,2050,0.001605,,GW,,,
 DE_MV,P_Nuclear,2018,999999,,GW,,,
 DE_MV,P_Nuclear,2025,999999,,GW,,,
 DE_MV,P_Nuclear,2030,999999,,GW,,,
@@ -8523,22 +8348,6 @@ DE_NI,P_H2_OCGT,2035,999999,,GW,,,
 DE_NI,P_H2_OCGT,2040,999999,,GW,,,
 DE_NI,P_H2_OCGT,2045,999999,,GW,,,
 DE_NI,P_H2_OCGT,2050,999999,,GW,,,
-DE_NI,P_Hydro_Reservoir,2018,0.086233,,GW,,,
-DE_NI,P_Hydro_Reservoir,2020,0.086233,,GW,,,
-DE_NI,P_Hydro_Reservoir,2025,0.086233,,GW,,,
-DE_NI,P_Hydro_Reservoir,2030,0.086233,,GW,,,
-DE_NI,P_Hydro_Reservoir,2035,0.086233,,GW,,,
-DE_NI,P_Hydro_Reservoir,2040,0.086233,,GW,,,
-DE_NI,P_Hydro_Reservoir,2045,0.086233,,GW,,,
-DE_NI,P_Hydro_Reservoir,2050,0.086233,,GW,,,
-DE_NI,P_Hydro_RoR,2018,0.040767,,GW,,,
-DE_NI,P_Hydro_RoR,2020,0.040767,,GW,,,
-DE_NI,P_Hydro_RoR,2025,0.040767,,GW,,,
-DE_NI,P_Hydro_RoR,2030,0.040767,,GW,,,
-DE_NI,P_Hydro_RoR,2035,0.040767,,GW,,,
-DE_NI,P_Hydro_RoR,2040,0.040767,,GW,,,
-DE_NI,P_Hydro_RoR,2045,0.040767,,GW,,,
-DE_NI,P_Hydro_RoR,2050,0.040767,,GW,,,
 DE_NI,P_Nuclear,2018,999999,,GW,,,
 DE_NI,P_Nuclear,2025,999999,,GW,,,
 DE_NI,P_Nuclear,2030,999999,,GW,,,
@@ -10087,22 +9896,6 @@ DE_NRW,P_H2_OCGT,2035,999999,,GW,,,
 DE_NRW,P_H2_OCGT,2040,999999,,GW,,,
 DE_NRW,P_H2_OCGT,2045,999999,,GW,,,
 DE_NRW,P_H2_OCGT,2050,999999,,GW,,,
-DE_NRW,P_Hydro_Reservoir,2018,0.185367,,GW,,,
-DE_NRW,P_Hydro_Reservoir,2020,0.185367,,GW,,,
-DE_NRW,P_Hydro_Reservoir,2025,0.185367,,GW,,,
-DE_NRW,P_Hydro_Reservoir,2030,0.185367,,GW,,,
-DE_NRW,P_Hydro_Reservoir,2035,0.185367,,GW,,,
-DE_NRW,P_Hydro_Reservoir,2040,0.185367,,GW,,,
-DE_NRW,P_Hydro_Reservoir,2045,0.185367,,GW,,,
-DE_NRW,P_Hydro_Reservoir,2050,0.185367,,GW,,,
-DE_NRW,P_Hydro_RoR,2018,0.087633,,GW,,,
-DE_NRW,P_Hydro_RoR,2020,0.087633,,GW,,,
-DE_NRW,P_Hydro_RoR,2025,0.087633,,GW,,,
-DE_NRW,P_Hydro_RoR,2030,0.087633,,GW,,,
-DE_NRW,P_Hydro_RoR,2035,0.087633,,GW,,,
-DE_NRW,P_Hydro_RoR,2040,0.087633,,GW,,,
-DE_NRW,P_Hydro_RoR,2045,0.087633,,GW,,,
-DE_NRW,P_Hydro_RoR,2050,0.087633,,GW,,,
 DE_NRW,P_Nuclear,2018,999999,,GW,,,
 DE_NRW,P_Nuclear,2025,999999,,GW,,,
 DE_NRW,P_Nuclear,2030,999999,,GW,,,
@@ -10905,22 +10698,6 @@ DE_RP,P_H2_OCGT,2035,999999,,GW,,,
 DE_RP,P_H2_OCGT,2040,999999,,GW,,,
 DE_RP,P_H2_OCGT,2045,999999,,GW,,,
 DE_RP,P_H2_OCGT,2050,999999,,GW,,,
-DE_RP,P_Hydro_Reservoir,2018,0.274995,,GW,,,
-DE_RP,P_Hydro_Reservoir,2020,0.274995,,GW,,,
-DE_RP,P_Hydro_Reservoir,2025,0.274995,,GW,,,
-DE_RP,P_Hydro_Reservoir,2030,0.274995,,GW,,,
-DE_RP,P_Hydro_Reservoir,2035,0.274995,,GW,,,
-DE_RP,P_Hydro_Reservoir,2040,0.274995,,GW,,,
-DE_RP,P_Hydro_Reservoir,2045,0.274995,,GW,,,
-DE_RP,P_Hydro_Reservoir,2050,0.274995,,GW,,,
-DE_RP,P_Hydro_RoR,2018,0.130005,,GW,,,
-DE_RP,P_Hydro_RoR,2020,0.130005,,GW,,,
-DE_RP,P_Hydro_RoR,2025,0.130005,,GW,,,
-DE_RP,P_Hydro_RoR,2030,0.130005,,GW,,,
-DE_RP,P_Hydro_RoR,2035,0.130005,,GW,,,
-DE_RP,P_Hydro_RoR,2040,0.130005,,GW,,,
-DE_RP,P_Hydro_RoR,2045,0.130005,,GW,,,
-DE_RP,P_Hydro_RoR,2050,0.130005,,GW,,,
 DE_RP,P_Nuclear,2018,999999,,GW,,,
 DE_RP,P_Nuclear,2025,999999,,GW,,,
 DE_RP,P_Nuclear,2030,999999,,GW,,,
@@ -11723,22 +11500,6 @@ DE_SH,P_H2_OCGT,2035,999999,,GW,,,
 DE_SH,P_H2_OCGT,2040,999999,,GW,,,
 DE_SH,P_H2_OCGT,2045,999999,,GW,,,
 DE_SH,P_H2_OCGT,2050,999999,,GW,,,
-DE_SH,P_Hydro_Reservoir,2018,0.004074,,GW,,,
-DE_SH,P_Hydro_Reservoir,2020,0.004074,,GW,,,
-DE_SH,P_Hydro_Reservoir,2025,0.004074,,GW,,,
-DE_SH,P_Hydro_Reservoir,2030,0.004074,,GW,,,
-DE_SH,P_Hydro_Reservoir,2035,0.004074,,GW,,,
-DE_SH,P_Hydro_Reservoir,2040,0.004074,,GW,,,
-DE_SH,P_Hydro_Reservoir,2045,0.004074,,GW,,,
-DE_SH,P_Hydro_Reservoir,2050,0.004074,,GW,,,
-DE_SH,P_Hydro_RoR,2018,0.001926,,GW,,,
-DE_SH,P_Hydro_RoR,2020,0.001926,,GW,,,
-DE_SH,P_Hydro_RoR,2025,0.001926,,GW,,,
-DE_SH,P_Hydro_RoR,2030,0.001926,,GW,,,
-DE_SH,P_Hydro_RoR,2035,0.001926,,GW,,,
-DE_SH,P_Hydro_RoR,2040,0.001926,,GW,,,
-DE_SH,P_Hydro_RoR,2045,0.001926,,GW,,,
-DE_SH,P_Hydro_RoR,2050,0.001926,,GW,,,
 DE_SH,P_Nuclear,2018,999999,,GW,,,
 DE_SH,P_Nuclear,2025,999999,,GW,,,
 DE_SH,P_Nuclear,2030,999999,,GW,,,
@@ -12565,22 +12326,6 @@ DE_SL,P_H2_OCGT,2035,999999,,GW,,,
 DE_SL,P_H2_OCGT,2040,999999,,GW,,,
 DE_SL,P_H2_OCGT,2045,999999,,GW,,,
 DE_SL,P_H2_OCGT,2050,999999,,GW,,,
-DE_SL,P_Hydro_Reservoir,2018,0.027839,,GW,,,
-DE_SL,P_Hydro_Reservoir,2020,0.027839,,GW,,,
-DE_SL,P_Hydro_Reservoir,2025,0.027839,,GW,,,
-DE_SL,P_Hydro_Reservoir,2030,0.027839,,GW,,,
-DE_SL,P_Hydro_Reservoir,2035,0.027839,,GW,,,
-DE_SL,P_Hydro_Reservoir,2040,0.027839,,GW,,,
-DE_SL,P_Hydro_Reservoir,2045,0.027839,,GW,,,
-DE_SL,P_Hydro_Reservoir,2050,0.027839,,GW,,,
-DE_SL,P_Hydro_RoR,2018,0.0286071,,GW,,,
-DE_SL,P_Hydro_RoR,2020,0.013161,,GW,,,
-DE_SL,P_Hydro_RoR,2025,0.0286071,,GW,,,
-DE_SL,P_Hydro_RoR,2030,0.0286071,,GW,,,
-DE_SL,P_Hydro_RoR,2035,0.0286071,,GW,,,
-DE_SL,P_Hydro_RoR,2040,0.0286071,,GW,,,
-DE_SL,P_Hydro_RoR,2045,0.0286071,,GW,,,
-DE_SL,P_Hydro_RoR,2050,0.0286071,,GW,,,
 DE_SL,P_Nuclear,2018,999999,,GW,,,
 DE_SL,P_Nuclear,2025,999999,,GW,,,
 DE_SL,P_Nuclear,2030,999999,,GW,,,
@@ -13383,22 +13128,6 @@ DE_SN,P_H2_OCGT,2035,999999,,GW,,,
 DE_SN,P_H2_OCGT,2040,999999,,GW,,,
 DE_SN,P_H2_OCGT,2045,999999,,GW,,,
 DE_SN,P_H2_OCGT,2050,999999,,GW,,,
-DE_SN,P_Hydro_Reservoir,2018,0.076727,,GW,,,
-DE_SN,P_Hydro_Reservoir,2020,0.076727,,GW,,,
-DE_SN,P_Hydro_Reservoir,2025,0.076727,,GW,,,
-DE_SN,P_Hydro_Reservoir,2030,0.076727,,GW,,,
-DE_SN,P_Hydro_Reservoir,2035,0.076727,,GW,,,
-DE_SN,P_Hydro_Reservoir,2040,0.076727,,GW,,,
-DE_SN,P_Hydro_Reservoir,2045,0.076727,,GW,,,
-DE_SN,P_Hydro_Reservoir,2050,0.076727,,GW,,,
-DE_SN,P_Hydro_RoR,2018,0.036273,,GW,,,
-DE_SN,P_Hydro_RoR,2020,0.036273,,GW,,,
-DE_SN,P_Hydro_RoR,2025,0.036273,,GW,,,
-DE_SN,P_Hydro_RoR,2030,0.036273,,GW,,,
-DE_SN,P_Hydro_RoR,2035,0.036273,,GW,,,
-DE_SN,P_Hydro_RoR,2040,0.036273,,GW,,,
-DE_SN,P_Hydro_RoR,2045,0.036273,,GW,,,
-DE_SN,P_Hydro_RoR,2050,0.036273,,GW,,,
 DE_SN,P_Nuclear,2018,999999,,GW,,,
 DE_SN,P_Nuclear,2025,999999,,GW,,,
 DE_SN,P_Nuclear,2030,999999,,GW,,,
@@ -14201,22 +13930,6 @@ DE_ST,P_H2_OCGT,2035,999999,,GW,,,
 DE_ST,P_H2_OCGT,2040,999999,,GW,,,
 DE_ST,P_H2_OCGT,2045,999999,,GW,,,
 DE_ST,P_H2_OCGT,2050,999999,,GW,,,
-DE_ST,P_Hydro_Reservoir,2018,0.022407,,GW,,,
-DE_ST,P_Hydro_Reservoir,2020,0.022407,,GW,,,
-DE_ST,P_Hydro_Reservoir,2025,0.022407,,GW,,,
-DE_ST,P_Hydro_Reservoir,2030,0.022407,,GW,,,
-DE_ST,P_Hydro_Reservoir,2035,0.022407,,GW,,,
-DE_ST,P_Hydro_Reservoir,2040,0.022407,,GW,,,
-DE_ST,P_Hydro_Reservoir,2045,0.022407,,GW,,,
-DE_ST,P_Hydro_Reservoir,2050,0.022407,,GW,,,
-DE_ST,P_Hydro_RoR,2018,0.010593,,GW,,,
-DE_ST,P_Hydro_RoR,2020,0.010593,,GW,,,
-DE_ST,P_Hydro_RoR,2025,0.010593,,GW,,,
-DE_ST,P_Hydro_RoR,2030,0.010593,,GW,,,
-DE_ST,P_Hydro_RoR,2035,0.010593,,GW,,,
-DE_ST,P_Hydro_RoR,2040,0.010593,,GW,,,
-DE_ST,P_Hydro_RoR,2045,0.010593,,GW,,,
-DE_ST,P_Hydro_RoR,2050,0.010593,,GW,,,
 DE_ST,P_Nuclear,2018,999999,,GW,,,
 DE_ST,P_Nuclear,2025,999999,,GW,,,
 DE_ST,P_Nuclear,2030,999999,,GW,,,
@@ -15020,22 +14733,6 @@ DE_TH,P_H2_OCGT,2035,999999,,GW,,,
 DE_TH,P_H2_OCGT,2040,999999,,GW,,,
 DE_TH,P_H2_OCGT,2045,999999,,GW,,,
 DE_TH,P_H2_OCGT,2050,999999,,GW,,,
-DE_TH,P_Hydro_Reservoir,2018,0.038703,,GW,,,
-DE_TH,P_Hydro_Reservoir,2020,0.038703,,GW,,,
-DE_TH,P_Hydro_Reservoir,2025,0.038703,,GW,,,
-DE_TH,P_Hydro_Reservoir,2030,0.038703,,GW,,,
-DE_TH,P_Hydro_Reservoir,2035,0.038703,,GW,,,
-DE_TH,P_Hydro_Reservoir,2040,0.038703,,GW,,,
-DE_TH,P_Hydro_Reservoir,2045,0.038703,,GW,,,
-DE_TH,P_Hydro_Reservoir,2050,0.038703,,GW,,,
-DE_TH,P_Hydro_RoR,2018,0.018297,,GW,,,
-DE_TH,P_Hydro_RoR,2020,0.018297,,GW,,,
-DE_TH,P_Hydro_RoR,2025,0.018297,,GW,,,
-DE_TH,P_Hydro_RoR,2030,0.018297,,GW,,,
-DE_TH,P_Hydro_RoR,2035,0.018297,,GW,,,
-DE_TH,P_Hydro_RoR,2040,0.018297,,GW,,,
-DE_TH,P_Hydro_RoR,2045,0.018297,,GW,,,
-DE_TH,P_Hydro_RoR,2050,0.018297,,GW,,,
 DE_TH,P_Nuclear,2018,999999,,GW,,,
 DE_TH,P_Nuclear,2025,999999,,GW,,,
 DE_TH,P_Nuclear,2030,999999,,GW,,,
@@ -15352,3 +15049,490 @@ DE_TH,Z_Import_Oil,2035,999999,,GW,,,
 DE_TH,Z_Import_Oil,2040,999999,,GW,,,
 DE_TH,Z_Import_Oil,2045,999999,,GW,,,
 DE_TH,Z_Import_Oil,2050,999999,,GW,,,
+AL,P_Hydro_RoR,2018,1.492,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AL,P_Hydro_RoR,2025,1.492,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AL,P_Hydro_RoR,2030,1.492,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AL,P_Hydro_RoR,2035,1.492,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AL,P_Hydro_RoR,2040,1.492,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AL,P_Hydro_RoR,2045,1.492,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AL,P_Hydro_RoR,2050,1.492,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_Reservoir,2018,2.985,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_Reservoir,2020,2.436,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_Reservoir,2025,2.519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_Reservoir,2030,2.519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_Reservoir,2035,2.519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_Reservoir,2040,2.519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_Reservoir,2045,2.519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_Reservoir,2050,2.519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_RoR,2018,5.605,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_RoR,2020,5.724,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_RoR,2025,5.817,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_RoR,2030,5.817,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_RoR,2035,5.817,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_RoR,2040,5.817,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_RoR,2045,5.817,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_RoR,2050,5.817,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_Reservoir,2018,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_Reservoir,2020,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_Reservoir,2025,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_Reservoir,2030,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_Reservoir,2035,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_Reservoir,2040,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_Reservoir,2045,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_Reservoir,2050,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_RoR,2018,0.171,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_RoR,2020,0.119166667,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_RoR,2025,0.119166667,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_RoR,2030,0.119166667,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_RoR,2035,0.119166667,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_RoR,2040,0.119166667,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_RoR,2045,0.119166667,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_RoR,2050,0.119166667,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_Reservoir,2018,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_Reservoir,2020,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_Reservoir,2025,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_Reservoir,2030,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_Reservoir,2035,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_Reservoir,2040,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_Reservoir,2045,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_Reservoir,2050,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_RoR,2018,0.534,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_RoR,2020,0.534,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_RoR,2025,0.534,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_RoR,2030,0.534,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_RoR,2035,0.534,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_RoR,2040,0.534,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_RoR,2045,0.534,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_RoR,2050,0.534,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_Reservoir,2018,5.405,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_Reservoir,2020,5.405,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_Reservoir,2025,5.405,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_Reservoir,2030,5.405,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_Reservoir,2035,5.405,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_Reservoir,2040,5.405,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_Reservoir,2045,5.405,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_Reservoir,2050,5.405,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_RoR,2018,0.529,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_RoR,2020,0.529,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_RoR,2025,0.529,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_RoR,2030,0.529,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_RoR,2035,0.529,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_RoR,2040,0.529,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_RoR,2045,0.529,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_RoR,2050,0.529,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_Reservoir,2018,0.753,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_Reservoir,2020,0.753,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_Reservoir,2025,0.753,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_Reservoir,2030,0.753,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_Reservoir,2035,0.753,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_Reservoir,2040,0.753,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_Reservoir,2045,0.753,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_Reservoir,2050,0.753,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_RoR,2018,0.334,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_RoR,2020,0.334,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_RoR,2025,0.334,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_RoR,2030,0.334,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_RoR,2035,0.334,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_RoR,2040,0.334,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_RoR,2045,0.334,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_RoR,2050,0.334,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2018,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2020,1.19102,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2025,1.19102,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2030,1.19102,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2035,1.19102,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2040,1.19102,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2045,1.19102,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2050,1.19102,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2018,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2020,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2025,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2030,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2035,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2040,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2045,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2050,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_Reservoir,2018,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_Reservoir,2020,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_Reservoir,2025,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_Reservoir,2030,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_Reservoir,2035,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_Reservoir,2040,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_Reservoir,2045,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_Reservoir,2050,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_RoR,2018,0.006,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_RoR,2020,0.006,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_RoR,2025,0.006,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_RoR,2030,0.006,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_RoR,2035,0.006,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_RoR,2040,0.006,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_RoR,2045,0.006,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_Hydro_RoR,2050,0.006,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_Reservoir,2018,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_Reservoir,2020,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_Reservoir,2025,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_Reservoir,2030,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_Reservoir,2035,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_Reservoir,2040,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_Reservoir,2045,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_Reservoir,2050,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_RoR,2018,0.008,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_RoR,2020,0.008,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_RoR,2025,0.008,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_RoR,2030,0.008,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_RoR,2035,0.008,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_RoR,2040,0.008,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_RoR,2045,0.008,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,P_Hydro_RoR,2050,0.008,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_Reservoir,2018,19.125,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_Reservoir,2020,19.125,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_Reservoir,2025,19.125,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_Reservoir,2030,19.125,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_Reservoir,2035,19.125,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_Reservoir,2040,19.125,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_Reservoir,2045,19.125,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_Reservoir,2050,19.125,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_RoR,2018,1.156,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_RoR,2020,1.156,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_RoR,2025,1.156,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_RoR,2030,1.156,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_RoR,2035,1.156,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_RoR,2040,1.156,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_RoR,2045,1.156,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Hydro_RoR,2050,1.156,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_Reservoir,2018,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_Reservoir,2020,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_Reservoir,2025,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_Reservoir,2030,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_Reservoir,2035,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_Reservoir,2040,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_Reservoir,2045,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_Reservoir,2050,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_RoR,2018,3.149,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_RoR,2020,3.149,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_RoR,2025,3.149,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_RoR,2030,3.149,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_RoR,2035,3.149,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_RoR,2040,3.149,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_RoR,2045,3.149,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_RoR,2050,3.149,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_Reservoir,2018,8.578,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_Reservoir,2020,8.578,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_Reservoir,2025,8.578,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_Reservoir,2030,8.578,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_Reservoir,2035,8.578,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_Reservoir,2040,8.578,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_Reservoir,2045,8.578,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_Reservoir,2050,8.578,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_RoR,2018,11.222,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_RoR,2020,10.325,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_RoR,2025,10.325,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_RoR,2030,10.325,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_RoR,2035,10.325,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_RoR,2040,10.325,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_RoR,2045,10.325,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_RoR,2050,10.325,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2018,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2020,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2025,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2030,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2035,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2040,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2045,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2050,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2018,0.299,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2020,0.299,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2025,0.299,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2030,0.299,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2035,0.299,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2040,0.299,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2045,0.299,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2050,0.299,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_Reservoir,2018,1.388,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_Reservoir,2020,1.388,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_Reservoir,2025,1.388,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_Reservoir,2030,1.388,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_Reservoir,2035,1.388,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_Reservoir,2040,1.388,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_Reservoir,2045,1.388,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_Reservoir,2050,1.388,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_RoR,2018,0.421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_RoR,2020,0.421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_RoR,2025,0.421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_RoR,2030,0.421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_RoR,2035,0.421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_RoR,2040,0.421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_RoR,2045,0.421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_RoR,2050,0.421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_Reservoir,2018,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_Reservoir,2020,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_Reservoir,2025,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_Reservoir,2030,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_Reservoir,2035,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_Reservoir,2040,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_Reservoir,2045,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_Reservoir,2050,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_RoR,2018,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_RoR,2020,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_RoR,2025,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_RoR,2030,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_RoR,2035,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_RoR,2040,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_RoR,2045,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_RoR,2050,0.028,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_Reservoir,2018,0.292,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_Reservoir,2020,0.292,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_Reservoir,2025,0.292,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_Reservoir,2030,0.292,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_Reservoir,2035,0.292,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_Reservoir,2040,0.292,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_Reservoir,2045,0.292,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_Reservoir,2050,0.292,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_RoR,2018,0.216,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_RoR,2020,0.216,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_RoR,2025,0.216,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_RoR,2030,0.216,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_RoR,2035,0.216,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_RoR,2040,0.216,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_RoR,2045,0.216,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,P_Hydro_RoR,2050,0.216,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_Reservoir,2018,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_Reservoir,2020,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_Reservoir,2025,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_Reservoir,2030,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_Reservoir,2035,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_Reservoir,2040,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_Reservoir,2045,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_Reservoir,2050,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_RoR,2018,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_RoR,2020,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_RoR,2025,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_RoR,2030,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_RoR,2035,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_RoR,2040,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_RoR,2045,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_RoR,2050,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_Reservoir,2018,0.116,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_Reservoir,2020,0.116,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_Reservoir,2025,0.116,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_Reservoir,2030,0.116,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_Reservoir,2035,0.116,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_Reservoir,2040,0.116,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_Reservoir,2045,0.116,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_Reservoir,2050,0.116,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_RoR,2018,0.128,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_RoR,2020,0.128,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_RoR,2025,0.128,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_RoR,2030,0.128,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_RoR,2035,0.128,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_RoR,2040,0.128,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_RoR,2045,0.128,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_RoR,2050,0.128,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_Reservoir,2018,0.011,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_Reservoir,2020,0.011,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_Reservoir,2025,0.011,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_Reservoir,2030,0.011,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_Reservoir,2035,0.011,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_Reservoir,2040,0.011,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_Reservoir,2045,0.011,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_Reservoir,2050,0.011,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_RoR,2018,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_RoR,2020,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_RoR,2025,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_RoR,2030,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_RoR,2035,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_RoR,2040,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_RoR,2045,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_RoR,2050,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_Reservoir,2018,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_Reservoir,2020,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_Reservoir,2025,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_Reservoir,2030,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_Reservoir,2035,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_Reservoir,2040,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_Reservoir,2045,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_Reservoir,2050,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_RoR,2018,1.539,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_RoR,2020,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_RoR,2025,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_RoR,2030,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_RoR,2035,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_RoR,2040,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_RoR,2045,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_RoR,2050,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_Reservoir,2018,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_Reservoir,2020,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_Reservoir,2025,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_Reservoir,2030,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_Reservoir,2035,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_Reservoir,2040,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_Reservoir,2045,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_Reservoir,2050,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_RoR,2018,0.038,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_RoR,2020,0.038,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_RoR,2025,0.038,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_RoR,2030,0.038,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_RoR,2035,0.038,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_RoR,2040,0.038,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_RoR,2045,0.038,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Hydro_RoR,2050,0.038,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2018,26.313,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2020,26.313,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2025,26.313,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2030,26.313,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2035,26.313,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2040,26.313,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2045,26.313,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2050,26.313,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_RoR,2018,5.586,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_RoR,2020,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_RoR,2025,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_RoR,2030,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_RoR,2035,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_RoR,2040,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_RoR,2045,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_RoR,2050,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_Reservoir,2018,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_RoR,2018,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_Reservoir,2020,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_RoR,2020,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_Reservoir,2025,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_RoR,2025,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_Reservoir,2030,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_RoR,2030,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_Reservoir,2035,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_RoR,2035,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_Reservoir,2040,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_RoR,2040,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_Reservoir,2045,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_RoR,2045,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_Reservoir,2050,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_RoR,2050,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_Reservoir,2018,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_Reservoir,2020,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_Reservoir,2025,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_Reservoir,2030,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_Reservoir,2035,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_Reservoir,2040,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_Reservoir,2045,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_Reservoir,2050,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_RoR,2018,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_RoR,2020,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_RoR,2025,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_RoR,2030,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_RoR,2035,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_RoR,2040,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_RoR,2045,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_RoR,2050,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2018,1.515,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2020,1.515,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2025,1.515,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2030,1.515,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2035,1.515,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2040,1.515,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2045,1.515,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2050,1.515,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2018,2.834,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2020,2.834,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2025,2.834,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2030,2.834,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2035,2.834,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2040,2.834,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2045,2.834,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2050,2.834,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_Reservoir,2018,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_Reservoir,2020,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_Reservoir,2025,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_Reservoir,2030,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_Reservoir,2035,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_Reservoir,2040,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_Reservoir,2045,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_Reservoir,2050,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_RoR,2018,2.687,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_RoR,2020,2.687,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_RoR,2025,2.687,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_RoR,2030,2.687,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_RoR,2035,2.687,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_RoR,2040,2.687,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_RoR,2045,2.687,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_RoR,2050,2.687,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_Reservoir,2018,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_Reservoir,2020,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_Reservoir,2025,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_Reservoir,2030,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_Reservoir,2035,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_Reservoir,2040,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_Reservoir,2045,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_Reservoir,2050,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_RoR,2018,11.22,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_RoR,2020,11.22,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_RoR,2025,11.22,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_RoR,2030,11.22,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_RoR,2035,11.22,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_RoR,2040,11.22,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_RoR,2045,11.22,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_RoR,2050,11.22,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_Reservoir,2018,0.18,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_Reservoir,2020,0.18,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_Reservoir,2025,0.18,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_Reservoir,2030,0.18,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_Reservoir,2035,0.18,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_Reservoir,2040,0.18,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_Reservoir,2045,0.18,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_Reservoir,2050,0.18,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_RoR,2018,1.053,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_RoR,2020,1.053,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_RoR,2025,1.053,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_RoR,2030,1.053,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_RoR,2035,1.053,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_RoR,2040,1.053,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_RoR,2045,1.053,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_RoR,2050,1.053,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_Reservoir,2018,0.418,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_Reservoir,2020,0.418,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_Reservoir,2025,0.418,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_Reservoir,2030,0.418,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_Reservoir,2035,0.418,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_Reservoir,2040,0.418,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_Reservoir,2045,0.418,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_Reservoir,2050,0.418,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_RoR,2018,1.208,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_RoR,2020,1.208,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_RoR,2025,1.208,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_RoR,2030,1.208,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_RoR,2035,1.208,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_RoR,2040,1.208,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_RoR,2045,1.208,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_RoR,2050,1.208,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_Reservoir,2018,19.1,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_Reservoir,2020,19.1,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_Reservoir,2025,19.1,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_Reservoir,2030,19.1,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_Reservoir,2035,19.1,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_Reservoir,2040,19.1,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_Reservoir,2045,19.1,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_Reservoir,2050,19.1,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_RoR,2018,6.8,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_RoR,2020,6.8,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_RoR,2025,6.8,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_RoR,2030,6.8,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_RoR,2035,6.8,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_RoR,2040,6.8,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_RoR,2045,6.8,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,P_Hydro_RoR,2050,6.8,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_Reservoir,2018,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_Reservoir,2020,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_Reservoir,2025,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_Reservoir,2030,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_Reservoir,2035,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_Reservoir,2040,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_Reservoir,2045,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_Reservoir,2050,0,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_RoR,2018,1.758,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_RoR,2020,1.758,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_RoR,2025,1.758,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_RoR,2030,1.758,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_RoR,2035,1.758,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_RoR,2040,1.758,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_RoR,2045,1.758,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_RoR,2050,1.758,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
