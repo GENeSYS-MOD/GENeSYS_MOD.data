@@ -1,0 +1,12 @@
+Source: ERA5, GENeSYS-MOD Timeseries Tool
+Unit: Deviation from mean
+Update at: 22.01.2025
+Updated by: Konstantin Löffler <kl@wip.tu-berlin.de>
+
+Generated time-based temperature profiles for each country.
+
+Assumptions:
+- The time-specific COP is calculated based on desired indoor and outdoor temperatures.
+- Then, each individual hour value is normed to the mean, which creates a timeseries that varies around the base value of 100%.
+- A value of e.g. 120% would thus mean that in the particular hour, the heat pump uses 120% more energy than on average.
+- The average efficiencies for heat pumps are given in the parameters (InputActivityRatio)
