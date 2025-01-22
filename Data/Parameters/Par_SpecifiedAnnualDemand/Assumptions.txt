@@ -8,6 +8,7 @@ Sources:
 	- ENTSOE: TYNDP 2022 Scenario Report
 		- Heat_Buildings
 		- Heat_Industrial
+		- H2 non-energy demands for 2030+
 	- SINTEF: Potential in Norwegian Industry
 		- Heat_Industrial
 	- Eurostat Database: Final Consumption Industry Sector
@@ -16,6 +17,8 @@ Sources:
 		- Heat_District
 	- District heating potential in the EU-27
 		- Heat_District
+	- European Hydrogen Observatory: European hydrogen market landscape
+		- Current historic hydrogen demands (2022)
 	
 In general:
 	- Assumed 2015 = 2018. Interpolated values for the years not given in the TYNDP source.
@@ -52,3 +55,13 @@ Parameters:
 	Assumed no develompment in the DistrictHeat_Industrial - needs update.
 	
 	Heat_District = DistrictHeat_Building + DistrictHeat_Industrial
+
+	- H2:
+	
+	Scenarios for EU EnVis-2060 scenarios follow the following rule:
+		- Historic data is taken from European Hydrogen Observatory (2023), which is kept towards the future, as this is currently fossil H2 demand which will potentially need to be replaced by renewable hydrogen sources
+		- Future data is based on the TYNDP 2022 Scenario Report:
+			- EU Trinity assumes the National Trends Scenario
+			- NECP Essentials and REPowerEU++ assume the Global Ambition Scenario
+			- Go RES assumes the Distributed Energy Scenario
+			- The TYNDP scenario results are added on top of the historic existing hydrogen demands
