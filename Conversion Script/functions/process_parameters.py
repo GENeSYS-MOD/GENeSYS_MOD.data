@@ -186,6 +186,51 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
         df['Mode_of_operation'] = df['Mode_of_operation'].astype('Int64', errors='ignore')
         df = df.dropna(subset=['Mode_of_operation'])  # Dropping NaNs in 'Mode_of_operation'
 
+        # Identify rows where 'Technology' originally had the value 'All'
+        all_rows = df[df['Mode_of_operation'] == 'All']
+
+        # Define the replacement technologies
+        replacement_technologies = unique_values_concatenated['Mode_of_operation']
+        replacement_technologies = replacement_technologies.dropna()
+
+        # Create new rows by repeating the 'All' rows with different technologies
+        new_rows = []
+        for _, row in all_rows.iterrows():
+            for tech in replacement_technologies:
+                # Create a copy of the original row and replace the 'Technology' value
+                new_row = row.copy()
+                new_row['Mode_of_operation'] = tech
+
+                # Get the index of the "Value" column in each DataFrame
+                value_col_index = df.columns.get_loc("Value")
+
+                # Drop all columns that come after the "Value" column
+                df = df.iloc[:, :(value_col_index + 1)]
+
+                # Check if a similar row already exists
+                columns_to_check = [col for col in df.columns if col not in ['Value']]
+
+                if not columns_to_check:  # If there are no columns to check, skip
+                    new_rows.append(new_row)
+                    continue
+
+                # Compare the existing rows to the new row excluding the 'Value' column
+                match_condition = (df[columns_to_check] == new_row[columns_to_check].to_dict()).all(axis=1)
+
+                # Only append the new row if it doesn't already exist
+                if not match_condition.any():
+                    new_rows.append(new_row)
+
+        # Convert new rows to DataFrame if there are new rows to append
+        if new_rows:
+            new_rows_df = pd.DataFrame(new_rows)
+
+            # Append the new rows to the original dataframe
+            df = df[df['Mode_of_operation'] != 'All'].copy()  # Drop original rows with 'All' in 'Technology'
+            df = pd.concat([df, new_rows_df], ignore_index=True)
+
+
+
     # Rename columns with .1, .2, etc. naming convention
     for col in df.columns:
         if '.' in col:
