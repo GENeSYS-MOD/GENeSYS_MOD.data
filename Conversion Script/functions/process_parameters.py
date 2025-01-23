@@ -183,21 +183,19 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
             df = pd.concat([df, new_rows_df], ignore_index=True)
 
     if 'Mode_of_operation' in df.columns:
-        df['Mode_of_operation'] = df['Mode_of_operation'].astype('Int64', errors='ignore')
-        df = df.dropna(subset=['Mode_of_operation'])  # Dropping NaNs in 'Mode_of_operation'
 
-        # Identify rows where 'Technology' originally had the value 'All'
+        # Identify rows where 'Mode_of_operation' originally had the value 'All'
         all_rows = df[df['Mode_of_operation'] == 'All']
 
         # Define the replacement technologies
-        replacement_technologies = unique_values_concatenated['Mode_of_operation']
-        replacement_technologies = replacement_technologies.dropna()
+        replacement_mode = unique_values_concatenated['Mode_of_operation']
+        replacement_mode = replacement_mode.dropna()
 
-        # Create new rows by repeating the 'All' rows with different technologies
+        # Create new rows by repeating the 'All' rows with different Mode_of_operation
         new_rows = []
         for _, row in all_rows.iterrows():
-            for tech in replacement_technologies:
-                # Create a copy of the original row and replace the 'Technology' value
+            for tech in replacement_mode:
+                # Create a copy of the original row and replace the 'Mode_of_operation' value
                 new_row = row.copy()
                 new_row['Mode_of_operation'] = tech
 
@@ -229,6 +227,8 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
             df = df[df['Mode_of_operation'] != 'All'].copy()  # Drop original rows with 'All' in 'Technology'
             df = pd.concat([df, new_rows_df], ignore_index=True)
 
+        df['Mode_of_operation'] = df['Mode_of_operation'].astype('Float64', errors='ignore')
+        df = df.dropna(subset=['Mode_of_operation'])  # Dropping NaNs in 'Mode_of_operation'
 
 
     # Rename columns with .1, .2, etc. naming convention
@@ -246,7 +246,7 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
 
     for header in unique_values_concatenated.columns:
         if header in df.columns:
-            df = df[df[header].isin(unique_values_concatenated[header])]    
+            df = df[df[header].isin(unique_values_concatenated[header])]
     
     # Initialize df_pivot
     df_pivot = df  # Default to original DataFrame
