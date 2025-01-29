@@ -1,4 +1,4 @@
-﻿Fuel,Year,Value,,Unit,Source,Updated at,Updated by
-Power,All,0.00003,,Fraction/km,https://www.ceer.eu/wp-content/uploads/2024/04/C19-EQS-101-03_Report_on_Power_Losses_3.pdf,13.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
-H2,All,0.000005,,Fraction/km,Kanz et al. (2023): https://doi.org/10.1039/D3SE00281K,13.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
-Gas_Natural,All,9.45E-07,,Fraction/km,https://www.marcogaz.org/wp-content/uploads/2021/04/WG-ME-17-09.pdf,31.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
+Fuel,Year,Value,,Unit,Source,Updated at,Updated by
+Gas_Natural,All,9.45e-07,,Fraction/km,https://www.marcogaz.org/wp-content/uploads/2021/04/WG-ME-17-09.pdf,31.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
+H2,All,5e-06,,Fraction/km,Kanz et al. (2023): https://doi.org/10.1039/D3SE00281K,13.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
+Power,All,3e-05,,Fraction/km,https://www.ceer.eu/wp-content/uploads/2024/04/C19-EQS-101-03_Report_on_Power_Losses_3.pdf,13.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
