@@ -28,17 +28,6 @@ parameters:
     - Par_TotalAnnualMinCapacity
     - Par_TradeLossFactor
 
-  changed_files1:
-    - file_name: Par_GeneralDiscountRate
-      method: "copy"
-      regions_to_split: 
-        - 'NO'
-      new_regions: 
-        - 'NO1'
-        - 'NO2'
-      split_ratio: 
-        'NO1': 1.0
-        'NO2': 1.0
 
   changed_files:
     - file_name: Par_RegionalModelPeriodEmissionLimit
@@ -65,29 +54,29 @@ parameters:
         'NO1': 1.0
         'NO2': 1.0
 
-    #- file_name: Par_GeneralDiscountRate
-      #method: "copy"
-      #index_count: 1
-      #regions_to_split: 
-        #- 'NO'
-      #new_regions: 
-        #- 'NO1'
-        #- 'NO2'
-      #split_ratio: 
-        #'NO1': 1.0
-        #'NO2': 1.0
+    - file_name: Par_GeneralDiscountRate
+      method: "copy"
+      index_count: 1
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
 
-    #- file_name: Par_RegionalCCSLimit
-      #method: "copy"
-      #index_count: 1
-      #regions_to_split: 
-        #- 'NO'
-      #new_regions: 
-        #- 'NO1'
-        #- 'NO2'
-      #split_ratio: 
-        #'NO1': 1.0
-        #'NO2': 1.0
+    - file_name: Par_RegionalCCSLimit
+      method: "copy"
+      index_count: 1
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
 
     - file_name: Par_ModalPeriodActivityMax
       method: "copy"
@@ -101,17 +90,17 @@ parameters:
         'NO1': 1.0
         'NO2': 1.0
 
-    #- file_name: Par_SocialDiscountRate
-      #method: "copy"
-      #index_count: 1
-      #regions_to_split: 
-        #- 'NO'
-      #new_regions: 
-        #- 'NO1'
-        #- 'NO2'
-      #split_ratio: 
-        #'NO1': 1.0
-        #'NO2': 1.0
+    - file_name: Par_SocialDiscountRate
+      method: "copy"
+      index_count: 1
+      regions_to_split: 
+        - 'NO'
+      new_regions: 
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
 
     - file_name: Par_TechnologyDiscountRate
       method: "copy"
@@ -293,18 +282,6 @@ parameters:
         'NO1': 1.0
         'NO2': 1.0
 
-    #- file_name: Par_TradeRoute
-      #method: "copy"
-      #index_count: 3
-      #regions_to_split: 
-        #- 'NO'
-      #new_regions: 
-        #- 'NO1'
-        #- 'NO2'
-      #split_ratio: 
-        #'NO1': 1.0
-        #'NO2': 1.0
-
     - file_name: Par_ModalSplitByFuel
       method: "copy"
       index_count: 4
@@ -353,20 +330,73 @@ parameters:
         'NO1': 1.0
         'NO2': 1.0
 
-  #trade_files:
-    #- file_name: Par_TradeCapacity
-      #method: trade # no function
-      #index_count: 3
-      #regions_to_split:
-        #- 'NO'
-      #new_regions:
-        #- 'NO1'
-        #- 'NO2'
-      #split_ratio: 
-        #'NO1': 1.0
-        #'NO2': 1.0
-      #value:
-        #'NO1' - 'NO2': 23
-        #'NO2' - 'NO1': 45
+  trade_files:
+    - file_name: Par_GrowthRateTradeCapacity
+      method: "copy" 
+      index_count: 2
+      regions_to_split:
+        - 'NO'
+      new_regions:
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+      new_connections:
+        NO1-NO2: 
+          value: 23
+        NO2-NO1: 
+          value: 45
 
+  
+    - file_name: Par_TradeRoute
+      method: "copy" 
+      index_count: 3
+      regions_to_split:
+        - 'NO'
+      new_regions:
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+      new_connections:
+        NO1-NO2: 
+          value: 23
+        NO2-NO1: 
+          value: 45
 
+    
+    - file_name: Par_TradeCapacity
+      method: "copy" 
+      index_count: 3
+      regions_to_split:
+        - 'NO'
+      new_regions:
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+      new_connections:
+        NO1-NO2: 
+          value: 23
+        NO2-NO1: 
+          value: 45
+
+    - file_name: Par_TradeCapacityGrowthCosts
+      method: "copy" 
+      index_count: 3
+      regions_to_split:
+        - 'NO'
+      new_regions:
+        - 'NO1'
+        - 'NO2'
+      split_ratio: 
+        'NO1': 1.0
+        'NO2': 1.0
+      new_connections:
+        NO1-NO2: 
+          value: 23
+        NO2-NO1: 
+          value: 45

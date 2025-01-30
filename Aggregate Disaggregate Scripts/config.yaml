@@ -28,6 +28,18 @@ no_change_parameters:
     Par_TradeLossFactor]
 
 
+
+changed_files:
+    - file_name: Par_RegionalModelPeriodEmissionLimit
+      method: "sum"
+      index_count: 2
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 
+        - 'SCANDINAVIA'
+      
+        
 # Indexed by 2
 
 Par_RegionalModelPeriodEmissionLimit:
