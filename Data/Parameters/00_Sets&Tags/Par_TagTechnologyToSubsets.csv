@@ -535,5 +535,15 @@ HMHI_Steam_Electric,Renewables,1,,Binary,not relevant,16.01.2025,Nikita Moskalen
 HMLI_Heatpump,Renewables,1,,Binary,not relevant,16.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 P_CSP,Renewables,1,,Binary,not relevant,16.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 P_H2_OCGT,Renewables,1,,Binary,not relevant,16.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-,,,,,,,
-,,,,,,,
+HB_Biomass,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HB_Convert_DH,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HB_Direct_Electric,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HB_Gas_Boiler,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HB_Geothermal,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HB_H2_Boiler,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HB_Hardcoal,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HB_Heatpump_Aerial,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HB_Heatpump_Ground,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HB_Lignite,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HB_Oil_Boiler,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HB_Solar_Thermal,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
