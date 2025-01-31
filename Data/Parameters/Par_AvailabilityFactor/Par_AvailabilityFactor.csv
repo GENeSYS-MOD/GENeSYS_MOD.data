@@ -1,5 +1,6 @@
 Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
 AT,CHP_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+AT,CHP_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,CHP_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,CHP_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -9,6 +10,7 @@ AT,CHP_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-co
 AT,CHP_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+AT,CHP_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,CHP_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,CHP_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -18,6 +20,7 @@ AT,CHP_Coal_Hardcoal_CCS,2050,0.0,,Fraction,https://beyondfossilfuels.org/europe
 AT,CHP_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+AT,P_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,P_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,P_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -27,6 +30,7 @@ AT,P_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal
 AT,P_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+AT,P_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,P_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,P_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -37,6 +41,7 @@ AT,P_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita
 AT,P_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Hydro_Reservoir,All,0.284003038,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,CHP_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+BE,CHP_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,CHP_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,CHP_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,CHP_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -46,6 +51,7 @@ BE,CHP_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-co
 BE,CHP_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,CHP_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,CHP_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+BE,CHP_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,CHP_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,CHP_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,CHP_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -55,6 +61,7 @@ BE,CHP_Coal_Hardcoal_CCS,2050,0.0,,Fraction,https://beyondfossilfuels.org/europe
 BE,CHP_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,CHP_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+BE,P_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,P_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,P_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -64,6 +71,7 @@ BE,P_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal
 BE,P_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+BE,P_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,P_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,P_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -81,6 +89,7 @@ BE,P_Nuclear,2050,0.0,,Fraction,Belgium Nuclear Phase-out,24.07.2024,"Herpich, P
 BE,P_Nuclear,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Nuclear,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -108,6 +117,7 @@ BG,P_Hydro_Reservoir,All,0.134024153,,Fraction,Own calcuations based on IEA; Ava
 BG,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,CHP_Coal_Hardcoal,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,CHP_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+CH,CHP_Coal_Hardcoal,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,CHP_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,CHP_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,CHP_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -118,6 +128,7 @@ CH,CHP_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita M
 CH,CHP_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,CHP_Coal_Hardcoal_CCS,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,CHP_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+CH,CHP_Coal_Hardcoal_CCS,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,CHP_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,CHP_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,CHP_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -128,6 +139,7 @@ CH,CHP_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Niki
 CH,CHP_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Coal_Hardcoal,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,P_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+CH,P_Coal_Hardcoal,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,P_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,P_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -138,6 +150,7 @@ CH,P_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Mos
 CH,P_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Coal_Hardcoal_CCS,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,P_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+CH,P_Coal_Hardcoal_CCS,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,P_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 CH,P_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -196,25 +209,33 @@ DE,CHP_Coal_Lignite_CCS,2045,0.0,,Fraction,https://beyondfossilfuels.org/europes
 DE,CHP_Coal_Lignite_CCS,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,CHP_Coal_Lignite_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,CHP_Coal_Lignite_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Road_OH,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,FRT_Road_OH,2025,0.0,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HB_H2_Boiler,2018,0.0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HB_H2_Boiler,2020,0.0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,HB_H2_Boiler,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HHI_Bio_BF_BOF,2018,0.0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HHI_Bio_BF_BOF,2020,0.0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,HHI_Bio_BF_BOF,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HHI_H2DRI_EAF,2018,0.0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HHI_H2DRI_EAF,2020,0.0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,HHI_H2DRI_EAF,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HHI_H2DRI_EAF,2025,0.0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HHI_Molten_Electrolysis,2018,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HHI_Molten_Electrolysis,2020,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,HHI_Molten_Electrolysis,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HHI_Molten_Electrolysis,2025,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HHI_Molten_Electrolysis,2030,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HHI_Molten_Electrolysis,2035,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HLI_Fuelcell,2018,0.0,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HLI_Fuelcell,2020,0.0,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,HLI_Fuelcell,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HLI_Fuelcell,2025,0.0,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HLI_Geothermal,2018,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,HLI_Geothermal,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HLI_H2_Boiler,2018,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HLI_H2_Boiler,2020,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,HLI_H2_Boiler,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HLI_Lignite,2035,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HLI_Lignite,2040,0.0,,Fraction,"Assumption: No lignite trade, German lignite production ends 2038 the latest",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HLI_Lignite,2045,0.0,,Fraction,"Assumption: No lignite trade, German lignite production ends 2038 the latest",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -223,18 +244,23 @@ DE,HLI_Lignite,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskale
 DE,HLI_Lignite,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HMHI_H2,2018,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HMHI_H2,2020,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,HMHI_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,PSNG_Air_Bio,2018,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Air_Bio,2020,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_Bio,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,PSNG_Air_Bio,2025,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Air_Bio,2030,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Air_H2,2018,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Air_H2,2020,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,PSNG_Air_H2,2025,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Air_H2,2030,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Air_H2,2035,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Road_BEV,2018,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Road_BEV,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,PSNG_Road_H2,2018,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Road_H2,2020,0.0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Road_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Coal_Hardcoal,2035,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,P_Coal_Hardcoal,2040,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,P_Coal_Hardcoal,2045,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -263,6 +289,7 @@ DE,P_Hydro_Reservoir,All,0.417282298,,Fraction,Own calcuations based on IEA; Ava
 DE,P_Hydro_RoR,All,0.9,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,P_Nuclear,2018,0.9,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,P_Nuclear,2020,0.9,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,P_Nuclear,2021,0.45,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Nuclear,2025,0.0,,Fraction,Germany Nuclear Phase-out in 2023,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,P_Nuclear,2030,0.0,,Fraction,Germany Nuclear Phase-out in 2023,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,P_Nuclear,2035,0.0,,Fraction,Germany Nuclear Phase-out in 2023,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -273,6 +300,7 @@ DE,P_Nuclear,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenk
 DE,P_Nuclear,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Ocean,2018,0.36,,Fraction,Wave,https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2014/Wave-Energy_V4_web.pdf?rev=0b2378736cfc4c1dab1fdf38b0d6d98d,
 DE,P_Ocean,2020,0.45,,Fraction,Tidal,https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2014/Tidal_Energy_V4_WEB.pdf,
+DE,P_Ocean,2021,0.41000000000000003,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Ocean,2025,0.46,,Fraction,,,
 DE,P_Ocean,2030,0.47,,Fraction,,,
 DE,P_Ocean,2035,0.47,,Fraction,,,
@@ -284,6 +312,7 @@ DE,P_Ocean,2060,0.5,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko 
 DE,P_Oil,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Hardcoal,2018,1.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Hardcoal,2020,1.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,R_Coal_Hardcoal,2021,0.5,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,R_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -294,6 +323,7 @@ DE,R_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Mos
 DE,R_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,R_Coal_Lignite,2018,1.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Lignite,2020,1.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,R_Coal_Lignite,2021,1.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,R_Coal_Lignite,2025,1.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Lignite,2030,1.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Lignite,2035,1.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -306,6 +336,7 @@ DE,Z_ETS_Buy,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.20
 DE,Z_ETS_Sell,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -340,6 +371,7 @@ DK,P_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita
 DK,P_Hydro_Reservoir,All,0.0,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,CHP_Coal_Hardcoal,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,CHP_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+EE,CHP_Coal_Hardcoal,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,CHP_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,CHP_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,CHP_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -350,6 +382,7 @@ EE,CHP_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita M
 EE,CHP_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,CHP_Coal_Hardcoal_CCS,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,CHP_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+EE,CHP_Coal_Hardcoal_CCS,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,CHP_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,CHP_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,CHP_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -360,6 +393,7 @@ EE,CHP_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Niki
 EE,CHP_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,P_Coal_Hardcoal,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,P_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+EE,P_Coal_Hardcoal,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,P_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,P_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,P_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -370,6 +404,7 @@ EE,P_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Mos
 EE,P_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,P_Coal_Hardcoal_CCS,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,P_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+EE,P_Coal_Hardcoal_CCS,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,P_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,P_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,P_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -380,6 +415,7 @@ EE,P_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita
 EE,P_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,P_Hydro_Reservoir,All,0.0,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 EE,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+ES,CHP_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,CHP_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,CHP_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,CHP_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -388,6 +424,7 @@ ES,CHP_Coal_Hardcoal,2045,0.0,,Fraction,https://beyondfossilfuels.org/europes-co
 ES,CHP_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,CHP_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,CHP_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,CHP_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,CHP_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,CHP_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,CHP_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -396,6 +433,7 @@ ES,CHP_Coal_Hardcoal_CCS,2045,0.0,,Fraction,https://beyondfossilfuels.org/europe
 ES,CHP_Coal_Hardcoal_CCS,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,CHP_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,CHP_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,P_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,P_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -404,6 +442,7 @@ ES,P_Coal_Hardcoal,2045,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal
 ES,P_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,P_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,P_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,P_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -413,6 +452,7 @@ ES,P_Coal_Hardcoal_CCS,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-
 ES,P_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Hydro_Reservoir,2018,0.512655521,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+ES,P_Hydro_Reservoir,2021,0.512655521,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Hydro_Reservoir,All,0.452655521,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,P_Nuclear,2035,0.0,,Fraction,Spain Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,P_Nuclear,2040,0.0,,Fraction,Spain Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -421,6 +461,7 @@ ES,P_Nuclear,2050,0.0,,Fraction,Spain Nuclear Phase-out,24.07.2024,"Herpich, Phi
 ES,P_Nuclear,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Nuclear,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,R_Coal_Lignite,2020,0.0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+ES,R_Coal_Lignite,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,R_Coal_Lignite,2025,0.0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,R_Coal_Lignite,2030,0.0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,R_Coal_Lignite,2035,0.0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -431,6 +472,7 @@ ES,R_Coal_Lignite,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Mosk
 ES,R_Coal_Lignite,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -495,6 +537,7 @@ FR,P_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita
 FR,P_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_Hydro_Reservoir,All,0.32024356,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 FR,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 FR,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -527,6 +570,7 @@ GR,P_Coal_Hardcoal_CCS,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-
 GR,P_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Hydro_Reservoir,2018,0.4,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+GR,P_Hydro_Reservoir,2021,0.4,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Hydro_Reservoir,All,0.33,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 GR,R_Coal_Lignite,2030,0.0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 GR,R_Coal_Lignite,2035,0.0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -537,6 +581,7 @@ GR,R_Coal_Lignite,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Mosk
 GR,R_Coal_Lignite,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 GR,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 GR,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -602,9 +647,11 @@ IE,P_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita
 IE,P_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,P_Hydro_Reservoir,All,0.152496076,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IE,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IE,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+IR,CHP_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IR,CHP_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IR,CHP_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IR,CHP_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -613,6 +660,7 @@ IR,CHP_Coal_Hardcoal,2045,0.0,,Fraction,https://beyondfossilfuels.org/europes-co
 IR,CHP_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IR,CHP_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IR,CHP_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IR,CHP_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IR,CHP_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IR,CHP_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IR,CHP_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -621,6 +669,7 @@ IR,CHP_Coal_Hardcoal_CCS,2045,0.0,,Fraction,https://beyondfossilfuels.org/europe
 IR,CHP_Coal_Hardcoal_CCS,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IR,CHP_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IR,CHP_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IR,P_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IR,P_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IR,P_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IR,P_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -629,6 +678,7 @@ IR,P_Coal_Hardcoal,2045,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal
 IR,P_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IR,P_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IR,P_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IR,P_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IR,P_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IR,P_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IR,P_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -667,12 +717,14 @@ IT,P_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita
 IT,P_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,P_Hydro_Reservoir,All,0.216127436,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IT,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IT,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LT,P_Hydro_Reservoir,All,0.575604735,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LT,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LU,CHP_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+LU,CHP_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,CHP_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LU,CHP_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LU,CHP_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -682,6 +734,7 @@ LU,CHP_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-co
 LU,CHP_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,CHP_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,CHP_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+LU,CHP_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,CHP_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LU,CHP_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LU,CHP_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -691,6 +744,7 @@ LU,CHP_Coal_Hardcoal_CCS,2050,0.0,,Fraction,https://beyondfossilfuels.org/europe
 LU,CHP_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,CHP_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+LU,P_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LU,P_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LU,P_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -700,6 +754,7 @@ LU,P_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal
 LU,P_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+LU,P_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LU,P_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LU,P_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -718,6 +773,7 @@ LU,P_Nuclear,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenk
 LU,P_Nuclear,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,CHP_Coal_Hardcoal,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,CHP_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+LV,CHP_Coal_Hardcoal,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,CHP_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,CHP_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,CHP_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -728,6 +784,7 @@ LV,CHP_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita M
 LV,CHP_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,CHP_Coal_Hardcoal_CCS,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,CHP_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+LV,CHP_Coal_Hardcoal_CCS,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,CHP_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,CHP_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,CHP_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -738,6 +795,7 @@ LV,CHP_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Niki
 LV,CHP_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,P_Coal_Hardcoal,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,P_Coal_Hardcoal,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+LV,P_Coal_Hardcoal,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,P_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,P_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,P_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -748,6 +806,7 @@ LV,P_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Mos
 LV,P_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,P_Coal_Hardcoal_CCS,2018,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,P_Coal_Hardcoal_CCS,2020,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+LV,P_Coal_Hardcoal_CCS,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,P_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,P_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,P_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -788,6 +847,7 @@ NL,P_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita
 NL,P_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,P_Hydro_Reservoir,All,0.0,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 NL,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 NL,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -817,6 +877,7 @@ NO,P_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita
 NO,P_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_Reservoir,2018,0.438185044,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 NO,P_Hydro_Reservoir,2020,0.48,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+NO,P_Hydro_Reservoir,2021,0.469092522,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_Reservoir,2025,0.5,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 NO,P_Hydro_Reservoir,2030,0.51,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 NO,P_Hydro_Reservoir,2035,0.51,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -829,19 +890,23 @@ NO,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07
 NONEU_Balkan,P_Hydro_Reservoir,All,0.467137726,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 NONEU_Balkan,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 NONEU_Balkan,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 NONEU_Balkan,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 PL,P_Hydro_Reservoir,2018,0.6,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+PL,P_Hydro_Reservoir,2021,0.6,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,P_Hydro_Reservoir,All,0.33,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 PL,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 PL,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 PL,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 PT,P_Hydro_Reservoir,All,0.0,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 PT,P_Hydro_RoR,All,0.88,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 PT,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 PT,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -900,6 +965,7 @@ SE,P_Hydro_Reservoir,All,0.517424094,,Fraction,Own calcuations based on IEA; Ava
 SE,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SI,P_Hydro_Reservoir,All,0.369076847,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SI,P_Nuclear,All,0.88,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+SK,CHP_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,CHP_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SK,CHP_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SK,CHP_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -908,6 +974,7 @@ SK,CHP_Coal_Hardcoal,2045,0.0,,Fraction,https://beyondfossilfuels.org/europes-co
 SK,CHP_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SK,CHP_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,CHP_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,CHP_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SK,CHP_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SK,CHP_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -916,6 +983,7 @@ SK,CHP_Coal_Hardcoal_CCS,2045,0.0,,Fraction,https://beyondfossilfuels.org/europe
 SK,CHP_Coal_Hardcoal_CCS,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SK,CHP_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,CHP_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,P_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SK,P_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SK,P_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -924,6 +992,7 @@ SK,P_Coal_Hardcoal,2045,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal
 SK,P_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SK,P_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,P_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,P_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SK,P_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 SK,P_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -937,9 +1006,11 @@ SK,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07
 TR,P_Hydro_Reservoir,All,0.266833885,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 TR,Z_Import_Gas,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 TR,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 TR,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+UK,CHP_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,CHP_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,CHP_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,CHP_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -948,6 +1019,7 @@ UK,CHP_Coal_Hardcoal,2045,0.0,,Fraction,https://beyondfossilfuels.org/europes-co
 UK,CHP_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,CHP_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,CHP_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,CHP_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,CHP_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,CHP_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,CHP_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -956,6 +1028,7 @@ UK,CHP_Coal_Hardcoal_CCS,2045,0.0,,Fraction,https://beyondfossilfuels.org/europe
 UK,CHP_Coal_Hardcoal_CCS,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,CHP_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,CHP_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Coal_Hardcoal,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Coal_Hardcoal,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,P_Coal_Hardcoal,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,P_Coal_Hardcoal,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -964,6 +1037,7 @@ UK,P_Coal_Hardcoal,2045,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal
 UK,P_Coal_Hardcoal,2050,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,P_Coal_Hardcoal,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Coal_Hardcoal,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Coal_Hardcoal_CCS,2021,,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Coal_Hardcoal_CCS,2025,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,P_Coal_Hardcoal_CCS,2030,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,P_Coal_Hardcoal_CCS,2035,0.0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -974,6 +1048,7 @@ UK,P_Coal_Hardcoal_CCS,2055,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita
 UK,P_Coal_Hardcoal_CCS,2060,0.0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Hydro_Reservoir,All,0.0,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,Z_Import_H2,2018,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,Z_Import_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Z_Import_H2,2025,0.0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Z_Import_H2,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 UK,Z_Import_LNG,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -993,6 +1068,7 @@ World,CHP_Gas_CCGT_Natural_CCS,All,0.8,,Fraction,https://www.europarl.europa.eu/
 World,CHP_Gas_CCGT_SynGas,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,CHP_Hydrogen_FuelCell,2018,0.0,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,CHP_Hydrogen_FuelCell,2020,0.0,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,CHP_Hydrogen_FuelCell,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Hydrogen_FuelCell,2025,0.0,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,CHP_Hydrogen_FuelCell,All,0.98,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,CHP_Oil,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -1011,6 +1087,7 @@ World,FRT_Rail_Conv,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"He
 World,FRT_Rail_Electric,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Road_BEV,2018,0.0,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Road_BEV,2020,0.917340036,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,FRT_Road_BEV,2021,0.4662906765,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_BEV,2025,0.932581353,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Road_BEV,2030,0.936391682,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Road_BEV,2035,0.938296846,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -1021,13 +1098,16 @@ World,FRT_Road_BEV,2055,0.940202011,,Fraction,same as 2050 for now,29.01.2025,Ni
 World,FRT_Road_BEV,2060,0.940202011,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_H2,2018,0.0,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Road_H2,2020,0.0,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,FRT_Road_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_H2,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Road_ICE,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Road_LNG,All,0.98,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Road_OH,2018,0.0,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Road_OH,2020,0.0,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,FRT_Road_OH,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_OH,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Road_PHEV,2018,0.0,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,FRT_Road_PHEV,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_PHEV,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Ship_Bio,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Ship_Conv,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -1084,14 +1164,17 @@ World,PSNG_Air_H2,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herp
 World,PSNG_Rail_Conv,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,PSNG_Rail_Electric,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,PSNG_Road_BEV,2018,0.0,,Fraction,Not available,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_BEV,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_BEV,All,0.917340036,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,PSNG_Road_H2,2018,0.0,,Fraction,Not available,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,PSNG_Road_H2,2020,0.0,,Fraction,Not available,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_H2,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_H2,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,PSNG_Road_ICE,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,PSNG_Road_LNG,All,0.98,,Fraction,Assumption: 2% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,PSNG_Road_PHEV,2018,0.0,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,PSNG_Road_PHEV,2018,0.0,,Fraction,Not available,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_PHEV,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_PHEV,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Biomass,All,0.9,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Biomass_CCS,All,0.9,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -1111,6 +1194,7 @@ World,P_Hydro_RoR,All,0.9,,Fraction,Own calcuations based on IEA; AvailabilityFa
 World,P_Nuclear,All,0.837,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Ocean,2018,0.36,,Fraction,,,
 World,P_Ocean,2020,0.45,,Fraction,,,
+World,P_Ocean,2021,0.41000000000000003,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Ocean,2025,0.46,,Fraction,,,
 World,P_Ocean,2030,0.47,,Fraction,,,
 World,P_Ocean,2035,0.47,,Fraction,,,
@@ -1154,6 +1238,7 @@ World,X_Liquifier,All,0.98,,Fraction,Assumption of short down times for maintena
 World,X_Methanation,All,0.98,,Fraction,Assumption: 2% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,X_Powerfuel,2018,0.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,X_Powerfuel,2020,0.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,X_Powerfuel,2021,0.0,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Powerfuel,2025,0.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,X_Powerfuel,All,1.0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,X_SMR,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"

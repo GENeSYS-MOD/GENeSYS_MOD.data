@@ -28,6 +28,7 @@ World,HB_Oil_Boiler,1,CO2,All,1.0,,Fraction,no source needed - all emissions go 
 World,HHI_BF_BOF,All,CO2,All,1.0,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_BF_BOF_CCS,All,CO2,2018,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_BF_BOF_CCS,All,CO2,2020,0.093333333,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,All,CO2,2021,0.102222222,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HHI_BF_BOF_CCS,All,CO2,2025,0.084444444,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_BF_BOF_CCS,All,CO2,2030,0.082222222,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_BF_BOF_CCS,All,CO2,2035,0.081111111,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -40,6 +41,7 @@ World,HHI_Bio_BF_BOF,All,CO2,All,1.0,,Fraction,no source needed - all emissions 
 World,HHI_DRI_EAF,All,CO2,All,1.0,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_DRI_EAF_CCS,All,CO2,2018,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_DRI_EAF_CCS,All,CO2,2020,0.093333333,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF_CCS,All,CO2,2021,0.102222222,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HHI_DRI_EAF_CCS,All,CO2,2025,0.084444444,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_DRI_EAF_CCS,All,CO2,2030,0.082222222,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_DRI_EAF_CCS,All,CO2,2035,0.081111111,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -55,6 +57,7 @@ World,HLI_Oil_Boiler,All,CO2,All,1.0,,Fraction,no source needed - all emissions 
 World,HMHI_Gas,All,CO2,All,1.0,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HMHI_Gas_CCS,All,CO2,2018,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HMHI_Gas_CCS,All,CO2,2020,0.093333333,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HMHI_Gas_CCS,All,CO2,2021,0.102222222,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_Gas_CCS,All,CO2,2025,0.084444444,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HMHI_Gas_CCS,All,CO2,2030,0.082222222,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HMHI_Gas_CCS,All,CO2,2035,0.081111111,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -66,6 +69,7 @@ World,HMHI_Gas_CCS,All,CO2,2060,0.08,,Fraction,same as 2050 for now,29.01.2025,N
 World,HMHI_HardCoal,All,CO2,All,1.0,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HMHI_HardCoal_CCS,All,CO2,2018,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HMHI_HardCoal_CCS,All,CO2,2020,0.093333333,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HMHI_HardCoal_CCS,All,CO2,2021,0.102222222,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_HardCoal_CCS,All,CO2,2025,0.084444444,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HMHI_HardCoal_CCS,All,CO2,2030,0.082222222,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HMHI_HardCoal_CCS,All,CO2,2035,0.081111111,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -84,6 +88,7 @@ World,P_Biomass_CCS,All,CO2,All,-0.7,,Fraction,,22.01.2025,Konstantin Loffler <k
 World,P_Coal_Hardcoal,All,CO2,All,1.0,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,All,CO2,2018,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,All,CO2,2020,0.093333333,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,P_Coal_Hardcoal_CCS,All,CO2,2021,0.102222222,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,All,CO2,2025,0.084444444,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,All,CO2,2030,0.082222222,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,All,CO2,2035,0.081111111,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -97,6 +102,7 @@ World,P_Coal_Lignite_CCS,All,CO2,All,0.12,,Fraction,,22.01.2025,Konstantin Loffl
 World,P_Gas_CCGT,All,CO2,All,1.0,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Gas_CCS,All,CO2,2018,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Gas_CCS,All,CO2,2020,0.093333333,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,P_Gas_CCS,All,CO2,2021,0.102222222,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_CCS,All,CO2,2025,0.084444444,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Gas_CCS,All,CO2,2030,0.082222222,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Gas_CCS,All,CO2,2035,0.081111111,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>

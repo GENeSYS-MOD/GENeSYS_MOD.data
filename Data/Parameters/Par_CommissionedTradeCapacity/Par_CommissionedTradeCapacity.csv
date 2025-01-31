@@ -27,6 +27,13 @@ AT,DE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 AT,IT,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,SK,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,SI,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CH,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CZ,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,HU,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,IT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,SI,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,SK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CH,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 AT,CZ,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 AT,DE,Power,2025,4.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -90,6 +97,12 @@ BE,DE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 BE,LU,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,NL,H2,2060,31.536,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,UK,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,DK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,FR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,LU,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,NL,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,UK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,DE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 BE,DK,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 BE,FR,Power,2025,1.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -128,6 +141,10 @@ BG,GR,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 BG,RO,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,GR,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,RO,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,GR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,NONEU_Balkan,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,RO,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,TR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,GR,Power,2025,0.93,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 BG,NONEU_Balkan,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 BG,RO,Power,2025,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -165,6 +182,10 @@ CH,IT,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 CH,FR,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,DE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,IT,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,AT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,FR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,IT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,AT,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 CH,DE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 CH,FR,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -202,6 +223,10 @@ CZ,SK,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 CZ,DE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,PL,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,SK,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,AT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,PL,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,SK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,AT,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 CZ,DE,Power,2025,0.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 CZ,PL,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -281,6 +306,18 @@ DE,FR,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 DE,NL,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,PL,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,CH,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,AT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,BE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CH,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CZ,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,DK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,LU,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,NL,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,NO,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PL,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,SE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,UK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,AT,Power,2025,4.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 DE,BE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 DE,CH,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -336,6 +373,13 @@ DK,DE,H2,2045,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.
 DK,DE,H2,2050,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 DK,DE,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,DE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,BE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,NL,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,NO,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,PL,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,SE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,UK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,BE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 DK,DE,Power,2025,1.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 DK,NL,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -378,6 +422,8 @@ EE,FI,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 EE,LV,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,FI,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,LV,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,FI,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,LV,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,FI,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 EE,LV,Power,2025,1.1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 EE,FI,Power,2030,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -407,6 +453,8 @@ ES,PT,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 ES,FR,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,IT,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,PT,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,FR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,PT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,FR,Power,2025,2.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 ES,PT,Power,2025,1.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 ES,FR,Power,2030,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -436,6 +484,9 @@ FI,SE,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 FI,EE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,DE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,SE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,EE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,NO,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,SE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,EE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 FI,NO,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 FI,SE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -476,6 +527,14 @@ FR,BE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 FR,DE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,ES,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,CH,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,BE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CH,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,ES,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,IE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,IT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,LU,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,UK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,BE,Power,2025,1.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 FR,CH,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 FR,DE,Power,2025,0.3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -515,6 +574,10 @@ GR,BG,H2,2045,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.
 GR,BG,H2,2050,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 GR,BG,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,BG,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,NONEU_Balkan,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,BG,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,IT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,TR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,NONEU_Balkan,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 GR,BG,Power,2025,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 GR,IT,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -552,6 +615,9 @@ HR,SI,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 HR,NONEU_Balkan,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HU,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,SI,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,NONEU_Balkan,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HU,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,SI,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,NONEU_Balkan,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 HR,HU,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 HR,SI,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -592,6 +658,12 @@ HU,HR,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 HU,RO,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,SK,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,SI,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,AT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,RO,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,NONEU_Balkan,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,SI,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,SK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,AT,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 HU,HR,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 HU,RO,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -623,6 +695,8 @@ IE,UK,H2,2045,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.
 IE,UK,H2,2050,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 IE,UK,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,UK,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,FR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,UK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,FR,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 IE,UK,Power,2025,1.12,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 IE,FR,Power,2030,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -652,6 +726,12 @@ IT,CH,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 IT,AT,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,SI,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,CH,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,AT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CH,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,FR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,GR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,NONEU_Balkan,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,SI,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,AT,Power,2025,0.39,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 IT,CH,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 IT,FR,Power,2025,1.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -690,6 +770,9 @@ LT,LV,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 LT,PL,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,LV,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,PL,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,LV,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,PL,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,SE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,LV,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 LT,PL,Power,2025,0.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 LT,SE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -709,6 +792,9 @@ LU,BE,H2,2045,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.
 LU,BE,H2,2050,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 LU,BE,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,BE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,BE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,FR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,BE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 LU,DE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 LU,FR,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -735,6 +821,8 @@ LV,EE,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 LV,LT,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,EE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,LT,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,EE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,LT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,EE,Power,2025,1.1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 LV,LT,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 LV,EE,Power,2030,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -757,6 +845,11 @@ NL,BE,H2,2055,31.536,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@
 NL,DE,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,BE,H2,2060,31.536,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,DE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,BE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,DK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,NO,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,UK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,BE,Power,2025,2.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 NL,DE,Power,2025,1.05,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 NL,DK,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -791,6 +884,12 @@ NO,BE,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 NO,DE,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,BE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,DE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,DK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,FI,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,NL,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,SE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,UK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,DE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 NO,DK,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 NO,FI,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -822,6 +921,12 @@ NONEU_Balkan,HR,H2,2045,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Borneman
 NONEU_Balkan,HR,H2,2050,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 NONEU_Balkan,HR,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HR,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,GR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,HR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,IT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,BG,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,HU,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,RO,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,GR,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 NONEU_Balkan,HR,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 NONEU_Balkan,IT,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -867,6 +972,12 @@ PL,LT,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 PL,CZ,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,DE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,LT,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CZ,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,DK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,LT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,SE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,SK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,CZ,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 PL,DE,Power,2025,2.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 PL,DK,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -898,6 +1009,7 @@ PT,ES,H2,2045,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.
 PT,ES,H2,2050,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 PT,ES,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,ES,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,ES,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,ES,Power,2025,1.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 PT,ES,Power,2030,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 PT,ES,Power,2035,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -916,6 +1028,9 @@ RO,BG,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 RO,HU,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,BG,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,HU,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,BG,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,HU,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,NONEU_Balkan,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,BG,Power,2025,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 RO,HU,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 RO,NONEU_Balkan,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -935,6 +1050,13 @@ SE,FI,H2,2045,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.
 SE,FI,H2,2050,0.0,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SE,FI,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,FI,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,DK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,FI,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,LT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,LV,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,NO,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,PL,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,DE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SE,DK,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SE,FI,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -991,6 +1113,10 @@ SI,AT,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 SI,HR,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HU,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,IT,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,AT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HU,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,IT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,AT,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SI,HR,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SI,HU,Power,2025,1.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -1028,6 +1154,10 @@ SK,HU,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 SK,AT,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,CZ,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HU,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,AT,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CZ,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,HU,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,PL,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,AT,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SK,CZ,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SK,HU,Power,2025,1.3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -1058,6 +1188,13 @@ UK,BE,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip
 UK,IE,H2,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,BE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,IE,H2,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,BE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,DE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,DK,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,FR,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,IE,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,NL,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,NO,Power,2021,,,GW,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,BE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 UK,DE,Power,2025,0.0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 UK,DK,Power,2025,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>

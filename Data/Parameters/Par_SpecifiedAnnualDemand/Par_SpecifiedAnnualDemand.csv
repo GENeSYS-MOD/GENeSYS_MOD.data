@@ -285,16 +285,16 @@ CH,Heat_Buildings,2045,229.6479442,,PJ,Needs update,29.02.2024,Martha Pedersen <
 CH,Heat_Buildings,2050,229.6479442,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 CH,Heat_Buildings,2055,229.6479442,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Heat_Buildings,2060,229.6479442,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Heat_District,2018,0.0,,PJ,Needs update,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
-CH,Heat_District,2020,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-CH,Heat_District,2025,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-CH,Heat_District,2030,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-CH,Heat_District,2035,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-CH,Heat_District,2040,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-CH,Heat_District,2045,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-CH,Heat_District,2050,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-CH,Heat_District,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Heat_District,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_District,2018,0,,PJ,Needs update,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Heat_District,2020,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Heat_District,2025,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Heat_District,2030,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Heat_District,2035,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Heat_District,2040,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Heat_District,2045,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Heat_District,2050,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Heat_District,2055,0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_District,2060,0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Heat_High_Industrial,2018,14.27,,PJ,Needs update,21.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 CH,Heat_High_Industrial,2020,14.05932394,,PJ,Needs update,21.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 CH,Heat_High_Industrial,2025,13.91899716,,PJ,Needs update,21.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3825,8 +3825,8 @@ IE,Heat_Buildings,2045,73.39320203,,PJ,Needs update,29.02.2024,Martha Pedersen <
 IE,Heat_Buildings,2050,67.63416722,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 IE,Heat_Buildings,2055,67.63416722,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,Heat_Buildings,2060,67.63416722,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,Heat_District,2018,0.0,,PJ,Needs update,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
-IE,Heat_District,2020,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+IE,Heat_District,2018,0,,PJ,Needs update,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IE,Heat_District,2020,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 IE,Heat_District,2025,0.018235703,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 IE,Heat_District,2030,0.036471405,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 IE,Heat_District,2035,0.054707108,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3918,7 +3918,7 @@ IT,Heat_Buildings,2050,444.2004152,,PJ,TYNDP 2022 Scenario Report + District hea
 IT,Heat_Buildings,2055,444.2004152,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Heat_Buildings,2060,444.2004152,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Heat_District,2018,33.44,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
-IT,Heat_District,2020,113.0,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+IT,Heat_District,2020,113,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 IT,Heat_District,2025,156.3598895,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 IT,Heat_District,2030,199.7155312,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 IT,Heat_District,2035,243.071173,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -4469,16 +4469,16 @@ NONEU_Balkan,Heat_Buildings,2045,216.4868022,,PJ,Needs update,29.02.2024,Martha 
 NONEU_Balkan,Heat_Buildings,2050,207.2538022,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 NONEU_Balkan,Heat_Buildings,2055,207.2538022,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,Heat_Buildings,2060,207.2538022,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,Heat_District,2018,0.0,,PJ,Needs update,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
-NONEU_Balkan,Heat_District,2020,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-NONEU_Balkan,Heat_District,2025,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-NONEU_Balkan,Heat_District,2030,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-NONEU_Balkan,Heat_District,2035,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-NONEU_Balkan,Heat_District,2040,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-NONEU_Balkan,Heat_District,2045,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-NONEU_Balkan,Heat_District,2050,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-NONEU_Balkan,Heat_District,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,Heat_District,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_District,2018,0,,PJ,Needs update,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Heat_District,2020,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Heat_District,2025,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Heat_District,2030,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Heat_District,2035,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Heat_District,2040,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Heat_District,2045,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Heat_District,2050,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+NONEU_Balkan,Heat_District,2055,0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_District,2060,0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,Heat_High_Industrial,2018,18.37,,PJ,Needs update,21.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 NONEU_Balkan,Heat_High_Industrial,2020,18.37278261,,PJ,Needs update,21.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 NONEU_Balkan,Heat_High_Industrial,2025,18.37278261,,PJ,Needs update,21.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -5113,16 +5113,16 @@ TR,Heat_Buildings,2045,1584.012949,,PJ,Needs update,29.02.2024,Martha Pedersen <
 TR,Heat_Buildings,2050,1584.012949,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 TR,Heat_Buildings,2055,1584.012949,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,Heat_Buildings,2060,1584.012949,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Heat_District,2018,0.0,,PJ,Needs update,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
-TR,Heat_District,2020,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-TR,Heat_District,2025,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-TR,Heat_District,2030,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-TR,Heat_District,2035,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-TR,Heat_District,2040,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-TR,Heat_District,2045,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-TR,Heat_District,2050,0.0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
-TR,Heat_District,2055,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Heat_District,2060,0.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Heat_District,2018,0,,PJ,Needs update,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Heat_District,2020,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Heat_District,2025,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Heat_District,2030,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Heat_District,2035,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Heat_District,2040,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Heat_District,2045,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Heat_District,2050,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
+TR,Heat_District,2055,0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Heat_District,2060,0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,Heat_High_Industrial,2018,129.96,,PJ,Needs update,21.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 TR,Heat_High_Industrial,2020,129.7796914,,PJ,Needs update,21.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 TR,Heat_High_Industrial,2025,129.7796914,,PJ,Needs update,21.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -5287,3 +5287,369 @@ UK,Power,2045,676.5099762,,PJ,EU Reference Scenario 2020- same growth rate- see 
 UK,Power,2050,654.8616569,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 UK,Power,2055,654.8616569,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Power,2060,654.8616569,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,Mobility_Freight,2021,70.50755409,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,Mobility_Passenger,2021,141.97,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,Mobility_Freight,2021,67.46930009,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,Mobility_Passenger,2021,152.170256,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Mobility_Freight,2021,18.47509314,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Mobility_Passenger,2021,94.53310617,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Mobility_Freight,2021,34.05349241,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Mobility_Passenger,2021,144.777,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,Mobility_Freight,2021,61.85927623,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,Mobility_Passenger,2021,141.8042,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Mobility_Freight,2021,639.6533238,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Mobility_Passenger,2021,1220.59,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Mobility_Freight,2021,21.98500024,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Mobility_Passenger,2021,87.461,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Mobility_Freight,2021,5.133273704,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Mobility_Passenger,2021,21.9055453,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Mobility_Freight,2021,223.415893,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Mobility_Passenger,2021,529.182,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Mobility_Freight,2021,38.1753145,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Mobility_Passenger,2021,87.65053744,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Mobility_Freight,2021,329.0518045,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Mobility_Passenger,2021,1164.157546,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Mobility_Freight,2021,19.46849571,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Mobility_Passenger,2021,165.2044967,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Mobility_Freight,2021,12.78076112,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Mobility_Passenger,2021,51.26438,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,Mobility_Freight,2021,40.43842525,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,Mobility_Passenger,2021,118.9555844,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Mobility_Freight,2021,11.69581358,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Mobility_Passenger,2021,82.7117586,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Mobility_Freight,2021,179.6750789,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Mobility_Passenger,2021,982.801,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Mobility_Freight,2021,23.99746053,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Mobility_Passenger,2021,39.41887304,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Mobility_Freight,2021,2.784852563,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Mobility_Passenger,2021,10.85885892,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Mobility_Freight,2021,20.40051125,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Mobility_Passenger,2021,23.120271,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,Mobility_Freight,2021,110.7237524,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,Mobility_Passenger,2021,190.9627666,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Mobility_Freight,2021,26.65656377,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Mobility_Passenger,2021,88.93,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Mobility_Freight,2021,26.1,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Mobility_Passenger,2021,81.62595286,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Mobility_Freight,2021,227.7388032,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Mobility_Passenger,2021,348.4048194,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Mobility_Freight,2021,19.08945154,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Mobility_Passenger,2021,132.5507137,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,Mobility_Freight,2021,49.58428197,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,Mobility_Passenger,2021,180.5853189,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,Mobility_Freight,2021,74.27661477,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,Mobility_Passenger,2021,167.161,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Mobility_Freight,2021,14.88636889,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Mobility_Passenger,2021,38.31760249,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Mobility_Freight,2021,26.25890997,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Mobility_Passenger,2021,47.46240905,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Mobility_Freight,2021,282.285559,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Mobility_Passenger,2021,396.6347816,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,Mobility_Freight,2021,185.1748702,,billion tonne kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,Mobility_Passenger,2021,1003.737116,,billion passenger kilometer,same as 2019 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,Heat_Buildings,2021,229.4198608,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,Heat_District,2021,70.2,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,Heat_High_Industrial,2021,67.58,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,Heat_Low_Industrial,2021,79.87,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,Heat_MediumHigh_Industrial,2021,145.0023397,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,Heat_MediumLow_Industrial,2021,49.80885113,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,Power,2021,199.5134339,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,Heat_Buildings,2021,407.3752113,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,Heat_District,2021,1.28,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,Heat_High_Industrial,2021,76.74,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,Heat_Low_Industrial,2021,80.66,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,Heat_MediumHigh_Industrial,2021,187.9861145,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,Heat_MediumLow_Industrial,2021,65.9309249,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,Power,2021,207.6997534,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_Buildings,2021,74.81970656,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_District,2021,20.49,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_High_Industrial,2021,23.49,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_Low_Industrial,2021,17.93,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_MediumHigh_Industrial,2021,47.39650181,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_MediumLow_Industrial,2021,15.94035487,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Power,2021,133.6578263,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_Buildings,2021,237.8577976,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_District,2021,0,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_High_Industrial,2021,14.27,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_Low_Industrial,2021,14.94,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_MediumHigh_Industrial,2021,26.45112493,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_MediumLow_Industrial,2021,9.324829715,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Power,2021,189.325046,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,Heat_Buildings,2021,298.1507203,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,Heat_District,2021,64.75,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,Heat_High_Industrial,2021,70.89,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,Heat_Low_Industrial,2021,51.42,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,Heat_MediumHigh_Industrial,2021,105.8114395,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,Heat_MediumLow_Industrial,2021,44.63668195,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,Power,2021,267.5484831,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_Buildings,2021,2279.671723,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_District,2021,446.84,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_High_Industrial,2021,495.44,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_Low_Industrial,2021,422.33,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_MediumHigh_Industrial,2021,918.2079102,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_MediumLow_Industrial,2021,323.6963428,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Power,2021,1784.696832,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,H2,2021,3.89458,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Heat_Buildings,2021,96.7852,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Heat_High_Industrial,2021,15.7598,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Heat_Low_Industrial,2021,11.3388,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Heat_Medium_Industrial,2021,36.5121,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Power,2021,47.6741,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,H2,2021,7.86719,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Heat_Buildings,2021,102.27,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Heat_High_Industrial,2021,3.55299,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Heat_Low_Industrial,2021,3.0717,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Heat_Medium_Industrial,2021,3.46343,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Power,2021,36.6299,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,H2,2021,25.1234,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Heat_Buildings,2021,361.643,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Heat_High_Industrial,2021,26.0095,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Heat_Low_Industrial,2021,43.0675,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Heat_Medium_Industrial,2021,68.2743,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Power,2021,174.587,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,H2,2021,31.4367,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_Buildings,2021,445.994,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_High_Industrial,2021,39.2535,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_Low_Industrial,2021,49.0948,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_Medium_Industrial,2021,104.603,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Power,2021,215.239,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,H2,2021,1.69721,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Heat_Buildings,2021,35.3058,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Heat_High_Industrial,2021,29.0156,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Heat_Low_Industrial,2021,2.6825,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Heat_Medium_Industrial,2021,10.2587,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Power,2021,32.2348,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,H2,2021,14.1815,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Heat_Buildings,2021,172.771,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Heat_High_Industrial,2021,13.6489,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Heat_Low_Industrial,2021,16.2967,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Heat_Medium_Industrial,2021,41.0236,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Power,2021,82.7729,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,H2,2021,6.32519,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Heat_Buildings,2021,58.006,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Heat_High_Industrial,2021,6.57642,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Heat_Low_Industrial,2021,5.68557,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Heat_Medium_Industrial,2021,6.41064,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Power,2021,25.1084,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,H2,2021,2.34377,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Heat_Buildings,2021,50.0978,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Heat_High_Industrial,2021,1.36267,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Heat_Low_Industrial,2021,4.37214,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Heat_Medium_Industrial,2021,5.2973,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Power,2021,22.4357,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,H2,2021,14.886,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Heat_Buildings,2021,273.479,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Heat_High_Industrial,2021,55.2187,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Heat_Low_Industrial,2021,28.525,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Heat_Medium_Industrial,2021,88.9123,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Power,2021,146.839,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,H2,2021,34.814,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Heat_Buildings,2021,556.67,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Heat_High_Industrial,2021,181.974,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Heat_Low_Industrial,2021,67.8561,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Heat_Medium_Industrial,2021,258.062,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Power,2021,334.356,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,H2,2021,7.53036,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Heat_Buildings,2021,133.241,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Heat_High_Industrial,2021,22.5518,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Heat_Low_Industrial,2021,13.9016,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Heat_Medium_Industrial,2021,65.6679,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Power,2021,78.8852,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,H2,2021,4.9452,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Heat_Buildings,2021,99.9164,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Heat_High_Industrial,2021,4.7543,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Heat_Low_Industrial,2021,5.5674,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Heat_Medium_Industrial,2021,17.2176,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Power,2021,39.344,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,H2,2021,1.68875,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Heat_Buildings,2021,58.8261,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Heat_High_Industrial,2021,36.7816,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Heat_Low_Industrial,2021,20.4506,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Heat_Medium_Industrial,2021,20.1623,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Power,2021,57.7754,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,H2,2021,6.42567,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Heat_Buildings,2021,120.055,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Heat_High_Industrial,2021,13.9157,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Heat_Low_Industrial,2021,13.8425,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Heat_Medium_Industrial,2021,29.059,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Power,2021,56.7303,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,H2,2021,3.30847,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Heat_Buildings,2021,80.7593,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Heat_High_Industrial,2021,21.9875,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Heat_Low_Industrial,2021,12.3228,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Heat_Medium_Industrial,2021,61.8304,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Power,2021,56.262,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,H2,2021,3.13277,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Heat_Buildings,2021,73.4618,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Heat_High_Industrial,2021,9.61381,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Heat_Low_Industrial,2021,8.29941,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Heat_Medium_Industrial,2021,17.9675,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Power,2021,34.5324,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_Buildings,2021,103.1992657,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_District,2021,109.99,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_High_Industrial,2021,15.31,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_Low_Industrial,2021,17.38,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_MediumHigh_Industrial,2021,24.43796156,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_MediumLow_Industrial,2021,18.64934463,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Power,2021,84.9664004,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_Buildings,2021,28.90145622,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_District,2021,20.1,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_High_Industrial,2021,2.96,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_Low_Industrial,2021,5.43,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumHigh_Industrial,2021,6.660519447,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumLow_Industrial,2021,3.600454668,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Power,2021,38.78901243,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Heat_Buildings,2021,613.7039571,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Heat_District,2021,1.93,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Heat_High_Industrial,2021,183.62,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Heat_Low_Industrial,2021,152.58,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Heat_MediumHigh_Industrial,2021,274.6349372,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Heat_MediumLow_Industrial,2021,117.7770676,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Power,2021,717.3117344,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Heat_Buildings,2021,182.7509919,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Heat_District,2021,120.6,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Heat_High_Industrial,2021,37.42,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Heat_Low_Industrial,2021,98.42,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Heat_MediumHigh_Industrial,2021,209.79778,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Heat_MediumLow_Industrial,2021,57.38515102,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Power,2021,146.6887379,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Heat_Buildings,2021,1709.901589,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Heat_District,2021,91.44,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Heat_High_Industrial,2021,198.27,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Heat_Low_Industrial,2021,275.04,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Heat_MediumHigh_Industrial,2021,422.9590536,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Heat_MediumLow_Industrial,2021,212.3728649,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Power,2021,1579.487366,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_Buildings,2021,155.4336615,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_District,2021,1.22,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_High_Industrial,2021,41.75,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_Low_Industrial,2021,24.68,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_MediumHigh_Industrial,2021,35.69978497,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_MediumLow_Industrial,2021,23.36231271,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Power,2021,164.4330846,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_Buildings,2021,87.68037765,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_District,2021,7.19,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_High_Industrial,2021,9.32,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_Low_Industrial,2021,9.63,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_MediumHigh_Industrial,2021,14.40673196,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_MediumLow_Industrial,2021,8.146448905,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Power,2021,29.64725471,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,Heat_Buildings,2021,230.1449088,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,Heat_District,2021,25.94,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,Heat_High_Industrial,2021,26.67,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,Heat_Low_Industrial,2021,42.4,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,Heat_MediumHigh_Industrial,2021,60.33644472,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,Heat_MediumLow_Industrial,2021,27.48829644,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,Power,2021,86.25482863,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_Buildings,2021,128.1214959,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_District,2021,0,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_High_Industrial,2021,24.7,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_Low_Industrial,2021,24.13,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_MediumHigh_Industrial,2021,27.12468455,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_MediumLow_Industrial,2021,17.92957869,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Power,2021,86.92847077,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Heat_Buildings,2021,1422.794585,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Heat_District,2021,33.44,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Heat_High_Industrial,2021,234.87,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Heat_Low_Industrial,2021,252.47,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Heat_MediumHigh_Industrial,2021,341.0754859,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Heat_MediumLow_Industrial,2021,169.9896316,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Power,2021,688.896013,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_Buildings,2021,40.58103508,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_District,2021,27.52,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_High_Industrial,2021,4.08,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_Low_Industrial,2021,10.75,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_MediumHigh_Industrial,2021,15.69141656,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_MediumLow_Industrial,2021,6.961986369,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Power,2021,8.020022872,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_Buildings,2021,28.07967405,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_District,2021,3.1,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_High_Industrial,2021,12.08,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_Low_Industrial,2021,2.92,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumHigh_Industrial,2021,7.527299719,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumLow_Industrial,2021,2.765253386,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Power,2021,2.921871875,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_Buildings,2021,40.03286107,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_District,2021,24.33,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_High_Industrial,2021,3.11,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_Low_Industrial,2021,13.49,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumHigh_Industrial,2021,5.828879859,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumLow_Industrial,2021,4.288049467,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Power,2021,16.78256912,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,Heat_Buildings,2021,459.162333,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,Heat_District,2021,22.8,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,Heat_High_Industrial,2021,73.69,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,Heat_Low_Industrial,2021,100.71,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,Heat_MediumHigh_Industrial,2021,290.2921599,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,Heat_MediumLow_Industrial,2021,87.14985753,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,Power,2021,324.4036153,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Heat_Buildings,2021,176.270724,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Heat_District,2021,21.13,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Heat_High_Industrial,2021,47.96,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Heat_Low_Industrial,2021,14.22,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Heat_MediumHigh_Industrial,2021,55.88478198,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Heat_MediumLow_Industrial,2021,14.17032142,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Power,2021,378.171499,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_Buildings,2021,231.04,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_District,2021,0,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_High_Industrial,2021,18.37,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_Low_Industrial,2021,10.24,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_MediumHigh_Industrial,2021,17.29477254,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_MediumLow_Industrial,2021,8.963401821,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Power,2021,174.0941413,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Heat_Buildings,2021,689.2674775,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Heat_District,2021,233.46,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Heat_High_Industrial,2021,129.81,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Heat_Low_Industrial,2021,109.36,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Heat_MediumHigh_Industrial,2021,219.6710603,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Heat_MediumLow_Industrial,2021,96.56718412,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Power,2021,496.796948,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_Buildings,2021,96.95056348,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_District,2021,0.15,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_High_Industrial,2021,29.12,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_Low_Industrial,2021,42.5,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_MediumHigh_Industrial,2021,70.0537323,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_MediumLow_Industrial,2021,30.85766813,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Power,2021,157.0861528,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,Heat_Buildings,2021,269.1686,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,Heat_District,2021,35.59,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,Heat_High_Industrial,2021,74.48,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,Heat_Low_Industrial,2021,51.35,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,Heat_MediumHigh_Industrial,2021,95.92865327,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,Heat_MediumLow_Industrial,2021,34.46100283,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,Power,2021,204.4648477,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,Heat_Buildings,2021,193.9503713,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,Heat_District,2021,183.42,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,Heat_High_Industrial,2021,49.5,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,Heat_Low_Industrial,2021,110.22,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,Heat_MediumHigh_Industrial,2021,200.6217519,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,Heat_MediumLow_Industrial,2021,63.29776085,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,Power,2021,483.5253564,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_Buildings,2021,39.93918085,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_District,2021,6.83,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_High_Industrial,2021,12.96,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_Low_Industrial,2021,9.78,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumHigh_Industrial,2021,17.16832559,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumLow_Industrial,2021,6.510093842,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Power,2021,47.24366169,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Heat_Buildings,2021,72.14105526,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Heat_District,2021,51.38,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Heat_High_Industrial,2021,56.39,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Heat_Low_Industrial,2021,12.12,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Heat_MediumHigh_Industrial,2021,65.10596517,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Heat_MediumLow_Industrial,2021,20.20817593,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Power,2021,78.93553454,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Heat_Buildings,2021,1634.482522,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Heat_District,2021,0,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Heat_High_Industrial,2021,129.96,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Heat_Low_Industrial,2021,129.91,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Heat_MediumHigh_Industrial,2021,133.3841285,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Heat_MediumLow_Industrial,2021,89.85299096,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Power,2021,974.1652566,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,Heat_Buildings,2021,1684.013775,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,Heat_District,2021,43.2,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,Heat_High_Industrial,2021,131.06,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,Heat_Low_Industrial,2021,348.39,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,Heat_MediumHigh_Industrial,2021,291.1847814,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,Heat_MediumLow_Industrial,2021,188.6596151,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,Power,2021,798.4,,PJ,same as 2018 for now,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>

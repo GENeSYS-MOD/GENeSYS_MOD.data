@@ -17,6 +17,15 @@ World,S_Gas_Methane,2020,12.0,,MEUR/PJ,Danish Energy Agency Storage Data; https:
 World,S_HLI_Tank_Large,2020,0.01,,MEUR/PJ,Everything baked into D-technology - assumed for numerical stability,26.11.2024,Stian Backe <stian.backe@sintef.no>
 World,S_HB_Tank_Small,2020,0.01,,MEUR/PJ,Everything baked into D-technology - assumed for numerical stability,26.11.2024,Stian Backe <stian.backe@sintef.no>
 World,S_HD_Pit,2020,0.01,,MEUR/PJ,Everything baked into D-technology - assumed for numerical stability,26.11.2024,Stian Backe <stian.backe@sintef.no>
+World,S_PHS,2021,84027.77777,,MEUR/PJ,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Li-Ion,2021,126388.8889,,MEUR/PJ,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Battery_Redox,2021,1459.712727,,MEUR/PJ,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_CAES,2021,763.8888888500001,,MEUR/PJ,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_H2,2021,12.0,,MEUR/PJ,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_Gas_Methane,2021,0.01,,MEUR/PJ,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_HLI_Tank_Large,2021,0.01,,MEUR/PJ,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_HB_Tank_Small,2021,0.01,,MEUR/PJ,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,S_HD_Pit,2021,16162.90909,,MEUR/PJ,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,S_PHS,2025,16162.90909,,MEUR/PJ,PNNL Storage Data; https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 World,S_Battery_Li-Ion,2025,51944.44444,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>
 World,S_Battery_Redox,2025,75000.0,,MEUR/PJ,Danish Energy Agency Storage Data; https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,29.05.2024,Konstantin Löffler <kl@wip.tu-berlin.de>

@@ -3,6 +3,7 @@ D_Battery_Li-Ion,S_Battery_Li-Ion,2,All,0.97,,Fraction,Energy Agency Denmark (20
 D_Battery_Redox,S_Battery_Redox,2,All,0.9,,Fraction,Viswanathan et al. (2022): Publication No: PNNL-33283- Assumption: 80% RTE- charge and discharge same,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_CAES,S_CAES,2,2018,0.69,,Fraction,Energy Agency Denmark (2024)- CAES - lower,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_CAES,S_CAES,2,2020,0.69,,Fraction,Energy Agency Denmark (2024)- CAES - lower,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+D_CAES,S_CAES,2,2021,0.6991499999999999,,Fraction,interpolated between 2018 and 2025,30.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_CAES,S_CAES,2,2025,0.7083,,Fraction,Energy Agency Denmark (2024)- CAES - lower - interpolated,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_CAES,S_CAES,2,2030,0.7266,,Fraction,Energy Agency Denmark (2024)- CAES - lower - interpolated,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 D_CAES,S_CAES,2,2035,0.7449,,Fraction,Energy Agency Denmark (2024)- CAES - lower - interpolated,05.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
