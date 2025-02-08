@@ -330,9 +330,9 @@ World,CHP_Gas_CCGT_SynGas,Gas_Synth,3,2050,1.818181818,,PJ,Energy Agency Denmark
 World,CHP_Gas_CCGT_SynGas,Gas_Synth,3,2055,1.818181818,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_SynGas,Gas_Synth,3,2060,1.818181818,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Hydrogen_FuelCell,H2,1,2018,2.083333333,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Hydrogen_FuelCell,H2,1,2020,2.0,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Hydrogen_FuelCell,H2,1,2025,2.0,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Hydrogen_FuelCell,H2,1,2030,2.0,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,H2,1,2020,2,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,H2,1,2025,2,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Hydrogen_FuelCell,H2,1,2030,2,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Hydrogen_FuelCell,H2,1,2035,1.97044335,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Hydrogen_FuelCell,H2,1,2040,1.941747573,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Hydrogen_FuelCell,H2,1,2045,1.913875598,,PJ,Energy Agency Denmark (2024): LT-PEMFC CHP - upper 2050,27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -371,16 +371,16 @@ World,CHP_Oil,Oil,3,2055,1.818181818,,PJ,same as 2050 for now,29.01.2025,Nikita 
 World,CHP_Oil,Oil,3,2060,1.818181818,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_WasteToEnergy,Waste,1,All,4.17,,PJ,DEA â€“ Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
 World,CHP_WasteToEnergy,Waste,2,All,4.17,,PJ,DEA â€“ Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Li-Ion,Power,1,All,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Battery_Redox,Power,1,All,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_CAES,Power,1,All,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_H2,H2,1,All,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_Gas_Methane,Gas_Natural,1,All,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_HB_Tank_Small,Heat_Buildings,1,All,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_HD_Pit,Heat_District,1,All,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_HLI_Tank_Large,Heat_Low_Industrial,1,All,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS,Power,1,All,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
-World,D_PHS_Residual,Power,1,All,1.0,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Li-Ion,Power,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Battery_Redox,Power,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_CAES,Power,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_H2,H2,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_Gas_Methane,Gas_Natural,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_HB_Tank_Small,Heat_Buildings,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_HD_Pit,Heat_District,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_HLI_Tank_Large,Heat_Low_Industrial,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS,Power,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
+World,D_PHS_Residual,Power,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,FRT_Rail_Conv,Oil,1,2018,0.303007519,,PJ,FVV (2016): Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Rail_Conv,Oil,1,2020,0.30075188,,PJ,FVV (2016): Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Rail_Conv,Oil,1,2025,0.296052632,,PJ,FVV (2016): Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -601,8 +601,8 @@ World,HB_Biomass,Biomass,1,2045,1.06125083,,PJ,Energy Agency Denmark (2023): Bio
 World,HB_Biomass,Biomass,1,2050,1.04850192,,PJ,Energy Agency Denmark (2023): Biomass boiler upper (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,Biomass,1,2055,1.04850192,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,Biomass,1,2060,1.04850192,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,Heat_District,1,All,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Direct_Electric,Power,1,All,1.0,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Convert_DH,Heat_District,1,All,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Direct_Electric,Power,1,All,1,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Gas_Boiler,Gas_Natural,1,2018,1.030927835,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Gas_Boiler,Gas_Natural,1,2020,1.030927835,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Gas_Boiler,Gas_Natural,1,2025,1.030927835,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1046,17 +1046,17 @@ World,HLI_Biomass,Biomass,1,2045,1.066666667,,PJ,Energy Agency Denmark (2022): H
 World,HLI_Biomass,Biomass,1,2050,1.063829787,,PJ,Energy Agency Denmark (2022): Hot water boiler wood,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Biomass,Biomass,1,2055,1.063829787,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Biomass,Biomass,1,2060,1.063829787,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,Heat_District,1,All,1.0,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Convert_DH,Heat_District,1,All,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,Power,1,2018,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,Power,1,2020,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,Power,1,2025,1.005025126,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2030,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2035,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2040,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2045,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2050,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2055,1.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Direct_Electric,Power,1,2060,1.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2030,1,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2035,1,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2040,1,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2045,1,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2050,1,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2055,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HLI_Direct_Electric,Power,1,2060,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Gas_Boiler,Gas_Natural,1,2018,1.063829787,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Gas_Boiler,Gas_Natural,1,2020,1.063829787,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Gas_Boiler,Gas_Natural,1,2025,1.052631579,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1330,23 +1330,23 @@ World,HMHI_Oil,Oil,2,2060,1.020408163,,PJ,same as 2050 for now,29.01.2025,Nikita
 World,HMHI_Steam_Electric,Power,1,2018,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_Steam_Electric,Power,1,2020,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_Steam_Electric,Power,1,2025,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,1,2030,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,1,2035,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,1,2040,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,1,2045,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,1,2050,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,1,2055,1.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,1,2060,1.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2030,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2035,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2040,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2045,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2050,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2055,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,1,2060,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_Steam_Electric,Power,2,2018,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_Steam_Electric,Power,2,2020,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_Steam_Electric,Power,2,2025,1.01010101,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,2,2030,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,2,2035,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,2,2040,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,2,2045,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,2,2050,1.0,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,2,2055,1.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Steam_Electric,Power,2,2060,1.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2030,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2035,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2040,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2045,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2050,1,,PJ,Energy Agency Denmark (2022): Electric boiler steam,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2055,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HMHI_Steam_Electric,Power,2,2060,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMLI_Heatpump,Power,1,2018,0.392156863,,PJ,DEA â€“ Technology data for industrial process heat - heat pump up to 125 to 150 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HMLI_Heatpump,Power,1,2020,0.392156863,,PJ,DEA â€“ Technology data for industrial process heat - heat pump up to 125 to 150 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HMLI_Heatpump,Power,1,2025,0.381263617,,PJ,DEA â€“ Technology data for industrial process heat - heat pump up to 125 to 150 C - needs timeseries,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -1457,36 +1457,36 @@ World,PSNG_Road_H2,H2,1,2045,0.5,,PJ,FVV 2016: Renewables in Transport 2050,03.0
 World,PSNG_Road_H2,H2,1,2050,0.5,,PJ,FVV 2016: Renewables in Transport 2050,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_H2,H2,1,2055,0.5,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_H2,H2,1,2060,0.5,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Oil,1,2018,1.309333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Oil,1,2020,1.293333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Oil,1,2025,1.163333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Oil,1,2030,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Oil,1,2035,0.966666667,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Oil,1,2040,0.9,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Oil,1,2045,0.896666667,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Oil,1,2050,0.893333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Oil,1,2055,0.893333333,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Oil,1,2060,0.893333333,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Biofuel,2,2018,1.505733333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Biofuel,2,2020,1.487333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Biofuel,2,2025,1.337833333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Biofuel,2,2030,1.188333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Biofuel,2,2035,1.111666667,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Biofuel,2,2040,1.035,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Biofuel,2,2045,1.031166667,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Biofuel,2,2050,1.027333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Biofuel,2,2055,1.027333333,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Biofuel,2,2060,1.027333333,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Powerfuel,3,2018,1.309333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Powerfuel,3,2020,1.293333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Powerfuel,3,2025,1.163333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Powerfuel,3,2030,1.033333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Powerfuel,3,2035,0.966666667,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Powerfuel,3,2040,0.9,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Powerfuel,3,2045,0.896666667,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Powerfuel,3,2050,0.893333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Powerfuel,3,2055,0.893333333,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,Powerfuel,3,2060,0.893333333,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2018,1.5712,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2020,1.552,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2025,1.396,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2030,1.24,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2035,1.16,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2040,1.08,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2045,1.076,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2050,1.072,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2055,1.072,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Oil,1,2060,1.072,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2018,1.80688,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2020,1.7848,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2025,1.6054,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2030,1.426,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2035,1.334,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2040,1.242,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2045,1.2374,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2050,1.2328,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline) + higher consumption due to lower heating value (+15%),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2055,1.2328,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Biofuel,2,2060,1.2328,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2018,1.5712,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2020,1.552,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2025,1.396,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2030,1.24,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2035,1.16,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2040,1.08,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2045,1.076,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2050,1.072,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Gasoline),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2055,1.072,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_ICE,Powerfuel,3,2060,1.072,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_LNG,LNG,1,2018,1.309333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_LNG,LNG,1,2020,1.293333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_LNG,LNG,1,2025,1.163333333,,PJ,FVV 2016: Renewables in Transport 2050 (ICE Diesel),03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1680,13 +1680,13 @@ World,P_Gas_CCS,Gas_Synth,3,2060,1.883239171,,PJ,same as 2050 for now,29.01.2025
 World,P_Gas_Engines,Gas_Natural,1,2018,2.083333333,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,Gas_Natural,1,2020,2.083333333,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,Gas_Natural,1,2025,2.040816327,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2030,2.0,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2035,2.0,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2040,2.0,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2045,2.0,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2050,2.0,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2055,2.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,Gas_Natural,1,2060,2.0,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2030,2,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2035,2,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2040,2,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2045,2,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2050,2,,PJ,Energy Agency Denmark (2024): Natural gas engine plant,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2055,2,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_Engines,Gas_Natural,1,2060,2,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,Gas_Bio,2,2018,2.222222222,,PJ,Energy Agency Denmark (2024): Natural gas engine plant - p. 373,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,Gas_Bio,2,2020,2.222222222,,PJ,Energy Agency Denmark (2024): Natural gas engine plant - p. 373,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,Gas_Bio,2,2025,2.173913043,,PJ,Energy Agency Denmark (2024): Natural gas engine plant - p. 373,07.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1809,7 +1809,7 @@ World,X_Biofuel,Biomass,1,2045,1.465201465,,PJ,Energy Agency Denmark (2024): Gas
 World,X_Biofuel,Biomass,1,2050,1.428571429,,PJ,Energy Agency Denmark (2024): Gasifier CFB Bio-SNG,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Biofuel,Biomass,1,2055,1.428571429,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Biofuel,Biomass,1,2060,1.428571429,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_HT,Air,1,All,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_HT,Air,1,All,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_HT,Power,1,2018,5.724,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_HT,Power,1,2020,5.724,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_HT,Power,1,2025,5.2488,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1820,7 +1820,7 @@ World,X_DAC_HT,Power,1,2045,4.8618,,PJ,Energy Agency Denmark (2024): Liquid DAC,
 World,X_DAC_HT,Power,1,2050,4.7376,,PJ,Energy Agency Denmark (2024): Liquid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_HT,Power,1,2055,4.7376,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_HT,Power,1,2060,4.7376,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_DAC_LT,Air,1,All,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_DAC_LT,Air,1,All,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_LT,Heat_Low_Industrial,1,2018,6.66,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_LT,Heat_Low_Industrial,1,2020,6.3,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_LT,Heat_Low_Industrial,1,2025,5.4,,PJ,Energy Agency Denmark (2024): Solid DAC,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1922,5 +1922,5 @@ World,X_SOEC_Electrolysis,Power,1,2045,1.138414994,,PJ,Energy Agency Denmark (20
 World,X_SOEC_Electrolysis,Power,1,2050,1.123301744,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_SOEC_Electrolysis,Power,1,2055,1.123301744,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_SOEC_Electrolysis,Power,1,2060,1.123301744,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Buy,ETS,1,All,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Sell,ETS_Source,1,All,1.0,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Buy,ETS,1,All,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_ETS_Sell,ETS_Source,1,All,1,,Unit,irrelevant,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
