@@ -30,153 +30,224 @@ no_change_parameters:
 
 
 changed_files:
+    - file_name: Par_ReserveMargin
+      method: "sum"
+      index_count: 2
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
+
     - file_name: Par_RegionalModelPeriodEmissionLimit
       method: "sum"
       index_count: 2
       regions_to_combine: 
         - 'NO'
         - 'SE'
-      new_regions: 
-        - 'SCANDINAVIA'
+      new_regions: 'SCANDINAVIA'
+
+    - file_name: Par_GeneralDiscountRate
+      method: "sum"
+      index_count: 2
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
       
-        
-# Indexed by 2
+    - file_name: Par_RegionalCCSLimit
+      method: "sum"
+      index_count: 2
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_RegionalModelPeriodEmissionLimit:
-    aggregation_Method: "sum" 
-    index_count: 2
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_ModalPeriodActivityMax
+      method: "sum"
+      index_count: 2
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_ReserveMargin:
-    aggregation_Method: "sum" 
-    index_count: 2
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_SocialDiscountRate
+      method: "sum"
+      index_count: 2
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_GeneralDiscountRate:
-    aggregation_Method: "sum" 
-    index_count: 2
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_TechnologyDiscountRate
+      method: "sum"
+      index_count: 2
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_RegionalCCSLimit:
-    aggregation_Method: "sum" 
-    index_count: 2
-    regions_to_aggregate: "regions.yaml"
+    # Indexed by 3
 
-Par_ModalPeriodActivityMax:
-    aggregation_Method: "sum" 
-    index_count: 2
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_TotalAnnualMaxCapacity
+      method: "sum"
+      index_count: 3
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_SocialDiscountRate:
-    aggregation_Method: "sum" 
-    index_count: 2
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_AnnualExogenousEmission
+      method: "sum"
+      index_count: 3
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_TechnologyDiscountRate:
-    aggregation_Method: "sum" 
-    index_count: 2
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_BaseYearProduction
+      method: "sum"
+      index_count: 3
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-# Indexed by 3
+    - file_name: Par_CapitalCost
+      method: "sum"
+      index_count: 3
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_TotalAnnualMaxCapacity: 
-    aggregation_Method: "sum" 
-    index_count: 3
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_REMinProductionTarget
+      method: "sum"
+      index_count: 3
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_AnnualExogenousEmission:
-    aggregation_Method: "sum" 
-    index_count: 3
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_ResidualCapacity
+      method: "sum"
+      index_count: 3
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_BaseYearProduction:
-    aggregation_Method: "sum"
-    index_count: 3
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_TotalAnnualMaxActivity
+      method: "sum"
+      index_count: 3
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_CapitalCost:
-    aggregation_Method: "sum" 
-    index_count: 3
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_EmissionPenalty
+      method: "sum"
+      index_count: 3
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
+    
+    - file_name: Par_RegionalAnnualEmissionLimit
+      method: "sum"
+      index_count: 3
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_REMinProductionTarget:
-    aggregation_Method: "sum" 
-    index_count: 3
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_SpecifiedAnnualDemand
+      method: "sum"
+      index_count: 3
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_ResidualCapacity:
-    aggregation_Method: sum 
-    index_count: 3
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_TradeCosts
+      method: "sum"
+      index_count: 3
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_TotalAnnualMaxActivity: 
-    aggregation_Method: "sum" 
-    index_count: 3
-    regions_to_aggregate: "regions.yaml"
 
-Par_TradeCosts:
-    aggregation_Method: "sum" 
-    index_count: 3
-    regions_to_aggregate: "regions.yaml"
+    #indexed by 4
 
-Par_EmissionPenalty:
-    aggregation_Method: "sum" 
-    index_count: 3
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_ComissionedTradeCapacity
+      method: "sum"
+      index_count: 4
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_RegionalAnnualEmissionLimit:
-    aggregation_Method: "sum" 
-    index_count: 3
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_GrowthRateTradeCapacity
+      method: "sum"
+      index_count: 4
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'      
 
-Par_SpecifiedAnnualDemand:
-    aggregation_Method: 'sum' 
-    index_count: 3
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_TradeCapacity
+      method: "sum"
+      index_count: 4
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-#indexed by 4
+    - file_name: Par_TradeCapacityGrowthCosts
+      method: "sum"
+      index_count: 4
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_ComissionedTradeCapacity:
-    aggregation_Method: "sum" 
-    index_count: 4
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_TradeRoute
+      method: "sum"
+      index_count: 4
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_GrowthRateTradeCapacity:
-    aggregation_Method: "sum" 
-    index_count: 4
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_ModalSplitByFuel
+      method: "sum"
+      index_count: 4
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_TradeCapacity:
-    aggregation_Method: "sum" 
-    index_count: 4
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_OutputActivityRatio
+      method: "sum"
+      index_count: 4
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_TradeCapacityGrowthCosts:
-    aggregation_Method: "sum" 
-    index_count: 4
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_RegionalBaseYearProduction
+      method: "sum"
+      index_count: 4
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_TradeRoute:
-    aggregation_Method: "sum" 
-    index_count: 4
-    regions_to_aggregate: "regions.yaml"
+    - file_name: Par_VariableCosts
+      method: "sum"
+      index_count: 4
+      regions_to_combine: 
+        - 'NO'
+        - 'SE'
+      new_regions: 'SCANDINAVIA'
 
-Par_ModalSplitByFuel:
-    aggregation_Method: "sum" 
-    index_count: 4
-    regions_to_aggregate: "regions.yaml"
-
-Par_OutputActivityRatio:
-    aggregation_Method: "sum" 
-    index_count: 4
-    regions_to_aggregate: "regions.yaml"
-
-Par_RegionalBaseYearProduction:
-    aggregation_Method: "sum" 
-    index_count: 4
-    regions_to_aggregate: "regions.yaml"
-
-Par_VariableCosts:
-    aggregation_Method: "sum" 
-    index_count: 4
-    regions_to_aggregate: "regions.yaml"
