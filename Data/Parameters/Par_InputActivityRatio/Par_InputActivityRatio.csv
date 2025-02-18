@@ -421,16 +421,16 @@ World,FRT_Rail_Electric,Power,1,2045,0.156015038,,PJ,FVV (2016): Renewables in T
 World,FRT_Rail_Electric,Power,1,2050,0.156015038,,PJ,FVV (2016): Renewables in Transport 2050,02.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Rail_Electric,Power,1,2055,0.156015038,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Rail_Electric,Power,1,2060,0.156015038,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_BEV,Power,1,2018,0.338704176,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_BEV,Power,1,2020,0.32797335,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_BEV,Power,1,2025,0.302421183,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_BEV,Power,1,2030,0.278509255,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_BEV,Power,1,2035,0.256046027,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_BEV,Power,1,2040,0.234872633,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_BEV,Power,1,2045,0.214855778,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_BEV,Power,1,2050,0.195882462,,PJ,Energy Agency Denmark (2024): BEV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_BEV,Power,1,2055,0.195882462,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_BEV,Power,1,2060,0.195882462,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2018,0.4133,,PJ,Energy Agency Denmark (2024): BEV L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2020,0.4133,,PJ,Energy Agency Denmark (2024): BEV L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2025,0.3903,,PJ,Energy Agency Denmark (2024): BEV L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2030,0.3624,,PJ,Energy Agency Denmark (2024): BEV L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2035,0.3624,,PJ,Energy Agency Denmark (2024): BEV L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2040,0.3092,,PJ,Energy Agency Denmark (2024): BEV L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2045,0.3092,,PJ,Energy Agency Denmark (2024): BEV L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2050,0.2591,,PJ,Energy Agency Denmark (2024): BEV L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2055,0.2591,,PJ,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_BEV,Power,1,2060,0.2591,,PJ,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,FRT_Road_H2,H2,1,2018,0.545704334,,PJ,Energy Agency Denmark (2024): FCV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_H2,H2,1,2020,0.52985311,,PJ,Energy Agency Denmark (2024): FCV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_H2,H2,1,2025,0.492029009,,PJ,Energy Agency Denmark (2024): FCV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -441,36 +441,36 @@ World,FRT_Road_H2,H2,1,2045,0.361642878,,PJ,Energy Agency Denmark (2024): FCV L,
 World,FRT_Road_H2,H2,1,2050,0.33324933,,PJ,Energy Agency Denmark (2024): FCV L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_H2,H2,1,2055,0.33324933,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_H2,H2,1,2060,0.33324933,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Oil,1,2018,0.962941369,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Oil,1,2020,0.929923783,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Oil,1,2025,0.850985504,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Oil,1,2030,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Oil,1,2035,0.706706712,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Oil,1,2040,0.640464135,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Oil,1,2045,0.577662696,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Oil,1,2050,0.517998721,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Oil,1,2055,0.517998721,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Oil,1,2060,0.517998721,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Biofuel,2,2018,0.962941369,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Biofuel,2,2020,0.929923783,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Biofuel,2,2025,0.850985504,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Biofuel,2,2030,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Biofuel,2,2035,0.706706712,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Biofuel,2,2040,0.640464135,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Biofuel,2,2045,0.577662696,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Biofuel,2,2050,0.517998721,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Biofuel,2,2055,0.517998721,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Biofuel,2,2060,0.517998721,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Powerfuel,3,2018,0.962941369,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Powerfuel,3,2020,0.929923783,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Powerfuel,3,2025,0.850985504,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Powerfuel,3,2030,0.776742854,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Powerfuel,3,2035,0.706706712,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Powerfuel,3,2040,0.640464135,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Powerfuel,3,2045,0.577662696,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Powerfuel,3,2050,0.517998721,,PJ,Energy Agency Denmark (2024): Diesel L,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Powerfuel,3,2055,0.517998721,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,Powerfuel,3,2060,0.517998721,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2018,1.2793,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2020,1.2793,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2025,1.1927,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2030,1.0882,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2035,1.0882,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2040,0.8909,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2045,0.8909,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2050,0.708,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2055,0.708,,PJ,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Oil,1,2060,0.708,,PJ,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2018,1.2793,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2020,1.2793,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2025,1.1927,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2030,1.0882,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2035,1.0882,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2040,0.8909,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2045,0.8909,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2050,0.708,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2055,0.708,,PJ,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Biofuel,2,2060,0.708,,PJ,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2018,1.2793,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2020,1.2793,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2025,1.1927,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2030,1.0882,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2035,1.0882,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2040,0.8909,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2045,0.8909,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2050,0.708,,PJ,Energy Agency Denmark (2024): Diesel L1,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2055,0.708,,PJ,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,FRT_Road_ICE,Powerfuel,3,2060,0.708,,PJ,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,FRT_Road_LNG,LNG,1,2018,0.624037988,,PJ,icct (2020): Decarbonization of on-road freight transport and the role of LNG from a German perspective + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_LNG,LNG,1,2020,0.599705564,,PJ,icct (2020): Decarbonization of on-road freight transport and the role of LNG from a German perspective + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_LNG,LNG,1,2025,0.543643208,,PJ,icct (2020): Decarbonization of on-road freight transport and the role of LNG from a German perspective + Energy Agency Denmark (2024),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
