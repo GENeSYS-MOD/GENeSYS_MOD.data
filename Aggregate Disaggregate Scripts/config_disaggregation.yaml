@@ -28,7 +28,7 @@ parameters:
     - Par_TotalAnnualMinCapacity
     - Par_TradeLossFactor
 
-
+#################################
   changed_files:
     - file_name: Par_RegionalModelPeriodEmissionLimit
       method: "copy"
@@ -329,7 +329,7 @@ parameters:
       split_ratio: 
         'NO1': 1.0
         'NO2': 1.0
-
+######################################
   trade_files:
     - file_name: Par_GrowthRateTradeCapacity
       method: "copy" 
@@ -342,13 +342,7 @@ parameters:
       split_ratio: 
         'NO1': 1.0
         'NO2': 1.0
-      new_connections:
-        NO1-NO2: 
-          value: 23
-        NO2-NO1: 
-          value: 45
 
-  
     - file_name: Par_TradeRoute
       method: "copy" 
       index_count: 3
@@ -360,13 +354,7 @@ parameters:
       split_ratio: 
         'NO1': 1.0
         'NO2': 1.0
-      new_connections:
-        NO1-NO2: 
-          value: 23
-        NO2-NO1: 
-          value: 45
 
-    
     - file_name: Par_TradeCapacity
       method: "copy" 
       index_count: 3
@@ -378,11 +366,6 @@ parameters:
       split_ratio: 
         'NO1': 1.0
         'NO2': 1.0
-      new_connections:
-        NO1-NO2: 
-          value: 23
-        NO2-NO1: 
-          value: 45
 
     - file_name: Par_TradeCapacityGrowthCosts
       method: "copy" 
@@ -395,29 +378,207 @@ parameters:
       split_ratio: 
         'NO1': 1.0
         'NO2': 1.0
-      new_connections:
-        NO1-NO2: 
-          value: 23
-        NO2-NO1: 
-          value: 45
 
-  special_files:
-    - file_name: Par_RegionalBaseYearProduction
-      index_count: 2
-      regions_to_split: 
-        - 'NO'
-      new_regions: 
-        - 'NO1'
-        - 'NO2'
-      split_factors:
-        Heat_District: {NO1: 0.5, NO2: 0.5} 
-        Heat_Low_Residential: {NO1: 0.3, NO2: 0.7} 
-        Heat_Low_Industrial: {NO1: 0.6, NO2: 0.4} 
-        Heat_Medium_Industrial: {NO1: 0.6, NO2: 0.4}
-        Heat_High_Industrial: {NO1: 0.6, NO2: 0.4}
-        Power: {NO1: 0.5, NO2: 0.5} #Area
+  time_series_files:
+    - file_name: TS_COOL_LOW
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_HEAT_LOW
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_HEAT_HIGH
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_HP_AIRSOURCE
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_HP_GROUNDSOURCE
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_HYDRO_ROR
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_LOAD
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_MOBILITY_PSNG
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_PV_AVG
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_PV_INF
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_PV_OPT
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_PV_TRA
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_WIND_OFFSHORE
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_WIND_OFFSHORE_DEEP
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_WIND_OFFSHORE_SHALLOW
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_WIND_ONSHORE_AVG
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_WIND_ONSHORE_INF
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+
+    - file_name: TS_WIND_ONSHORE_OPT
+      regions_to_split:
+          - 'NO'
+      new_regions:
+          - 'NO1'
+          - 'NO2'
+      split_ratio: 
+          'NO1': 0.5
+          'NO2': 0.5
+########################################## new
+  #special_files:
+    #- file_name: Par_RegionalBaseYearProduction
+      #index_count: 2
+      #regions_to_split: 
+        #- 'NO'
+      #new_regions: 
+        #- 'NO1'
+        #- 'NO2'
+      #split_factors:
+        #Heat_District: {NO1: 0.5, NO2: 0.5} 
+        #Heat_Low_Residential: {NO1: 0.3, NO2: 0.7} 
+        #Heat_Low_Industrial: {NO1: 0.6, NO2: 0.4} 
+        #Heat_Medium_Industrial: {NO1: 0.6, NO2: 0.4}
+        #Heat_High_Industrial: {NO1: 0.6, NO2: 0.4}
+        #Power: {NO1: 0.5, NO2: 0.5} #Area
 
     #- file_name: Par_BaseYearProduction
     #- file_name: Par_ModelPeriodExogenousEmission
     #- file_name: Par_ResidualCapacity
     #- file_name: Par_SpecifiedAnnualDemand
+
+
