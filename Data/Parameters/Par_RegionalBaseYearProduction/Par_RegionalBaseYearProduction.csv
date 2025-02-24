@@ -1108,12 +1108,14 @@ SE,CHP_Gas_CCGT_Natural,Heat_District,2018,3.938,,PJ,,,
 SE,CHP_Gas_CCGT_Natural,Power,2018,1.423,,PJ,,,
 SE,CHP_Oil,Heat_District,2018,0.458,,PJ,,,
 SE,CHP_Oil,Power,2018,0.166,,PJ,,,
-SE,HB_Biomass,Heat_Buildings,2018,47.071,,PJ,,,
-SE,HB_Direct_Electric,Heat_Buildings,2018,65.338,,PJ,,,
-SE,HB_Hardcoal,Heat_Buildings,2018,4.222,,PJ,,,
-SE,HB_Heatpump_Aerial,Heat_Buildings,2018,54.973,,PJ,,,
-SE,HB_Heatpump_Ground,Heat_Buildings,2018,2.893,,PJ,,,
-SE,HB_Oil_Boiler,Heat_Buildings,2018,19.209,,PJ,,,
+SE,HB_Biomass,Heat_Buildings,2018,4.7071,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Direct_Electric,Heat_Buildings,2018,6.5338,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Hardcoal,Heat_Buildings,2018,4.222,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Heatpump_Aerial,Heat_Buildings,2018,5.4973,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Heatpump_Ground,Heat_Buildings,2018,1.193,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Gas_Boiler,Heat_Buildings,2018,5,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Oil_Boiler,Heat_Buildings,2018,1.9209,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Convert_DH,Heat_Buildings,2018,165,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HHI_BF_BOF,Heat_High_Industrial,2018,8.79378,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,19.91716,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HHI_Scrap_EAF,Heat_High_Industrial,2018,15.98088,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
