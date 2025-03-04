@@ -197,8 +197,6 @@ DE,CHP_Coal_Lignite_CCS,2050,0,,Fraction,https://beyondfossilfuels.org/europes-c
 DE,CHP_Coal_Lignite_CCS,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,CHP_Coal_Lignite_CCS,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,FRT_Road_OH,2025,0,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,HB_H2_Boiler,2018,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HB_H2_Boiler,2020,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,HHI_Bio_BF_BOF,2018,0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HHI_Bio_BF_BOF,2020,0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HHI_H2DRI_EAF,2018,0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -223,18 +221,6 @@ DE,HLI_Lignite,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenk
 DE,HLI_Lignite,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HMHI_H2,2018,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HMHI_H2,2020,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Air_Bio,2020,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Air_H2,2018,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Air_H2,2020,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Air_H2,2025,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Air_H2,2030,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Air_H2,2035,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Road_BEV,2018,0.917340036,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Road_H2,2018,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Road_H2,2020,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,P_Coal_Hardcoal,2035,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,P_Coal_Hardcoal,2040,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,P_Coal_Hardcoal,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -271,8 +257,8 @@ DE,P_Nuclear,2045,0,,Fraction,Germany Nuclear Phase-out in 2023,24.07.2024,"Herp
 DE,P_Nuclear,2050,0,,Fraction,Germany Nuclear Phase-out in 2023,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,P_Nuclear,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Nuclear,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Ocean,2018,0.36,,Fraction,Wave,https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2014/Wave-Energy_V4_web.pdf?rev=0b2378736cfc4c1dab1fdf38b0d6d98d,
-DE,P_Ocean,2020,0.45,,Fraction,Tidal,https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2014/Tidal_Energy_V4_WEB.pdf,
+DE,P_Ocean,2018,0.36,,Fraction,https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2014/Wave-Energy_V4_web.pdf?rev=0b2378736cfc4c1dab1fdf38b0d6d98d,,
+DE,P_Ocean,2020,0.45,,Fraction,https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2014/Tidal_Energy_V4_WEB.pdf,,
 DE,P_Ocean,2025,0.46,,Fraction,,,
 DE,P_Ocean,2030,0.47,,Fraction,,,
 DE,P_Ocean,2035,0.47,,Fraction,,,
@@ -282,6 +268,18 @@ DE,P_Ocean,2050,0.5,,Fraction,,,
 DE,P_Ocean,2055,0.5,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Ocean,2060,0.5,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Oil,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_Bio,2020,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_H2,2018,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_H2,2020,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_H2,2025,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_H2,2030,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_H2,2035,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Road_BEV,2018,0.917340036,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Road_H2,2018,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Road_H2,2020,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Hardcoal,2018,1,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Hardcoal,2020,1,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Hardcoal,2025,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -302,8 +300,6 @@ DE,R_Coal_Lignite,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-ex
 DE,R_Coal_Lignite,2050,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Lignite,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,R_Coal_Lignite,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_ETS_Buy,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,Z_ETS_Sell,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,Z_Import_Gas,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,Z_Import_H2,2018,0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Z_Import_H2,2025,0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1037,6 +1033,8 @@ World,HB_Convert_DH,All,1,,Fraction,"by definition only 1, no source needed",24.
 World,HB_Direct_Electric,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Gas_Boiler,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Geothermal,All,0,,Fraction,Assumption of short down times for maintenance | currently disabled due to lack of potential data,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HB_H2_Boiler,2018,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HB_H2_Boiler,2020,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HB_H2_Boiler,2021,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HB_H2_Boiler,2025,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HB_H2_Boiler,2030,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -1081,28 +1079,13 @@ World,HMHI_HardCoal_CCS,All,0.98,,Fraction,Assumption of short down times for ma
 World,HMHI_Oil,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HMHI_Steam_Electric,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HMLI_Heatpump,All,0.98,,Fraction,Assumption of short down times for maintenance,10.10.2024,Stian Backe <stian.backe@sintef.no>
-World,PSNG_Air_Bio,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Air_Conv,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Air_H2,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Rail_Conv,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Rail_Electric,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Road_BEV,2018,0.917340036,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Road_BEV,All,0.917340036,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Road_H2,2018,0,,Fraction,Not available,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Road_H2,2020,0,,Fraction,Not available,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Road_H2,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Road_ICE,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Road_LNG,All,0.98,,Fraction,Assumption: 2% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Road_PHEV,2018,0,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Road_PHEV,2018,0,,Fraction,Not available,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,PSNG_Road_PHEV,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Biomass,All,0.9,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Biomass_CCS,All,0.9,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,P_CSP,All,0.98,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Coal_Hardcoal,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Coal_Hardcoal_CCS,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Coal_Lignite,All,0.8,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Coal_Lignite_CCS,All,0.8,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,P_CSP,All,0.98,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Gas_CCGT,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Gas_CCS,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,P_Gas_Engines,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -1135,6 +1118,21 @@ World,P_Wind_Offshore_Transitional,All,0.97,,Fraction,DOI: 10.1109/EEE-AM58328.2
 World,P_Wind_Onshore_Avg,All,0.97,,Fraction,DOI: 10.1109/EEE-AM58328.2023.10395299,26.11.2024,"Loffler, Konstantin <kl@wip.tu-berlin.de>"
 World,P_Wind_Onshore_Inf,All,0.97,,Fraction,DOI: 10.1109/EEE-AM58328.2023.10395299,26.11.2024,"Loffler, Konstantin <kl@wip.tu-berlin.de>"
 World,P_Wind_Onshore_Opt,All,0.97,,Fraction,DOI: 10.1109/EEE-AM58328.2023.10395299,26.11.2024,"Loffler, Konstantin <kl@wip.tu-berlin.de>"
+World,PSNG_Air_Bio,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Air_Conv,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Air_H2,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Rail_Conv,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Rail_Electric,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_BEV,2018,0.917340036,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_BEV,All,0.917340036,,Fraction,Assumption: 5% Maintanence & Loading time to supply the average yearly traveled distance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_H2,2018,0,,Fraction,Not available,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_H2,2020,0,,Fraction,Not available,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_H2,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_ICE,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_LNG,All,0.98,,Fraction,Assumption: 2% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_PHEV,2018,0,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_PHEV,2018,0,,Fraction,Not available,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,PSNG_Road_PHEV,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,R_Biogas,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,R_Coal_Hardcoal,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,R_Coal_Lignite,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -1160,5 +1158,7 @@ World,X_Powerfuel,2020,0,,Fraction,"by definition only 1, no source needed",24.0
 World,X_Powerfuel,2025,0,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,X_Powerfuel,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,X_SMR,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,Z_ETS_Buy,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,Z_ETS_Sell,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,Z_Import_Hardcoal,All,1,,Fraction,"by definition only 1, no source needed",23.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,Z_Import_Oil,All,1,,Fraction,"by definition only 1, no source needed",23.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
