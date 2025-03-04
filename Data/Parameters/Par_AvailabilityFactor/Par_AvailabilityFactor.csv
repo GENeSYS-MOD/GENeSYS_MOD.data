@@ -197,8 +197,8 @@ DE,CHP_Coal_Lignite_CCS,2050,0,,Fraction,https://beyondfossilfuels.org/europes-c
 DE,CHP_Coal_Lignite_CCS,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,CHP_Coal_Lignite_CCS,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,FRT_Road_OH,2025,0,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,HB_H2_Boiler,2018,0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,HB_H2_Boiler,2020,0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,HB_H2_Boiler,2018,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HB_H2_Boiler,2020,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,HHI_Bio_BF_BOF,2018,0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HHI_Bio_BF_BOF,2020,0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,HHI_H2DRI_EAF,2018,0,,Fraction,Not installed in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -302,8 +302,8 @@ DE,R_Coal_Lignite,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-ex
 DE,R_Coal_Lignite,2050,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,R_Coal_Lignite,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,R_Coal_Lignite,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Z_ETS_Buy,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,Z_ETS_Sell,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,Z_ETS_Buy,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,Z_ETS_Sell,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,Z_Import_Gas,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,Z_Import_H2,2018,0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Z_Import_H2,2025,0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1037,6 +1037,9 @@ World,HB_Convert_DH,All,1,,Fraction,"by definition only 1, no source needed",24.
 World,HB_Direct_Electric,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Gas_Boiler,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Geothermal,All,0,,Fraction,Assumption of short down times for maintenance | currently disabled due to lack of potential data,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HB_H2_Boiler,2021,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HB_H2_Boiler,2025,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HB_H2_Boiler,2030,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HB_H2_Boiler,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Hardcoal,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Heatpump_Aerial,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
