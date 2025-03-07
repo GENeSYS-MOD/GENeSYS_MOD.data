@@ -59,5 +59,4 @@ def process_changed_files(config, main_folder, output_path):
                         print("do not have region in dataset")
                         df.to_csv(file_path)    
 
-                        combined_new_regions = pd.concat(new_region_dfs, ignore_index=True)  
-                        df.to_csv(file_path) 
+                        

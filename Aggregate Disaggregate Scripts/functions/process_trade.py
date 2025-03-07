@@ -2,9 +2,9 @@ import os
 import pandas as pd 
 from read_csv_from_directory import process_files
 
-# This function is to process trade files
-def trade_changed_files(config, main_folder, output_path):
-    trade_changed_files = config['parameters']['trade_files'] 
+# This function is to process trade files, also take new connections from an excel workbook
+def trade_files(config, main_folder, output_path, trade_connection):
+    trade_changed_files = config['parameters']['trade_files']  # Update from 'changed_files' to 'trade_files'
     
     # Load each CSV file from the main folder
     for df, file_path in process_files(main_folder):
@@ -42,14 +42,12 @@ def trade_changed_files(config, main_folder, output_path):
                             
                             # Modify 'Region' in place without adding a new column
                             new_data.loc[:, "Region"] = new_region
-                            
-                            print(f"new data:", new_data.tail())
                                                         
                             new_data.reset_index(inplace=True)
                             
                             new_region_dfs.append(new_data)
                         
-                        # Add new connections dynamically
+                        """# Add new connections dynamically
                         for key, details in new_connections.items():
                             if "-" in key:
                                 reg1, reg2 = key.split("-")
@@ -65,10 +63,20 @@ def trade_changed_files(config, main_folder, output_path):
 
                                 # Convert to DataFrame and add to list
                                 new_region_dfs.append(pd.DataFrame([conn_row]))
-                                print(f"Added connection: {reg1} -> {reg2} with Value: {details['value']}")
+                                print(f"Added connection: {reg1} -> {reg2} with Value: {details['value']}")"""
+                        
+                        # Add new connections from excel sheet
 
+                        #Load workbook
+                        xls = pd.ExcelFile(trade_connection)
+                        df_connections = pd.DataFrame()
+                        # Iterate over all sheets
+                        for sheet_name in xls.sheet_names:
+                            if sheet_name == param_name:
+                                df_connections = pd.read_excel(xls, sheet_name=sheet_name)
 
                         combined_new_regions = pd.concat(new_region_dfs, ignore_index=True)
+                        combined_new_regions = pd.concat([combined_new_regions,df_connections], ignore_index=True)
                         
                         # Add the new regions back to the original DataFrame
                         df.reset_index(inplace=True)

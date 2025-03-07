@@ -39,8 +39,8 @@ parameters:
         - 'NO1'
         - 'NO2'
       split_ratio: 
-        'NO1': 1.0
-        'NO2': 1.0
+        'NO1': 0.5
+        'NO2': 0.5
 
     - file_name: Par_ReserveMargin
       method: "copy"
