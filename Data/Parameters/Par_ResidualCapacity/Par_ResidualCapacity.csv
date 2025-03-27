@@ -108,9 +108,9 @@ AT,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 AT,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,CHP_Coal_Hardcoal,2018,0.217848967,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,CHP_Coal_Hardcoal,2020,0.217848967,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,CHP_Coal_Hardcoal,2025,0.108924483,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+AT,CHP_Coal_Hardcoal,2018,0.672737518,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Coal_Hardcoal,2020,0.672737518,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Coal_Hardcoal,2025,0.336368758,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Coal_Hardcoal,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,CHP_Coal_Hardcoal,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,CHP_Coal_Hardcoal,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -118,19 +118,19 @@ AT,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 AT,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,CHP_Gas_CCGT_Natural,2018,1.100781829,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,CHP_Gas_CCGT_Natural,2020,1.100781829,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,CHP_Gas_CCGT_Natural,2025,0.993102577,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,CHP_Gas_CCGT_Natural,2030,0.885423324,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,CHP_Gas_CCGT_Natural,2035,0.748847867,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,CHP_Gas_CCGT_Natural,2040,0.612272409,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,CHP_Gas_CCGT_Natural,2045,0.306136205,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+AT,CHP_Gas_CCGT_Natural,2018,3.399314889,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Gas_CCGT_Natural,2020,3.399314889,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Gas_CCGT_Natural,2025,3.066791518,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Gas_CCGT_Natural,2030,2.734268144,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Gas_CCGT_Natural,2035,2.312510651,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Gas_CCGT_Natural,2040,1.890753155,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Gas_CCGT_Natural,2045,0.945376579,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,CHP_Oil,2018,0.211351956,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,CHP_Oil,2020,0.211351956,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,CHP_Oil,2025,0.105675978,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+AT,CHP_Oil,2018,0.652674155,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Oil,2020,0.652674155,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Oil,2025,0.326337078,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -548,29 +548,29 @@ BE,CHP_Biomass_Solid,2045,0.295011534,,GW,eurostat - Combined Heat and Power (CH
 BE,CHP_Biomass_Solid,2050,0.275344098,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,CHP_Biomass_Solid,2055,0.275344098,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,CHP_Biomass_Solid,2060,0.275344098,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,CHP_Coal_Hardcoal,2018,0.032280067,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Coal_Hardcoal,2020,0.032280067,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Coal_Hardcoal,2025,0.019094014,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Coal_Hardcoal,2030,0.00590796,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Coal_Hardcoal,2035,0.00295398,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+BE,CHP_Coal_Hardcoal,2018,0.068111301,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Coal_Hardcoal,2020,0.068111301,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Coal_Hardcoal,2025,0.040288582,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Coal_Hardcoal,2030,0.012465861,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Coal_Hardcoal,2035,0.006232931,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,CHP_Coal_Hardcoal,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,CHP_Gas_CCGT_Natural,2018,1.535029695,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Gas_CCGT_Natural,2020,1.535029695,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Gas_CCGT_Natural,2025,1.487719814,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Gas_CCGT_Natural,2030,1.440409933,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Gas_CCGT_Natural,2035,1.287532548,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Gas_CCGT_Natural,2040,1.134655164,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Gas_CCGT_Natural,2045,0.567327582,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+BE,CHP_Gas_CCGT_Natural,2018,3.238929764,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Gas_CCGT_Natural,2020,3.238929764,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Gas_CCGT_Natural,2025,3.139105388,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Gas_CCGT_Natural,2030,3.039281012,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Gas_CCGT_Natural,2035,2.716708026,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Gas_CCGT_Natural,2040,2.394135042,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Gas_CCGT_Natural,2045,1.197067521,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,CHP_Oil,2018,0.022380887,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Oil,2020,0.022380887,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,CHP_Oil,2025,0.011190443,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+BE,CHP_Oil,2018,0.04722392,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Oil,2020,0.04722392,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,CHP_Oil,2025,0.023611959,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -898,29 +898,29 @@ BG,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 BG,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,CHP_Coal_Hardcoal,2018,0.318203787,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Coal_Hardcoal,2020,0.318203787,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Coal_Hardcoal,2025,0.218843711,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Coal_Hardcoal,2030,0.119483636,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Coal_Hardcoal,2035,0.059741818,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+BG,CHP_Coal_Hardcoal,2018,1.20783576,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Coal_Hardcoal,2020,1.20783576,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Coal_Hardcoal,2025,0.830685463,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Coal_Hardcoal,2030,0.453535169,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Coal_Hardcoal,2035,0.226767585,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,CHP_Coal_Hardcoal,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,CHP_Gas_CCGT_Natural,2018,0.439047612,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Gas_CCGT_Natural,2020,0.439047612,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Gas_CCGT_Natural,2025,0.43684871,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Gas_CCGT_Natural,2030,0.434649807,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Gas_CCGT_Natural,2035,0.321406307,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Gas_CCGT_Natural,2040,0.208162808,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Gas_CCGT_Natural,2045,0.104081404,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+BG,CHP_Gas_CCGT_Natural,2018,1.666533926,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Gas_CCGT_Natural,2020,1.666533926,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Gas_CCGT_Natural,2025,1.658187349,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Gas_CCGT_Natural,2030,1.649840768,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Gas_CCGT_Natural,2035,1.219991864,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Gas_CCGT_Natural,2040,0.790142964,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Gas_CCGT_Natural,2045,0.395071482,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,CHP_Oil,2018,0.012050761,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Oil,2020,0.012050761,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,CHP_Oil,2025,0.00602538,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+BG,CHP_Oil,2018,0.045742195,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Oil,2020,0.045742195,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Oil,2025,0.022871096,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -2139,16 +2139,16 @@ DE,P_Biomass,2045,6.327,,GW,Entsoe Transparency Platform - Installed Capacity pe
 DE,P_Biomass,2050,6.327,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,P_Biomass,2055,6.327,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Biomass,2060,6.327,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2018,9.7385,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2020,7.7045,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2025,7.7045,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2030,5.371,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2035,3.801,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2040,3.801,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2045,3.801,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2050,3.801,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2055,3.801,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2060,3.801,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2018,12.9819356,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type (minus CHP value),24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2020,10.27050602,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2025,10.27050602,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2030,7.159827089,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2035,5.066934047,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2040,5.066934047,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2045,5.066934047,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2050,5.066934047,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2055,5.066934047,,GW,same as 2050 for now,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2060,5.066934047,,GW,same as 2050 for now,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Coal_Lignite,2018,18.741825,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,P_Coal_Lignite,2020,6.456,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,P_Coal_Lignite,2025,5.865,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -5299,13 +5299,13 @@ EE,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 EE,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2018,0.000102885,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2020,0.000102885,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2025,9.36E-05,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2030,8.44E-05,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2035,8.44E-05,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2040,8.44E-05,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2045,4.22E-05,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2018,0.000317504,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2020,0.000317504,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2025,0.000288851,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2030,0.000260459,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2035,0.000260459,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2040,0.000260459,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2045,0.00013023,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -5612,13 +5612,13 @@ ES,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 ES,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,CHP_Gas_CCGT_Natural,2018,3.847406541,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,CHP_Gas_CCGT_Natural,2020,3.847406541,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,CHP_Gas_CCGT_Natural,2025,3.871619295,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,CHP_Gas_CCGT_Natural,2030,3.895832048,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,CHP_Gas_CCGT_Natural,2035,3.705580337,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,CHP_Gas_CCGT_Natural,2040,3.515328626,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,CHP_Gas_CCGT_Natural,2045,1.757664313,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+ES,CHP_Gas_CCGT_Natural,2018,8.320249563,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,CHP_Gas_CCGT_Natural,2020,8.320249563,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,CHP_Gas_CCGT_Natural,2025,8.37261111,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,CHP_Gas_CCGT_Natural,2030,8.424972654,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,CHP_Gas_CCGT_Natural,2035,8.013541811,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,CHP_Gas_CCGT_Natural,2040,7.602110969,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,CHP_Gas_CCGT_Natural,2045,3.801055484,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -5935,9 +5935,9 @@ ES,X_Gasifier,2045,68.9,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto
 ES,X_Gasifier,2050,68.9,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,X_Gasifier,2055,68.9,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,X_Gasifier,2060,68.9,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Biomass_Solid,2018,4.033288643,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Biomass_Solid,2020,4.033288643,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Biomass_Solid,2025,2.016644321,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+FI,CHP_Biomass_Solid,2018,10.40366,,GW,eurostat - Combined Heat and Power (CHP) data,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Biomass_Solid,2020,10.40366,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Biomass_Solid,2025,5.20183,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,CHP_Biomass_Solid,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Biomass_Solid,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Biomass_Solid,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -5945,9 +5945,9 @@ FI,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 FI,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Coal_Hardcoal,2018,1.470895725,,GW,eurostat - Combined Heat and Power (CHP) data,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Coal_Hardcoal,2020,1.470895725,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Coal_Hardcoal,2025,0.735447863,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+FI,CHP_Coal_Hardcoal,2018,3.8042,,GW,eurostat - Combined Heat and Power (CHP) data,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Coal_Hardcoal,2020,3.8042,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Coal_Hardcoal,2025,1.9021,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,CHP_Coal_Hardcoal,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Coal_Hardcoal,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Coal_Hardcoal,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -5955,9 +5955,9 @@ FI,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 FI,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Gas_CCGT_Natural,2018,0.625297578,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Gas_CCGT_Natural,2020,0.625297578,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Gas_CCGT_Natural,2025,0.312648789,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+FI,CHP_Gas_CCGT_Natural,2018,1.62092,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+FI,CHP_Gas_CCGT_Natural,2020,1.62092,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+FI,CHP_Gas_CCGT_Natural,2025,0.81046,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Gas_CCGT_Natural,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Gas_CCGT_Natural,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Gas_CCGT_Natural,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -5965,9 +5965,9 @@ FI,CHP_Gas_CCGT_Natural,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data
 FI,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Oil,2018,0.033394883,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Oil,2020,0.033394883,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Oil,2025,0.016697442,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+FI,CHP_Oil,2018,0.0827,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+FI,CHP_Oil,2020,0.0827,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+FI,CHP_Oil,2025,0.04135,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -6298,13 +6298,13 @@ FR,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 FR,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FR,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,CHP_Gas_CCGT_Natural,2018,3.380738206,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CHP_Gas_CCGT_Natural,2020,3.380738206,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CHP_Gas_CCGT_Natural,2025,3.222062694,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CHP_Gas_CCGT_Natural,2030,3.063387182,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CHP_Gas_CCGT_Natural,2035,2.61751497,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CHP_Gas_CCGT_Natural,2040,2.171642758,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CHP_Gas_CCGT_Natural,2045,1.085821379,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+FR,CHP_Gas_CCGT_Natural,2018,8.06817725,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Gas_CCGT_Natural,2020,8.06817725,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Gas_CCGT_Natural,2025,7.689496004,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Gas_CCGT_Natural,2030,7.310814758,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Gas_CCGT_Natural,2035,6.24673472,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Gas_CCGT_Natural,2040,5.182654683,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Gas_CCGT_Natural,2045,2.591327341,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FR,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -6648,11 +6648,11 @@ GR,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 GR,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,CHP_Coal_Hardcoal,2018,0.050736591,,GW,eurostat - Combined Heat and Power (CHP) data,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-GR,CHP_Coal_Hardcoal,2020,0.050736591,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-GR,CHP_Coal_Hardcoal,2025,0.03001125,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-GR,CHP_Coal_Hardcoal,2030,0.009285909,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-GR,CHP_Coal_Hardcoal,2035,0.004642954,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+GR,CHP_Coal_Hardcoal,2018,0.110449572,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,CHP_Coal_Hardcoal,2020,0.110449572,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,CHP_Coal_Hardcoal,2025,0.065332133,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,CHP_Coal_Hardcoal,2030,0.020214694,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,CHP_Coal_Hardcoal,2035,0.010107346,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,CHP_Coal_Hardcoal,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -6668,9 +6668,9 @@ GR,CHP_Gas_CCGT_Natural,2045,0.095844958,,GW,eurostat - Combined Heat and Power 
 GR,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,CHP_Oil,2018,0.13293826,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-GR,CHP_Oil,2020,0.13293826,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-GR,CHP_Oil,2025,0.06646913,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+GR,CHP_Oil,2018,0.28939615,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,CHP_Oil,2020,0.28939615,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,CHP_Oil,2025,0.144698075,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -7698,11 +7698,11 @@ IE,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 IE,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 IE,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,CHP_Coal_Hardcoal,2018,0.007950552,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IE,CHP_Coal_Hardcoal,2020,0.007950552,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IE,CHP_Coal_Hardcoal,2025,0.004702839,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IE,CHP_Coal_Hardcoal,2030,0.001455125,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IE,CHP_Coal_Hardcoal,2035,0.000727563,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+IE,CHP_Coal_Hardcoal,2018,0.015682026,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,CHP_Coal_Hardcoal,2020,0.015682026,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,CHP_Coal_Hardcoal,2025,0.009276091,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,CHP_Coal_Hardcoal,2030,0.002870154,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,CHP_Coal_Hardcoal,2035,0.001435078,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,CHP_Coal_Hardcoal,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 IE,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 IE,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -8053,16 +8053,16 @@ IT,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 IT,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 IT,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,CHP_Gas_CCGT_Natural,2018,5.693212924,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,CHP_Gas_CCGT_Natural,2020,5.693212924,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,CHP_Gas_CCGT_Natural,2025,5.693223736,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,CHP_Gas_CCGT_Natural,2030,5.693234548,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,CHP_Gas_CCGT_Natural,2035,5.618214495,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,CHP_Gas_CCGT_Natural,2040,5.543194442,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,CHP_Gas_CCGT_Natural,2045,2.999378502,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,CHP_Gas_CCGT_Natural,2050,0.455562563,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,CHP_Gas_CCGT_Natural,2055,0.455562563,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,CHP_Gas_CCGT_Natural,2060,0.455562563,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,2018,12.1109446,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,2020,12.1109446,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,2025,12.1109676,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,2030,12.1109906,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,2035,11.95140343,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,2040,11.79181627,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,2045,6.380458162,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,2050,0.969100056,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,2055,0.969100056,,GW,same as 2050 for now,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,2060,0.969100056,,GW,same as 2050 for now,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,CHP_Oil,2018,0.754667922,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 IT,CHP_Oil,2020,0.754667922,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 IT,CHP_Oil,2025,0.377333961,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -8736,13 +8736,13 @@ LU,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data,03
 LU,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LU,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,CHP_Gas_CCGT_Natural,2018,0.051707205,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LU,CHP_Gas_CCGT_Natural,2020,0.051707205,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LU,CHP_Gas_CCGT_Natural,2025,0.051707205,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LU,CHP_Gas_CCGT_Natural,2030,0.051707205,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LU,CHP_Gas_CCGT_Natural,2035,0.051707205,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LU,CHP_Gas_CCGT_Natural,2040,0.051707205,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LU,CHP_Gas_CCGT_Natural,2045,0.025853602,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+LU,CHP_Gas_CCGT_Natural,2018,0.100063016,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,CHP_Gas_CCGT_Natural,2020,0.100063016,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,CHP_Gas_CCGT_Natural,2025,0.100063016,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,CHP_Gas_CCGT_Natural,2030,0.100063016,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,CHP_Gas_CCGT_Natural,2035,0.100063016,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,CHP_Gas_CCGT_Natural,2040,0.100063016,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,CHP_Gas_CCGT_Natural,2045,0.050031507,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LU,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10499,13 +10499,13 @@ PL,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 PL,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,CHP_Gas_CCGT_Natural,2018,1.240455,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Gas_CCGT_Natural,2020,1.240455,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Gas_CCGT_Natural,2025,1.241350469,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Gas_CCGT_Natural,2030,1.242245938,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Gas_CCGT_Natural,2035,1.100071026,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Gas_CCGT_Natural,2040,0.957896114,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Gas_CCGT_Natural,2045,0.478948057,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+PL,CHP_Gas_CCGT_Natural,2018,3.089268,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Gas_CCGT_Natural,2020,3.089268,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Gas_CCGT_Natural,2025,3.091498104,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Gas_CCGT_Natural,2030,3.093728208,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Gas_CCGT_Natural,2035,2.739651352,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Gas_CCGT_Natural,2040,2.385574497,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Gas_CCGT_Natural,2045,1.192787248,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11167,19 +11167,19 @@ RO,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 RO,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,CHP_Coal_Hardcoal,2018,0.118505729,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Coal_Hardcoal,2020,0.118505729,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Coal_Hardcoal,2025,0.118505729,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Coal_Hardcoal,2030,0.118505729,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Coal_Hardcoal,2035,0.074863393,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Coal_Hardcoal,2040,0.031221056,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Coal_Hardcoal,2045,0.015610528,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+RO,CHP_Coal_Hardcoal,2018,0.36098545,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Coal_Hardcoal,2020,0.36098545,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Coal_Hardcoal,2025,0.36098545,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Coal_Hardcoal,2030,0.36098545,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Coal_Hardcoal,2035,0.228044634,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Coal_Hardcoal,2040,0.095103815,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Coal_Hardcoal,2045,0.047551908,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,CHP_Coal_Lignite,2018,0.260940163,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Coal_Lignite,2020,0.260940163,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Coal_Lignite,2025,0.130470081,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+RO,CHP_Coal_Lignite,2018,0.794861168,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Coal_Lignite,2020,0.794861168,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Coal_Lignite,2025,0.397430584,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,CHP_Coal_Lignite,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,CHP_Coal_Lignite,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,CHP_Coal_Lignite,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -11187,13 +11187,13 @@ RO,CHP_Coal_Lignite,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | A
 RO,CHP_Coal_Lignite,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,CHP_Coal_Lignite,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,CHP_Coal_Lignite,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,CHP_Gas_CCGT_Natural,2018,1.092529151,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Gas_CCGT_Natural,2020,1.092529151,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Gas_CCGT_Natural,2025,0.660491907,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Gas_CCGT_Natural,2030,0.228454662,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Gas_CCGT_Natural,2035,0.228454662,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Gas_CCGT_Natural,2040,0.228454662,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Gas_CCGT_Natural,2045,0.114227331,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+RO,CHP_Gas_CCGT_Natural,2018,3.328000513,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Gas_CCGT_Natural,2020,3.328000513,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Gas_CCGT_Natural,2025,2.011953094,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Gas_CCGT_Natural,2030,0.695905671,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Gas_CCGT_Natural,2035,0.695905671,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Gas_CCGT_Natural,2040,0.695905671,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Gas_CCGT_Natural,2045,0.347952836,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11637,9 +11637,9 @@ SE,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 SE,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,CHP_Gas_CCGT_Natural,2018,0.144089266,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Gas_CCGT_Natural,2020,0.144089266,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Gas_CCGT_Natural,2025,0.072044633,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+SE,CHP_Gas_CCGT_Natural,2018,0.339946349,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Gas_CCGT_Natural,2020,0.339946349,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Gas_CCGT_Natural,2025,0.169973174,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_Gas_CCGT_Natural,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,CHP_Gas_CCGT_Natural,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,CHP_Gas_CCGT_Natural,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -11969,19 +11969,19 @@ SI,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 SI,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,CHP_Gas_CCGT_Natural,2018,0.117103127,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Gas_CCGT_Natural,2020,0.117103127,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Gas_CCGT_Natural,2025,0.10657227,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Gas_CCGT_Natural,2030,0.096041413,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Gas_CCGT_Natural,2035,0.096041413,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Gas_CCGT_Natural,2040,0.096041413,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Gas_CCGT_Natural,2045,0.048020707,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+SI,CHP_Gas_CCGT_Natural,2018,0.261128446,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Gas_CCGT_Natural,2020,0.261128446,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Gas_CCGT_Natural,2025,0.237645672,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Gas_CCGT_Natural,2030,0.214162897,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Gas_CCGT_Natural,2035,0.214162897,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Gas_CCGT_Natural,2040,0.214162897,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Gas_CCGT_Natural,2045,0.10708145,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,CHP_Oil,2018,0.001229258,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Oil,2020,0.001229258,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Oil,2025,0.000614629,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+SI,CHP_Oil,2018,0.002741124,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,2020,0.002741124,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,2025,0.001370562,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -12950,13 +12950,13 @@ UK,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 UK,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 UK,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,CHP_Gas_CCGT_Natural,2018,3.438707835,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,CHP_Gas_CCGT_Natural,2020,3.438707835,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,CHP_Gas_CCGT_Natural,2025,3.42140616,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,CHP_Gas_CCGT_Natural,2030,3.404104486,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,CHP_Gas_CCGT_Natural,2035,2.904050043,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,CHP_Gas_CCGT_Natural,2040,2.403995601,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,CHP_Gas_CCGT_Natural,2045,1.201997801,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+UK,CHP_Gas_CCGT_Natural,2018,5.651241407,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,CHP_Gas_CCGT_Natural,2020,5.651241407,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,CHP_Gas_CCGT_Natural,2025,5.622807488,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,CHP_Gas_CCGT_Natural,2030,5.59437357,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,CHP_Gas_CCGT_Natural,2035,4.772574071,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,CHP_Gas_CCGT_Natural,2040,3.950774574,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,CHP_Gas_CCGT_Natural,2045,1.975387288,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 UK,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -13053,13 +13053,13 @@ UK,HLI_Biomass,2045,0.0044,,GW,Assumption | Calculated endogenously via model,06
 UK,HLI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 UK,HLI_Biomass,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Biomass,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HLI_Direct_Electric,2018,0.0989,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,HLI_Direct_Electric,2020,0.0891,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,HLI_Direct_Electric,2025,0.0691,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,HLI_Direct_Electric,2030,0.0415,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,HLI_Direct_Electric,2035,0.0208,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,HLI_Direct_Electric,2040,0.0084,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,HLI_Direct_Electric,2045,0.0017,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+UK,HLI_Direct_Electric,2018,1.978,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+UK,HLI_Direct_Electric,2020,1.978,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+UK,HLI_Direct_Electric,2025,1.382,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+UK,HLI_Direct_Electric,2030,0.83,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+UK,HLI_Direct_Electric,2035,0.416,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+UK,HLI_Direct_Electric,2040,0.168,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+UK,HLI_Direct_Electric,2045,0.034,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 UK,HLI_Direct_Electric,2050,0,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 UK,HLI_Direct_Electric,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Direct_Electric,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>

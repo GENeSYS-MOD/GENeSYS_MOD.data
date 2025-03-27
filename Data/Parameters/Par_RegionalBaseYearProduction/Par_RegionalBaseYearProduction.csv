@@ -67,12 +67,11 @@ BE,HMHI_Oil,Heat_MediumLow_Industrial,2018,2.11309,,PJ,TYNDP 2022 - took shares 
 BE,HMHI_Oil,Heat_MediumHigh_Industrial,2018,6.02496,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,46.07669,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,16.16012,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BE,P_Biomass,Power,2018,11.615,,PJ,,,
-BE,P_Coal_Hardcoal,Power,2018,7.869,,PJ,,,
-BE,P_Gas_CCGT,Power,2018,24.018,,PJ,,,
-BE,P_Gas_OCGT,Power,2018,35.109,,PJ,,,
-BE,P_Nuclear,Power,2018,102.949,,PJ,,,
-BE,P_Oil,Power,2018,0.321,,PJ,,,
+BE,P_Biomass,Power,2018,9.4317948,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Gas_CCGT,Power,2018,32.6153292,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Gas_OCGT,Power,2018,47.6763924,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Nuclear,Power,2018,98.1060228,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Oil,Power,2018,0.0158148,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,CHP_Biomass_Solid,Heat_District,2018,7.459,,PJ,,,
 BG,CHP_Biomass_Solid,Power,2018,2.437,,PJ,,,
 BG,CHP_Coal_Hardcoal,Heat_District,2018,11.187,,PJ,,,
@@ -105,11 +104,10 @@ BG,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.95019,,PJ,TYNDP 2022 - took shares 
 BG,HMHI_Oil,Heat_MediumHigh_Industrial,2018,2.82525,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,11.3479,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,3.81652,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BG,P_Biomass,Power,2018,3.426,,PJ,,,
+BG,P_Biomass,Power,2018,0.9224856,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,P_Coal_Hardcoal,Power,2018,0.223,,PJ,,,
 BG,P_Coal_Lignite,Power,2018,63.241,,PJ,,,
 BG,P_Nuclear,Power,2018,58.05,,PJ,,,
-BG,P_Oil,Power,2018,0.973,,PJ,,,
 CH,CHP_Gas_CCGT_Natural,Power,2018,5.251,,PJ,,,
 CH,HB_Biomass,Heat_Buildings,2018,16.787,,PJ,,,
 CH,HB_Direct_Electric,Heat_Buildings,2018,16.088,,PJ,,,
@@ -208,7 +206,7 @@ DE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,209.01515,,PJ,TYNDP 2022 
 DE,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,73.68423,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,P_Biomass,Power,2018,145.486,,PJ,,,
 DE,P_Coal_Hardcoal,Power,2018,233.776,,PJ,,,
-DE,P_Coal_Lignite,Power,2018,513.119,,PJ,,,
+DE,P_Coal_Lignite,Power,2018,461.9879019,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Gas_CCGT,Power,2018,106.984,,PJ,,,
 DE,P_Gas_Engines,Power,2018,10.267,,PJ,,,
 DE,P_Gas_OCGT,Power,2018,30.237,,PJ,,,
@@ -479,13 +477,13 @@ DK,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,5.24351,,PJ,TYNDP 2022 - took sh
 DK,P_Coal_Hardcoal,Power,2018,13,,PJ,,,
 DK,P_Gas_OCGT,Power,2018,0.288,,PJ,,,
 DK,P_Oil,Power,2018,0.678,,PJ,,,
-EE,CHP_Biomass_Solid,Heat_District,2018,2.248,,PJ,,,
+EE,CHP_Biomass_Solid,Heat_District,2018,2.248,,PJ,eurostat - Combined Heat and Power (CHP) data,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,CHP_Biomass_Solid,Power,2018,2.548,,PJ,,,
-EE,CHP_Coal_Hardcoal,Heat_District,2018,0.75,,PJ,,,
+EE,CHP_Coal_Hardcoal,Heat_District,2018,0.75,,PJ,eurostat - Combined Heat and Power (CHP) data,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,CHP_Coal_Hardcoal,Power,2018,0.851,,PJ,,,
-EE,CHP_Gas_CCGT_Natural,Heat_District,2018,0.002,,PJ,,,
 EE,CHP_Gas_CCGT_Natural,Power,2018,0.002,,PJ,,,
-EE,CHP_Oil,Heat_District,2018,0.465,,PJ,,,
+EE,CHP_Gas_CCGT_Natural,Heat_District,2018,0.001587522,,PJ,eurostat - Combined Heat and Power (CHP) data,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,Heat_District,2018,0.465,,PJ,eurostat - Combined Heat and Power (CHP) data,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,CHP_Oil,Power,2018,0.528,,PJ,,,
 EE,HB_Biomass,Heat_Buildings,2018,18.417,,PJ,,,
 EE,HB_Direct_Electric,Heat_Buildings,2018,1.329,,PJ,,,
@@ -511,7 +509,6 @@ EE,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.46804,,PJ,TYNDP 2022 - took shares 
 EE,HMHI_Oil,Heat_MediumHigh_Industrial,2018,0.86583,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,1.86545,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,1.0084,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-EE,P_Coal_Hardcoal,Power,2018,35.646,,PJ,,,
 EE,P_Gas_OCGT,Power,2018,0.207,,PJ,,,
 ES,CHP_Biomass_Solid,Heat_District,2018,12.576,,PJ,,,
 ES,CHP_Biomass_Solid,Power,2018,9.253,,PJ,,,
@@ -545,7 +542,7 @@ ES,HMHI_Oil,Heat_MediumLow_Industrial,2018,17.09999,,PJ,TYNDP 2022 - took shares
 ES,HMHI_Oil,Heat_MediumHigh_Industrial,2018,39.8741,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,79.43581,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,34.06601,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,P_Biomass,Power,2018,19.267,,PJ,,,
+ES,P_Biomass,Power,2018,10.6235568,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Coal_Hardcoal,Power,2018,136.983,,PJ,,,
 ES,P_Coal_Lignite,Power,2018,0,,PJ,,,
 ES,P_Gas_CCGT,Power,2018,123.952,,PJ,,,
@@ -670,7 +667,6 @@ GR,P_Biomass,Power,2018,1.668,,PJ,,,
 GR,P_Coal_Lignite,Power,2018,60.477,,PJ,,,
 GR,P_Gas_CCGT,Power,2018,45.578,,PJ,,,
 GR,P_Gas_OCGT,Power,2018,0.856,,PJ,,,
-GR,P_Oil,Power,2018,15.974,,PJ,,,
 HR,CHP_Biomass_Solid,Heat_District,2018,2.447,,PJ,,,
 HR,CHP_Biomass_Solid,Power,2018,1.115,,PJ,,,
 HR,CHP_Coal_Hardcoal,Heat_District,2018,0.247,,PJ,,,
@@ -703,7 +699,7 @@ HR,HMHI_Oil,Heat_MediumLow_Industrial,2018,2.13194,,PJ,TYNDP 2022 - took shares 
 HR,HMHI_Oil,Heat_MediumHigh_Industrial,2018,3.77026,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,3.16405,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,1.78915,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HR,P_Biomass,Power,2018,1.857,,PJ,,,
+HR,P_Biomass,Power,2018,1.5167844,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,P_Coal_Hardcoal,Power,2018,4.537,,PJ,,,
 HR,P_Gas_CCGT,Power,2018,2.703,,PJ,,,
 HR,P_Oil,Power,2018,0.171,,PJ,,,
@@ -1109,13 +1105,13 @@ SE,CHP_Gas_CCGT_Natural,Power,2018,1.423,,PJ,,,
 SE,CHP_Oil,Heat_District,2018,0.458,,PJ,,,
 SE,CHP_Oil,Power,2018,0.166,,PJ,,,
 SE,HB_Biomass,Heat_Buildings,2018,4.7071,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Convert_DH,Heat_Buildings,2018,165,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HB_Direct_Electric,Heat_Buildings,2018,6.5338,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Gas_Boiler,Heat_Buildings,2018,5,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HB_Hardcoal,Heat_Buildings,2018,4.222,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HB_Heatpump_Aerial,Heat_Buildings,2018,5.4973,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HB_Heatpump_Ground,Heat_Buildings,2018,1.193,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,HB_Gas_Boiler,Heat_Buildings,2018,5,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HB_Oil_Boiler,Heat_Buildings,2018,1.9209,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,HB_Convert_DH,Heat_Buildings,2018,165,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HHI_BF_BOF,Heat_High_Industrial,2018,8.79378,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,19.91716,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HHI_Scrap_EAF,Heat_High_Industrial,2018,15.98088,,PJ,TYNDP 2022 - took shares of energy carriers per demand sector,06.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
