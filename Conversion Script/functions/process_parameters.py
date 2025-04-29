@@ -9,6 +9,9 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
 
     # Read the CSV file into a Pandas DataFrame
     df = pd.read_csv(csv_file_path, delimiter=',')
+    
+    # Delete empty lines 
+    df.dropna(how='all', inplace=True)
 
     # Initialize data_overwritten as False
     data_overwritten = False
@@ -25,7 +28,7 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
             df_scenario = process_all_year(df_scenario, unique_values_concatenated)
             df_scenario = process_all_fuel(df_scenario, unique_values_concatenated)
             df_scenario = process_all_technology(df_scenario, unique_values_concatenated)
-            #df_scenario = process_all_mode(df_scenario, unique_values_concatenated)
+            df_scenario = process_all_mode(df_scenario, unique_values_concatenated)
 
             # Get the index of the "Value" column in each DataFrame
             value_col_index = df.columns.get_loc("Value")
@@ -40,8 +43,8 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
 
             # Ensure consistent data types before merging by converting to string
             for col in common_cols:
-                df[col] = df[col].astype(str)
-                df_scenario[col] = df_scenario[col].astype(str)
+                df[col] = df[col].apply(lambda x: str(int(x)) if isinstance(x, (int, float)) and float(x).is_integer() else str(x))
+                df_scenario[col] = df_scenario[col].apply(lambda x: str(int(x)) if isinstance(x, (int, float)) and float(x).is_integer() else str(x))
             
             # Merge on common columns excluding 'Value', updating 'Value' from df_scenario
             df = df.merge(df_scenario, on=common_cols, how='left', suffixes=('', '_updated'))
