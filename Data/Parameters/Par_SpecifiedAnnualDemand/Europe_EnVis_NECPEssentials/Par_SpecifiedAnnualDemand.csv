@@ -2,13 +2,13 @@ Region,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
 AT,H2,2018,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,H2,2021,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,H2,2025,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-AT,H2,2030,21.34497896,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-AT,H2,2035,21.34497896,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-AT,H2,2040,35.78710441,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-AT,H2,2045,35.78710441,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-AT,H2,2050,57.59785849,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-AT,H2,2055,57.59785849,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,H2,2060,57.59785849,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,H2,2030,21.345,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,H2,2035,21.345,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,H2,2040,35.7871,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,H2,2045,35.7871,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,H2,2050,57.5979,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,H2,2055,57.5979,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,H2,2060,57.5979,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,Heat_Buildings,2025,302.9298,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,Heat_Buildings,2030,295.3565,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,Heat_Buildings,2035,288.268,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -33,16 +33,16 @@ AT,Mobility_Passenger,2045,131.0909,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,
 AT,Mobility_Passenger,2050,132.4018,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,Mobility_Passenger,2055,132.4018,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,Mobility_Passenger,2060,132.4018,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,H2,2018,46.79532,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BE,H2,2021,46.79532,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BE,H2,2025,46.79532,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BE,H2,2030,94.80577194,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BE,H2,2035,94.80577194,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BE,H2,2040,171.0236003,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BE,H2,2045,171.0236003,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BE,H2,2050,287.2662752,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BE,H2,2055,287.2662752,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,H2,2060,287.2662752,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,H2,2018,46.7953,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,H2,2021,46.7953,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,H2,2025,46.7953,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,H2,2030,94.8058,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,H2,2035,94.8058,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,H2,2040,171.0236,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,H2,2045,171.0236,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,H2,2050,287.2663,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,H2,2055,287.2663,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,H2,2060,287.2663,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,Heat_Buildings,2025,360.886,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,Heat_Buildings,2030,351.8638,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,Heat_Buildings,2035,343.4191,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -70,13 +70,13 @@ BE,Mobility_Passenger,2060,161.1927,,gpkm,same as 2050 for now,29.01.2025,Nikita
 BG,H2,2018,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,H2,2021,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,H2,2025,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BG,H2,2030,3.989170872,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BG,H2,2035,3.989170872,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BG,H2,2040,11.93357155,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BG,H2,2045,11.93357155,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BG,H2,2050,22.3195562,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-BG,H2,2055,22.3195562,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,H2,2060,22.3195562,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,H2,2030,3.9892,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,H2,2035,3.9892,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,H2,2040,11.9336,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,H2,2045,11.9336,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,H2,2050,22.3196,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,H2,2055,22.3196,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,H2,2060,22.3196,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_Buildings,2025,95.8957,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,Heat_Buildings,2030,93.4984,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,Heat_Buildings,2035,91.2544,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -101,16 +101,16 @@ BG,Mobility_Passenger,2045,83.6649,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,0
 BG,Mobility_Passenger,2050,84.5015,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,Mobility_Passenger,2055,84.5015,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Mobility_Passenger,2060,84.5015,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,H2,2018,2.39976,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CH,H2,2021,2.39976,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CH,H2,2025,2.39976,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CH,H2,2030,2.39976,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CH,H2,2035,2.39976,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CH,H2,2040,2.39976,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CH,H2,2045,2.39976,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CH,H2,2050,2.39976,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CH,H2,2055,2.39976,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,H2,2060,2.39976,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,H2,2018,2.3998,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,H2,2021,2.3998,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,H2,2025,2.3998,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,H2,2030,2.3998,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,H2,2035,2.3998,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,H2,2040,2.3998,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,H2,2045,2.3998,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,H2,2050,2.3998,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,H2,2055,2.3998,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,H2,2060,2.3998,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Heat_Buildings,2025,223.5863,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,Heat_Buildings,2030,217.9967,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,Heat_Buildings,2035,212.7648,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -138,13 +138,13 @@ CH,Mobility_Passenger,2060,151.4608,,gpkm,same as 2050 for now,29.01.2025,Nikita
 CZ,H2,2018,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,H2,2021,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,H2,2025,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CZ,H2,2030,24.21976449,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CZ,H2,2035,24.21976449,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CZ,H2,2040,46.69434756,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CZ,H2,2045,46.69434756,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CZ,H2,2050,77.49334671,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CZ,H2,2055,77.49334671,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,H2,2060,77.49334671,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,H2,2030,24.2198,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,H2,2035,24.2198,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,H2,2040,46.6943,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,H2,2045,46.6943,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,H2,2050,77.4933,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,H2,2055,77.4933,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,H2,2060,77.4933,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_Buildings,2025,296.8469,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,Heat_Buildings,2030,289.4257,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,Heat_Buildings,2035,282.4795,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -172,13 +172,13 @@ CZ,Mobility_Passenger,2060,141.9133,,gpkm,same as 2050 for now,29.01.2025,Nikita
 DE,H2,2018,209.979,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,H2,2021,209.979,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,H2,2025,209.979,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,H2,2030,307.430945,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,H2,2035,307.430945,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,H2,2040,480.8113006,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,H2,2045,480.8113006,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,H2,2050,739.603573,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,H2,2055,739.603573,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,H2,2060,739.603573,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,H2,2030,307.4309,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,H2,2035,307.4309,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,H2,2040,480.8113,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,H2,2045,480.8113,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,H2,2050,739.6036,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,H2,2055,739.6036,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,H2,2060,739.6036,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Buildings,2025,2328.9839,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Heat_Buildings,2030,2270.7593,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Heat_Buildings,2035,2216.2611,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -203,16 +203,16 @@ DE,Mobility_Passenger,2045,1318.5616,,gpkm,EU-EnVis-2060 NECPEssentials Scenario
 DE,Mobility_Passenger,2050,1331.7473,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Passenger,2055,1331.7473,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Mobility_Passenger,2060,1331.7473,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,H2,2018,3.59964,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DK,H2,2021,3.59964,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DK,H2,2025,3.59964,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DK,H2,2030,4.600369673,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DK,H2,2035,4.600369673,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DK,H2,2040,6.288986845,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DK,H2,2045,6.288986845,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DK,H2,2050,9.04311664,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DK,H2,2055,9.04311664,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,H2,2060,9.04311664,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,H2,2018,3.5996,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,H2,2021,3.5996,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,H2,2025,3.5996,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,H2,2030,4.6004,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,H2,2035,4.6004,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,H2,2040,6.289,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,H2,2045,6.289,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,H2,2050,9.0431,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,H2,2055,9.0431,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,H2,2060,9.0431,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,Heat_Buildings,2025,170.8796,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,Heat_Buildings,2030,166.6076,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,Heat_Buildings,2035,162.609,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -240,13 +240,13 @@ DK,Mobility_Passenger,2060,90.1912,,gpkm,same as 2050 for now,29.01.2025,Nikita 
 EE,H2,2018,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,H2,2021,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,H2,2025,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-EE,H2,2030,0.450174371,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-EE,H2,2035,0.450174371,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-EE,H2,2040,1.182196479,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-EE,H2,2045,1.182196479,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-EE,H2,2050,2.385396421,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-EE,H2,2055,2.385396421,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,H2,2060,2.385396421,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,H2,2030,0.4502,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,H2,2035,0.4502,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,H2,2040,1.1822,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,H2,2045,1.1822,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,H2,2050,2.3854,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,H2,2055,2.3854,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,H2,2060,2.3854,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,Heat_Buildings,2025,47.9116,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,Heat_Buildings,2030,46.7138,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,Heat_Buildings,2035,45.5926,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -271,16 +271,16 @@ EE,Mobility_Passenger,2045,20.0247,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,0
 EE,Mobility_Passenger,2050,20.2249,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,Mobility_Passenger,2055,20.2249,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,Mobility_Passenger,2060,20.2249,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,H2,2018,72.59274,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,H2,2021,72.59274,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,H2,2025,72.59274,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,H2,2030,76.13427484,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,H2,2035,76.13427484,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,H2,2040,94.42474992,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,H2,2045,94.42474992,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,H2,2050,136.6665935,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,H2,2055,136.6665935,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,H2,2060,136.6665935,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,H2,2018,72.5927,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,H2,2021,72.5927,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,H2,2025,72.5927,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,H2,2030,76.1343,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,H2,2035,76.1343,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,H2,2040,94.4247,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,H2,2045,94.4247,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,H2,2050,136.6666,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,H2,2055,136.6666,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,H2,2060,136.6666,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Heat_Buildings,2025,499.2283,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,Heat_Buildings,2030,486.7476,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,Heat_Buildings,2035,475.0657,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -305,16 +305,16 @@ ES,Mobility_Passenger,2045,492.0513,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,
 ES,Mobility_Passenger,2050,496.9718,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,Mobility_Passenger,2055,496.9718,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Mobility_Passenger,2060,496.9718,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,H2,2018,22.19778,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FI,H2,2021,22.19778,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FI,H2,2025,22.19778,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FI,H2,2030,22.19778,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FI,H2,2035,22.19778,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FI,H2,2040,47.17332786,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FI,H2,2045,47.17332786,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FI,H2,2050,91.23481347,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FI,H2,2055,91.23481347,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,H2,2060,91.23481347,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,H2,2018,22.1978,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,H2,2021,22.1978,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,H2,2025,22.1978,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,H2,2030,22.1978,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,H2,2035,22.1978,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,H2,2040,47.1733,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,H2,2045,47.1733,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,H2,2050,91.2348,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,H2,2055,91.2348,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,H2,2060,91.2348,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,Heat_Buildings,2025,239.9575,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,Heat_Buildings,2030,233.9586,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,Heat_Buildings,2035,228.3436,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -342,13 +342,13 @@ FI,Mobility_Passenger,2060,96.983,,gpkm,same as 2050 for now,29.01.2025,Nikita M
 FR,H2,2018,68.9931,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,H2,2021,68.9931,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,H2,2025,68.9931,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FR,H2,2030,83.78913961,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FR,H2,2035,83.78913961,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FR,H2,2040,136.2445435,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FR,H2,2045,136.2445435,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FR,H2,2050,271.7740525,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FR,H2,2055,271.7740525,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,H2,2060,271.7740525,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,H2,2030,83.7891,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,H2,2035,83.7891,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,H2,2040,136.2445,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,H2,2045,136.2445,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,H2,2050,271.7741,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,H2,2055,271.7741,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,H2,2060,271.7741,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Heat_Buildings,2025,1473.0982,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,Heat_Buildings,2030,1436.2707,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,Heat_Buildings,2035,1401.8002,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -373,16 +373,16 @@ FR,Mobility_Passenger,2045,1107.4566,,gpkm,EU-EnVis-2060 NECPEssentials Scenario
 FR,Mobility_Passenger,2050,1118.5312,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,Mobility_Passenger,2055,1118.5312,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Mobility_Passenger,2060,1118.5312,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,H2,2018,37.19628,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,H2,2021,37.19628,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,H2,2025,37.19628,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,H2,2030,40.09843692,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,H2,2035,40.09843692,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,H2,2040,45.99403546,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,H2,2045,45.99403546,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,H2,2050,53.54297571,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,H2,2055,53.54297571,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,H2,2060,53.54297571,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,H2,2018,37.1963,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,H2,2021,37.1963,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,H2,2025,37.1963,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,H2,2030,40.0984,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,H2,2035,40.0984,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,H2,2040,45.994,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,H2,2045,45.994,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,H2,2050,53.543,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,H2,2055,53.543,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,H2,2060,53.543,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Heat_Buildings,2025,131.5589,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,Heat_Buildings,2030,128.2699,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,Heat_Buildings,2035,125.1915,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -410,13 +410,13 @@ GR,Mobility_Passenger,2060,153.661,,gpkm,same as 2050 for now,29.01.2025,Nikita 
 HR,H2,2018,8.9991,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,H2,2021,8.9991,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,H2,2025,8.9991,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HR,H2,2030,13.25871348,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HR,H2,2035,13.25871348,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HR,H2,2040,18.67638828,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HR,H2,2045,18.67638828,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HR,H2,2050,25.35187782,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HR,H2,2055,25.35187782,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,H2,2060,25.35187782,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,H2,2030,13.2587,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,H2,2035,13.2587,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,H2,2040,18.6764,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,H2,2045,18.6764,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,H2,2050,25.3519,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,H2,2055,25.3519,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,H2,2060,25.3519,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Heat_Buildings,2025,59.069,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,Heat_Buildings,2030,57.5922,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,Heat_Buildings,2035,56.21,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -441,16 +441,16 @@ HR,Mobility_Passenger,2045,36.9257,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,0
 HR,Mobility_Passenger,2050,37.2949,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,Mobility_Passenger,2055,37.2949,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Mobility_Passenger,2060,37.2949,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,H2,2018,22.79772,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HU,H2,2021,22.79772,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HU,H2,2025,22.79772,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HU,H2,2030,34.35627431,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HU,H2,2035,34.35627431,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HU,H2,2040,56.17835061,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HU,H2,2045,56.17835061,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HU,H2,2050,87.30189497,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HU,H2,2055,87.30189497,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,H2,2060,87.30189497,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,H2,2018,22.7977,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,H2,2021,22.7977,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,H2,2025,22.7977,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,H2,2030,34.3563,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,H2,2035,34.3563,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,H2,2040,56.1784,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,H2,2045,56.1784,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,H2,2050,87.3019,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,H2,2055,87.3019,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,H2,2060,87.3019,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Heat_Buildings,2025,193.3974,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,Heat_Buildings,2030,188.5624,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,Heat_Buildings,2035,184.0369,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -475,16 +475,16 @@ HU,Mobility_Passenger,2045,111.9915,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,
 HU,Mobility_Passenger,2050,113.1115,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,Mobility_Passenger,2055,113.1115,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Mobility_Passenger,2060,113.1115,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,H2,2018,0.59994,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IE,H2,2021,0.59994,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IE,H2,2025,0.59994,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IE,H2,2030,1.574832359,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IE,H2,2035,1.574832359,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IE,H2,2040,3.221423534,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IE,H2,2045,3.221423534,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IE,H2,2050,5.895311592,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IE,H2,2055,5.895311592,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,H2,2060,5.895311592,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,H2,2018,0.5999,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,H2,2021,0.5999,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,H2,2025,0.5999,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,H2,2030,1.5748,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,H2,2035,1.5748,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,H2,2040,3.2214,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,H2,2045,3.2214,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,H2,2050,5.8953,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,H2,2055,5.8953,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,H2,2060,5.8953,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,Heat_Buildings,2025,129.2328,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,Heat_Buildings,2030,126.0019,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,Heat_Buildings,2035,122.9779,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -512,13 +512,13 @@ IE,Mobility_Passenger,2060,85.1866,,gpkm,same as 2050 for now,29.01.2025,Nikita 
 IT,H2,2018,71.9928,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,H2,2021,71.9928,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,H2,2025,71.9928,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IT,H2,2030,100.5501371,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IT,H2,2035,100.5501371,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IT,H2,2040,150.8032642,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IT,H2,2045,150.8032642,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IT,H2,2050,226.3343755,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-IT,H2,2055,226.3343755,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,H2,2060,226.3343755,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,H2,2030,100.5501,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,H2,2035,100.5501,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,H2,2040,150.8033,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,H2,2045,150.8033,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,H2,2050,226.3344,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,H2,2055,226.3344,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,H2,2060,226.3344,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Heat_Buildings,2025,1657.5678,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,Heat_Buildings,2030,1616.1286,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,Heat_Buildings,2035,1577.3415,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -546,13 +546,13 @@ IT,Mobility_Passenger,2060,1076.9124,,gpkm,same as 2050 for now,29.01.2025,Nikit
 LT,H2,2018,17.9982,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,H2,2021,17.9982,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,H2,2025,17.9982,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LT,H2,2030,27.86235071,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LT,H2,2035,27.86235071,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LT,H2,2040,48.94700753,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LT,H2,2045,48.94700753,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LT,H2,2050,74.13316956,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LT,H2,2055,74.13316956,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,H2,2060,74.13316956,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,H2,2030,27.8624,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,H2,2035,27.8624,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,H2,2040,48.947,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,H2,2045,48.947,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,H2,2050,74.1332,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,H2,2055,74.1332,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,H2,2060,74.1332,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_Buildings,2025,60.9659,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,Heat_Buildings,2030,59.4418,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,Heat_Buildings,2035,58.0152,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -580,13 +580,13 @@ LT,Mobility_Passenger,2060,40.3889,,gpkm,same as 2050 for now,29.01.2025,Nikita 
 LU,H2,2018,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,H2,2021,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,H2,2025,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LU,H2,2030,0.13051177,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LU,H2,2035,0.13051177,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LU,H2,2040,0.356546716,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LU,H2,2045,0.356546716,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LU,H2,2050,0.730002561,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LU,H2,2055,0.730002561,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,H2,2060,0.730002561,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,H2,2030,0.1305,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,H2,2035,0.1305,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,H2,2040,0.3565,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,H2,2045,0.3565,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,H2,2050,0.73,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,H2,2055,0.73,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,H2,2060,0.73,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,Heat_Buildings,2025,31.9558,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,Heat_Buildings,2030,31.1569,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,Heat_Buildings,2035,30.4091,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -635,16 +635,16 @@ LV,Mobility_Passenger,2045,21.8033,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,0
 LV,Mobility_Passenger,2050,22.0213,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,Mobility_Passenger,2055,22.0213,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Mobility_Passenger,2060,22.0213,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,H2,2018,118.78812,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NL,H2,2021,118.78812,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NL,H2,2025,118.78812,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NL,H2,2030,183.3797095,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NL,H2,2035,183.3797095,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NL,H2,2040,306.2396765,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NL,H2,2045,306.2396765,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NL,H2,2050,515.8850927,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NL,H2,2055,515.8850927,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,H2,2060,515.8850927,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,H2,2018,118.7881,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,H2,2021,118.7881,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,H2,2025,118.7881,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,H2,2030,183.3797,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,H2,2035,183.3797,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,H2,2040,306.2397,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,H2,2045,306.2397,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,H2,2050,515.8851,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,H2,2055,515.8851,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,H2,2060,515.8851,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,Heat_Buildings,2025,477.0547,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,Heat_Buildings,2030,465.1283,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,Heat_Buildings,2035,453.9652,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -669,16 +669,16 @@ NL,Mobility_Passenger,2045,203.9473,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,
 NL,Mobility_Passenger,2050,205.9868,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,Mobility_Passenger,2055,205.9868,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,Mobility_Passenger,2060,205.9868,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,H2,2018,20.39796,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NO,H2,2021,20.39796,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NO,H2,2025,20.39796,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NO,H2,2030,20.39796,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NO,H2,2035,20.39796,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NO,H2,2040,20.39796,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NO,H2,2045,20.39796,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NO,H2,2050,20.39796,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NO,H2,2055,20.39796,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,H2,2060,20.39796,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,H2,2018,20.398,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,H2,2021,20.398,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,H2,2025,20.398,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,H2,2030,20.398,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,H2,2035,20.398,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,H2,2040,20.398,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,H2,2045,20.398,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,H2,2050,20.398,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,H2,2055,20.398,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,H2,2060,20.398,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Heat_Buildings,2025,182.863,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,Heat_Buildings,2030,178.2914,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,Heat_Buildings,2035,174.0124,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -737,16 +737,16 @@ NONEU_Balkan,Mobility_Passenger,2045,60.7815,,gpkm,EU-EnVis-2060 NECPEssentials 
 NONEU_Balkan,Mobility_Passenger,2050,61.3893,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,Mobility_Passenger,2055,61.3893,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,Mobility_Passenger,2060,61.3893,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,H2,2018,94.79052,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,H2,2021,94.79052,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,H2,2025,94.79052,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,H2,2030,131.4114511,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,H2,2035,131.4114511,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,H2,2040,182.5630252,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,H2,2045,182.5630252,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,H2,2050,252.0568214,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,H2,2055,252.0568214,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,H2,2060,252.0568214,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,H2,2018,94.7905,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,H2,2021,94.7905,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,H2,2025,94.7905,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,H2,2030,131.4115,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,H2,2035,131.4115,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,H2,2040,182.563,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,H2,2045,182.563,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,H2,2050,252.0568,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,H2,2055,252.0568,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,H2,2060,252.0568,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Buildings,2025,701.478,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,Heat_Buildings,2030,683.941,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,Heat_Buildings,2035,667.5264,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -774,13 +774,13 @@ PL,Mobility_Passenger,2060,330.2151,,gpkm,same as 2050 for now,29.01.2025,Nikita
 PT,H2,2018,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,H2,2021,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,H2,2025,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,H2,2030,17.67841512,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,H2,2035,17.67841512,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,H2,2040,28.97069408,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,H2,2045,28.97069408,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,H2,2050,51.12001751,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,H2,2055,51.12001751,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,H2,2060,51.12001751,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,H2,2030,17.6784,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,H2,2035,17.6784,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,H2,2040,28.9707,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,H2,2045,28.9707,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,H2,2050,51.12,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,H2,2055,51.12,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,H2,2060,51.12,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,Heat_Buildings,2025,90.3837,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,Heat_Buildings,2030,88.1241,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,Heat_Buildings,2035,86.0091,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -805,16 +805,16 @@ PT,Mobility_Passenger,2045,131.0068,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,
 PT,Mobility_Passenger,2050,132.3169,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,Mobility_Passenger,2055,132.3169,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,Mobility_Passenger,2060,132.3169,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,H2,2018,14.39856,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-RO,H2,2021,14.39856,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-RO,H2,2025,14.39856,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-RO,H2,2030,20.84323348,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-RO,H2,2035,20.84323348,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-RO,H2,2040,33.31561889,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-RO,H2,2045,33.31561889,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-RO,H2,2050,50.25936033,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-RO,H2,2055,50.25936033,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,H2,2060,50.25936033,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,H2,2018,14.3986,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,H2,2021,14.3986,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,H2,2025,14.3986,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,H2,2030,20.8432,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,H2,2035,20.8432,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,H2,2040,33.3156,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,H2,2045,33.3156,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,H2,2050,50.2594,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,H2,2055,50.2594,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,H2,2060,50.2594,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,Heat_Buildings,2025,276.7148,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,Heat_Buildings,2030,269.797,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,Heat_Buildings,2035,263.3218,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -839,16 +839,16 @@ RO,Mobility_Passenger,2045,165.6872,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,
 RO,Mobility_Passenger,2050,167.344,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,Mobility_Passenger,2055,167.344,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,Mobility_Passenger,2060,167.344,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,H2,2018,21.59784,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,H2,2021,21.59784,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,H2,2025,21.59784,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,H2,2030,28.53983229,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,H2,2035,28.53983229,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,H2,2040,40.74798645,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,H2,2045,40.74798645,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,H2,2050,59.96364988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,H2,2055,59.96364988,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,H2,2060,59.96364988,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,H2,2018,21.5978,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,H2,2021,21.5978,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,H2,2025,21.5978,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,H2,2030,28.5398,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,H2,2035,28.5398,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,H2,2040,40.748,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,H2,2045,40.748,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,H2,2050,59.9636,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,H2,2055,59.9636,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,H2,2060,59.9636,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,Heat_Buildings,2025,275.2477,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,Heat_Buildings,2030,268.3665,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,Heat_Buildings,2035,261.9257,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -876,13 +876,13 @@ SE,Mobility_Passenger,2060,172.4918,,gpkm,same as 2050 for now,29.01.2025,Nikita
 SI,H2,2018,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,H2,2021,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,H2,2025,0,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SI,H2,2030,0.575263848,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SI,H2,2035,0.575263848,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SI,H2,2040,1.55414634,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SI,H2,2045,1.55414634,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SI,H2,2050,3.08286256,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SI,H2,2055,3.08286256,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,H2,2060,3.08286256,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,H2,2030,0.5753,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,H2,2035,0.5753,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,H2,2040,1.5541,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,H2,2045,1.5541,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,H2,2050,3.0829,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,H2,2055,3.0829,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,H2,2060,3.0829,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Heat_Buildings,2025,37.3755,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,Heat_Buildings,2030,36.4411,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,Heat_Buildings,2035,35.5665,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -910,13 +910,13 @@ SI,Mobility_Passenger,2060,38.5968,,gpkm,same as 2050 for now,29.01.2025,Nikita 
 SK,H2,2018,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,H2,2021,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,H2,2025,11.9988,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SK,H2,2030,18.7392076,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SK,H2,2035,18.7392076,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SK,H2,2040,28.30036765,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SK,H2,2045,28.30036765,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SK,H2,2050,41.53660377,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SK,H2,2055,41.53660377,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,H2,2060,41.53660377,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,H2,2030,18.7392,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,H2,2035,18.7392,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,H2,2040,28.3004,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,H2,2045,28.3004,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,H2,2050,41.5366,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,H2,2055,41.5366,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,H2,2060,41.5366,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,Heat_Buildings,2025,128.7176,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,Heat_Buildings,2030,125.4997,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,Heat_Buildings,2035,122.4877,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -965,16 +965,16 @@ TR,Mobility_Passenger,2045,952.2345,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,
 TR,Mobility_Passenger,2050,961.7569,,gpkm,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,Mobility_Passenger,2055,961.7569,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,Mobility_Passenger,2060,961.7569,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,H2,2018,70.79292,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,H2,2021,70.79292,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,H2,2025,70.79292,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,H2,2030,102.7381636,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,H2,2035,102.7381636,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,H2,2040,155.6346085,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,H2,2045,155.6346085,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,H2,2050,240.7694808,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,H2,2055,240.7694808,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,H2,2060,240.7694808,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,H2,2018,70.7929,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,H2,2021,70.7929,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,H2,2025,70.7929,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,H2,2030,102.7382,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,H2,2035,102.7382,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,H2,2040,155.6346,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,H2,2045,155.6346,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,H2,2050,240.7695,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,H2,2055,240.7695,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,H2,2060,240.7695,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Heat_Buildings,2025,834.062,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,Heat_Buildings,2030,813.2104,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,Heat_Buildings,2035,793.6934,,PJ,EU-EnVis-2060 NECPEssentials Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -1303,14 +1303,14 @@ BE,Heat_MediumLow_Industrial,2045,56.5642,,PJ,EU-EnVis-2060 NECPEssentials Scena
 BE,Heat_MediumLow_Industrial,2050,55.3764,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,Heat_MediumLow_Industrial,2055,54.2135,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,Heat_MediumLow_Industrial,2060,53.075,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,Heat_High_Industrial,2025,5.05464,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,Heat_High_Industrial,2030,4.93585,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_High_Industrial,2025,5.0546,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_High_Industrial,2030,4.9359,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_High_Industrial,2035,4.8248,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,Heat_High_Industrial,2040,4.71865,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_High_Industrial,2040,4.7187,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_High_Industrial,2045,4.6172,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,Heat_High_Industrial,2050,4.52024,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,Heat_High_Industrial,2055,4.42531,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,Heat_High_Industrial,2060,4.33238,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_High_Industrial,2050,4.5202,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_High_Industrial,2055,4.4253,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Heat_High_Industrial,2060,4.3324,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_Low_Industrial,2025,23.779,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_Low_Industrial,2030,23.2202,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_Low_Industrial,2035,22.6978,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1335,14 +1335,14 @@ BG,Heat_MediumLow_Industrial,2045,13.1454,,PJ,EU-EnVis-2060 NECPEssentials Scena
 BG,Heat_MediumLow_Industrial,2050,12.8693,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_MediumLow_Industrial,2055,12.5991,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_MediumLow_Industrial,2060,12.3345,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Heat_High_Industrial,2025,9.50273,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Heat_High_Industrial,2030,9.27942,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Heat_High_Industrial,2035,9.07063,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Heat_High_Industrial,2040,8.87108,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Heat_High_Industrial,2045,8.68035,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Heat_High_Industrial,2050,8.49806,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_High_Industrial,2025,9.5027,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_High_Industrial,2030,9.2794,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_High_Industrial,2035,9.0706,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_High_Industrial,2040,8.8711,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_High_Industrial,2045,8.6804,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_High_Industrial,2050,8.4981,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Heat_High_Industrial,2055,8.3196,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Heat_High_Industrial,2060,8.14489,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_High_Industrial,2060,8.1449,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Heat_Low_Industrial,2025,23.6642,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Heat_Low_Industrial,2030,23.1081,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Heat_Low_Industrial,2035,22.5882,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1366,7 +1366,7 @@ CH,Heat_MediumLow_Industrial,2040,10.8674,,PJ,EU-EnVis-2060 NECPEssentials Scena
 CH,Heat_MediumLow_Industrial,2045,10.6338,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Heat_MediumLow_Industrial,2050,10.4105,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Heat_MediumLow_Industrial,2055,10.1919,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Heat_MediumLow_Industrial,2060,9.97783,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Heat_MediumLow_Industrial,2060,9.9778,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_High_Industrial,2025,35.2288,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_High_Industrial,2030,34.4009,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_High_Industrial,2035,33.6269,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1431,14 +1431,14 @@ DE,Heat_MediumLow_Industrial,2045,237.586,,PJ,EU-EnVis-2060 NECPEssentials Scena
 DE,Heat_MediumLow_Industrial,2050,232.597,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumLow_Industrial,2055,227.712,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumLow_Industrial,2060,222.93,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,Heat_High_Industrial,2025,2.87725,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,Heat_High_Industrial,2030,2.80963,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,Heat_High_Industrial,2035,2.74642,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_High_Industrial,2025,2.8773,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_High_Industrial,2030,2.8096,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_High_Industrial,2035,2.7464,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,Heat_High_Industrial,2040,2.686,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,Heat_High_Industrial,2045,2.62825,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,Heat_High_Industrial,2050,2.57305,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,Heat_High_Industrial,2055,2.51902,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,Heat_High_Industrial,2060,2.46612,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_High_Industrial,2045,2.6283,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_High_Industrial,2050,2.5731,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_High_Industrial,2055,2.519,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Heat_High_Industrial,2060,2.4661,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,Heat_Low_Industrial,2025,40.2498,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,Heat_Low_Industrial,2030,39.304,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,Heat_Low_Industrial,2035,38.4196,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1463,38 +1463,38 @@ DK,Heat_MediumLow_Industrial,2045,18.2504,,PJ,EU-EnVis-2060 NECPEssentials Scena
 DK,Heat_MediumLow_Industrial,2050,17.8671,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,Heat_MediumLow_Industrial,2055,17.4919,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,Heat_MediumLow_Industrial,2060,17.1246,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_High_Industrial,2025,0.298511,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_High_Industrial,2030,0.291496,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_High_Industrial,2035,0.284937,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_High_Industrial,2040,0.278669,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_High_Industrial,2045,0.272677,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_High_Industrial,2050,0.266951,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_High_Industrial,2055,0.261345,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_High_Industrial,2060,0.255857,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_Low_Industrial,2025,5.86491,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_Low_Industrial,2030,5.72708,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_Low_Industrial,2035,5.59822,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_Low_Industrial,2040,5.47506,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_Low_Industrial,2045,5.35735,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_Low_Industrial,2050,5.24484,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_High_Industrial,2025,0.2985,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_High_Industrial,2030,0.2915,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_High_Industrial,2035,0.2849,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_High_Industrial,2040,0.2787,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_High_Industrial,2045,0.2727,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_High_Industrial,2050,0.267,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_High_Industrial,2055,0.2613,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_High_Industrial,2060,0.2559,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_Low_Industrial,2025,5.8649,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_Low_Industrial,2030,5.7271,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_Low_Industrial,2035,5.5982,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_Low_Industrial,2040,5.4751,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_Low_Industrial,2045,5.3574,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_Low_Industrial,2050,5.2448,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,Heat_Low_Industrial,2055,5.1347,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_Low_Industrial,2060,5.02687,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumHigh_Industrial,2025,2.44734,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumHigh_Industrial,2030,2.38983,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumHigh_Industrial,2035,2.33606,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumHigh_Industrial,2040,2.28466,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumHigh_Industrial,2045,2.23554,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_Low_Industrial,2060,5.0269,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumHigh_Industrial,2025,2.4473,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumHigh_Industrial,2030,2.3898,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumHigh_Industrial,2035,2.3361,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumHigh_Industrial,2040,2.2847,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumHigh_Industrial,2045,2.2355,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,Heat_MediumHigh_Industrial,2050,2.1886,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumHigh_Industrial,2055,2.14264,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumHigh_Industrial,2060,2.09764,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumLow_Industrial,2025,2.20855,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumLow_Industrial,2030,2.15665,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumLow_Industrial,2035,2.10812,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumLow_Industrial,2040,2.06175,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumLow_Industrial,2045,2.01742,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumLow_Industrial,2050,1.97505,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumLow_Industrial,2055,1.93358,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_MediumLow_Industrial,2060,1.89297,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumHigh_Industrial,2055,2.1426,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumHigh_Industrial,2060,2.0976,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumLow_Industrial,2025,2.2086,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumLow_Industrial,2030,2.1567,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumLow_Industrial,2035,2.1081,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumLow_Industrial,2040,2.0618,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumLow_Industrial,2045,2.0174,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumLow_Industrial,2050,1.9751,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumLow_Industrial,2055,1.9336,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Heat_MediumLow_Industrial,2060,1.893,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Heat_High_Industrial,2025,106.232,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Heat_High_Industrial,2030,103.736,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Heat_High_Industrial,2035,101.402,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1591,14 +1591,14 @@ FR,Heat_MediumLow_Industrial,2045,131.599,,PJ,EU-EnVis-2060 NECPEssentials Scena
 FR,Heat_MediumLow_Industrial,2050,128.836,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Heat_MediumLow_Industrial,2055,126.13,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Heat_MediumLow_Industrial,2060,123.481,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,Heat_High_Industrial,2025,4.45825,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,Heat_High_Industrial,2030,4.35348,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,Heat_High_Industrial,2035,4.25553,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,Heat_High_Industrial,2040,4.16191,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,Heat_High_Industrial,2045,4.07243,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,Heat_High_Industrial,2050,3.98691,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,Heat_High_Industrial,2055,3.90318,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,Heat_High_Industrial,2060,3.82121,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_High_Industrial,2025,4.4583,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_High_Industrial,2030,4.3535,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_High_Industrial,2035,4.2555,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_High_Industrial,2040,4.1619,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_High_Industrial,2045,4.0724,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_High_Industrial,2050,3.9869,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_High_Industrial,2055,3.9032,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Heat_High_Industrial,2060,3.8212,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Heat_Low_Industrial,2025,36.5193,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Heat_Low_Industrial,2030,35.6611,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Heat_Low_Industrial,2035,34.8587,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1623,13 +1623,13 @@ GR,Heat_MediumLow_Industrial,2045,24.6477,,PJ,EU-EnVis-2060 NECPEssentials Scena
 GR,Heat_MediumLow_Industrial,2050,24.1301,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Heat_MediumLow_Industrial,2055,23.6234,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Heat_MediumLow_Industrial,2060,23.1273,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_High_Industrial,2025,3.27542,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_High_Industrial,2030,3.19845,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_High_Industrial,2035,3.12649,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_High_Industrial,2025,3.2754,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_High_Industrial,2030,3.1985,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_High_Industrial,2035,3.1265,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Heat_High_Industrial,2040,3.0577,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_High_Industrial,2045,2.99196,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_High_Industrial,2050,2.92913,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_High_Industrial,2055,2.86762,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_High_Industrial,2045,2.992,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_High_Industrial,2050,2.9291,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_High_Industrial,2055,2.8676,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Heat_High_Industrial,2060,2.8074,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Heat_Low_Industrial,2025,18.5787,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Heat_Low_Industrial,2030,18.1421,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1647,14 +1647,14 @@ HR,Heat_MediumHigh_Industrial,2045,15.0972,,PJ,EU-EnVis-2060 NECPEssentials Scen
 HR,Heat_MediumHigh_Industrial,2050,14.7801,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Heat_MediumHigh_Industrial,2055,14.4697,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Heat_MediumHigh_Industrial,2060,14.1659,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_MediumLow_Industrial,2025,9.68733,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_MediumLow_Industrial,2030,9.45968,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_MediumLow_Industrial,2035,9.24684,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_MediumLow_Industrial,2040,9.04341,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_MediumLow_Industrial,2045,8.84897,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_MediumLow_Industrial,2050,8.66315,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_MediumLow_Industrial,2055,8.48122,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_MediumLow_Industrial,2060,8.30311,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_MediumLow_Industrial,2025,9.6873,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_MediumLow_Industrial,2030,9.4597,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_MediumLow_Industrial,2035,9.2468,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_MediumLow_Industrial,2040,9.0434,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_MediumLow_Industrial,2045,8.849,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_MediumLow_Industrial,2050,8.6632,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_MediumLow_Industrial,2055,8.4812,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Heat_MediumLow_Industrial,2060,8.3031,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Heat_High_Industrial,2025,14.0709,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Heat_High_Industrial,2030,13.7402,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Heat_High_Industrial,2035,13.4311,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1687,14 +1687,14 @@ HU,Heat_MediumLow_Industrial,2045,22.3898,,PJ,EU-EnVis-2060 NECPEssentials Scena
 HU,Heat_MediumLow_Industrial,2050,21.9196,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Heat_MediumLow_Industrial,2055,21.4593,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Heat_MediumLow_Industrial,2060,21.0087,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,Heat_High_Industrial,2025,2.58896,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,Heat_High_Industrial,2030,2.52811,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,Heat_High_Industrial,2035,2.47123,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,Heat_High_Industrial,2040,2.41687,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_High_Industrial,2025,2.589,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_High_Industrial,2030,2.5281,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_High_Industrial,2035,2.4712,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_High_Industrial,2040,2.4169,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,Heat_High_Industrial,2045,2.3649,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,Heat_High_Industrial,2050,2.31524,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,Heat_High_Industrial,2055,2.26662,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,Heat_High_Industrial,2060,2.21902,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_High_Industrial,2050,2.3152,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_High_Industrial,2055,2.2666,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Heat_High_Industrial,2060,2.219,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,Heat_Low_Industrial,2025,34.1868,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,Heat_Low_Industrial,2030,33.3834,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,Heat_Low_Industrial,2035,32.6322,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1751,22 +1751,22 @@ IT,Heat_MediumLow_Industrial,2045,108.792,,PJ,EU-EnVis-2060 NECPEssentials Scena
 IT,Heat_MediumLow_Industrial,2050,106.507,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Heat_MediumLow_Industrial,2055,104.271,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Heat_MediumLow_Industrial,2060,102.081,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_High_Industrial,2025,2.26546,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_High_Industrial,2030,2.21222,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_High_Industrial,2035,2.16245,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_High_Industrial,2040,2.11487,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_High_Industrial,2025,2.2655,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_High_Industrial,2030,2.2122,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_High_Industrial,2035,2.1625,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_High_Industrial,2040,2.1149,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_High_Industrial,2045,2.0694,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_High_Industrial,2050,2.02594,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_High_Industrial,2050,2.0259,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_High_Industrial,2055,1.9834,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_High_Industrial,2060,1.94175,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_High_Industrial,2060,1.9418,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_Low_Industrial,2025,11.1669,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_Low_Industrial,2030,10.9045,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_Low_Industrial,2035,10.6591,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_Low_Industrial,2040,10.4246,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_Low_Industrial,2045,10.2005,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_Low_Industrial,2050,9.9863,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_Low_Industrial,2055,9.77659,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_Low_Industrial,2060,9.57128,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_Low_Industrial,2055,9.7766,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_Low_Industrial,2060,9.5713,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_MediumHigh_Industrial,2025,21.0993,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_MediumHigh_Industrial,2030,20.6035,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_MediumHigh_Industrial,2035,20.1399,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1775,54 +1775,54 @@ LT,Heat_MediumHigh_Industrial,2045,19.2733,,PJ,EU-EnVis-2060 NECPEssentials Scen
 LT,Heat_MediumHigh_Industrial,2050,18.8686,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_MediumHigh_Industrial,2055,18.4724,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_MediumHigh_Industrial,2060,18.0844,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_MediumLow_Industrial,2025,9.42374,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_MediumLow_Industrial,2030,9.20228,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_MediumLow_Industrial,2035,8.99523,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_MediumLow_Industrial,2040,8.79733,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_MediumLow_Industrial,2045,8.60819,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_MediumLow_Industrial,2050,8.42742,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_MediumLow_Industrial,2055,8.25044,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_MediumLow_Industrial,2060,8.07718,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_High_Industrial,2025,4.63292,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_High_Industrial,2030,4.52405,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_High_Industrial,2035,4.42226,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_High_Industrial,2040,4.32497,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_High_Industrial,2045,4.23198,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_High_Industrial,2050,4.14311,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_MediumLow_Industrial,2025,9.4237,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_MediumLow_Industrial,2030,9.2023,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_MediumLow_Industrial,2035,8.9952,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_MediumLow_Industrial,2040,8.7973,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_MediumLow_Industrial,2045,8.6082,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_MediumLow_Industrial,2050,8.4274,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_MediumLow_Industrial,2055,8.2504,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Heat_MediumLow_Industrial,2060,8.0772,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_High_Industrial,2025,4.6329,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_High_Industrial,2030,4.5241,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_High_Industrial,2035,4.4223,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_High_Industrial,2040,4.325,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_High_Industrial,2045,4.232,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_High_Industrial,2050,4.1431,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,Heat_High_Industrial,2055,4.0561,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_High_Industrial,2060,3.97092,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_High_Industrial,2060,3.9709,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,Heat_Low_Industrial,2025,5.0454,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_Low_Industrial,2030,4.92684,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_Low_Industrial,2035,4.81598,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_Low_Industrial,2040,4.71003,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_Low_Industrial,2045,4.60877,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_Low_Industrial,2050,4.51198,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_Low_Industrial,2055,4.41723,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_Low_Industrial,2060,4.32447,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumHigh_Industrial,2025,3.53947,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumHigh_Industrial,2030,3.45629,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumHigh_Industrial,2035,3.37853,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_Low_Industrial,2030,4.9268,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_Low_Industrial,2035,4.816,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_Low_Industrial,2040,4.71,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_Low_Industrial,2045,4.6088,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_Low_Industrial,2050,4.512,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_Low_Industrial,2055,4.4172,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_Low_Industrial,2060,4.3245,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumHigh_Industrial,2025,3.5395,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumHigh_Industrial,2030,3.4563,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumHigh_Industrial,2035,3.3785,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,Heat_MediumHigh_Industrial,2040,3.3042,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumHigh_Industrial,2045,3.23316,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumHigh_Industrial,2050,3.16526,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumHigh_Industrial,2055,3.09879,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumHigh_Industrial,2060,3.03372,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumLow_Industrial,2025,1.80909,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumLow_Industrial,2030,1.76658,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumLow_Industrial,2035,1.72683,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumLow_Industrial,2040,1.68884,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumLow_Industrial,2045,1.65253,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumLow_Industrial,2050,1.61783,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumLow_Industrial,2055,1.58385,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Heat_MediumLow_Industrial,2060,1.55059,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_High_Industrial,2025,1.29373,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_High_Industrial,2030,1.26332,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumHigh_Industrial,2045,3.2332,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumHigh_Industrial,2050,3.1653,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumHigh_Industrial,2055,3.0988,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumHigh_Industrial,2060,3.0337,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumLow_Industrial,2025,1.8091,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumLow_Industrial,2030,1.7666,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumLow_Industrial,2035,1.7268,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumLow_Industrial,2040,1.6888,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumLow_Industrial,2045,1.6525,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumLow_Industrial,2050,1.6178,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumLow_Industrial,2055,1.5839,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Heat_MediumLow_Industrial,2060,1.5506,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_High_Industrial,2025,1.2937,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_High_Industrial,2030,1.2633,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_High_Industrial,2035,1.2349,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_High_Industrial,2040,1.20773,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_High_Industrial,2045,1.18177,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_High_Industrial,2050,1.15695,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_High_Industrial,2055,1.13265,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_High_Industrial,2060,1.10887,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_High_Industrial,2040,1.2077,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_High_Industrial,2045,1.1818,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_High_Industrial,2050,1.157,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_High_Industrial,2055,1.1327,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_High_Industrial,2060,1.1089,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_Low_Industrial,2025,13.2655,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_Low_Industrial,2030,12.9538,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_Low_Industrial,2035,12.6623,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1832,20 +1832,20 @@ LV,Heat_Low_Industrial,2050,11.863,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.
 LV,Heat_Low_Industrial,2055,11.6139,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_Low_Industrial,2060,11.37,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_MediumHigh_Industrial,2025,3.9927,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_MediumHigh_Industrial,2030,3.89887,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_MediumHigh_Industrial,2035,3.81115,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumHigh_Industrial,2030,3.8989,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumHigh_Industrial,2035,3.8112,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_MediumHigh_Industrial,2040,3.7273,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_MediumHigh_Industrial,2045,3.64717,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_MediumHigh_Industrial,2050,3.57058,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_MediumHigh_Industrial,2055,3.49559,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_MediumHigh_Industrial,2060,3.42219,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_MediumLow_Industrial,2025,4.24041,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_MediumLow_Industrial,2030,4.14076,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumHigh_Industrial,2045,3.6472,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumHigh_Industrial,2050,3.5706,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumHigh_Industrial,2055,3.4956,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumHigh_Industrial,2060,3.4222,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumLow_Industrial,2025,4.2404,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumLow_Industrial,2030,4.1408,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_MediumLow_Industrial,2035,4.0476,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_MediumLow_Industrial,2040,3.95855,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_MediumLow_Industrial,2045,3.87344,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumLow_Industrial,2040,3.9586,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumLow_Industrial,2045,3.8734,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_MediumLow_Industrial,2050,3.7921,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_MediumLow_Industrial,2055,3.71246,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Heat_MediumLow_Industrial,2055,3.7125,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_MediumLow_Industrial,2060,3.6345,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,Heat_High_Industrial,2025,55.3188,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,Heat_High_Industrial,2030,54.0188,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1884,8 +1884,8 @@ NO,Heat_High_Industrial,2030,10.8787,,PJ,EU-EnVis-2060 NECPEssentials Scenario,0
 NO,Heat_High_Industrial,2035,10.6339,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Heat_High_Industrial,2040,10.3999,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Heat_High_Industrial,2045,10.1763,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,Heat_High_Industrial,2050,9.96264,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,Heat_High_Industrial,2055,9.75343,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Heat_High_Industrial,2050,9.9626,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Heat_High_Industrial,2055,9.7534,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Heat_High_Industrial,2060,9.5486,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Heat_Low_Industrial,2025,28.1332,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Heat_Low_Industrial,2030,27.4721,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1912,13 +1912,13 @@ NO,Heat_MediumLow_Industrial,2050,11.9481,,PJ,EU-EnVis-2060 NECPEssentials Scena
 NO,Heat_MediumLow_Industrial,2055,11.6972,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Heat_MediumLow_Industrial,2060,11.4515,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,Heat_High_Industrial,2025,6.7647,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,Heat_High_Industrial,2030,6.60573,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_High_Industrial,2030,6.6057,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,Heat_High_Industrial,2035,6.4571,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,Heat_High_Industrial,2040,6.31504,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,Heat_High_Industrial,2045,6.17927,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,Heat_High_Industrial,2050,6.04951,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,Heat_High_Industrial,2055,5.92247,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,Heat_High_Industrial,2060,5.79809,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_High_Industrial,2040,6.315,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_High_Industrial,2045,6.1793,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_High_Industrial,2050,6.0495,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_High_Industrial,2055,5.9225,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Heat_High_Industrial,2060,5.7981,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,Heat_Low_Industrial,2025,29.8175,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,Heat_Low_Industrial,2030,29.1168,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,Heat_Low_Industrial,2035,28.4616,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1975,14 +1975,14 @@ PL,Heat_MediumLow_Industrial,2045,84.0162,,PJ,EU-EnVis-2060 NECPEssentials Scena
 PL,Heat_MediumLow_Industrial,2050,82.2519,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_MediumLow_Industrial,2055,80.5246,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_MediumLow_Industrial,2060,78.8336,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,Heat_High_Industrial,2025,6.54799,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,Heat_High_Industrial,2030,6.39411,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,Heat_High_Industrial,2035,6.25024,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,Heat_High_Industrial,2040,6.11274,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,Heat_High_Industrial,2045,5.98131,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_High_Industrial,2025,6.548,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_High_Industrial,2030,6.3941,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_High_Industrial,2035,6.2502,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_High_Industrial,2040,6.1127,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_High_Industrial,2045,5.9813,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,Heat_High_Industrial,2050,5.8557,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,Heat_High_Industrial,2055,5.73273,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,Heat_High_Industrial,2060,5.61235,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_High_Industrial,2055,5.7327,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Heat_High_Industrial,2060,5.6124,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,Heat_Low_Industrial,2025,51.8368,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,Heat_Low_Industrial,2030,50.6187,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,Heat_Low_Industrial,2035,49.4797,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2071,14 +2071,14 @@ SE,Heat_MediumLow_Industrial,2045,37.0153,,PJ,EU-EnVis-2060 NECPEssentials Scena
 SE,Heat_MediumLow_Industrial,2050,36.2379,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,Heat_MediumLow_Industrial,2055,35.4769,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,Heat_MediumLow_Industrial,2060,34.7319,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_High_Industrial,2025,3.56781,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_High_Industrial,2030,3.48397,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_High_Industrial,2035,3.40558,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_High_Industrial,2040,3.33066,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_High_Industrial,2045,3.25905,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_High_Industrial,2050,3.19061,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_High_Industrial,2055,3.12361,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_High_Industrial,2060,3.05801,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_High_Industrial,2025,3.5678,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_High_Industrial,2030,3.484,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_High_Industrial,2035,3.4056,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_High_Industrial,2040,3.3307,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_High_Industrial,2045,3.2591,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_High_Industrial,2050,3.1906,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_High_Industrial,2055,3.1236,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_High_Industrial,2060,3.058,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Heat_Low_Industrial,2025,11.5213,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Heat_Low_Industrial,2030,11.2505,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Heat_Low_Industrial,2035,10.9974,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2086,23 +2086,23 @@ SI,Heat_Low_Industrial,2040,10.7554,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09
 SI,Heat_Low_Industrial,2045,10.5242,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Heat_Low_Industrial,2050,10.3032,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Heat_Low_Industrial,2055,10.0868,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_Low_Industrial,2060,9.87501,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumHigh_Industrial,2025,8.46167,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumHigh_Industrial,2030,8.26282,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumHigh_Industrial,2035,8.07691,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumHigh_Industrial,2040,7.89922,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumHigh_Industrial,2045,7.72938,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumHigh_Industrial,2050,7.56707,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumHigh_Industrial,2055,7.40816,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumHigh_Industrial,2060,7.25259,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumLow_Industrial,2025,4.27686,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumLow_Industrial,2030,4.17636,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumLow_Industrial,2035,4.08239,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumLow_Industrial,2040,3.99258,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumLow_Industrial,2045,3.90674,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_Low_Industrial,2060,9.875,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumHigh_Industrial,2025,8.4617,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumHigh_Industrial,2030,8.2628,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumHigh_Industrial,2035,8.0769,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumHigh_Industrial,2040,7.8992,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumHigh_Industrial,2045,7.7294,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumHigh_Industrial,2050,7.5671,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumHigh_Industrial,2055,7.4082,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumHigh_Industrial,2060,7.2526,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumLow_Industrial,2025,4.2769,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumLow_Industrial,2030,4.1764,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumLow_Industrial,2035,4.0824,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumLow_Industrial,2040,3.9926,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumLow_Industrial,2045,3.9067,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Heat_MediumLow_Industrial,2050,3.8247,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumLow_Industrial,2055,3.74438,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_MediumLow_Industrial,2060,3.66574,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumLow_Industrial,2055,3.7444,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Heat_MediumLow_Industrial,2060,3.6657,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,Heat_High_Industrial,2025,32.3417,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,Heat_High_Industrial,2030,31.5817,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,Heat_High_Industrial,2035,30.8711,,PJ,EU-EnVis-2060 NECPEssentials Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
