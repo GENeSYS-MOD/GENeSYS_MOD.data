@@ -1,16 +1,16 @@
 Region,Technology,Fuel,Mode_of_operation,Year,Value,,Unit,Source,Updated at,Updated by
-World,CHP_Biomass_Solid,Heat_District,2,2035,2.475644699,,PJ,Energy Agency Denmark (2024): CHP Biomass average,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid,Heat_District,2,2040,2.475644699,,PJ,Energy Agency Denmark (2024): CHP Biomass average,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid,Heat_District,2,2045,2.475644699,,PJ,Energy Agency Denmark (2024): CHP Biomass average,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid,Heat_District,2,2050,2.475644699,,PJ,Energy Agency Denmark (2024): CHP Biomass average,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid,Heat_District,2,2055,2.475644699,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid,Heat_District,2,2060,2.475644699,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid_CCS,Heat_District,2,2035,2.475644699,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid_CCS,Heat_District,2,2040,2.475644699,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid_CCS,Heat_District,2,2045,2.475644699,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid_CCS,Heat_District,2,2050,2.475644699,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid_CCS,Heat_District,2,2055,2.475644699,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid_CCS,Heat_District,2,2060,2.475644699,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Heat_District,2,2035,2.4756,,PJ,Energy Agency Denmark (2024): CHP Biomass average,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Heat_District,2,2040,2.4756,,PJ,Energy Agency Denmark (2024): CHP Biomass average,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Heat_District,2,2045,2.4756,,PJ,Energy Agency Denmark (2024): CHP Biomass average,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Heat_District,2,2050,2.4756,,PJ,Energy Agency Denmark (2024): CHP Biomass average,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Heat_District,2,2055,2.4756,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid,Heat_District,2,2060,2.4756,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Heat_District,2,2035,2.4756,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Heat_District,2,2040,2.4756,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Heat_District,2,2045,2.4756,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Heat_District,2,2050,2.4756,,PJ,Energy Agency Denmark (2024): Generation efficiency decrease 10%,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Heat_District,2,2055,2.4756,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,Heat_District,2,2060,2.4756,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas,Heat_District,2,2035,0.5,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas,Heat_District,2,2040,0.5,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas,Heat_District,2,2045,0.5,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -41,4 +41,4 @@ World,CHP_Gas_CCGT_SynGas,Heat_District,2,2045,0.5,,PJ,Energy Agency Denmark (20
 World,CHP_Gas_CCGT_SynGas,Heat_District,2,2050,0.5,,PJ,Energy Agency Denmark (2024): CHP Coal (Calculation through elec. Efficiency/cb/cv: see assumption.txt),27.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_SynGas,Heat_District,2,2055,0.5,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_SynGas,Heat_District,2,2060,0.5,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Power,1,All,0.0,,PJ,Placeholder for Format issues,03.12.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_SMR,Power,1,All,0,,PJ,Placeholder for Format issues,03.12.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
