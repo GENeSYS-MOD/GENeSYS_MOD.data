@@ -1,12 +1,12 @@
 import os
 import pandas as pd
 
-def process_regular_parameters(csv_file_path, unique_values_concatenated, output_format, scenario_option, debugging_output):
+def process_regular_parameters(csv_file_path, unique_values_concatenated, output_format, scenario_option, debugging_output, data_base_region):
     # Compute and truncate worksheet_name to ensure it doesn't exceed 31 characters
     worksheet_name = os.path.splitext(os.path.basename(csv_file_path))[0]
     if len(worksheet_name) > 31:
         worksheet_name = worksheet_name[:31]
-
+    
     # Read the CSV file into a Pandas DataFrame
     df = pd.read_csv(csv_file_path, delimiter=',')
     
@@ -25,6 +25,7 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
         if os.path.exists(scenario_csv_file):
             df_scenario = pd.read_csv(scenario_csv_file, delimiter=',')
 
+            # Handling of 'All' entries
             df_scenario = process_all_year(df_scenario, unique_values_concatenated)
             df_scenario = process_all_fuel(df_scenario, unique_values_concatenated)
             df_scenario = process_all_technology(df_scenario, unique_values_concatenated)
@@ -57,10 +58,51 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
 
             data_overwritten = True
 
+    # Handling of 'All' entries
     df = process_all_year(df, unique_values_concatenated)
     df = process_all_fuel(df, unique_values_concatenated)
     df = process_all_technology(df, unique_values_concatenated)
     df = process_all_mode(df, unique_values_concatenated)
+
+    # Set regional values, if only value given for base-region
+    if worksheet_name in [
+       "Par_CapitalCost", 
+       "Par_VariableCost", 
+       "Par_FixedCost", 
+       "Par_AvailabilityFactor", 
+       "Par_InputActivityRatio", 
+       "Par_OutputActivityRatio", 
+       "Par_EmissionPenaltyTagTech", 
+       "Par_ReserveMarginTagTechnology", 
+       "Par_EmissionActivityRatio", 
+       "Par_EmissionsPenalty",
+       "Par_SpecifiedDemandDevelopment",
+       "Par_RegionalModelPeriodEmission",
+       "Par_ModelPeriodExogenousEmissio"]:
+        df = set_regional_values_from_base(df, unique_values_concatenated, data_base_region)
+    
+    # Set values, if no regional data available
+    if worksheet_name in [
+        "Par_CapitalCost",
+        "Par_VariableCost",
+        "Par_FixedCost",
+        "Par_AvailabilityFactor",
+        "Par_InputActivityRatio",
+        "Par_OutputActivityRatio",
+        "Par_EmissionPenaltyTagTech",
+        "Par_ReserveMarginTagTechnology",
+        "Par_EmissionActivityRatio",
+        "Par_ReserveMarginTagFuel",
+        "Par_ReserveMargin",
+        "Par_MinStorageCharge",
+        "Par_CapitalCostStorage",
+        "Par_RegionalAnnualEmissionLimit",
+        "Par_RegionalModelPeriodEmission",
+        "Par_ModelPeriodExogenousEmissio",
+        "Par_TotalAnnualMaxCapacity",
+        "Par_SpecifiedDemandDevelopment"
+        ]:
+        df = set_values_from_world(df, unique_values_concatenated)
 
     # Rename columns with .1, .2, etc. naming convention
     for col in df.columns:
@@ -292,4 +334,101 @@ def process_all_mode(df, unique_values_concatenated):
         df['Mode_of_operation'] = pd.to_numeric(df['Mode_of_operation'], errors='coerce')
         df = df.dropna(subset=['Mode_of_operation'])
 
+    return df
+
+def set_regional_values_from_base(df, unique_values_concatenated, data_base_region):
+    # Check if 'Region' column exists
+    if 'Region' in df.columns:
+        
+        # Identify rows where 'Region' originally had the value of data_base_region
+        base_rows = df[df['Region'] == data_base_region].copy()
+
+        # Define the replacement regions
+        replacement_regions = unique_values_concatenated['Region'].dropna().astype(str)
+
+        # Get the index of the "Value" column in the DataFrame
+        value_col_index = df.columns.get_loc("Value")
+
+        # Drop all columns that come after the "Value" column
+        df = df.iloc[:, :(value_col_index + 1)]
+
+        # Identify columns to check for duplicates (excluding the 'Value' column)
+        columns_to_check = [col for col in df.columns if col != 'Value']
+
+        # Create a set of existing row signatures for fast duplicate detection
+        existing_keys = set(
+            tuple(row) for row in df[columns_to_check].itertuples(index=False, name=None)
+        )
+
+        # Create new rows by repeating the base rows with different regions
+        new_rows = []
+        for _, row in base_rows.iterrows():
+            for region in replacement_regions:
+                if row['Value'] == 0:
+                    continue  # Skip creation if the value is zero
+
+                new_row = row.copy()
+                new_row['Region'] = region
+
+                # Check if a similar row already exists
+                key = tuple(new_row[col] for col in columns_to_check)
+                if key not in existing_keys:
+                    new_rows.append(new_row)
+                    existing_keys.add(key)
+
+        # Convert new rows to DataFrame if there are new rows to append
+        if new_rows:
+            new_rows_df = pd.DataFrame(new_rows)
+            
+            # Append the new rows to the original dataframe
+            df = pd.concat([df, new_rows_df], ignore_index=True)
+            
+    return df
+
+def set_values_from_world(df, unique_values_concatenated):
+
+    # Nur aktiv werden, wenn es die Region-Spalte gibt
+    if 'Region' in df.columns:
+    
+        # Identify rows where 'Region' originally had the value 'World'
+        world_rows = df[df['Region'] == 'World'].copy()
+
+        # Define the replacement regions
+        replacement_regions = unique_values_concatenated['Region'].dropna().astype(str)
+
+        # Get the index of the "Value" column in the DataFrame
+        value_col_index = df.columns.get_loc("Value")
+
+        # Drop all columns that come after the "Value" column
+        df = df.iloc[:, :(value_col_index + 1)]
+
+        # Identify columns to check for duplicates (excluding the 'Value' column)
+        columns_to_check = [col for col in df.columns if col != 'Value']
+
+        # Create a set of existing row signatures for fast duplicate detection
+        existing_keys = set(
+            tuple(row) for row in df[columns_to_check].itertuples(index=False, name=None)
+        )
+
+        # Create new rows by repeating the 'World' rows with different regions
+        new_rows = []
+        for _, row in world_rows.iterrows():
+            for region in replacement_regions:
+                new_row = row.copy()
+                new_row['Region'] = region
+
+                # Check if a similar row already exists
+                key = tuple(new_row[col] for col in columns_to_check)
+                if key not in existing_keys:
+                    new_rows.append(new_row)
+                    existing_keys.add(key)
+
+        # Convert new rows to DataFrame if there are new rows to append
+        if new_rows:
+            new_rows_df = pd.DataFrame(new_rows)
+
+            # Append the new rows to the original dataframe
+            df = df[df['Region'] != 'World'].copy()  # Drop original rows with 'World' in 'Region'
+            df = pd.concat([df, new_rows_df], ignore_index=True)
+    
     return df

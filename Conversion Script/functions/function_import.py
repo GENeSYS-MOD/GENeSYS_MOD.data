@@ -10,7 +10,7 @@ from functions.output_timeseries import output_timeseries
 from functions.data_error_check import search_non_utf8_characters
 import sys
 
-def master_function(settings_file,output_file_format, output_format, processing_option, scenario_option, debugging_output):
+def master_function(settings_file,output_file_format, output_format, processing_option, scenario_option, debugging_output, data_base_region):
     # Call directories function to get all necessary directory paths
     current_directory, excel_file_path, parameter_directory, sets_and_tags_directory, timeseries_directory, output_csv_directory, output_excel_directory, output_excel_file_path, output_excel_file_path_timeseries = directories(settings_file, scenario_option)
 
@@ -42,7 +42,7 @@ def master_function(settings_file,output_file_format, output_format, processing_
 
         # Process files and store dataframes with their names
         for path in regular_parameter_paths:
-            df_pivot, worksheet_name, data_overwritten = process_regular_parameters(path, unique_values_concatenated, output_format, scenario_option,debugging_output)
+            df_pivot, worksheet_name, data_overwritten = process_regular_parameters(path, unique_values_concatenated, output_format, scenario_option,debugging_output, data_base_region)
             worksheets_data[worksheet_name] = df_pivot  # or df_original based on your requirement
 
             # Check if data was overwritten and add to the list
