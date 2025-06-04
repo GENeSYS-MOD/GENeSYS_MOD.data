@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def read_filter_timeseries(timeseries_dir, unique_values_concatenated, scenario_option):
+def read_filter_timeseries(timeseries_dir, unique_values_concatenated, scenario_option, debugging_output):
     filtered_data = {}
     overwritten_data_info = []
 
@@ -13,6 +13,10 @@ def read_filter_timeseries(timeseries_dir, unique_values_concatenated, scenario_
             csv_file = next((f for f in os.listdir(subdir_path) if f.endswith('.csv')), None)
             if csv_file:
                 csv_path = os.path.join(subdir_path, csv_file)
+
+                if debugging_output == True:
+                    print("File being processed:" + csv_path)
+
                 # Assuming the headers are in the second row (index 1)
                 df = pd.read_csv(csv_path, header=1)
 

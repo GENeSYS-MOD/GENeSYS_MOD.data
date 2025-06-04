@@ -21,7 +21,8 @@ def master_function(settings_file,output_file_format, output_format, processing_
     #search_non_utf8_characters()
 
     try:
-        search_non_utf8_characters()  # Assuming this function checks for non-UTF-8 files
+        search_non_utf8_characters(file_dir=parameter_directory)  # Assuming this function checks for non-UTF-8 files
+        search_non_utf8_characters(file_dir=timeseries_directory)  # Assuming this function checks for non-UTF-8 files
     except UnicodeDecodeError as e:
         print("Non UTF-8 characters found in file" + '{relative_path}')
 
@@ -64,7 +65,7 @@ def master_function(settings_file,output_file_format, output_format, processing_
     # Process timeseries if processing_option is not 'parameters_only'
     if processing_option != 'parameters_only':
         # Read and filter time series data
-        filtered_timeseries_data, timeseries_output_string = read_filter_timeseries(timeseries_directory, unique_values_concatenated, scenario_option)
+        filtered_timeseries_data, timeseries_output_string = read_filter_timeseries(timeseries_directory, unique_values_concatenated, scenario_option, debugging_output)
 
         # Print the output string
         print("Timeseries data overwritten by scenario data:")
