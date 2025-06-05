@@ -1,0 +1,36 @@
+name: Data Update Request
+description: Request an update or addition to the data.
+title: "[DATA] <describe the data update>"
+labels: ["data"]
+body:
+  - type: input
+    id: parameter
+    attributes:
+      label: Name of the respective parameter(s)
+      placeholder: e.g., Par_AvailabilityFactor
+    validations:
+      required: true
+
+  - type: textarea
+    id: update_reason
+    attributes:
+      label: Reason for Update
+      description: Why is this update needed?
+    validations:
+      required: true
+
+  - type: textarea
+    id: data_source
+    attributes:
+      label: Data Source
+      description: Link to or describe the source of the new data.
+    validations:
+      required: true
+
+  - type: textarea
+    id: other
+    attributes:
+      label: Other comments
+      placeholder: Is there anything else about the issue?
+    validations:
+      required: false
