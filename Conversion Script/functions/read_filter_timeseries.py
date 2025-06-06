@@ -42,11 +42,11 @@ def read_filter_timeseries(timeseries_dir, unique_values_concatenated, scenario_
 
                         data_overwritten = True
                         
-                        # List of columns to include
-                        columns_to_include = ['HOUR'] + [region for region in unique_regions if region in df.columns]
-                        
-                        # Create the filtered DataFrame
-                        df_filtered = df[columns_to_include].copy()
+                # List of columns to include
+                columns_to_include = ['HOUR'] + [region for region in unique_regions if region in df.columns]
+                
+                # Create the filtered DataFrame
+                df_filtered = df[columns_to_include].copy()
                     
                 filtered_data[subdir] = df_filtered
 
