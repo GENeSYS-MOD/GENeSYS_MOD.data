@@ -100,7 +100,8 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
         "Par_RegionalModelPeriodEmission",
         "Par_ModelPeriodExogenousEmissio",
         "Par_TotalAnnualMaxCapacity",
-        "Par_SpecifiedDemandDevelopment"
+        "Par_SpecifiedDemandDevelopment",
+        "Par_AnnualMaxNewCapacity"
         ]:
         df = set_values_from_world(df, unique_values_concatenated)
 
