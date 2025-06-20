@@ -152,8 +152,9 @@ World,CHP_Oil,Heat_District,2,All,1.1702,,PJ,US EPA and CHP Partnership (2017): 
 World,CHP_Oil,Power,2,All,1,,PJ,US EPA and CHP Partnership (2017): Catalog of CHP Technologies: ICE minus 13% HHV difference between natural gas and oil,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Oil,Heat_District,3,All,1,,PJ,US EPA and CHP Partnership (2017): Catalog of CHP Technologies: ICE minus 13% HHV difference between natural gas and oil,28.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_WasteToEnergy,Power,1,All,1,,PJ,DEA Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
-World,CHP_WasteToEnergy,Heat_District,2,All,1,,PJ,DEA Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Heat_District,2,All,3.2943,,PJ,DEA Technology data for El and DH - WtE CHP - assumed 79% heat efficiency,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_WasteToEnergy,Power,2,All,1,,PJ,DEA Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Heat_District,3,All,3.2943,,PJ,DEA Technology data for El and DH - WtE CHP - assumed 79% heat efficiency,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,Power,2,All,1,,PJ,Irrelevant- efficiency in TechnologyFromStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Battery_Redox,Power,2,All,1,,PJ,Irrelevant- efficiency in TechnologyFromStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_CAES,Power,2,All,1,,PJ,Irrelevant- efficiency in TechnologyFromStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -361,6 +362,7 @@ World,R_Oil,Oil,1,All,1,,PJ,irrelevant - resource,05.09.2024,Nikita Moskalenko <
 World,R_Paper_Cardboard,Biomass,1,All,1,,PJ,irrelevant - resource,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Residues,Biomass,1,All,1,,PJ,irrelevant - resource,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Roundwood,Biomass,1,All,1,,PJ,irrelevant - resource,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,Waste,1,All,1,,PJ,irrelevant - resource,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Wood,Biomass,1,All,1,,PJ,irrelevant - resource,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_ATR_CCS,H2,1,All,1,,PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 22 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
 World,X_Alkaline_Electrolysis,H2,1,All,1,,PJ,Energy Agency Denmark (2024): AEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>

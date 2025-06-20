@@ -203,9 +203,9 @@ DK,CHP_Biomass_Solid,Heat_District,2018,73.7252,,PJ,needs update,17.06.2025,Niki
 DK,CHP_Coal_Hardcoal,Heat_District,2018,19.698,,PJ,,,
 DK,CHP_Gas_CCGT_Natural,Heat_District,2018,13.223,,PJ,,,
 DK,CHP_Oil,Heat_District,2018,2.086,,PJ,,,
-EE,CHP_Biomass_Solid,Heat_District,2018,8.5084,,PJ,needs update,17.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,Heat_District,2018,0.001587522,,PJ,eurostat - Combined Heat and Power (CHP) data,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Oil,Heat_District,2018,0.665,,PJ,eurostat - Combined Heat and Power (CHP) data +  endogenous margin,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Biomass_Solid,Heat_District,2018,12.1806,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,Heat_District,2018,4.221,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,Heat_District,2018,0.7035,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,CHP_Biomass_Solid,Heat_District,2018,12.576,,PJ,,,
 ES,CHP_Coal_Hardcoal,Heat_District,2018,3.177,,PJ,,,
 ES,CHP_Gas_CCGT_Natural,Heat_District,2018,114.963,,PJ,,,
@@ -1164,7 +1164,7 @@ IT,P_Gas_CCGT,Power,2018,327.9456,,PJ,,,
 IT,P_Gas_Engines,Power,2018,1.229,,PJ,,,
 IT,P_Gas_OCGT,Power,2018,39.254,,PJ,,,
 IT,P_Oil,Power,2018,27.204,,PJ,,,
-LT,CHP_Biomass_Solid,Power,2018,2.7139,,PJ,,,
+LT,CHP_Biomass_Solid,Power,2018,3.0139,,PJ,,,
 LT,CHP_Coal_Hardcoal,Power,2018,0,,PJ,,,
 LT,CHP_Gas_CCGT_Natural,Power,2018,0.713,,PJ,,,
 LT,CHP_Oil,Power,2018,0.496,,PJ,,,
@@ -1377,3 +1377,13 @@ UK,HHI_BF_BOF,Heat_High_Industrial,2018,24.6412,,PJ,TYNDP 2024 +  SINTEF_Potenti
 UK,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,1.6136,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_DRI_EAF,Heat_High_Industrial,2018,35.3472,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_Scrap_EAF,Heat_High_Industrial,2018,3.7616,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,HD_Heatpump_ExcessHeat,Heat_District,2018,3.1557,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_Oil,Heat_District,2018,0.2009,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_Biomass_Solid,Heat_District,2018,5.6261,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_WasteToEnergy,Heat_District,2018,10.5934,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_Gas_CCGT_Natural,Heat_District,2018,1.0271,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_Coal_Hardcoal,Heat_District,2018,0.2509,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HD_Heatpump_ExcessHeat,Heat_District,2018,0.7128,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HD_Heatpump_Air,Heat_District,2018,2.3159,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HD_Electric_Boiler,Heat_District,2018,2.7072,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_Gas_CCGT_Biogas,Heat_District,2018,0.1282,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>

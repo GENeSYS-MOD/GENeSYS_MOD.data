@@ -370,7 +370,8 @@ World,CHP_Oil,Oil,3,2050,1.8182,,PJ,US EPA and CHP Partnership (2017): Catalog o
 World,CHP_Oil,Oil,3,2055,1.8182,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Oil,Oil,3,2060,1.8182,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_WasteToEnergy,Waste,1,All,4.17,,PJ,DEA â€“ Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
-World,CHP_WasteToEnergy,Waste,2,All,4.17,,PJ,DEA â€“ Technology data for El and DH - WtE CHP - assumed 24% electric efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,2,All,4.17,,PJ,DEA â€“ Technology data for El and DH - WtE CHP - assumed 24% electric efficiency and 79% heat efficiency,11.10.2024,Stian Backe <stian.backe@sintef.no>
+World,CHP_WasteToEnergy,Waste,3,All,4.17,,PJ,DEA â€“ Technology data for El and DH - WtE CHP - assumed 79% heat efficiency,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,D_Battery_Li-Ion,Power,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_Battery_Redox,Power,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>
 World,D_CAES,Power,1,All,1,,PJ,Irrelevant- efficiency in TechnologyToStorage,06.09.2023,Stian Backe <stian.backe@sintef.no>

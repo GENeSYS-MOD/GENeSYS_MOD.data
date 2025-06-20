@@ -2666,3 +2666,5 @@ AL,P_Wind_Offshore_Transitional,All,0.213316485,,GW,,,
 AL,P_Wind_Onshore_Avg,All,5.421458599,,GW,,,
 AL,P_Wind_Onshore_Inf,All,5.421458599,,GW,,,
 AL,P_Wind_Onshore_Opt,All,5.421458599,,GW,,,
+World,R_Waste,All,999999,,GW,"no source needed, unlimited",20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_WasteToEnergy,All,0.1144,,GW,endogenous from model run to fit actual production,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
