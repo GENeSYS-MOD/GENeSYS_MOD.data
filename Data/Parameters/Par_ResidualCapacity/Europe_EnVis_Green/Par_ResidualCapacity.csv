@@ -1394,7 +1394,7 @@ LT,FRT_Ship_Bio,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Kon
 LT,FRT_Ship_Bio,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,FRT_Ship_Bio,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,FRT_Ship_Bio,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LT,FRT_Ship_Conv,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,FRT_Ship_Conv,2018,0.1,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,FRT_Ship_Conv,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,FRT_Ship_Conv,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,FRT_Ship_Conv,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -1564,7 +1564,7 @@ LV,FRT_Ship_Bio,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Kon
 LV,FRT_Ship_Bio,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,FRT_Ship_Bio,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,FRT_Ship_Bio,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-LV,FRT_Ship_Conv,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,FRT_Ship_Conv,2018,0.1,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,FRT_Ship_Conv,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,FRT_Ship_Conv,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,FRT_Ship_Conv,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -2179,7 +2179,7 @@ SI,PSNG_Air_H2,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Kons
 SI,PSNG_Air_H2,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,PSNG_Air_H2,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,PSNG_Air_H2,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SI,PSNG_Rail_Conv,2018,0.25726,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,PSNG_Rail_Conv,2018,0.32,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,PSNG_Rail_Conv,2025,0.23276,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,PSNG_Rail_Conv,2030,0.147,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,PSNG_Rail_Conv,2035,0.0735,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>

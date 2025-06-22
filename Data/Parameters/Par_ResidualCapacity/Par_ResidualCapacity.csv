@@ -147,7 +147,7 @@ AT,HHI_BF_BOF,2045,0.0262,,GW,Assumption | Calculated endogenously via model,01.
 AT,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,HHI_DRI_EAF,2018,0.7268,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,HHI_DRI_EAF,2018,0.8,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HHI_DRI_EAF,2025,0.5069,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HHI_DRI_EAF,2030,0.3042,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HHI_DRI_EAF,2035,0.1521,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -219,7 +219,7 @@ AT,HMHI_Biomass,2045,0.0164,,GW,Assumption | Calculated endogenously via model,0
 AT,HMHI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HMHI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HMHI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,HMHI_Gas,2018,3.7993,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,HMHI_Gas,2018,4,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HMHI_Gas,2025,2.65,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HMHI_Gas,2030,1.59,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HMHI_Gas,2035,0.795,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -273,7 +273,7 @@ BE,HHI_BF_BOF,2045,0.019,,GW,Assumption | Calculated endogenously via model,01.0
 BE,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,HHI_DRI_EAF,2018,1.7492,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,HHI_DRI_EAF,2018,1.8,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HHI_DRI_EAF,2025,1.2202,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HHI_DRI_EAF,2030,0.7322,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HHI_DRI_EAF,2035,0.3661,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -345,7 +345,7 @@ BE,HMHI_Biomass,2045,0.0076,,GW,Assumption | Calculated endogenously via model,0
 BE,HMHI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HMHI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HMHI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,HMHI_Gas,2018,9.3319,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,HMHI_Gas,2018,9.5,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HMHI_Gas,2025,6.509,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HMHI_Gas,2030,3.9054,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HMHI_Gas,2035,1.9527,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -399,7 +399,7 @@ BG,HHI_BF_BOF,2045,0.0011,,GW,Assumption | Calculated endogenously via model,01.
 BG,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,HHI_DRI_EAF,2018,0.2134,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,HHI_DRI_EAF,2018,2.2,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HHI_DRI_EAF,2025,0.1489,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HHI_DRI_EAF,2030,0.0894,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HHI_DRI_EAF,2035,0.0448,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -480,7 +480,7 @@ BG,HMHI_Biomass,2045,0.003,,GW,Assumption | Calculated endogenously via model,01
 BG,HMHI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HMHI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HMHI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,HMHI_Gas,2018,1.1587,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,HMHI_Gas,2018,1.3,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HMHI_Gas,2025,0.8082,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HMHI_Gas,2030,0.4849,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HMHI_Gas,2035,0.2425,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -534,7 +534,7 @@ CH,HHI_BF_BOF,2045,0.004,,GW,Assumption | Calculated endogenously via model,01.0
 CH,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HHI_DRI_EAF,2018,0.2669,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HHI_DRI_EAF,2018,0.3,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_DRI_EAF,2025,0.1863,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_DRI_EAF,2030,0.1118,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_DRI_EAF,2035,0.056,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -606,7 +606,7 @@ CH,HMHI_Biomass,2045,0.0068,,GW,Assumption | Calculated endogenously via model,0
 CH,HMHI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HMHI_Gas,2018,1.2257,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HMHI_Gas,2018,1.5,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_Gas,2025,0.855,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_Gas,2030,0.513,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_Gas,2035,0.2565,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -741,7 +741,7 @@ CZ,HMHI_Biomass,2045,0.0075,,GW,Assumption | Calculated endogenously via model,0
 CZ,HMHI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HMHI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HMHI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,HMHI_Gas,2018,2.5,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HMHI_Gas,2018,2.6,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HMHI_Gas,2025,1.4977,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HMHI_Gas,2030,0.8986,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HMHI_Gas,2035,0.4493,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -795,7 +795,7 @@ DE,HHI_BF_BOF,2045,0.1289,,GW,Assumption | Calculated endogenously via model,01.
 DE,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_DRI_EAF,2018,4.7157,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,2018,4.8,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HHI_DRI_EAF,2025,3.2893,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HHI_DRI_EAF,2030,1.9736,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HHI_DRI_EAF,2035,0.9869,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2280,7 +2280,7 @@ DK,HHI_BF_BOF,2045,0.0003,,GW,Assumption | Calculated endogenously via model,01.
 DK,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,HHI_DRI_EAF,2018,0.1077,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HHI_DRI_EAF,2018,0.2,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HHI_DRI_EAF,2020,0.0753,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,HHI_DRI_EAF,2025,0.0753,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HHI_DRI_EAF,2030,0.0452,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2574,7 +2574,7 @@ EE,HD_ExcessHeat,2018,0,,GW,European Comission: Overview of District Heating and
 EE,HD_Geothermal ,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 EE,HD_Heatpump,2018,0.02,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 EE,HD_Solar_Thermal,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
-EE,HHI_DRI_EAF,2018,0.0073,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,HHI_DRI_EAF,2018,0.1,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HHI_DRI_EAF,2020,0.0036,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,HHI_DRI_EAF,2025,0.0051,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HHI_DRI_EAF,2030,0.0031,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2604,7 +2604,7 @@ EE,HMHI_Biomass,2045,0.0001,,GW,Assumption | Calculated endogenously via model,0
 EE,HMHI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,HMHI_Gas,2018,0.1348,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,HMHI_Gas,2018,0.2,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_Gas,2025,0.094,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_Gas,2030,0.0564,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_Gas,2035,0.0282,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2837,7 +2837,7 @@ ES,HHI_BF_BOF,2045,0.0208,,GW,Assumption | Calculated endogenously via model,01.
 ES,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,HHI_DRI_EAF,2018,4.6472,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,HHI_DRI_EAF,2018,4.8,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HHI_DRI_EAF,2020,1.6257,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,HHI_DRI_EAF,2025,3.2417,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HHI_DRI_EAF,2030,1.945,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2917,7 +2917,7 @@ ES,HMHI_Biomass,2045,0.0219,,GW,Assumption | Calculated endogenously via model,0
 ES,HMHI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HMHI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HMHI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,HMHI_Gas,2018,12.0596,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,HMHI_Gas,2018,12.1,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HMHI_Gas,2020,56.6907,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,HMHI_Gas,2025,8.4116,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HMHI_Gas,2030,5.047,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3161,7 +3161,7 @@ FI,HHI_BF_BOF,2045,0.0094,,GW,Assumption | Calculated endogenously via model,01.
 FI,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,HHI_DRI_EAF,2018,0.2005,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,HHI_DRI_EAF,2018,0.4,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HHI_DRI_EAF,2020,0.0492,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,HHI_DRI_EAF,2025,0.1403,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HHI_DRI_EAF,2030,0.0844,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3485,7 +3485,7 @@ FR,HHI_BF_BOF,2045,0.0434,,GW,Assumption | Calculated endogenously via model,01.
 FR,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,HHI_DRI_EAF,2018,1.8925,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HHI_DRI_EAF,2018,2,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HHI_DRI_EAF,2020,2.2617,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FR,HHI_DRI_EAF,2025,1.3201,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HHI_DRI_EAF,2030,0.7921,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3565,7 +3565,7 @@ FR,HMHI_Biomass,2045,0.0168,,GW,Assumption | Calculated endogenously via model,0
 FR,HMHI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HMHI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HMHI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,HMHI_Gas,2018,16.6464,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HMHI_Gas,2018,17,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HMHI_Gas,2020,66.3755,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FR,HMHI_Gas,2025,11.6109,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HMHI_Gas,2030,6.9665,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3819,7 +3819,7 @@ GR,HHI_BF_BOF,2045,0.0012,,GW,Assumption | Calculated endogenously via model,01.
 GR,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,HHI_DRI_EAF,2018,0.1839,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,HHI_DRI_EAF,2018,0.3,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HHI_DRI_EAF,2020,0.1822,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,HHI_DRI_EAF,2025,0.1284,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HHI_DRI_EAF,2030,0.077,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4122,7 +4122,7 @@ HR,HHI_BF_BOF,2045,0.0007,,GW,Assumption | Calculated endogenously via model,01.
 HR,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,HHI_DRI_EAF,2018,0.1534,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HHI_DRI_EAF,2018,0.2,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HHI_DRI_EAF,2020,0.0552,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 HR,HHI_DRI_EAF,2025,0.1071,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HHI_DRI_EAF,2030,0.0643,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4456,7 +4456,7 @@ HU,HHI_BF_BOF,2045,0.0076,,GW,Assumption | Calculated endogenously via model,01.
 HU,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,HHI_DRI_EAF,2018,0.3173,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HHI_DRI_EAF,2018,0.4,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HHI_DRI_EAF,2020,0.1888,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 HU,HHI_DRI_EAF,2025,0.2215,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HHI_DRI_EAF,2030,0.133,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4546,7 +4546,7 @@ HU,HMHI_Biomass,2045,0.0025,,GW,Assumption | Calculated endogenously via model,0
 HU,HMHI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HMHI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HMHI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,HMHI_Gas,2018,2.7128,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HMHI_Gas,2018,2.75,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HMHI_Gas,2020,11.003,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 HU,HMHI_Gas,2025,1.8922,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HMHI_Gas,2030,1.1353,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4775,7 +4775,7 @@ IE,HHI_BF_BOF,2045,0.0005,,GW,Assumption | Calculated endogenously via model,01.
 IE,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,HHI_DRI_EAF,2018,0.0893,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,HHI_DRI_EAF,2018,0.1,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HHI_DRI_EAF,2020,0.0558,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 IE,HHI_DRI_EAF,2025,0.0624,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HHI_DRI_EAF,2030,0.0374,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -5109,7 +5109,7 @@ IT,HHI_BF_BOF,2045,0.0221,,GW,Assumption | Calculated endogenously via model,01.
 IT,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,HHI_DRI_EAF,2018,3.5465,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HHI_DRI_EAF,2018,3.7,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HHI_DRI_EAF,2020,1.6033,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 IT,HHI_DRI_EAF,2025,2.4738,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HHI_DRI_EAF,2030,1.4844,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -5423,7 +5423,7 @@ LT,HD_ExcessHeat,2018,0,,GW,European Comission: Overview of District Heating and
 LT,HD_Geothermal ,2018,0.018,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 LT,HD_Heatpump,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 LT,HD_Solar_Thermal,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
-LT,HHI_DRI_EAF,2018,0.0851,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,HHI_DRI_EAF,2018,0.1,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HHI_DRI_EAF,2020,0.0117,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LT,HHI_DRI_EAF,2025,0.06,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HHI_DRI_EAF,2030,0.0363,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -5737,7 +5737,7 @@ LU,HHI_BF_BOF,2045,0.0003,,GW,Assumption | Calculated endogenously via model,01.
 LU,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,HHI_DRI_EAF,2018,0.2244,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,HHI_DRI_EAF,2018,0.3,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HHI_DRI_EAF,2020,0.097,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LU,HHI_DRI_EAF,2025,0.1567,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HHI_DRI_EAF,2030,0.0942,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -6010,7 +6010,7 @@ LV,HD_ExcessHeat,2018,0,,GW,European Comission: Overview of District Heating and
 LV,HD_Geothermal ,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 LV,HD_Heatpump,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 LV,HD_Solar_Thermal,2018,0.015,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
-LV,HHI_DRI_EAF,2018,0.0077,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,HHI_DRI_EAF,2018,0.1,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HHI_DRI_EAF,2020,0.0108,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LV,HHI_DRI_EAF,2025,0.0054,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HHI_DRI_EAF,2030,0.0033,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -6504,7 +6504,7 @@ NL,HHI_BF_BOF,2045,0.0265,,GW,Assumption | Calculated endogenously via model,01.
 NL,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,HHI_DRI_EAF,2018,1.634,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,HHI_DRI_EAF,2018,1.8,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HHI_DRI_EAF,2020,1.3824,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 NL,HHI_DRI_EAF,2025,1.1398,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HHI_DRI_EAF,2030,0.6839,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7093,7 +7093,7 @@ NONEU_Balkan,HHI_BF_BOF,2045,0.004,,GW,Assumption | Calculated endogenously via 
 NONEU_Balkan,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,HHI_DRI_EAF,2018,0.1393,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,HHI_DRI_EAF,2018,0.2,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_DRI_EAF,2020,0.2475,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 NONEU_Balkan,HHI_DRI_EAF,2025,0.0972,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_DRI_EAF,2030,0.0584,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7123,7 +7123,7 @@ NONEU_Balkan,HLI_Biomass,2045,0.0017,,GW,Assumption | Calculated endogenously vi
 NONEU_Balkan,HLI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HLI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HLI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,HLI_Direct_Electric,2018,0.8,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,HLI_Direct_Electric,2018,2,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,HLI_Direct_Electric,2020,0.0171,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 NONEU_Balkan,HLI_Direct_Electric,2025,0.043,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HLI_Direct_Electric,2030,0.0259,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7397,7 +7397,7 @@ PL,HHI_BF_BOF,2045,0.0579,,GW,Assumption | Calculated endogenously via model,01.
 PL,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,HHI_DRI_EAF,2018,1.5032,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,HHI_DRI_EAF,2018,1.7,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HHI_DRI_EAF,2020,1.133,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,HHI_DRI_EAF,2025,1.0486,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HHI_DRI_EAF,2030,0.6292,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7487,7 +7487,7 @@ PL,HMHI_Biomass,2045,0.0246,,GW,Assumption | Calculated endogenously via model,0
 PL,HMHI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HMHI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HMHI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,HMHI_Gas,2018,5.5145,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,HMHI_Gas,2018,7.2,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HMHI_Gas,2020,28.636,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,HMHI_Gas,2025,3.8464,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HMHI_Gas,2030,2.3078,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7716,7 +7716,7 @@ PT,HHI_BF_BOF,2045,0.0004,,GW,Assumption | Calculated endogenously via model,01.
 PT,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,HHI_DRI_EAF,2018,0.3003,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,HHI_DRI_EAF,2018,0.4,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HHI_DRI_EAF,2020,0.172,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 PT,HHI_DRI_EAF,2025,0.2095,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HHI_DRI_EAF,2030,0.1257,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8039,7 +8039,7 @@ RO,HHI_BF_BOF,2045,0.0255,,GW,Assumption | Calculated endogenously via model,01.
 RO,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,HHI_DRI_EAF,2018,0.6621,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,HHI_DRI_EAF,2018,0.8,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,HHI_DRI_EAF,2020,0.9298,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,HHI_DRI_EAF,2025,0.4618,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,HHI_DRI_EAF,2030,0.2771,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8775,7 +8775,7 @@ SI,HHI_BF_BOF,2045,0.0003,,GW,Assumption | Calculated endogenously via model,01.
 SI,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HHI_DRI_EAF,2018,0.1548,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HHI_DRI_EAF,2018,0.2,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HHI_DRI_EAF,2020,0.1115,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,HHI_DRI_EAF,2025,0.1082,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HHI_DRI_EAF,2030,0.0649,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9188,7 +9188,7 @@ SK,HMHI_Biomass,2045,0.0073,,GW,Assumption | Calculated endogenously via model,0
 SK,HMHI_Biomass,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HMHI_Biomass,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HMHI_Biomass,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,HMHI_Gas,2018,1.4,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,HMHI_Gas,2018,1.65,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HMHI_Gas,2020,7.0194,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SK,HMHI_Gas,2025,0.8596,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HMHI_Gas,2030,0.5158,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9397,7 +9397,7 @@ TR,HHI_BF_BOF,2045,0.1659,,GW,Assumption | Calculated endogenously via model,01.
 TR,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,HHI_DRI_EAF,2018,4.481,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,HHI_DRI_EAF,2018,4.5,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HHI_DRI_EAF,2020,1.2053,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 TR,HHI_DRI_EAF,2025,3.1259,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HHI_DRI_EAF,2030,1.8758,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9690,7 +9690,7 @@ UK,HHI_BF_BOF,2045,0.036,,GW,Assumption | Calculated endogenously via model,01.0
 UK,HHI_BF_BOF,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_BF_BOF,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_BF_BOF,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HHI_DRI_EAF,2018,1.3514,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HHI_DRI_EAF,2018,1.5,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_DRI_EAF,2020,1.6474,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 UK,HHI_DRI_EAF,2025,0.9427,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_DRI_EAF,2030,0.5656,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9800,7 +9800,7 @@ UK,HMHI_Oil,2045,0.0682,,GW,Assumption | Calculated endogenously via model,01.04
 UK,HMHI_Oil,2050,0,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HMHI_Oil,2055,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HMHI_Oil,2060,0,,GW,same as 2050 for now,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HMHI_Steam_Electric,2018,0.2,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HMHI_Steam_Electric,2018,0.35,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HMHI_Steam_Electric,2020,0.1015,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 UK,HMHI_Steam_Electric,2025,0.118,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HMHI_Steam_Electric,2030,0.0709,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11256,7 +11256,7 @@ CZ,HB_Direct_Electric,2030,0.3627,,GW,Assumptions based on model run,09.04.2025,
 CZ,HB_Direct_Electric,2035,0.2176,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Direct_Electric,2040,0.0725,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Direct_Electric,2045,0.0363,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,HB_Gas_Boiler,2018,17.0893,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HB_Gas_Boiler,2018,19,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Gas_Boiler,2025,15.7872,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Gas_Boiler,2030,12.2066,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Gas_Boiler,2035,7.324,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11370,7 +11370,7 @@ DK,HB_Oil_Boiler,2030,1.8932,,GW,Assumptions based on model run,09.04.2025,Nikit
 DK,HB_Oil_Boiler,2035,1.1359,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HB_Oil_Boiler,2040,0.3786,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HB_Oil_Boiler,2045,0.1893,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,HB_Biomass,2018,1.3395,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,HB_Biomass,2018,1.55,,GW,Calibrated based on model run,22.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,HB_Biomass,2025,1.2374,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HB_Biomass,2030,0.9568,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HB_Biomass,2035,0.5741,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11592,7 +11592,7 @@ HR,HB_Direct_Electric,2030,0.1415,,GW,Assumptions based on model run,09.04.2025,
 HR,HB_Direct_Electric,2035,0.0849,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Direct_Electric,2040,0.0283,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Direct_Electric,2045,0.0142,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,HB_Gas_Boiler,2018,6.0476,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HB_Gas_Boiler,2018,6.5,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Gas_Boiler,2025,5.5869,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Gas_Boiler,2030,4.3197,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Gas_Boiler,2035,2.5918,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11760,7 +11760,7 @@ LT,HB_Direct_Electric,2030,0.0332,,GW,Assumptions based on model run,09.04.2025,
 LT,HB_Direct_Electric,2035,0.0249,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Direct_Electric,2040,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Direct_Electric,2045,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,HB_Gas_Boiler,2018,0.8179,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,HB_Gas_Boiler,2018,1.1,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Gas_Boiler,2025,0.7556,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Gas_Boiler,2030,0.5842,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Gas_Boiler,2035,0.3505,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11916,13 +11916,13 @@ NL,HB_Oil_Boiler,2030,3.0309,,GW,Assumptions based on model run,09.04.2025,Nikit
 NL,HB_Oil_Boiler,2035,1.8185,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HB_Oil_Boiler,2040,0.6062,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HB_Oil_Boiler,2045,0.3031,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,HB_Biomass,2018,2.6232,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HB_Biomass,2018,3,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Biomass,2025,2.4233,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Biomass,2030,1.8737,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Biomass,2035,1.1242,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Biomass,2040,0.3747,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Biomass,2045,0.1874,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,HB_Direct_Electric,2018,6.7585,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HB_Direct_Electric,2018,8,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Direct_Electric,2025,6.2436,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Direct_Electric,2030,4.8275,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Direct_Electric,2035,2.8965,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11970,7 +11970,7 @@ NONEU_Balkan,HB_Direct_Electric,2030,2.6832,,GW,Assumptions based on model run,0
 NONEU_Balkan,HB_Direct_Electric,2035,1.6099,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HB_Direct_Electric,2040,0.5366,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HB_Direct_Electric,2045,0.2683,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,HB_Gas_Boiler,2018,4.4903,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,HB_Gas_Boiler,2018,5.1,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HB_Gas_Boiler,2025,4.1481,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HB_Gas_Boiler,2030,3.2073,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HB_Gas_Boiler,2035,1.9244,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12132,7 +12132,7 @@ SE,HB_Biomass,2030,1.7213,,GW,Assumptions based on model run,09.04.2025,Nikita M
 SE,HB_Biomass,2035,1.0328,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Biomass,2040,0.3443,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Biomass,2045,0.1721,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Direct_Electric,2018,9.8736,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Direct_Electric,2018,12,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Direct_Electric,2025,7.4052,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Direct_Electric,2030,5.5539,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Direct_Electric,2035,4.1654,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12222,7 +12222,7 @@ SK,HB_Direct_Electric,2030,0.1905,,GW,Assumptions based on model run,09.04.2025,
 SK,HB_Direct_Electric,2035,0.1143,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HB_Direct_Electric,2040,0.0381,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HB_Direct_Electric,2045,0.0191,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,HB_Gas_Boiler,2018,6.0974,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,HB_Gas_Boiler,2018,6.6,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HB_Gas_Boiler,2025,5.6329,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HB_Gas_Boiler,2030,4.3553,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HB_Gas_Boiler,2035,2.6132,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12264,7 +12264,7 @@ TR,HB_Direct_Electric,2030,2.58,,GW,Assumptions based on model run,09.04.2025,Ni
 TR,HB_Direct_Electric,2035,1.935,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HB_Direct_Electric,2040,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HB_Direct_Electric,2045,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,HB_Gas_Boiler,2018,62.1352,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,HB_Gas_Boiler,2018,73,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HB_Gas_Boiler,2025,57.4011,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HB_Gas_Boiler,2030,44.3823,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HB_Gas_Boiler,2035,26.6294,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12941,7 +12941,7 @@ CZ,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17
 DE,HHI_Bio_BF_BOF,2018,0.3,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,HHI_Bio_BF_BOF,2018,0.2,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -12954,7 +12954,7 @@ LU,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17
 LV,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,HHI_Bio_BF_BOF,2018,0.2,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -12963,7 +12963,7 @@ SK,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17
 TR,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,HLI_Biomass,2018,0.6,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,HLI_Biomass,2018,1.5,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,CHP_Gas_CCGT_Biogas,2018,0.0181,,GW,eurostat - Combined Heat and Power (CHP) data + correction,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,CHP_Gas_CCGT_Biogas,2020,0.0181,,GW,eurostat - Combined Heat and Power (CHP) data + correction,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,CHP_Gas_CCGT_Biogas,2025,0.0181,,GW,eurostat - Combined Heat and Power (CHP) data + correction,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
