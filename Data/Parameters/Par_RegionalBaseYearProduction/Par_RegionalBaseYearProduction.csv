@@ -149,8 +149,7 @@ RO,HB_Heatpump_Ground,Heat_Buildings,2018,0,,PJ,,,
 RO,HB_Oil_Boiler,Heat_Buildings,2018,11.797,,PJ,,,
 SE,HB_Biomass,Heat_Buildings,2018,4.7071,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HB_Convert_DH,Heat_Buildings,2018,165,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,HB_Direct_Electric,Heat_Buildings,2018,6.5338,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,HB_Gas_Boiler,Heat_Buildings,2018,5,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Gas_Boiler,Heat_Buildings,2018,5.01,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HB_Hardcoal,Heat_Buildings,2018,4.222,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HB_Heatpump_Aerial,Heat_Buildings,2018,5.4973,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HB_Heatpump_Ground,Heat_Buildings,2018,1.193,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -644,11 +643,11 @@ RO,HMHI_Gas,Heat_MediumHigh_Industrial,2018,34.33056018,,PJ,TYNDP 2024 +  SINTEF
 RO,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,9.344754448,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,HMHI_Oil,Heat_MediumHigh_Industrial,2018,36.81951632,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,2.117498628,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,97.77591315,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HMHI_Gas,Heat_MediumHigh_Industrial,2018,6.040100958,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,6.575975872,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HMHI_Oil,Heat_MediumHigh_Industrial,2018,24.47972693,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,2.726936197,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,97.4932,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HMHI_Gas,Heat_MediumHigh_Industrial,2018,6.322,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,6.576,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HMHI_Oil,Heat_MediumHigh_Industrial,2018,24.4797,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,2.7269,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.098268025,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_Gas,Heat_MediumHigh_Industrial,2018,5.93224324,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,0.767737801,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1164,7 +1163,6 @@ IT,P_Gas_CCGT,Power,2018,327.9456,,PJ,,,
 IT,P_Gas_Engines,Power,2018,1.229,,PJ,,,
 IT,P_Gas_OCGT,Power,2018,39.254,,PJ,,,
 IT,P_Oil,Power,2018,27.204,,PJ,,,
-LT,CHP_Biomass_Solid,Power,2018,3.0139,,PJ,,,
 LT,CHP_Coal_Hardcoal,Power,2018,0,,PJ,,,
 LT,CHP_Gas_CCGT_Natural,Power,2018,0.713,,PJ,,,
 LT,CHP_Oil,Power,2018,0.496,,PJ,,,
@@ -1387,3 +1385,15 @@ NO,HD_Heatpump_ExcessHeat,Heat_District,2018,0.7128,,PJ,Statistics Norway: Distr
 NO,HD_Heatpump_Air,Heat_District,2018,2.3159,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HD_Electric_Boiler,Heat_District,2018,2.7072,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,CHP_Gas_CCGT_Biogas,Heat_District,2018,0.1282,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
