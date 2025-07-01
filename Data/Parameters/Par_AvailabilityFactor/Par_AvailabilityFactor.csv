@@ -73,8 +73,6 @@ BE,P_Coal_Hardcoal_CCS,2050,0,,Fraction,https://beyondfossilfuels.org/europes-co
 BE,P_Coal_Hardcoal_CCS,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Coal_Hardcoal_CCS,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Hydro_Reservoir,All,0.0967,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-BE,P_Nuclear,2030,0,,Fraction,Belgium Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-BE,P_Nuclear,2035,0,,Fraction,Belgium Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,P_Nuclear,2040,0,,Fraction,Belgium Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,P_Nuclear,2045,0,,Fraction,Belgium Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 BE,P_Nuclear,2050,0,,Fraction,Belgium Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
