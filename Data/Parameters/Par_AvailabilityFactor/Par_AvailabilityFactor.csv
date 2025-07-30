@@ -708,7 +708,7 @@ LU,P_Nuclear,2045,0,,Fraction,Luxemburg Nuclear Phase-out,24.07.2024,"Herpich, P
 LU,P_Nuclear,2050,0,,Fraction,Luxemburg Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LU,P_Nuclear,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Nuclear,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,2018,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+LV,CHP_Coal_Hardcoal,2018,0.8,,Fraction,Hard coal for District Heating (European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,CHP_Coal_Hardcoal,2020,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,CHP_Coal_Hardcoal,2025,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 LV,CHP_Coal_Hardcoal,2030,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -1038,7 +1038,7 @@ World,HB_H2_Boiler,All,0.98,,Fraction,Assumption of short down times for mainten
 World,HB_Hardcoal,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Heatpump_Aerial,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Heatpump_Ground,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,HB_Lignite,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,HB_Lignite,All,0,,Fraction,Assumption,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Oil_Boiler,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Solar_Thermal,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HD_Electric_Boiler,All,0.98,,Fraction,Assumption of short down times for maintenance,10.10.2024,Stian Backe <stian.backe@sintef.no>

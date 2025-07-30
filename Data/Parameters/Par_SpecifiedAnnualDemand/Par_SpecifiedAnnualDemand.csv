@@ -9,7 +9,7 @@ AT,Heat_Buildings,2045,144.5365,,PJ,TYNDP 2022 Scenario Report + District heatin
 AT,Heat_Buildings,2050,132.1774,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 AT,Heat_Buildings,2055,132.1774,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,Heat_Buildings,2060,132.1774,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,Heat_District,2018,70.2,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+AT,Heat_District,2018,81,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,Heat_District,2020,87.26,,PJ,District heating and cooling in the European Union,25.03.2024,Martha Pedersen <martha.pedersen@sintef.no>
 AT,Heat_District,2025,86.4742,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 AT,Heat_District,2030,85.6872,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -96,7 +96,7 @@ BE,Heat_Buildings,2045,177.8062,,PJ,TYNDP 2022 Scenario Report + District heatin
 BE,Heat_Buildings,2050,147.6362,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 BE,Heat_Buildings,2055,147.6362,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,Heat_Buildings,2060,147.6362,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,Heat_District,2018,1.28,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BE,Heat_District,2018,1.28,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,Heat_District,2020,17.67,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 BE,Heat_District,2025,23.64,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 BE,Heat_District,2030,29.6127,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -183,7 +183,7 @@ BG,Heat_Buildings,2045,23.082,,PJ,TYNDP 2022 Scenario Report + District heating 
 BG,Heat_Buildings,2050,15.8799,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 BG,Heat_Buildings,2055,15.8799,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_Buildings,2060,15.8799,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,Heat_District,2018,20.49,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+BG,Heat_District,2018,20.49,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_District,2020,29.26,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 BG,Heat_District,2025,30.6679,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 BG,Heat_District,2030,32.0735,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -270,7 +270,7 @@ CH,Heat_Buildings,2045,229.6479,,PJ,Needs update,29.02.2024,Martha Pedersen <mar
 CH,Heat_Buildings,2050,229.6479,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 CH,Heat_Buildings,2055,229.6479,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Heat_Buildings,2060,229.6479,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Heat_District,2018,0,,PJ,Needs update,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CH,Heat_District,2018,0,,PJ,Needs update,23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Heat_District,2020,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 CH,Heat_District,2025,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 CH,Heat_District,2030,0,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -357,7 +357,7 @@ CZ,Heat_Buildings,2045,157.7638,,PJ,TYNDP 2022 Scenario Report + District heatin
 CZ,Heat_Buildings,2050,136.3231,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 CZ,Heat_Buildings,2055,136.3231,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_Buildings,2060,136.3231,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,Heat_District,2018,64.75,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+CZ,Heat_District,2018,88.55,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_District,2020,100.04,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 CZ,Heat_District,2025,99.8157,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 CZ,Heat_District,2030,99.5864,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -444,7 +444,7 @@ DE,Heat_Buildings,2045,976.8762,,PJ,TYNDP 2022 Scenario Report + District heatin
 DE,Heat_Buildings,2050,800.3058,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 DE,Heat_Buildings,2055,800.3058,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Buildings,2060,800.3058,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_District,2018,446.84,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DE,Heat_District,2018,493.6284,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_District,2020,557.74,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 DE,Heat_District,2025,589.8582,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 DE,Heat_District,2030,621.977,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3059,7 +3059,7 @@ DK,Heat_Buildings,2045,35.2762,,PJ,TYNDP 2022 Scenario Report + District heating
 DK,Heat_Buildings,2050,27.7856,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 DK,Heat_Buildings,2055,27.7856,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,Heat_Buildings,2060,27.7856,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,Heat_District,2018,109.99,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+DK,Heat_District,2018,134.933,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,Heat_District,2020,118.19,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 DK,Heat_District,2025,115.4069,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 DK,Heat_District,2030,112.6222,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3146,7 +3146,7 @@ EE,Heat_Buildings,2045,10.9979,,PJ,TYNDP 2022 Scenario Report + District heating
 EE,Heat_Buildings,2050,8.347,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 EE,Heat_Buildings,2055,8.347,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,Heat_Buildings,2060,8.347,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Heat_District,2018,20.1,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+EE,Heat_District,2018,19.1916,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,Heat_District,2020,20.74,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 EE,Heat_District,2025,20.6389,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 EE,Heat_District,2030,20.5381,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3320,7 +3320,7 @@ FI,Heat_Buildings,2045,116.6598,,PJ,TYNDP 2022 Scenario Report + District heatin
 FI,Heat_Buildings,2050,113.0899,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 FI,Heat_Buildings,2055,113.0899,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,Heat_Buildings,2060,113.0899,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,Heat_District,2018,120.6,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FI,Heat_District,2018,133.56,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,Heat_District,2020,120.46,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 FI,Heat_District,2025,119.3541,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 FI,Heat_District,2030,118.2479,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3407,7 +3407,7 @@ FR,Heat_Buildings,2045,925.2268,,PJ,TYNDP 2022 Scenario Report + District heatin
 FR,Heat_Buildings,2050,810.6776,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 FR,Heat_Buildings,2055,810.6776,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Heat_Buildings,2060,810.6776,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,Heat_District,2018,91.44,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+FR,Heat_District,2018,120.456,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Heat_District,2020,116.84,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 FR,Heat_District,2025,146.6654,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 FR,Heat_District,2030,176.4929,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3494,7 +3494,7 @@ GR,Heat_Buildings,2045,79.3689,,PJ,Needs update,29.02.2024,Martha Pedersen <mart
 GR,Heat_Buildings,2050,69.288,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 GR,Heat_Buildings,2055,69.288,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Heat_Buildings,2060,69.288,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,Heat_District,2018,1.22,,PJ,Needs update,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+GR,Heat_District,2018,1.22,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Heat_District,2020,10.3,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 GR,Heat_District,2025,11.4518,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 GR,Heat_District,2030,12.6047,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3581,7 +3581,7 @@ HR,Heat_Buildings,2045,48.1964,,PJ,TYNDP 2022 Scenario Report + District heating
 HR,Heat_Buildings,2050,43.382,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 HR,Heat_Buildings,2055,43.382,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Heat_Buildings,2060,43.382,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Heat_District,2018,7.19,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HR,Heat_District,2018,8.8668,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Heat_District,2020,6.47,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 HR,Heat_District,2025,6.0943,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 HR,Heat_District,2030,5.716,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3668,7 +3668,7 @@ HU,Heat_Buildings,2045,123.0074,,PJ,TYNDP 2022 Scenario Report + District heatin
 HU,Heat_Buildings,2050,108.4284,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 HU,Heat_Buildings,2055,108.4284,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Heat_Buildings,2060,108.4284,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,Heat_District,2018,25.94,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+HU,Heat_District,2018,33.969377,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Heat_District,2020,32.16,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 HU,Heat_District,2025,32.8924,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 HU,Heat_District,2030,33.6221,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3842,7 +3842,7 @@ IT,Heat_Buildings,2045,567.8346,,PJ,TYNDP 2022 Scenario Report + District heatin
 IT,Heat_Buildings,2050,444.2004,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 IT,Heat_Buildings,2055,444.2004,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Heat_Buildings,2060,444.2004,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,Heat_District,2018,33.44,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+IT,Heat_District,2018,40.4316,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Heat_District,2020,113,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 IT,Heat_District,2025,156.3599,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 IT,Heat_District,2030,199.7155,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3929,7 +3929,7 @@ LT,Heat_Buildings,2045,10.3929,,PJ,TYNDP 2022 Scenario Report + District heating
 LT,Heat_Buildings,2050,7.941,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 LT,Heat_Buildings,2055,7.941,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_Buildings,2060,7.941,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Heat_District,2018,27.52,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LT,Heat_District,2018,32.4,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_District,2020,30.48,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 LT,Heat_District,2025,29.1654,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 LT,Heat_District,2030,27.8463,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -4103,7 +4103,7 @@ LV,Heat_Buildings,2045,5.7987,,PJ,TYNDP 2022 Scenario Report + District heating 
 LV,Heat_Buildings,2050,1.2479,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 LV,Heat_Buildings,2055,1.2479,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_Buildings,2060,1.2479,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Heat_District,2018,24.33,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+LV,Heat_District,2018,29.6856,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_District,2020,27.03,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 LV,Heat_District,2025,28.1145,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 LV,Heat_District,2030,29.197,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -4190,7 +4190,7 @@ NL,Heat_Buildings,2045,193.6769,,PJ,TYNDP 2022 Scenario Report + District heatin
 NL,Heat_Buildings,2050,160.6487,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 NL,Heat_Buildings,2055,160.6487,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,Heat_Buildings,2060,160.6487,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,Heat_District,2018,22.8,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+NL,Heat_District,2018,27.6,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,Heat_District,2020,34.85,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 NL,Heat_District,2025,37.0356,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 NL,Heat_District,2030,39.2201,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -4277,7 +4277,7 @@ NO,Heat_Buildings,2045,169.5562,,PJ,Needs update,29.02.2024,Martha Pedersen <mar
 NO,Heat_Buildings,2050,169.5562,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 NO,Heat_Buildings,2055,169.5562,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Heat_Buildings,2060,169.5562,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,Heat_District,2018,23.5624,,PJ,Statistics Norway: District heating and district cooling (https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling),19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Heat_District,2018,23.3064,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Heat_District,2020,22.1871,,PJ,Statistics Norway: District heating and district cooling (https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling),19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Heat_District,2025,27.2459,,PJ,Statistics Norway: District heating and district cooling (https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling),19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Heat_District,2030,27.2459,,PJ,Statistics Norway: District heating and district cooling (https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling),19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4451,7 +4451,7 @@ PL,Heat_Buildings,2045,354.5363,,PJ,TYNDP 2022 Scenario Report + District heatin
 PL,Heat_Buildings,2050,305.6386,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 PL,Heat_Buildings,2055,305.6386,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Buildings,2060,305.6386,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,Heat_District,2018,233.46,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+PL,Heat_District,2018,267.222,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_District,2020,247.38,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 PL,Heat_District,2025,240.4347,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 PL,Heat_District,2030,233.4943,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -4625,7 +4625,7 @@ RO,Heat_Buildings,2045,150.7317,,PJ,TYNDP 2022 Scenario Report + District heatin
 RO,Heat_Buildings,2050,135.8294,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 RO,Heat_Buildings,2055,135.8294,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,Heat_Buildings,2060,135.8294,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,Heat_District,2018,35.59,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+RO,Heat_District,2018,50.688,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,Heat_District,2020,33.94,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 RO,Heat_District,2025,32.2568,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 RO,Heat_District,2030,30.5718,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -4702,7 +4702,7 @@ RO,Power,2045,173.2496,,PJ,EU Reference Scenario 2020- same growth rate- see Ass
 RO,Power,2050,167.7056,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 RO,Power,2055,167.7056,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,Power,2060,167.7056,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,Heat_Buildings,2018,193.9504,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,07.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SE,Heat_Buildings,2018,188.3694,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,07.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 SE,Heat_Buildings,2020,185.1258,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,20.03.2024,Martha Pedersen <martha.pedersen@sintef.no>
 SE,Heat_Buildings,2025,187.429,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 SE,Heat_Buildings,2030,189.7323,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -4712,7 +4712,7 @@ SE,Heat_Buildings,2045,187.1743,,PJ,TYNDP 2022 Scenario Report + District heatin
 SE,Heat_Buildings,2050,183.9617,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 SE,Heat_Buildings,2055,183.9617,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,Heat_Buildings,2060,183.9617,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,Heat_District,2018,183.42,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SE,Heat_District,2018,210.85,,PJ,Partner Feedback Man0EUvRE,23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,Heat_District,2020,187.3,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 SE,Heat_District,2025,180.0489,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 SE,Heat_District,2030,172.7976,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -4799,7 +4799,7 @@ SI,Heat_Buildings,2045,25.1248,,PJ,TYNDP 2022 Scenario Report + District heating
 SI,Heat_Buildings,2050,22.6549,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 SI,Heat_Buildings,2055,22.6549,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Heat_Buildings,2060,22.6549,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Heat_District,2018,6.83,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SI,Heat_District,2018,8.60976,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Heat_District,2020,6.47,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 SI,Heat_District,2025,6.5463,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 SI,Heat_District,2030,6.6238,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -4886,7 +4886,7 @@ SK,Heat_Buildings,2045,48.4168,,PJ,TYNDP 2022 Scenario Report + District heating
 SK,Heat_Buildings,2050,45.2008,,PJ,TYNDP 2022 Scenario Report + District heating and cooling in the European Union - see asumption file for more info,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 SK,Heat_Buildings,2055,45.2008,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,Heat_Buildings,2060,45.2008,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Heat_District,2018,51.38,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+SK,Heat_District,2018,54.7344,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,Heat_District,2020,54.13,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 SK,Heat_District,2025,51.524,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 SK,Heat_District,2030,48.9172,,PJ,District heating and cooling in the European Union,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
@@ -5060,7 +5060,7 @@ UK,Heat_Buildings,2045,1233.1779,,PJ,Needs update,29.02.2024,Martha Pedersen <ma
 UK,Heat_Buildings,2050,1163.5338,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 UK,Heat_Buildings,2055,1163.5338,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Heat_Buildings,2060,1163.5338,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,Heat_District,2018,43.2,,PJ,District heating and cooling in the European Union,22.10.2023,Martha Pedersen <martha.pedersen@sintef.no>
+UK,Heat_District,2018,47.52,,PJ,District heating and cooling in the European Union (Total Supply - losses included in the conversion to HB/HLI),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Heat_District,2020,43.2,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 UK,Heat_District,2025,43.2,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>
 UK,Heat_District,2030,43.2,,PJ,Needs update,29.02.2024,Martha Pedersen <martha.pedersen@sintef.no>

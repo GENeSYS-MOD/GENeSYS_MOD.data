@@ -147,13 +147,14 @@ RO,HB_Hardcoal,Heat_Buildings,2018,2.297,,PJ,,,
 RO,HB_Heatpump_Aerial,Heat_Buildings,2018,0.001,,PJ,,,
 RO,HB_Heatpump_Ground,Heat_Buildings,2018,0,,PJ,,,
 RO,HB_Oil_Boiler,Heat_Buildings,2018,11.797,,PJ,,,
-SE,HB_Biomass,Heat_Buildings,2018,4.7071,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Biomass,Heat_Buildings,2018,34.5466,,PJ,Share from Martin et al. 2024 (https://doi.org/10.1016/j.energy.2024.130264),28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Convert_DH,Heat_Buildings,2018,165,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,HB_Gas_Boiler,Heat_Buildings,2018,5.01,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,HB_Hardcoal,Heat_Buildings,2018,4.222,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,HB_Heatpump_Aerial,Heat_Buildings,2018,5.4973,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,HB_Heatpump_Ground,Heat_Buildings,2018,1.193,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,HB_Oil_Boiler,Heat_Buildings,2018,1.9209,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Gas_Boiler,Heat_Buildings,2018,5,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Hardcoal,Heat_Buildings,2018,7.7546,,PJ,Partner feedback Man0EUvRE,23.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,HB_Heatpump_Aerial,Heat_Buildings,2018,69.2363,,PJ,Share from Martin et al. 2024 (https://doi.org/10.1016/j.energy.2024.130264),28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Ground,Heat_Buildings,2018,18.9401,,PJ,Share from Martin et al. 2024 (https://doi.org/10.1016/j.energy.2024.130264),28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Direct_Electric,Heat_Buildings,2018,67.6696,,PJ,Share from Martin et al. 2024 (https://doi.org/10.1016/j.energy.2024.130264),28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Oil_Boiler,Heat_Buildings,2018,5.2224,,PJ,Share from Martin et al. 2024 (https://doi.org/10.1016/j.energy.2024.130264),28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Biomass,Heat_Buildings,2018,14.809,,PJ,,,
 SI,HB_Direct_Electric,Heat_Buildings,2018,1.7,,PJ,,,
 SI,HB_Hardcoal,Heat_Buildings,2018,0.085,,PJ,,,
@@ -176,108 +177,111 @@ UK,HB_Hardcoal,Heat_Buildings,2018,35.349,,PJ,,,
 UK,HB_Heatpump_Aerial,Heat_Buildings,2018,3.163,,PJ,,,
 UK,HB_Heatpump_Ground,Heat_Buildings,2018,0.166,,PJ,,,
 UK,HB_Oil_Boiler,Heat_Buildings,2018,139.693,,PJ,,,
-AT,CHP_Biomass_Solid,Heat_District,2018,45.527,,PJ,,,
-AT,CHP_Coal_Hardcoal,Heat_District,2018,8.481,,PJ,,,
-AT,CHP_Gas_CCGT_Natural,Heat_District,2018,42.855,,PJ,,,
-AT,CHP_Oil,Heat_District,2018,8.228,,PJ,,,
-BE,CHP_Biomass_Solid,Heat_District,2018,16.729,,PJ,,,
-BE,CHP_Coal_Hardcoal,Heat_District,2018,1.252,,PJ,,,
-BE,CHP_Gas_CCGT_Natural,Heat_District,2018,59.556,,PJ,,,
-BE,CHP_Oil,Heat_District,2018,0.868,,PJ,,,
-BG,CHP_Biomass_Solid,Heat_District,2018,7.459,,PJ,,,
-BG,CHP_Coal_Hardcoal,Heat_District,2018,11.187,,PJ,,,
-BG,CHP_Gas_CCGT_Natural,Heat_District,2018,15.436,,PJ,,,
-BG,CHP_Oil,Heat_District,2018,0.160669,,PJ,,,
-CZ,CHP_Biomass_Solid,Heat_District,2018,24.157,,PJ,,,
-CZ,CHP_Coal_Hardcoal,Heat_District,2018,10.876,,PJ,,,
-CZ,CHP_Coal_Lignite,Heat_District,2018,50.974,,PJ,,,
-CZ,CHP_Gas_CCGT_Natural,Heat_District,2018,12.783,,PJ,,,
-CZ,CHP_Oil,Heat_District,2018,0.87,,PJ,,,
-DE,CHP_Biomass_Solid,Heat_District,2018,96.825,,PJ,,,
-DE,CHP_Coal_Hardcoal,Heat_District,2018,135.708,,PJ,,,
-DE,CHP_Coal_Lignite,Heat_District,2018,27.707,,PJ,,,
-DE,CHP_Gas_CCGT_Natural,Heat_District,2018,324.482,,PJ,,,
-DE,CHP_Oil,Heat_District,2018,13.83,,PJ,,,
-DK,CHP_Biomass_Solid,Heat_District,2018,73.7252,,PJ,needs update,17.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,CHP_Coal_Hardcoal,Heat_District,2018,19.698,,PJ,,,
-DK,CHP_Gas_CCGT_Natural,Heat_District,2018,13.223,,PJ,,,
-DK,CHP_Oil,Heat_District,2018,2.086,,PJ,,,
-EE,CHP_Biomass_Solid,Heat_District,2018,12.1806,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,Heat_District,2018,4.221,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Oil,Heat_District,2018,0.7035,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,CHP_Biomass_Solid,Heat_District,2018,12.576,,PJ,,,
-ES,CHP_Coal_Hardcoal,Heat_District,2018,3.177,,PJ,,,
-ES,CHP_Gas_CCGT_Natural,Heat_District,2018,114.963,,PJ,,,
-ES,CHP_Oil,Heat_District,2018,10.159,,PJ,,,
-FI,CHP_Biomass_Solid,Heat_District,2018,56.1538,,PJ,needs update,17.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Coal_Hardcoal,Heat_District,2018,45.14101087,,PJ,"European Commission: long-term renovation strategy 2020-2050 Finland
-UABIO: Biomass in district heating in Finland",03.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Gas_CCGT_Natural,Heat_District,2018,18.57423141,,PJ,"European Commission: long-term renovation strategy 2020-2050 Finland
-UABIO: Biomass in district heating in Finland",03.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Oil,Heat_District,2018,2.02627979,,PJ,"European Commission: long-term renovation strategy 2020-2050 Finland
-UABIO: Biomass in district heating in Finland",03.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,CHP_Biomass_Solid,Heat_District,2018,53.077,,PJ,,,
-FR,CHP_Coal_Hardcoal,Heat_District,2018,7.207,,PJ,,,
-FR,CHP_Gas_CCGT_Natural,Heat_District,2018,90.425,,PJ,,,
-FR,CHP_Oil,Heat_District,2018,7.836,,PJ,,,
-GR,CHP_Biomass_Solid,Heat_District,2018,0.098,,PJ,,,
-GR,CHP_Coal_Hardcoal,Heat_District,2018,2.07,,PJ,,,
-GR,CHP_Gas_CCGT_Natural,Heat_District,2018,8.059,,PJ,,,
-GR,CHP_Oil,Heat_District,2018,3.76626,,PJ,,,
-HR,CHP_Biomass_Solid,Heat_District,2018,2.447,,PJ,,,
-HR,CHP_Coal_Hardcoal,Heat_District,2018,0.247,,PJ,,,
-HR,CHP_Gas_CCGT_Natural,Heat_District,2018,11.809,,PJ,,,
-HR,CHP_Oil,Heat_District,2018,1.251,,PJ,,,
-HU,CHP_Biomass_Solid,Heat_District,2018,6.8639,,PJ,needs update,17.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,CHP_Coal_Hardcoal,Heat_District,2018,2.082,,PJ,,,
-HU,CHP_Gas_CCGT_Natural,Heat_District,2018,17.24,,PJ,,,
-HU,CHP_Oil,Heat_District,2018,0.004,,PJ,,,
-IE,CHP_Biomass_Solid,Heat_District,2018,0.375,,PJ,,,
-IE,CHP_Coal_Hardcoal,Heat_District,2018,0.29,,PJ,,,
-IE,CHP_Gas_CCGT_Natural,Heat_District,2018,10.936,,PJ,,,
-IE,CHP_Oil,Heat_District,2018,0,,PJ,,,
-IT,CHP_Biomass_Solid,Heat_District,2018,34.546,,PJ,,,
-IT,CHP_Coal_Hardcoal,Heat_District,2018,3.887,,PJ,,,
-IT,CHP_Gas_CCGT_Natural,Heat_District,2018,141.628,,PJ,,,
-IT,CHP_Oil,Heat_District,2018,18.774,,PJ,,,
-LT,CHP_Biomass_Solid,Heat_District,2018,25.6574,,PJ,needs update,17.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,CHP_Coal_Hardcoal,Heat_District,2018,0,,PJ,,,
-LT,CHP_Gas_CCGT_Natural,Heat_District,2018,2.188,,PJ,,,
-LT,CHP_Oil,Heat_District,2018,1.524,,PJ,,,
-LU,CHP_Biomass_Solid,Heat_District,2018,1.7214,,PJ,needs update,17.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,CHP_Coal_Hardcoal,Heat_District,2018,0,,PJ,,,
-LU,CHP_Gas_CCGT_Natural,Heat_District,2018,1.397,,PJ,,,
-LU,CHP_Oil,Heat_District,2018,0,,PJ,,,
-LV,CHP_Biomass_Solid,Heat_District,2018,16.7651,,PJ,needs update,17.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,CHP_Gas_CCGT_Natural,Heat_District,2018,8.443,,PJ,,,
-NL,CHP_Biomass_Solid,Heat_District,2018,15.284,,PJ,,,
-NL,CHP_Coal_Hardcoal,Heat_District,2018,5.004,,PJ,,,
-NL,CHP_Gas_CCGT_Natural,Heat_District,2018,140.044,,PJ,,,
-NL,CHP_Oil,Heat_District,2018,6.905,,PJ,,,
-PL,CHP_Biomass_Solid,Heat_District,2018,31.872,,PJ,,,
-PL,CHP_Coal_Hardcoal,Heat_District,2018,164.052,,PJ,,,
-PL,CHP_Gas_CCGT_Natural,Heat_District,2018,30.389,,PJ,,,
-PL,CHP_Oil,Heat_District,2018,17.295,,PJ,,,
-RO,CHP_Biomass_Solid,Heat_District,2018,2.387,,PJ,,,
-RO,CHP_Coal_Lignite,Heat_District,2018,9.893,,PJ,,,
-RO,CHP_Gas_CCGT_Natural,Heat_District,2018,28.485,,PJ,,,
-RO,CHP_Oil,Heat_District,2018,1.286,,PJ,,,
-SE,CHP_Biomass_Solid,Heat_District,2018,52.871,,PJ,,,
-SE,CHP_Coal_Hardcoal,Heat_District,2018,9.349,,PJ,,,
-SE,CHP_Gas_CCGT_Natural,Heat_District,2018,3.938,,PJ,,,
-SE,CHP_Oil,Heat_District,2018,0.458,,PJ,,,
-SI,CHP_Biomass_Solid,Heat_District,2018,2.211,,PJ,,,
-SI,CHP_Coal_Hardcoal,Heat_District,2018,5.45,,PJ,,,
-SI,CHP_Gas_CCGT_Natural,Heat_District,2018,3.362,,PJ,,,
-SI,CHP_Oil,Heat_District,2018,0.035,,PJ,,,
-SK,CHP_Biomass_Solid,Heat_District,2018,31.1605,,PJ,needs update,17.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,CHP_Coal_Hardcoal,Heat_District,2018,6.833,,PJ,,,
-SK,CHP_Gas_CCGT_Natural,Heat_District,2018,8.868,,PJ,,,
-SK,CHP_Oil,Heat_District,2018,4.519,,PJ,,,
-UK,CHP_Biomass_Solid,Heat_District,2018,13.283,,PJ,,,
-UK,CHP_Coal_Hardcoal,Heat_District,2018,2.961,,PJ,,,
-UK,CHP_Gas_CCGT_Natural,Heat_District,2018,99.367,,PJ,,,
-UK,CHP_Oil,Heat_District,2018,15.211,,PJ,,,
+AT,CHP_Biomass_Solid,Heat_District,2018,38.07,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Coal_Hardcoal,Heat_District,2018,4.05,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Gas_CCGT_Natural,Heat_District,2018,29.16,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_Oil,Heat_District,2018,4.05,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_WasteToEnergy,Heat_District,2018,5.67,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Biomass_Solid,Heat_District,2018,8.3412,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Coal_Hardcoal,Heat_District,2018,0.828,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,CHP_Gas_CCGT_Natural,Heat_District,2018,17.676,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,HD_Heatpump_ExcessHeat,Heat_District,2018,0.2016,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,CHP_Biomass_Solid,Heat_District,2018,5.8574,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,CHP_Coal_Hardcoal,Heat_District,2018,10.1282,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,CHP_Coal_Lignite,Heat_District,2018,47.4692,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,CHP_Gas_CCGT_Natural,Heat_District,2018,24.4057,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_ExcessHeat,Heat_District,2018,0.5953,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_Air,Heat_District,2018,0.0992,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,Heat_District,2018,94.5648,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Hardcoal,Heat_District,2018,108.9537,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Lignite,Heat_District,2018,22.2447,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,Heat_District,2018,193.8888,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,Heat_District,2018,5.2092,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,Heat_District,2018,57.0888,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,Heat_District,2018,3.2832,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,Heat_District,2018,8.28,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Solar_Thermal,Heat_District,2018,0.1152,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Biomass_Solid,Heat_District,2018,76.381,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Coal_Hardcoal,Heat_District,2018,16.509,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Gas_CCGT_Natural,Heat_District,2018,20.446,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Oil,Heat_District,2018,1.29,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_WasteToEnergy,Heat_District,2018,12.697,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Geothermal,Heat_District,2018,0.055,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_Air,Heat_District,2018,1.367,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_ExcessHeat,Heat_District,2018,4.055,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Solar_Thermal,Heat_District,2018,2.134,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Biomass_Solid,Heat_District,2018,8.8164,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,Heat_District,2018,8.0532,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,Heat_District,2018,1.5912,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,HD_Heatpump_ExcessHeat,Heat_District,2018,3.1557,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Biomass_Solid,Heat_District,2018,58.0823,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Coal_Hardcoal,Heat_District,2018,53.8254,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Gas_CCGT_Natural,Heat_District,2018,19.3895,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Oil,Heat_District,2018,3.8779,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Biomass_Solid,Heat_District,2018,58.2372,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Coal_Hardcoal,Heat_District,2018,5.5116,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Gas_CCGT_Natural,Heat_District,2018,45.756,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Oil,Heat_District,2018,0.8172,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Geothermal,Heat_District,2018,6.048,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Heatpump_Air,Heat_District,2018,0.99,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Heatpump_ExcessHeat,Heat_District,2018,3.0816,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,CHP_Coal_Hardcoal,Heat_District,2018,1.224,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,CHP_Biomass_Solid,Heat_District,2018,0.0354,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HD_Geothermal,Heat_District,2018,0.0155,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,CHP_Gas_CCGT_Natural,Heat_District,2018,7.5888,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,CHP_Oil,Heat_District,2018,1.2276,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Biomass_Solid,Heat_District,2018,5.301,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Coal_Hardcoal,Heat_District,2018,0.5408,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Gas_CCGT_Natural,Heat_District,2018,23.202,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Oil,Heat_District,2018,0.0589,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_WasteToEnergy,Heat_District,2018,2.5726,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HD_Geothermal,Heat_District,2018,2.2923,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Biomass_Solid,Heat_District,2018,3.8814,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Coal_Hardcoal,Heat_District,2018,1.0108,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Gas_CCGT_Natural,Heat_District,2018,28.4234,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_Oil,Heat_District,2018,0.4043,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_WasteToEnergy,Heat_District,2018,5.7413,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Geothermal,Heat_District,2018,0.566,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_Air,Heat_District,2018,0.2196,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_ExcessHeat,Heat_District,2018,0.1836,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Biomass_Solid,Heat_District,2018,19.8612,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Gas_CCGT_Natural,Heat_District,2018,11.6964,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Oil,Heat_District,2018,0.972,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Biomass_Solid,Heat_District,2018,13.8575,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Gas_CCGT_Natural,Heat_District,2018,15.6077,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Coal_Hardcoal,Heat_District,2018,0.324,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Oil,Heat_District,2018,0.1238,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_Biomass_Solid,Heat_District,2018,6.4,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_WasteToEnergy,Heat_District,2018,2.3,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_Gas_CCGT_Natural,Heat_District,2018,18.9,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_Oil,Heat_District,2018,0.2009,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_Biomass_Solid,Heat_District,2018,5.6261,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_WasteToEnergy,Heat_District,2018,10.5934,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_Gas_CCGT_Natural,Heat_District,2018,1.0271,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_Coal_Hardcoal,Heat_District,2018,0.2509,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HD_Heatpump_ExcessHeat,Heat_District,2018,0.7128,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HD_Heatpump_Air,Heat_District,2018,2.3159,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HD_Electric_Boiler,Heat_District,2018,2.7072,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,CHP_Gas_CCGT_Biogas,Heat_District,2018,0.1282,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Biomass_Solid,Heat_District,2018,26.5071,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Coal_Hardcoal,Heat_District,2018,202.7179,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Gas_CCGT_Natural,Heat_District,2018,24.0465,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Oil,Heat_District,2018,13.2815,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_WasteToEnergy,Heat_District,2018,0.671,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Biomass_Solid,Heat_District,2018,0.3244,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Coal_Lignite,Heat_District,2018,8.9566,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Gas_CCGT_Natural,Heat_District,2018,40.6416,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_Oil,Heat_District,2018,0.2281,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_WasteToEnergy,Heat_District,2018,0.5373,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Biomass_Solid,Heat_District,2018,89.6232,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Coal_Hardcoal,Heat_District,2018,13.4207,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Gas_CCGT_Natural,Heat_District,2018,5.664,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Oil,Heat_District,2018,7.2791,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_WasteToEnergy,Heat_District,2018,53.6829,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HD_Heatpump_Air,Heat_District,2018,23.6569,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HD_Heatpump_ExcessHeat,Heat_District,2018,17.5152,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Biomass_Solid,Heat_District,2018,1.5325,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Coal_Hardcoal,Heat_District,2018,4.2188,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HHI_BF_BOF,Heat_High_Industrial,2018,12.1203,,PJ,,,
 DE_BE,HHI_BF_BOF,Heat_High_Industrial,2018,2.62237,,PJ,,,
 DE_BW,HHI_BF_BOF,Heat_High_Industrial,2018,27.6413,,PJ,,,
@@ -458,7 +462,7 @@ NL,HLI_Hardcoal,Heat_Low_Industrial,2018,2.579096282,,PJ,TYNDP 2024 +  SINTEF_Po
 PL,HLI_Hardcoal,Heat_Low_Industrial,2018,38.04011676,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HLI_Hardcoal,Heat_Low_Industrial,2018,0.265782445,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,HLI_Hardcoal,Heat_Low_Industrial,2018,2.783979102,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HLI_Hardcoal,Heat_Low_Industrial,2018,6.713901024,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HLI_Hardcoal,Heat_Low_Industrial,2018,6.774301024,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HLI_Hardcoal,Heat_Low_Industrial,2018,0.760152238,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HLI_Hardcoal,Heat_Low_Industrial,2018,2.578224163,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HLI_Biomass,Heat_Low_Industrial,2018,6.296810246,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1135,7 +1139,6 @@ HR,P_Oil,Power,2018,0.171,,PJ,,,
 HU,CHP_Biomass_Solid,Power,2018,2.232,,PJ,,,
 HU,CHP_Coal_Hardcoal,Power,2018,1.303,,PJ,,,
 HU,CHP_Gas_CCGT_Natural,Power,2018,10.787,,PJ,,,
-HU,CHP_Oil,Power,2018,0.003,,PJ,,,
 HU,P_Biomass,Power,2018,3.579,,PJ,,,
 HU,P_Coal_Lignite,Power,2018,17.828,,PJ,,,
 HU,P_Gas_CCGT,Power,2018,6,,PJ,,,
@@ -1215,10 +1218,9 @@ RO,P_Coal_Lignite,Power,2018,52.04,,PJ,,,
 RO,P_Gas_CCGT,Power,2018,21.089,,PJ,,,
 RO,P_Gas_Engines,Power,2018,4.604,,PJ,,,
 RO,P_Nuclear,Power,2018,38.031,,PJ,,,
-SE,CHP_Biomass_Solid,Power,2018,19.1,,PJ,,,
+SE,CHP_Biomass_Solid,Power,2018,23.3,,PJ,,,
 SE,CHP_Coal_Hardcoal,Power,2018,3.377,,PJ,,,
 SE,CHP_Gas_CCGT_Natural,Power,2018,1.423,,PJ,,,
-SE,CHP_Oil,Power,2018,0.166,,PJ,,,
 SE,P_Coal_Hardcoal,Power,2018,0.507,,PJ,,,
 SE,P_Nuclear,Power,2018,233.788,,PJ,,,
 SE,P_Oil,Power,2018,0.698,,PJ,,,
@@ -1375,25 +1377,14 @@ UK,HHI_BF_BOF,Heat_High_Industrial,2018,24.6412,,PJ,TYNDP 2024 +  SINTEF_Potenti
 UK,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,1.6136,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_DRI_EAF,Heat_High_Industrial,2018,35.3472,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_Scrap_EAF,Heat_High_Industrial,2018,3.7616,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat. See calculation file,04.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,HD_Heatpump_ExcessHeat,Heat_District,2018,3.1557,,PJ,shares from https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,CHP_Oil,Heat_District,2018,0.2009,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,CHP_Biomass_Solid,Heat_District,2018,5.6261,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,CHP_WasteToEnergy,Heat_District,2018,10.5934,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,CHP_Gas_CCGT_Natural,Heat_District,2018,1.0271,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,CHP_Coal_Hardcoal,Heat_District,2018,0.2509,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,HD_Heatpump_ExcessHeat,Heat_District,2018,0.7128,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,HD_Heatpump_Air,Heat_District,2018,2.3159,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,HD_Electric_Boiler,Heat_District,2018,2.7072,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,CHP_Gas_CCGT_Biogas,Heat_District,2018,0.1282,,PJ,Statistics Norway: District heating and district cooling: https://www.ssb.no/en/energi-og-industri/energi/statistikk/fjernvarme-og-fjernkjoling,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+SI,CHP_Gas_CCGT_Natural,Heat_District,2018,2.5915,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,Heat_District,2018,0.1119,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Geothermal,Heat_District,2018,0.0603,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Heatpump_ExcessHeat,Heat_District,2018,0.1464,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Biomass_Solid,Heat_District,2018,5.1201,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Coal_Hardcoal,Heat_District,2018,14.7799,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Gas_CCGT_Natural,Heat_District,2018,31.0932,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Oil,Heat_District,2018,5.3821,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,CHP_Biomass_Solid,Heat_District,2018,5.2272,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,CHP_Gas_CCGT_Natural,Heat_District,2018,41.8176,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HD_Heatpump_Air,Heat_District,2018,0.4752,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>

@@ -1726,7 +1726,6 @@ CZ,D_PHS,2050,1.172,,GW,Entsoe Transparency Platform - Installed Capacity per Pr
 CZ,D_PHS,2055,1.172,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,D_PHS,2060,1.172,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HD_Electric_Boiler,2018,0,,GW,Assumption ,,
-CZ,HD_Heatpump_ExcessHeat,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 CZ,HD_Geothermal ,2018,0.007,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 CZ,HD_Heatpump,2018,0.006,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 CZ,HD_Solar_Thermal,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
@@ -2117,7 +2116,6 @@ DE,D_PHS,2050,8.918,,GW,Entsoe Transparency Platform - Installed Capacity per Pr
 DE,D_PHS,2055,8.918,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,D_PHS,2060,8.918,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HD_Electric_Boiler,2018,0,,GW,Assumption ,,
-DE,HD_Heatpump_ExcessHeat,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 DE,HD_Geothermal ,2018,0.335,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 DE,HD_Heatpump,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 DE,HD_Solar_Thermal,2018,0.056,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
@@ -3618,7 +3616,6 @@ DE_TH,PSNG_Road_ICE,2035,13.1499,,GW,needs update,06.09.2024,Jonathan Hanto <joh
 DE_TH,PSNG_Road_ICE,2040,0.8767,,GW,needs update,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,CHP_Biomass_Solid,2020,3.1381,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,CHP_Coal_Hardcoal,2020,1.2243,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,CHP_Gas_CCGT_Natural,2020,0.8218,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,CHP_Oil,2020,0.1297,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,D_PHS,2018,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,D_PHS,2020,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -3902,15 +3899,6 @@ DK,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 DK,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,CHP_Gas_CCGT_Natural,2018,0.8218,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,CHP_Gas_CCGT_Natural,2025,0.4109,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,CHP_Gas_CCGT_Natural,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,CHP_Gas_CCGT_Natural,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,CHP_Gas_CCGT_Natural,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,CHP_Gas_CCGT_Natural,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,CHP_Oil,2018,0.1297,,GW,eurostat - Combined Heat and Power (CHP) data,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,CHP_Oil,2025,0.0648,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -3996,7 +3984,6 @@ EE,D_PHS,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Produc
 EE,D_PHS,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,D_PHS,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HD_Electric_Boiler,2018,0,,GW,Assumption ,,
-EE,HD_Heatpump_ExcessHeat,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 EE,HD_Geothermal ,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 EE,HD_Heatpump,2018,0.02,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 EE,HD_Solar_Thermal,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
@@ -4214,26 +4201,6 @@ EE,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 EE,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2018,0.1776,,GW,eurostat - Combined Heat and Power (CHP) data + correction,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2020,0.1776,,GW,eurostat - Combined Heat and Power (CHP) data + correction,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2025,0.1776,,GW,eurostat - Combined Heat and Power (CHP) data + correction,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2030,0.1776,,GW,eurostat - Combined Heat and Power (CHP) data + correction,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2035,0.1776,,GW,eurostat - Combined Heat and Power (CHP) data + correction,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2040,0.1776,,GW,eurostat - Combined Heat and Power (CHP) data + correction,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2045,0.0888,,GW,eurostat - Combined Heat and Power (CHP) data + correction,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Oil,2018,0.0302,,GW,eurostat - Combined Heat and Power (CHP) data,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Oil,2020,0.0302,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Oil,2025,0.0151,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Oil,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Oil,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,CHP_Oil,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,CHP_Oil,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_HardCoal,2018,0.0128,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_HardCoal,2025,0.0089,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_HardCoal,2030,0.0054,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4533,7 +4500,7 @@ ES,HMLI_Heatpump,2060,0,,GW,Assumption | Calculated endogenously via model,02.04
 ES,P_Biomass,2018,0.6431,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,P_Biomass,2020,0.6431,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,P_Biomass,2025,0.6949,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,P_Biomass,2030,0.7467,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+ES,P_Biomass,2030,0.6949,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,P_Biomass,2035,0.6573,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,P_Biomass,2040,0.416,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,P_Biomass,2045,0.416,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -4760,7 +4727,6 @@ ES,HHI_Bio_BF_BOF,2018,0.2,,GW,Assumption | Calculated endogenously via model,17
 FI,CHP_Biomass_Solid,2020,10.4037,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,CHP_Coal_Hardcoal,2020,3.8042,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,CHP_Gas_CCGT_Natural,2020,1.6209,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Oil,2020,0.0827,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,D_PHS,2018,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,D_PHS,2020,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,D_PHS,2025,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -5072,15 +5038,6 @@ FI,CHP_Gas_CCGT_Natural,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data
 FI,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Oil,2018,0.0827,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Oil,2025,0.0414,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Oil,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Oil,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,CHP_Oil,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,CHP_Oil,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HB_Biomass,2018,2.4431,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HB_Biomass,2025,2.257,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HB_Biomass,2030,1.7451,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -6302,8 +6259,6 @@ HR,HLI_Convert_DH,2060,2.8571,,GW,Assumptions based on model run,24.04.2025,Niki
 HR,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,CHP_Biomass_Solid,2020,0.2161,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 HU,CHP_Coal_Hardcoal,2020,0.1261,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Gas_CCGT_Natural,2020,1.0445,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Oil,2020,0.0003,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 HU,D_PHS,2018,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 HU,D_PHS,2020,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 HU,D_PHS,2025,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -6616,24 +6571,6 @@ HU,CHP_Coal_Hardcoal,2045,0.0631,,GW,eurostat - Combined Heat and Power (CHP) da
 HU,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 HU,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,CHP_Gas_CCGT_Natural,2018,1.0445,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Gas_CCGT_Natural,2025,1.0389,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Gas_CCGT_Natural,2030,1.0333,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Gas_CCGT_Natural,2035,1.0065,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Gas_CCGT_Natural,2040,0.9796,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Gas_CCGT_Natural,2045,0.4898,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,CHP_Oil,2018,0.0003,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Oil,2025,0.0001,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Oil,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Oil,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,CHP_Oil,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,CHP_Oil,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HB_Biomass,2018,2.5037,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HB_Biomass,2025,2.3129,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HB_Biomass,2030,1.7883,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7764,16 +7701,6 @@ LT,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data,03
 LT,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LT,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,CHP_Gas_CCGT_Natural,2018,0.3174,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LT,CHP_Gas_CCGT_Natural,2020,0.3174,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LT,CHP_Gas_CCGT_Natural,2025,0.1587,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LT,CHP_Gas_CCGT_Natural,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LT,CHP_Gas_CCGT_Natural,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LT,CHP_Gas_CCGT_Natural,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LT,CHP_Gas_CCGT_Natural,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LT,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LT,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,CHP_Oil,2018,0.221,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LT,CHP_Oil,2020,0.221,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LT,CHP_Oil,2025,0.1105,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -8199,7 +8126,6 @@ LU,HLI_Convert_DH,2055,0.7231,,GW,Assumptions based on model run,24.04.2025,Niki
 LU,HLI_Convert_DH,2060,0.7231,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,CHP_Biomass_Solid,2020,0.5554,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,2020,0.0064,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LV,CHP_Gas_CCGT_Natural,2020,0.7081,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LV,D_PHS,2018,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LV,D_PHS,2020,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -8474,17 +8400,8 @@ LV,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 LV,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LV,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,2018,0.0064,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,2025,0.0038,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,2030,0.0012,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,2035,0.0006,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,CHP_Gas_CCGT_Natural,2018,0.7081,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,CHP_Gas_CCGT_Natural,2025,0.354,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+LV,CHP_Gas_CCGT_Natural,2018,0.7114,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+LV,CHP_Gas_CCGT_Natural,2025,0.3557,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LV,CHP_Gas_CCGT_Natural,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LV,CHP_Gas_CCGT_Natural,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 LV,CHP_Gas_CCGT_Natural,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -8516,9 +8433,6 @@ LV,HB_Hardcoal,2030,0.3316,,GW,Assumptions based on model run,09.04.2025,Nikita 
 LV,HB_Hardcoal,2035,0.1989,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Hardcoal,2040,0.0663,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Hardcoal,2045,0.0332,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,HB_Heatpump_Aerial,2018,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,HB_Heatpump_Aerial,2025,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,HB_Heatpump_Aerial,2030,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Heatpump_Aerial,2035,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Heatpump_Aerial,2040,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Heatpump_Aerial,2045,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8553,8 +8467,8 @@ LV,HLI_Convert_DH,2050,2.0199,,GW,Assumptions based on model run,24.04.2025,Niki
 LV,HLI_Convert_DH,2055,2.0199,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HLI_Convert_DH,2060,2.0199,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Heatpump_Aerial,2018,1.00E-04,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-lV,HB_Heatpump_Aerial,2025,1.00E-04,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-lV,HB_Heatpump_Aerial,2030,1.00E-04,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,HB_Heatpump_Aerial,2025,1.00E-04,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,HB_Heatpump_Aerial,2030,1.00E-04,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HHI_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 ME,D_PHS,2018,0.65,,GW,Assumption based on Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -9146,7 +9060,6 @@ NO,D_PHS,2045,1.031,,GW,Entsoe Transparency Platform - Installed Capacity per Pr
 NO,D_PHS,2050,1.031,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 NO,D_PHS,2055,1.031,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,D_PHS,2060,1.031,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,HD_Heatpump_ExcessHeat,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 NO,HD_Geothermal ,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 NO,HHI_BF_BOF,2018,0.536,,GW,Assumption | Calculated endogenously via model,01.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HHI_BF_BOF,2020,12.2279,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -9892,7 +9805,6 @@ NONEU_Balkan,HLI_Convert_DH,2055,0.00E+00,,GW,Assumptions based on model run,24.
 NONEU_Balkan,HLI_Convert_DH,2060,0.00E+00,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,CHP_Biomass_Solid,2020,1.301,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Coal_Hardcoal,2020,6.6964,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,CHP_Gas_CCGT_Natural,2020,3.0893,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,CHP_Oil,2020,0.706,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,D_PHS,2018,1.78,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -10198,15 +10110,6 @@ PL,CHP_Biomass_Solid,2045,0.6505,,GW,eurostat - Combined Heat and Power (CHP) da
 PL,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,CHP_Coal_Hardcoal,2018,6.6964,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Coal_Hardcoal,2025,3.961,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Coal_Hardcoal,2030,1.2256,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Coal_Hardcoal,2035,0.6128,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Coal_Hardcoal,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,CHP_Gas_CCGT_Natural,2018,3.0893,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,CHP_Gas_CCGT_Natural,2025,3.0915,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,CHP_Gas_CCGT_Natural,2030,3.0937,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11152,9 +11055,7 @@ RS,P_Wind_Onshore_Avg,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalen
 SA,HB_Convert_DH,2050,0,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SA,HLI_Convert_DH,2050,0,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_Biomass_Solid,2020,1.9344,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Coal_Hardcoal,2020,0.3421,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,CHP_Gas_CCGT_Natural,2020,0.3399,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,CHP_Oil,2020,0.0168,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,D_PHS,2018,0.43,,GW,Assumption based on Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,D_PHS,2020,0.43,,GW,Assumption based on Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,D_PHS,2025,0.43,,GW,Assumption based on Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -11445,15 +11346,6 @@ SE,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 SE,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,CHP_Coal_Hardcoal,2018,0.3421,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Coal_Hardcoal,2025,0.171,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Coal_Hardcoal,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Coal_Hardcoal,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Coal_Hardcoal,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_Gas_CCGT_Natural,2018,0.3399,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_Gas_CCGT_Natural,2025,0.17,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_Gas_CCGT_Natural,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -11463,15 +11355,6 @@ SE,CHP_Gas_CCGT_Natural,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data
 SE,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,CHP_Oil,2018,0.0168,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Oil,2025,0.0084,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Oil,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Oil,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,CHP_Oil,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,CHP_Oil,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Biomass,2018,2.4099,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Biomass,2025,2.2263,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Biomass,2030,1.7213,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11496,33 +11379,33 @@ SE,HB_Hardcoal,2030,0.7138,,GW,Assumptions based on model run,09.04.2025,Nikita 
 SE,HB_Hardcoal,2035,0.4283,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Hardcoal,2040,0.1428,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Hardcoal,2045,0.0714,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Aerial,2018,0.5319,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Aerial,2025,0.4914,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Aerial,2030,0.38,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Aerial,2035,0.228,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Aerial,2040,0.076,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Aerial,2045,0.038,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Ground,2018,0.0941,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Ground,2025,0.087,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Ground,2030,0.0672,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Ground,2035,0.0403,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Ground,2040,0.0134,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Heatpump_Ground,2045,0.0067,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Aerial,2018,2.2994,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Aerial,2025,2.1243,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Aerial,2030,1.6427,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Aerial,2035,0.9856,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Aerial,2040,0.3285,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Aerial,2045,0.1643,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Ground,2018,0.6128,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Ground,2025,0.5666,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Ground,2030,0.4377,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Ground,2035,0.2625,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Ground,2040,0.0873,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Heatpump_Ground,2045,0.0436,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Oil_Boiler,2018,0.5525,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Oil_Boiler,2025,0.5104,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Oil_Boiler,2030,0.3947,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Oil_Boiler,2035,0.2368,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Oil_Boiler,2040,0.0789,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HB_Oil_Boiler,2045,0.0395,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Convert_DH,2018,278.0107,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Convert_DH,2025,278.0107,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Convert_DH,2030,278.0107,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Convert_DH,2035,278.0107,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Convert_DH,2040,278.0107,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Convert_DH,2045,278.0107,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Convert_DH,2050,278.0107,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Convert_DH,2055,278.0107,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HB_Convert_DH,2060,278.0107,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Convert_DH,2018,283.9906,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Convert_DH,2025,283.9906,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Convert_DH,2030,283.9906,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Convert_DH,2035,283.9906,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Convert_DH,2040,283.9906,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Convert_DH,2045,283.9906,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Convert_DH,2050,283.9906,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Convert_DH,2055,283.9906,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HB_Convert_DH,2060,283.9906,,GW,Assumptions based on model run,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HLI_Convert_DH,2018,34.5309,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HLI_Convert_DH,2025,34.5309,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HLI_Convert_DH,2030,34.5309,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11536,7 +11419,6 @@ SE,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17
 SI,CHP_Biomass_Solid,2020,0.077,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,CHP_Coal_Hardcoal,2020,0.1898,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,CHP_Gas_CCGT_Natural,2020,0.2611,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,CHP_Oil,2020,0.0027,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,D_PHS,2018,0.18,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,D_PHS,2020,0.18,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,D_PHS,2025,0.18,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -11548,7 +11430,6 @@ SI,D_PHS,2050,0.18,,GW,Entsoe Transparency Platform - Installed Capacity per Pro
 SI,D_PHS,2055,0.18,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,D_PHS,2060,0.18,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HD_Electric_Boiler,2018,0,,GW,Assumption ,,
-SI,HD_Heatpump_ExcessHeat,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 SI,HD_Geothermal ,2018,0.047,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 SI,HD_Heatpump,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 SI,HD_Solar_Thermal,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
@@ -11856,15 +11737,6 @@ SI,CHP_Gas_CCGT_Natural,2045,0.1071,,GW,eurostat - Combined Heat and Power (CHP)
 SI,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,CHP_Oil,2018,0.0027,,GW,eurostat - Combined Heat and Power (CHP) data,27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,CHP_Oil,2025,0.0014,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),27.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Oil,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Oil,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,CHP_Oil,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,CHP_Oil,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Biomass,2018,1.3377,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Biomass,2025,1.2357,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Biomass,2030,0.9555,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11889,9 +11761,6 @@ SI,HB_Hardcoal,2030,0.0409,,GW,Assumptions based on model run,09.04.2025,Nikita 
 SI,HB_Hardcoal,2035,0.0245,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Hardcoal,2040,0.0082,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Hardcoal,2045,0.0041,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HB_Heatpump_Aerial,2018,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HB_Heatpump_Aerial,2025,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HB_Heatpump_Aerial,2030,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Heatpump_Aerial,2035,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Heatpump_Aerial,2040,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Heatpump_Aerial,2045,0.00E+00,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11930,8 +11799,6 @@ SI,HB_Heatpump_Aerial,2025,1.00E-04,,GW,Assumptions based on model run,09.04.202
 SI,HB_Heatpump_Aerial,2030,1.00E-04,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,CHP_Biomass_Solid,2020,0.5467,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Coal_Hardcoal,2020,0.3726,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Gas_CCGT_Natural,2020,0.4835,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SK,CHP_Oil,2020,0.2464,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SK,D_PHS,2018,0.916,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SK,D_PHS,2020,0.916,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -12226,24 +12093,6 @@ SK,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 SK,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SK,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,CHP_Coal_Hardcoal,2018,0.3726,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Coal_Hardcoal,2025,0.3512,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Coal_Hardcoal,2030,0.3299,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Coal_Hardcoal,2035,0.3299,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Coal_Hardcoal,2040,0.3299,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Coal_Hardcoal,2045,0.1649,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,CHP_Gas_CCGT_Natural,2018,0.4835,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Gas_CCGT_Natural,2025,0.4401,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Gas_CCGT_Natural,2030,0.3966,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Gas_CCGT_Natural,2035,0.3966,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Gas_CCGT_Natural,2040,0.3966,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Gas_CCGT_Natural,2045,0.1983,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,CHP_Oil,2018,0.2464,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SK,CHP_Oil,2025,0.1232,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SK,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -13050,3 +12899,363 @@ UK,HLI_Convert_DH,2050,27.4324,,GW,Assumptions based on model run,24.04.2025,Nik
 UK,HLI_Convert_DH,2055,27.4324,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Convert_DH,2060,27.4324,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_Bio_BF_BOF,2018,0.1,,GW,Assumption | Calculated endogenously via model,17.06.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2018,57.8452,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2025,57.8452,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2030,57.8452,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2035,28.9226,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2040,14.4613,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2045,7.2307,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_WasteToEnergy,2018,46.2039,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_WasteToEnergy,2025,46.2039,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_WasteToEnergy,2030,46.2039,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_WasteToEnergy,2035,23.1019,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_WasteToEnergy,2040,11.551,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_WasteToEnergy,2045,5.7755,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_WasteToEnergy,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_WasteToEnergy,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_WasteToEnergy,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_WasteToEnergy,2018,12.8652,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_WasteToEnergy,2025,12.8652,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_WasteToEnergy,2030,12.8652,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_WasteToEnergy,2035,6.4326,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_WasteToEnergy,2040,3.2163,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_WasteToEnergy,2045,1.6082,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_WasteToEnergy,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_WasteToEnergy,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_WasteToEnergy,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_WasteToEnergy,2018,5.8174,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_WasteToEnergy,2025,5.8174,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_WasteToEnergy,2030,5.8174,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_WasteToEnergy,2035,2.9087,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_WasteToEnergy,2040,1.4543,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_WasteToEnergy,2045,0.7272,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_WasteToEnergy,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_WasteToEnergy,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,CHP_WasteToEnergy,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_WasteToEnergy,2018,5.7451,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_WasteToEnergy,2025,5.7451,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_WasteToEnergy,2030,5.7451,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_WasteToEnergy,2035,2.8726,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_WasteToEnergy,2040,1.4363,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_WasteToEnergy,2045,0.7181,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_WasteToEnergy,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_WasteToEnergy,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,CHP_WasteToEnergy,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_WasteToEnergy,2018,2.6067,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_WasteToEnergy,2025,2.6067,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_WasteToEnergy,2030,2.6067,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_WasteToEnergy,2035,1.3033,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_WasteToEnergy,2040,0.6517,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_WasteToEnergy,2045,0.3258,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_WasteToEnergy,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_WasteToEnergy,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_WasteToEnergy,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_WasteToEnergy,2018,2.3305,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_WasteToEnergy,2025,2.3305,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_WasteToEnergy,2030,2.3305,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_WasteToEnergy,2035,1.1652,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_WasteToEnergy,2040,0.5826,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_WasteToEnergy,2045,0.2913,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_WasteToEnergy,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_WasteToEnergy,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,CHP_WasteToEnergy,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_WasteToEnergy,2018,0.6498,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_WasteToEnergy,2025,0.6498,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_WasteToEnergy,2030,0.6498,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_WasteToEnergy,2035,0.3249,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_WasteToEnergy,2040,0.1624,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_WasteToEnergy,2045,0.0812,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_WasteToEnergy,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_WasteToEnergy,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_WasteToEnergy,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_WasteToEnergy,2018,0.5444,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_WasteToEnergy,2025,0.5444,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_WasteToEnergy,2030,0.5444,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_WasteToEnergy,2035,0.2722,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_WasteToEnergy,2040,0.1361,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_WasteToEnergy,2045,0.0681,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_WasteToEnergy,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_WasteToEnergy,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,CHP_WasteToEnergy,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_Air,2018,1.3851,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_Air,2025,1.3851,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_Air,2030,1.3851,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_Air,2035,1.3851,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_Air,2040,0.6926,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_Air,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_Air,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_Air,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Heatpump_Air,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Heatpump_Air,2018,1.0031,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Heatpump_Air,2025,1.0031,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Heatpump_Air,2030,1.0031,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Heatpump_Air,2035,1.0031,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Heatpump_Air,2040,0.5016,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Heatpump_Air,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Heatpump_Air,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Heatpump_Air,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Heatpump_Air,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HD_Heatpump_Air,2018,0.4815,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HD_Heatpump_Air,2025,0.4815,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HD_Heatpump_Air,2030,0.4815,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HD_Heatpump_Air,2035,0.0866,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HD_Heatpump_Air,2040,0.0433,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HD_Heatpump_Air,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HD_Heatpump_Air,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HD_Heatpump_Air,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HD_Heatpump_Air,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_Air,2018,0.2225,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_Air,2025,0.2225,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_Air,2030,0.2225,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_Air,2035,0.2225,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_Air,2040,0.1113,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_Air,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_Air,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_Air,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Heatpump_Air,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_Air,2018,0.0912,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_Air,2025,0.0912,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_Air,2030,0.0912,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_Air,2035,0.0912,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_Air,2040,0.0456,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_Air,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_Air,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_Air,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_Air,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HD_Heatpump_Air,2018,20.3611,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HD_Heatpump_Air,2025,20.3611,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HD_Heatpump_Air,2030,20.3611,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HD_Heatpump_Air,2035,20.3611,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HD_Heatpump_Air,2040,10.1805,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HD_Heatpump_Air,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HD_Heatpump_Air,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HD_Heatpump_Air,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HD_Heatpump_Air,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2018,8.3897,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2025,8.3897,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2030,8.3897,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2035,8.3897,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2040,4.1949,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_ExcessHeat,2018,0.5472,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_ExcessHeat,2025,0.5472,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_ExcessHeat,2030,0.5472,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_ExcessHeat,2035,0.5472,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_ExcessHeat,2040,0.2736,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_ExcessHeat,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_ExcessHeat,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_ExcessHeat,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HD_Heatpump_ExcessHeat,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Heatpump_ExcessHeat,2018,0.1483,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Heatpump_ExcessHeat,2025,0.1483,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Heatpump_ExcessHeat,2030,0.1483,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Heatpump_ExcessHeat,2035,0.1483,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Heatpump_ExcessHeat,2040,0.0742,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Heatpump_ExcessHeat,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Heatpump_ExcessHeat,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Heatpump_ExcessHeat,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Heatpump_ExcessHeat,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Geothermal,2018,6.1281,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Geothermal,2025,6.1281,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Geothermal,2030,6.1281,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Geothermal,2035,6.1281,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Geothermal,2040,3.0641,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Geothermal,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Geothermal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Geothermal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HD_Geothermal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2018,3.3267,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2025,3.3267,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2030,3.3267,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2035,3.3267,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2040,1.6634,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HD_Geothermal,2018,2.3227,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HD_Geothermal,2025,2.3227,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HD_Geothermal,2030,2.3227,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HD_Geothermal,2035,2.3227,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HD_Geothermal,2040,1.1613,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HD_Geothermal,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HD_Geothermal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HD_Geothermal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HD_Geothermal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Geothermal,2018,0.5735,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Geothermal,2025,0.5735,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Geothermal,2030,0.5735,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Geothermal,2035,0.5735,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Geothermal,2040,0.2867,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Geothermal,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Geothermal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Geothermal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HD_Geothermal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Geothermal,2018,0.0611,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Geothermal,2025,0.0611,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Geothermal,2030,0.0611,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Geothermal,2035,0.0611,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Geothermal,2040,0.0305,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Geothermal,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Geothermal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Geothermal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HD_Geothermal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Geothermal,2018,0.0557,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Geothermal,2025,0.0557,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Geothermal,2030,0.0557,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Geothermal,2035,0.0557,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Geothermal,2040,0.0279,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Geothermal,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Geothermal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Geothermal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HD_Geothermal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HD_Geothermal,2018,0.0157,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HD_Geothermal,2025,0.0157,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HD_Geothermal,2030,0.0157,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HD_Geothermal,2035,0.0157,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HD_Geothermal,2040,0.0079,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HD_Geothermal,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HD_Geothermal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HD_Geothermal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HD_Geothermal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Gas_CCGT_Natural,2018,2.3075,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Gas_CCGT_Natural,2025,2.1004,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Gas_CCGT_Natural,2030,1.8928,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Gas_CCGT_Natural,2035,1.8928,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Gas_CCGT_Natural,2040,1.8928,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Gas_CCGT_Natural,2045,0.9464,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Gas_CCGT_Natural,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Gas_CCGT_Natural,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,CHP_Gas_CCGT_Natural,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2018,3.6426,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2025,3.3156,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2030,2.9879,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2035,2.9879,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2040,2.9879,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2045,1.494,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Gas_CCGT_Natural,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Gas_CCGT_Natural,2018,1.6566,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Gas_CCGT_Natural,2025,1.5079,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Gas_CCGT_Natural,2030,1.3589,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Gas_CCGT_Natural,2035,1.3589,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Gas_CCGT_Natural,2040,1.3589,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Gas_CCGT_Natural,2045,0.6794,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Gas_CCGT_Natural,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Gas_CCGT_Natural,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Gas_CCGT_Natural,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Gas_CCGT_Natural,2018,4.0886,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Gas_CCGT_Natural,2025,3.7216,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Gas_CCGT_Natural,2030,3.3537,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Gas_CCGT_Natural,2035,3.3537,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Gas_CCGT_Natural,2040,3.3537,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Gas_CCGT_Natural,2045,1.6769,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Gas_CCGT_Natural,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Gas_CCGT_Natural,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,CHP_Gas_CCGT_Natural,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Gas_CCGT_Natural,2018,20.5144,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Gas_CCGT_Natural,2025,18.673,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Gas_CCGT_Natural,2030,16.8273,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Gas_CCGT_Natural,2035,16.8273,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Gas_CCGT_Natural,2040,16.8273,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Gas_CCGT_Natural,2045,8.4137,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Gas_CCGT_Natural,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Gas_CCGT_Natural,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Gas_CCGT_Natural,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Coal_Hardcoal,2018,0.227,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Coal_Hardcoal,2025,0.2141,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Coal_Hardcoal,2030,0.2012,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Coal_Hardcoal,2035,0.2012,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Coal_Hardcoal,2040,0.2012,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Coal_Hardcoal,2045,0.1006,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Coal_Hardcoal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Coal_Hardcoal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Coal_Hardcoal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Coal_Hardcoal,2018,8.2986,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Coal_Hardcoal,2025,7.8219,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Coal_Hardcoal,2030,7.3475,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Coal_Hardcoal,2035,7.3475,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Coal_Hardcoal,2040,7.3475,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Coal_Hardcoal,2045,3.6727,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Coal_Hardcoal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Coal_Hardcoal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,CHP_Coal_Hardcoal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Coal_Hardcoal,2018,1.9834,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Coal_Hardcoal,2025,1.8695,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Coal_Hardcoal,2030,1.7561,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Coal_Hardcoal,2035,1.7561,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Coal_Hardcoal,2040,1.7561,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Coal_Hardcoal,2045,0.8778,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Coal_Hardcoal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Coal_Hardcoal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Coal_Hardcoal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Coal_Hardcoal,2018,4.9064,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Coal_Hardcoal,2025,4.6246,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Coal_Hardcoal,2030,4.3441,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Coal_Hardcoal,2035,4.3441,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Coal_Hardcoal,2040,4.3441,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Coal_Hardcoal,2045,2.1714,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Coal_Hardcoal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Coal_Hardcoal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,CHP_Coal_Hardcoal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,2018,0.0042,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,2025,0.0021,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,2030,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,2035,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,2040,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,CHP_Oil,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,2018,0.0577,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,2025,0.02885,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,2030,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,2035,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,2040,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,CHP_Oil,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Oil,2018,0.1458,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Oil,2025,0.0729,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Oil,2030,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Oil,2035,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Oil,2040,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Oil,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Oil,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Oil,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,CHP_Oil,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Oil,2018,0.0023,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Oil,2025,0.0011,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Oil,2030,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Oil,2035,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Oil,2040,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Oil,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Oil,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Oil,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,CHP_Oil,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Oil,2018,0.5,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Oil,2025,0.25,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Oil,2030,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Oil,2035,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Oil,2040,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Oil,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Oil,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Oil,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,CHP_Oil,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Oil,2018,0.1254,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Oil,2025,0.0627,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Oil,2030,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Oil,2035,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Oil,2040,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Oil,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Oil,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Oil,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,CHP_Oil,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
