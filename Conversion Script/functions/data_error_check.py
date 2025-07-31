@@ -1,7 +1,7 @@
 import os
 
-def search_non_utf8_characters():
-    data_folder = os.path.join(os.getcwd(), '..', 'Data', 'Parameters')
+def search_non_utf8_characters(file_dir):
+    data_folder = file_dir
     error_messages = []
 
     for root, dirs, files in os.walk(data_folder):

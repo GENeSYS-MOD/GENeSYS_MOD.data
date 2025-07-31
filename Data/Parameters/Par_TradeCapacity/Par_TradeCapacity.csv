@@ -1,1209 +1,350 @@
-﻿Region,Region,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
-AT,DE,Gas_Natural,2018,568.6889083,,GW,,,
-AT,DE_BY,Gas_Natural,2018,834.849,,GW,,,
-AT,HU,Gas_Natural,2018,185.0578766,,GW,,,
-AT,IT,Gas_Natural,2018,1633.041966,,GW,,,
-AT,SI,Gas_Natural,2018,160.5055248,,GW,,,
-AT,SK,Gas_Natural,2018,353.1406889,,GW,,,
-AT,DE_BY,Gas_Natural,2025,834.849,,PJ,,,
-AT,DE_BY,Gas_Natural,2030,834.849,,PJ,,,
-AT,DE_BY,Gas_Natural,2035,834.849,,PJ,,,
-AT,DE_BY,Gas_Natural,2040,834.849,,PJ,,,
-AT,DE_BY,Gas_Natural,2045,834.849,,GW,,,
-AT,DE_BY,Gas_Natural,2050,834.849,,GW,,,
-BE,DE,Gas_Natural,2018,446.6692127,,PJ,,,
-BE,DE_NRW,Gas_Natural,2018,380.373,,PJ,,,
-BE,FR,Gas_Natural,2018,1116.81,,PJ,,,
-BE,LU,Gas_Natural,2018,54.21519948,,PJ,,,
-BE,NL,Gas_Natural,2018,516.361,,PJ,,,
-BE,UK,Gas_Natural,2018,1146.223454,,GW,,,
-BE,DE_NRW,Gas_Natural,2025,380.373,,GW,,,
-BE,FR,Gas_Natural,2025,1116.81,,GW,,,
-BE,NL,Gas_Natural,2025,516.361,,GW,,,
-BE,DE_NRW,Gas_Natural,2030,380.373,,GW,,,
-BE,FR,Gas_Natural,2030,1116.81,,PJ,,,
-BE,NL,Gas_Natural,2030,516.361,,GW,,,
-BE,DE_NRW,Gas_Natural,2035,380.373,,GW,,,
-BE,FR,Gas_Natural,2035,1116.81,,GW,,,
-BE,NL,Gas_Natural,2035,516.361,,GW,,,
-BE,DE_NRW,Gas_Natural,2040,380.373,,GW,,,
-BE,FR,Gas_Natural,2040,1116.81,,PJ,,,
-BE,NL,Gas_Natural,2040,516.361,,PJ,,,
-BE,DE_NRW,Gas_Natural,2045,380.373,,PJ,,,
-BE,FR,Gas_Natural,2045,1116.81,,GW,,,
-BE,NL,Gas_Natural,2045,516.361,,GW,,,
-BE,DE_NRW,Gas_Natural,2050,380.373,,GW,,,
-BE,FR,Gas_Natural,2050,1116.81,,GW,,,
-BE,NL,Gas_Natural,2050,516.361,,PJ,,,
-BG,GR,Gas_Natural,2018,0,,GW,,,
-BG,NONEU_Balkan,Gas_Natural,2018,0,,GW,,,
-BG,RO,Gas_Natural,2018,20.51617286,,GW,,,
-BG,TR,Gas_Natural,2018,0,,GW,,,
-CH,DE_BW,Gas_Natural,2018,227.041,,GW,,,
-CH,FR,Gas_Natural,2018,131.389,,GW,,,
-CH,IT,Gas_Natural,2018,888.2223269,,GW,,,
-CH,DE_BW,Gas_Natural,2025,227.041,,GW,,,
-CH,FR,Gas_Natural,2025,131.389,,PJ,,,
-CH,DE_BW,Gas_Natural,2030,227.041,,PJ,,,
-CH,FR,Gas_Natural,2030,131.389,,PJ,,,
-CH,DE_BW,Gas_Natural,2035,227.041,,PJ,,,
-CH,FR,Gas_Natural,2035,131.389,,PJ,,,
-CH,DE_BW,Gas_Natural,2040,227.041,,PJ,,,
-CH,FR,Gas_Natural,2040,131.389,,PJ,,,
-CH,DE_BW,Gas_Natural,2045,227.041,,GW,,,
-CH,FR,Gas_Natural,2045,131.389,,GW,,,
-CH,DE_BW,Gas_Natural,2050,227.041,,GW,,,
-CH,FR,Gas_Natural,2050,131.389,,GW,,,
-CZ,DE,Gas_Natural,2018,1575.664917,,GW,,,
-CZ,DE_BY,Gas_Natural,2018,1191.57,,GW,,,
-CZ,DE_SN,Gas_Natural,2018,260.545,,PJ,,,
-CZ,PL,Gas_Natural,2018,36.7891,,GW,,,
-CZ,SK,Gas_Natural,2018,994.1355527,,GW,,,
-CZ,DE_BY,Gas_Natural,2025,1191.57,,GW,,,
-CZ,DE_SN,Gas_Natural,2025,260.545,,PJ,,,
-CZ,PL,Gas_Natural,2025,36.7891,,PJ,,,
-CZ,DE_BY,Gas_Natural,2030,1191.57,,GW,,,
-CZ,DE_SN,Gas_Natural,2030,260.545,,GW,,,
-CZ,PL,Gas_Natural,2030,36.7891,,GW,,,
-CZ,DE_BY,Gas_Natural,2035,1191.57,,GW,,,
-CZ,DE_SN,Gas_Natural,2035,260.545,,GW,,,
-CZ,PL,Gas_Natural,2035,36.7891,,GW,,,
-CZ,DE_BY,Gas_Natural,2040,1191.57,,GW,,,
-CZ,DE_SN,Gas_Natural,2040,260.545,,GW,,,
-CZ,PL,Gas_Natural,2040,36.7891,,GW,,,
-CZ,DE_BY,Gas_Natural,2045,1191.57,,GW,,,
-CZ,DE_SN,Gas_Natural,2045,260.545,,PJ,,,
-CZ,PL,Gas_Natural,2045,36.7891,,PJ,,,
-CZ,DE_BY,Gas_Natural,2050,1191.57,,PJ,,,
-CZ,DE_SN,Gas_Natural,2050,260.545,,PJ,,,
-CZ,PL,Gas_Natural,2050,36.7891,,GW,,,
-DE,AT,Gas_Natural,2018,517.0417972,,GW,,,
-DE,BE,Gas_Natural,2018,502.4892963,,GW,,,
-DE,CH,Gas_Natural,2018,830.3343144,,GW,,,
-DE,CZ,Gas_Natural,2018,2641.12055,,GW,,,
-DE,DK,Gas_Natural,2018,144.3334161,,PJ,,,
-DE,FR,Gas_Natural,2018,823.3576743,,PJ,,,
-DE,LU,Gas_Natural,2018,55.21390053,,GW,,,
-DE,NL,Gas_Natural,2018,1329.426658,,GW,,,
-DE,PL,Gas_Natural,2018,303.9189946,,GW,,,
-DE_BB,DE_MV,Gas_Natural,2018,913.409,,GW,,,
-DE_BB,DE_SN,Gas_Natural,2018,2046.42,,PJ,,,
-DE_BB,DE_ST,Gas_Natural,2018,3261.64,,PJ,,,
-DE_BB,PL,Gas_Natural,2018,306.794,,GW,,,
-DE_BB,DE_MV,Gas_Natural,2025,913.409,,GW,,,
-DE_BB,DE_SN,Gas_Natural,2025,2046.42,,GW,,,
-DE_BB,DE_ST,Gas_Natural,2025,3261.64,,GW,,,
-DE_BB,PL,Gas_Natural,2025,306.794,,GW,,,
-DE_BB,DE_MV,Gas_Natural,2030,913.409,,GW,,,
-DE_BB,DE_SN,Gas_Natural,2030,2046.42,,PJ,,,
-DE_BB,DE_ST,Gas_Natural,2030,3261.64,,PJ,,,
-DE_BB,PL,Gas_Natural,2030,306.794,,PJ,,,
-DE_BB,DE_MV,Gas_Natural,2035,913.409,,PJ,,,
-DE_BB,DE_SN,Gas_Natural,2035,2046.42,,GW,,,
-DE_BB,DE_ST,Gas_Natural,2035,3261.64,,GW,,,
-DE_BB,PL,Gas_Natural,2035,306.794,,PJ,,,
-DE_BB,DE_MV,Gas_Natural,2040,913.409,,GW,,,
-DE_BB,DE_SN,Gas_Natural,2040,2046.42,,GW,,,
-DE_BB,DE_ST,Gas_Natural,2040,3261.64,,GW,,,
-DE_BB,PL,Gas_Natural,2040,306.794,,GW,,,
-DE_BB,DE_MV,Gas_Natural,2045,913.409,,GW,,,
-DE_BB,DE_SN,Gas_Natural,2045,2046.42,,GW,,,
-DE_BB,DE_ST,Gas_Natural,2045,3261.64,,PJ,,,
-DE_BB,PL,Gas_Natural,2045,306.794,,PJ,,,
-DE_BB,DE_MV,Gas_Natural,2050,913.409,,PJ,,,
-DE_BB,DE_SN,Gas_Natural,2050,2046.42,,GW,,,
-DE_BB,DE_ST,Gas_Natural,2050,3261.64,,GW,,,
-DE_BB,PL,Gas_Natural,2050,306.794,,PJ,,,
-DE_BW,CH,Gas_Natural,2018,429.249,,PJ,,,
-DE_BW,DE_BY,Gas_Natural,2018,291.397,,GW,,,
-DE_BW,DE_RP,Gas_Natural,2018,356.987,,GW,,,
-DE_BW,CH,Gas_Natural,2025,429.249,,GW,,,
-DE_BW,DE_BY,Gas_Natural,2025,291.397,,GW,,,
-DE_BW,DE_RP,Gas_Natural,2025,356.987,,GW,,,
-DE_BW,CH,Gas_Natural,2030,429.249,,GW,,,
-DE_BW,DE_BY,Gas_Natural,2030,291.397,,PJ,,,
-DE_BW,DE_RP,Gas_Natural,2030,356.987,,PJ,,,
-DE_BW,CH,Gas_Natural,2035,429.249,,PJ,,,
-DE_BW,DE_BY,Gas_Natural,2035,291.397,,GW,,,
-DE_BW,DE_RP,Gas_Natural,2035,356.987,,GW,,,
-DE_BW,CH,Gas_Natural,2040,429.249,,GW,,,
-DE_BW,DE_BY,Gas_Natural,2040,291.397,,GW,,,
-DE_BW,DE_RP,Gas_Natural,2040,356.987,,GW,,,
-DE_BW,CH,Gas_Natural,2045,429.249,,PJ,,,
-DE_BW,DE_BY,Gas_Natural,2045,291.397,,PJ,,,
-DE_BW,DE_RP,Gas_Natural,2045,356.987,,PJ,,,
-DE_BW,CH,Gas_Natural,2050,429.249,,PJ,,,
-DE_BW,DE_BY,Gas_Natural,2050,291.397,,PJ,,,
-DE_BW,DE_RP,Gas_Natural,2050,356.987,,GW,,,
-DE_BY,AT,Gas_Natural,2018,804.104,,GW,,,
-DE_BY,DE_BW,Gas_Natural,2018,78.1343,,GW,,,
-DE_BY,DE_HE,Gas_Natural,2018,1764.63,,GW,,,
-DE_BY,AT,Gas_Natural,2025,804.104,,GW,,,
-DE_BY,DE_BW,Gas_Natural,2025,78.1343,,GW,,,
-DE_BY,DE_HE,Gas_Natural,2025,1764.63,,GW,,,
-DE_BY,AT,Gas_Natural,2030,804.104,,GW,,,
-DE_BY,DE_BW,Gas_Natural,2030,78.1343,,GW,,,
-DE_BY,DE_HE,Gas_Natural,2030,1764.63,,PJ,,,
-DE_BY,AT,Gas_Natural,2035,804.104,,PJ,,,
-DE_BY,DE_BW,Gas_Natural,2035,78.1343,,GW,,,
-DE_BY,DE_HE,Gas_Natural,2035,1764.63,,GW,,,
-DE_BY,AT,Gas_Natural,2040,804.104,,PJ,,,
-DE_BY,DE_BW,Gas_Natural,2040,78.1343,,GW,,,
-DE_BY,DE_HE,Gas_Natural,2040,1764.63,,GW,,,
-DE_BY,AT,Gas_Natural,2045,804.104,,GW,,,
-DE_BY,DE_BW,Gas_Natural,2045,78.1343,,GW,,,
-DE_BY,DE_HE,Gas_Natural,2045,1764.63,,PJ,,,
-DE_BY,AT,Gas_Natural,2050,804.104,,PJ,,,
-DE_BY,DE_BW,Gas_Natural,2050,78.1343,,GW,,,
-DE_BY,DE_HE,Gas_Natural,2050,1764.63,,GW,,,
-DE_HE,DE_BW,Gas_Natural,2018,445.461,,GW,,,
-DE_HE,DE_BY,Gas_Natural,2018,787.933,,GW,,,
-DE_HE,DE_NRW,Gas_Natural,2018,755.143,,GW,,,
-DE_HE,DE_RP,Gas_Natural,2018,926.304,,PJ,,,
-DE_HE,DE_BW,Gas_Natural,2025,445.461,,GW,,,
-DE_HE,DE_BY,Gas_Natural,2025,787.933,,GW,,,
-DE_HE,DE_NRW,Gas_Natural,2025,755.143,,GW,,,
-DE_HE,DE_RP,Gas_Natural,2025,926.304,,GW,,,
-DE_HE,DE_BW,Gas_Natural,2030,445.461,,PJ,,,
-DE_HE,DE_BY,Gas_Natural,2030,787.933,,PJ,,,
-DE_HE,DE_NRW,Gas_Natural,2030,755.143,,GW,,,
-DE_HE,DE_RP,Gas_Natural,2030,926.304,,GW,,,
-DE_HE,DE_BW,Gas_Natural,2035,445.461,,GW,,,
-DE_HE,DE_BY,Gas_Natural,2035,787.933,,GW,,,
-DE_HE,DE_NRW,Gas_Natural,2035,755.143,,PJ,,,
-DE_HE,DE_RP,Gas_Natural,2035,926.304,,GW,,,
-DE_HE,DE_BW,Gas_Natural,2040,445.461,,GW,,,
-DE_HE,DE_BY,Gas_Natural,2040,787.933,,GW,,,
-DE_HE,DE_NRW,Gas_Natural,2040,755.143,,GW,,,
-DE_HE,DE_RP,Gas_Natural,2040,926.304,,GW,,,
-DE_HE,DE_BW,Gas_Natural,2045,445.461,,GW,,,
-DE_HE,DE_BY,Gas_Natural,2045,787.933,,PJ,,,
-DE_HE,DE_NRW,Gas_Natural,2045,755.143,,PJ,,,
-DE_HE,DE_RP,Gas_Natural,2045,926.304,,PJ,,,
-DE_HE,DE_BW,Gas_Natural,2050,445.461,,PJ,,,
-DE_HE,DE_BY,Gas_Natural,2050,787.933,,GW,,,
-DE_HE,DE_NRW,Gas_Natural,2050,755.143,,GW,,,
-DE_HE,DE_RP,Gas_Natural,2050,926.304,,GW,,,
-DE_MV,DE_BB,Gas_Natural,2018,1932.72,,PJ,,,
-DE_MV,DE_NI,Gas_Natural,2018,1899.98,,GW,,,
-DE_MV,DE_BB,Gas_Natural,2025,1932.72,,GW,,,
-DE_MV,DE_NI,Gas_Natural,2025,1899.98,,PJ,,,
-DE_MV,DE_BB,Gas_Natural,2030,1932.72,,GW,,,
-DE_MV,DE_NI,Gas_Natural,2030,1899.98,,GW,,,
-DE_MV,DE_BB,Gas_Natural,2035,1932.72,,GW,,,
-DE_MV,DE_NI,Gas_Natural,2035,1899.98,,PJ,,,
-DE_MV,DE_BB,Gas_Natural,2040,1932.72,,PJ,,,
-DE_MV,DE_NI,Gas_Natural,2040,1899.98,,GW,,,
-DE_MV,DE_BB,Gas_Natural,2045,1932.72,,GW,,,
-DE_MV,DE_NI,Gas_Natural,2045,1899.98,,GW,,,
-DE_MV,DE_BB,Gas_Natural,2050,1932.72,,PJ,,,
-DE_MV,DE_NI,Gas_Natural,2050,1899.98,,GW,,,
-DE_NI,DE_HB,Gas_Natural,2018,49.4488,,GW,,,
-DE_NI,DE_HH,Gas_Natural,2018,356.987,,GW,,,
-DE_NI,DE_NRW,Gas_Natural,2018,1234.41,,GW,,,
-DE_NI,DE_SH,Gas_Natural,2018,49.4488,,GW,,,
-DE_NI,DE_ST,Gas_Natural,2018,1165.46,,GW,,,
-DE_NI,NL,Gas_Natural,2018,750.103,,GW,,,
-DE_NI,DE_HB,Gas_Natural,2025,49.4488,,GW,,,
-DE_NI,DE_HH,Gas_Natural,2025,356.987,,GW,,,
-DE_NI,DE_NRW,Gas_Natural,2025,1234.41,,GW,,,
-DE_NI,DE_SH,Gas_Natural,2025,49.4488,,GW,,,
-DE_NI,DE_ST,Gas_Natural,2025,1165.46,,GW,,,
-DE_NI,NL,Gas_Natural,2025,750.103,,GW,,,
-DE_NI,DE_HB,Gas_Natural,2030,49.4488,,GW,,,
-DE_NI,DE_HH,Gas_Natural,2030,356.987,,GW,,,
-DE_NI,DE_NRW,Gas_Natural,2030,1234.41,,GW,,,
-DE_NI,DE_SH,Gas_Natural,2030,49.4488,,GW,,,
-DE_NI,DE_ST,Gas_Natural,2030,1165.46,,GW,,,
-DE_NI,NL,Gas_Natural,2030,750.103,,GW,,,
-DE_NI,DE_HB,Gas_Natural,2035,49.4488,,GW,,,
-DE_NI,DE_HH,Gas_Natural,2035,356.987,,GW,,,
-DE_NI,DE_NRW,Gas_Natural,2035,1234.41,,GW,,,
-DE_NI,DE_SH,Gas_Natural,2035,49.4488,,GW,,,
-DE_NI,DE_ST,Gas_Natural,2035,1165.46,,GW,,,
-DE_NI,NL,Gas_Natural,2035,750.103,,GW,,,
-DE_NI,DE_HB,Gas_Natural,2040,49.4488,,GW,,,
-DE_NI,DE_HH,Gas_Natural,2040,356.987,,GW,,,
-DE_NI,DE_NRW,Gas_Natural,2040,1234.41,,GW,,,
-DE_NI,DE_SH,Gas_Natural,2040,49.4488,,GW,,,
-DE_NI,DE_ST,Gas_Natural,2040,1165.46,,GW,,,
-DE_NI,NL,Gas_Natural,2040,750.103,,GW,,,
-DE_NI,DE_HB,Gas_Natural,2045,49.4488,,GW,,,
-DE_NI,DE_HH,Gas_Natural,2045,356.987,,GW,,,
-DE_NI,DE_NRW,Gas_Natural,2045,1234.41,,GW,,,
-DE_NI,DE_SH,Gas_Natural,2045,49.4488,,GW,,,
-DE_NI,DE_ST,Gas_Natural,2045,1165.46,,GW,,,
-DE_NI,NL,Gas_Natural,2045,750.103,,GW,,,
-DE_NI,DE_HB,Gas_Natural,2050,49.4488,,GW,,,
-DE_NI,DE_HH,Gas_Natural,2050,356.987,,GW,,,
-DE_NI,DE_NRW,Gas_Natural,2050,1234.41,,GW,,,
-DE_NI,DE_SH,Gas_Natural,2050,49.4488,,GW,,,
-DE_NI,DE_ST,Gas_Natural,2050,1165.46,,GW,,,
-DE_NI,NL,Gas_Natural,2050,750.103,,GW,,,
-DE_NRW,BE,Gas_Natural,2018,525.558,,GW,,,
-DE_NRW,DE_HE,Gas_Natural,2018,1144.92,,GW,,,
-DE_NRW,DE_NI,Gas_Natural,2018,1739.25,,GW,,,
-DE_NRW,DE_RP,Gas_Natural,2018,1771.43,,GW,,,
-DE_NRW,NL,Gas_Natural,2018,122.981,,GW,,,
-DE_NRW,BE,Gas_Natural,2025,525.558,,GW,,,
-DE_NRW,DE_HE,Gas_Natural,2025,1144.92,,GW,,,
-DE_NRW,DE_NI,Gas_Natural,2025,1739.25,,GW,,,
-DE_NRW,DE_RP,Gas_Natural,2025,1771.43,,GW,,,
-DE_NRW,NL,Gas_Natural,2025,122.981,,GW,,,
-DE_NRW,BE,Gas_Natural,2030,525.558,,GW,,,
-DE_NRW,DE_HE,Gas_Natural,2030,1144.92,,GW,,,
-DE_NRW,DE_NI,Gas_Natural,2030,1739.25,,GW,,,
-DE_NRW,DE_RP,Gas_Natural,2030,1771.43,,GW,,,
-DE_NRW,NL,Gas_Natural,2030,122.981,,GW,,,
-DE_NRW,BE,Gas_Natural,2035,525.558,,GW,,,
-DE_NRW,DE_HE,Gas_Natural,2035,1144.92,,GW,,,
-DE_NRW,DE_NI,Gas_Natural,2035,1739.25,,GW,,,
-DE_NRW,DE_RP,Gas_Natural,2035,1771.43,,GW,,,
-DE_NRW,NL,Gas_Natural,2035,122.981,,GW,,,
-DE_NRW,BE,Gas_Natural,2040,525.558,,GW,,,
-DE_NRW,DE_HE,Gas_Natural,2040,1144.92,,GW,,,
-DE_NRW,DE_NI,Gas_Natural,2040,1739.25,,GW,,,
-DE_NRW,DE_RP,Gas_Natural,2040,1771.43,,GW,,,
-DE_NRW,NL,Gas_Natural,2040,122.981,,GW,,,
-DE_NRW,BE,Gas_Natural,2045,525.558,,GW,,,
-DE_NRW,DE_HE,Gas_Natural,2045,1144.92,,GW,,,
-DE_NRW,DE_NI,Gas_Natural,2045,1739.25,,GW,,,
-DE_NRW,DE_RP,Gas_Natural,2045,1771.43,,GW,,,
-DE_NRW,NL,Gas_Natural,2045,122.981,,GW,,,
-DE_NRW,BE,Gas_Natural,2050,525.558,,GW,,,
-DE_NRW,DE_HE,Gas_Natural,2050,1144.92,,GW,,,
-DE_NRW,DE_NI,Gas_Natural,2050,1739.25,,GW,,,
-DE_NRW,DE_RP,Gas_Natural,2050,1771.43,,GW,,,
-DE_NRW,NL,Gas_Natural,2050,122.981,,GW,,,
-DE_RP,DE_BW,Gas_Natural,2018,1414.45,,GW,,,
-DE_RP,DE_HE,Gas_Natural,2018,1714.24,,GW,,,
-DE_RP,DE_NRW,Gas_Natural,2018,445.461,,GW,,,
-DE_RP,DE_SL,Gas_Natural,2018,727.414,,GW,,,
-DE_RP,DE_BW,Gas_Natural,2025,1414.45,,GW,,,
-DE_RP,DE_HE,Gas_Natural,2025,1714.24,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Gas_Natural,2025,445.461,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Gas_Natural,2025,727.414,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Gas_Natural,2030,1414.45,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Gas_Natural,2030,1714.24,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Gas_Natural,2030,445.461,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Gas_Natural,2030,727.414,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Gas_Natural,2035,1414.45,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Gas_Natural,2035,1714.24,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Gas_Natural,2035,445.461,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Gas_Natural,2035,727.414,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Gas_Natural,2040,1414.45,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Gas_Natural,2040,1714.24,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Gas_Natural,2040,445.461,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Gas_Natural,2040,727.414,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Gas_Natural,2045,1414.45,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Gas_Natural,2045,1714.24,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Gas_Natural,2045,445.461,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Gas_Natural,2045,727.414,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Gas_Natural,2050,1414.45,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Gas_Natural,2050,1714.24,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Gas_Natural,2050,445.461,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Gas_Natural,2050,727.414,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HH,Gas_Natural,2018,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_MV,Gas_Natural,2018,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_NI,Gas_Natural,2018,356.987,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DK,Gas_Natural,2018,218.763,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HH,Gas_Natural,2025,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_MV,Gas_Natural,2025,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_NI,Gas_Natural,2025,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DK,Gas_Natural,2025,218.763,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HH,Gas_Natural,2030,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_MV,Gas_Natural,2030,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_NI,Gas_Natural,2030,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DK,Gas_Natural,2030,218.763,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HH,Gas_Natural,2035,356.987,,PJ,,,
-DE_SH,DE_MV,Gas_Natural,2035,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_NI,Gas_Natural,2035,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DK,Gas_Natural,2035,218.763,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HH,Gas_Natural,2040,356.987,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_MV,Gas_Natural,2040,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_NI,Gas_Natural,2040,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DK,Gas_Natural,2040,218.763,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HH,Gas_Natural,2045,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_MV,Gas_Natural,2045,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_NI,Gas_Natural,2045,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DK,Gas_Natural,2045,218.763,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HH,Gas_Natural,2050,356.987,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_MV,Gas_Natural,2050,49.4488,,PJ,,,
-DE_SH,DE_NI,Gas_Natural,2050,356.987,,PJ,,,
-DE_SH,DK,Gas_Natural,2050,218.763,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SL,FR,Gas_Natural,2018,795.826,,PJ,,,
-DE_SL,FR,Gas_Natural,2025,795.826,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SL,FR,Gas_Natural,2030,795.826,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SL,FR,Gas_Natural,2035,795.826,,PJ,,,
-DE_SL,FR,Gas_Natural,2040,795.826,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SL,FR,Gas_Natural,2045,795.826,,PJ,,,
-DE_SL,FR,Gas_Natural,2050,795.826,,PJ,,,
-DE_SN,CZ,Gas_Natural,2018,1847.34,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SN,DE_BB,Gas_Natural,2018,603.805,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SN,DE_ST,Gas_Natural,2018,1399.75,,PJ,,,
-DE_SN,DE_TH,Gas_Natural,2018,1153.34,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SN,CZ,Gas_Natural,2025,1847.34,,GW,,,
-DE_SN,DE_BB,Gas_Natural,2025,603.805,,GW,,,
-DE_SN,DE_ST,Gas_Natural,2025,1399.75,,GW,,,
-DE_SN,DE_TH,Gas_Natural,2025,1153.34,,GW,,,
-DE_SN,CZ,Gas_Natural,2030,1847.34,,GW,,,
-DE_SN,DE_BB,Gas_Natural,2030,603.805,,GW,,,
-DE_SN,DE_ST,Gas_Natural,2030,1399.75,,GW,,,
-DE_SN,DE_TH,Gas_Natural,2030,1153.34,,GW,,,
-DE_SN,CZ,Gas_Natural,2035,1847.34,,GW,,,
-DE_SN,DE_BB,Gas_Natural,2035,603.805,,GW,,,
-DE_SN,DE_ST,Gas_Natural,2035,1399.75,,GW,,,
-DE_SN,DE_TH,Gas_Natural,2035,1153.34,,GW,,,
-DE_SN,CZ,Gas_Natural,2040,1847.34,,GW,,,
-DE_SN,DE_BB,Gas_Natural,2040,603.805,,GW,,,
-DE_SN,DE_ST,Gas_Natural,2040,1399.75,,GW,,,
-DE_SN,DE_TH,Gas_Natural,2040,1153.34,,GW,,,
-DE_SN,CZ,Gas_Natural,2045,1847.34,,GW,,,
-DE_SN,DE_BB,Gas_Natural,2045,603.805,,GW,,,
-DE_SN,DE_ST,Gas_Natural,2045,1399.75,,GW,,,
-DE_SN,DE_TH,Gas_Natural,2045,1153.34,,GW,,,
-DE_SN,CZ,Gas_Natural,2050,1847.34,,GW,,,
-DE_SN,DE_BB,Gas_Natural,2050,603.805,,GW,,,
-DE_SN,DE_ST,Gas_Natural,2050,1399.75,,GW,,,
-DE_SN,DE_TH,Gas_Natural,2050,1153.34,,GW,,,
-DE_ST,DE_BB,Gas_Natural,2018,2250.25,,GW,,,
-DE_ST,DE_SN,Gas_Natural,2018,503.427,,GW,,,
-DE_ST,DE_TH,Gas_Natural,2018,1232.57,,GW,,,
-DE_ST,DE_BB,Gas_Natural,2025,2250.25,,GW,,,
-DE_ST,DE_SN,Gas_Natural,2025,503.427,,GW,,,
-DE_ST,DE_TH,Gas_Natural,2025,1232.57,,GW,,,
-DE_ST,DE_BB,Gas_Natural,2030,2250.25,,GW,,,
-DE_ST,DE_SN,Gas_Natural,2030,503.427,,GW,,,
-DE_ST,DE_TH,Gas_Natural,2030,1232.57,,GW,,,
-DE_ST,DE_BB,Gas_Natural,2035,2250.25,,GW,,,
-DE_ST,DE_SN,Gas_Natural,2035,503.427,,GW,,,
-DE_ST,DE_TH,Gas_Natural,2035,1232.57,,GW,,,
-DE_ST,DE_BB,Gas_Natural,2040,2250.25,,GW,,,
-DE_ST,DE_SN,Gas_Natural,2040,503.427,,GW,,,
-DE_ST,DE_TH,Gas_Natural,2040,1232.57,,GW,,,
-DE_ST,DE_BB,Gas_Natural,2045,2250.25,,GW,,,
-DE_ST,DE_SN,Gas_Natural,2045,503.427,,GW,,,
-DE_ST,DE_TH,Gas_Natural,2045,1232.57,,GW,,,
-DE_ST,DE_BB,Gas_Natural,2050,2250.25,,GW,,,
-DE_ST,DE_SN,Gas_Natural,2050,503.427,,GW,,,
-DE_ST,DE_TH,Gas_Natural,2050,1232.57,,GW,,,
-DE_TH,DE_HE,Gas_Natural,2018,356.987,,GW,,,
-DE_TH,DE_SN,Gas_Natural,2018,196.188,,GW,,,
-DE_TH,DE_ST,Gas_Natural,2018,67.1074,,GW,,,
-DE_TH,DE_HE,Gas_Natural,2025,356.987,,GW,,,
-DE_TH,DE_SN,Gas_Natural,2025,196.188,,GW,,,
-DE_TH,DE_ST,Gas_Natural,2025,67.1074,,GW,,,
-DE_TH,DE_HE,Gas_Natural,2030,356.987,,GW,,,
-DE_TH,DE_SN,Gas_Natural,2030,196.188,,GW,,,
-DE_TH,DE_ST,Gas_Natural,2030,67.1074,,GW,,,
-DE_TH,DE_HE,Gas_Natural,2035,356.987,,GW,,,
-DE_TH,DE_SN,Gas_Natural,2035,196.188,,GW,,,
-DE_TH,DE_ST,Gas_Natural,2035,67.1074,,GW,,,
-DE_TH,DE_HE,Gas_Natural,2040,356.987,,GW,,,
-DE_TH,DE_SN,Gas_Natural,2040,196.188,,GW,,,
-DE_TH,DE_ST,Gas_Natural,2040,67.1074,,GW,,,
-DE_TH,DE_HE,Gas_Natural,2045,356.987,,GW,,,
-DE_TH,DE_SN,Gas_Natural,2045,196.188,,GW,,,
-DE_TH,DE_ST,Gas_Natural,2045,67.1074,,GW,,,
-DE_TH,DE_HE,Gas_Natural,2050,356.987,,GW,,,
-DE_TH,DE_SN,Gas_Natural,2050,196.188,,GW,,,
-DE_TH,DE_ST,Gas_Natural,2050,67.1074,,GW,,,
-DK,DE,Gas_Natural,2018,129.8710836,,GW,,,
-DK,DE_SH,Gas_Natural,2018,119.564,,GW,,,
-DK,NL,Gas_Natural,2018,564.9794473,,GW,,,
-DK,SE,Gas_Natural,2018,125.5509883,,GW,,,
-DK,DE_SH,Gas_Natural,2025,119.564,,GW,,,
-DK,DE_SH,Gas_Natural,2030,119.564,,GW,,,
-DK,DE_SH,Gas_Natural,2035,119.564,,GW,,,
-DK,DE_SH,Gas_Natural,2040,119.564,,GW,,,
-DK,DE_SH,Gas_Natural,2045,119.564,,GW,,,
-DK,DE_SH,Gas_Natural,2050,119.564,,GW,,,
-EE,LV,Gas_Natural,2018,285.3431552,,GW,,,
-ES,FR,Gas_Natural,2018,321.0110496,,GW,,,
-ES,PT,Gas_Natural,2018,205.4470717,,GW,,,
-FR,BE,Gas_Natural,2018,354.752,,GW,,,
-FR,CH,Gas_Natural,2018,342.138,,GW,,,
-FR,DE,Gas_Natural,2018,0,,GW,,,
-FR,ES,Gas_Natural,2018,235.408103,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Gas_Natural,2025,354.752,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CH,Gas_Natural,2025,342.138,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Gas_Natural,2030,354.752,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CH,Gas_Natural,2030,342.138,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Gas_Natural,2035,354.752,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CH,Gas_Natural,2035,342.138,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Gas_Natural,2040,354.752,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CH,Gas_Natural,2040,342.138,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Gas_Natural,2045,354.752,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CH,Gas_Natural,2045,342.138,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Gas_Natural,2050,354.752,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CH,Gas_Natural,2050,342.138,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-HR,HU,Gas_Natural,2018,108.430399,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,HR,Gas_Natural,2018,109.4291,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,NONEU_Balkan,Gas_Natural,2018,202.6863767,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,RO,Gas_Natural,2018,73.61853404,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-IE,UK,Gas_Natural,2018,126.9777041,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,AT,Gas_Natural,2018,1633.041966,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,CH,Gas_Natural,2018,0,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,SI,Gas_Natural,2018,40.37605646,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-LT,LV,Gas_Natural,2018,96.1606433,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,EE,Gas_Natural,2018,261.088987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,LT,Gas_Natural,2018,92.73652543,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,BE,Gas_Natural,2018,1887.85,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE,Gas_Natural,2018,2629.827737,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NI,Gas_Natural,2018,660.889,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NRW,Gas_Natural,2018,1313.89,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,UK,Gas_Natural,2018,704.7975933,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,BE,Gas_Natural,2025,1887.85,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NI,Gas_Natural,2025,660.889,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NRW,Gas_Natural,2025,1313.89,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,BE,Gas_Natural,2030,1887.85,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NI,Gas_Natural,2030,660.889,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NRW,Gas_Natural,2030,1313.89,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,BE,Gas_Natural,2035,1887.85,,PJ,,,
-NL,DE_NI,Gas_Natural,2035,660.889,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NRW,Gas_Natural,2035,1313.89,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,BE,Gas_Natural,2040,1887.85,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NI,Gas_Natural,2040,660.889,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NRW,Gas_Natural,2040,1313.89,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,BE,Gas_Natural,2045,1887.85,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NI,Gas_Natural,2045,660.889,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NRW,Gas_Natural,2045,1313.89,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,BE,Gas_Natural,2050,1887.85,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NI,Gas_Natural,2050,660.889,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NRW,Gas_Natural,2050,1313.89,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NO,BE,Gas_Natural,2018,616.12,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NO,DE,Gas_Natural,2018,2354.98,,PJ,,,
-NO,FR,Gas_Natural,2018,800.08,,PJ,,,
-NO,NL,Gas_Natural,2018,754.7611798,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NO,UK,Gas_Natural,2018,2576.82,,PJ,,,
-NONEU_Balkan,NONEU_Balkan,Gas_Natural,2018,20.25936402,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE,Gas_Natural,2018,1328.329456,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BB,Gas_Natural,2018,1223.89,,PJ,,,
-PL,DE_BB,Gas_Natural,2025,1223.89,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BB,Gas_Natural,2030,1223.89,,PJ,,,
-PL,DE_BB,Gas_Natural,2035,1223.89,,PJ,,,
-PL,DE_BB,Gas_Natural,2040,1223.89,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BB,Gas_Natural,2045,1223.89,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BB,Gas_Natural,2050,1223.89,,PJ,,,
-PT,ES,Gas_Natural,2018,114.1372621,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,BG,Gas_Natural,2018,0,,GW,,,
-RO,HU,Gas_Natural,2018,0,,GW,,,
-SI,AT,Gas_Natural,2018,0,,GW,,,
-SI,HR,Gas_Natural,2018,76.61463717,,GW,,,
-SI,IT,Gas_Natural,2018,30.52414888,,GW,,,
-SK,AT,Gas_Natural,2018,2196.000922,,GW,,,
-SK,CZ,Gas_Natural,2018,741.8922035,,GW,,,
-SK,HU,Gas_Natural,2018,181.1429685,,GW,,,
-TR,GR,Gas_Natural,2018,0,,GW,,,
-UK,BE,Gas_Natural,2018,898.9736104,,GW,,,
-UK,IE,Gas_Natural,2018,487.9367954,,GW,,,
-UK,NL,Gas_Natural,2018,0,,GW,,,
-AT,AT,Power,2018,0,,GW,,,
-AT,IT,Power,2018,0.071,,GW,,,
-AT,CH,Power,2018,0.434,,GW,,,
-AT,HU,Power,2018,0.8,,GW,,,
-AT,CZ,Power,2018,0.9,,GW,,,
-AT,SI,Power,2018,0.950083333,,GW,,,
-AT,DE,Power,2018,2,,GW,,,
-AT,DE_HB,Power,2018,2,,GW,,,
-AT,DE_HB,Power,2025,2,,GW,,,
-AT,CH,Power,2025,0.434,,GW,,,
-AT,CZ,Power,2025,0.9,,GW,,,
-AT,DE_HB,Power,2030,2,,GW,,,
-AT,CH,Power,2030,0.434,,GW,,,
-AT,CZ,Power,2030,0.9,,GW,,,
-AT,DE_HB,Power,2035,2,,GW,,,
-AT,CH,Power,2035,0.434,,GW,,,
-AT,CZ,Power,2035,0.9,,GW,,,
-AT,DE_HB,Power,2040,2,,GW,,,
-AT,CH,Power,2040,0.434,,GW,,,
-AT,CZ,Power,2040,0.9,,GW,,,
-AT,DE_HB,Power,2045,2,,GW,,,
-AT,CH,Power,2045,0.434,,GW,,,
-AT,CZ,Power,2045,0.9,,GW,,,
-AT,DE_HB,Power,2050,2,,GW,,,
-AT,CH,Power,2050,0.434,,GW,,,
-AT,CZ,Power,2050,0.9,,GW,,,
-BE,BE,Power,2018,0,,GW,,,
-BE,NL,Power,2018,1.426,,GW,,,
-BE,FR,Power,2018,1.5,,GW,,,
-BE,FR,Power,2025,1.5,,GW,,,
-BE,FR,Power,2030,1.5,,GW,,,
-BE,FR,Power,2035,1.5,,GW,,,
-BE,FR,Power,2040,1.5,,GW,,,
-BE,FR,Power,2045,1.5,,GW,,,
-BE,FR,Power,2050,1.5,,GW,,,
-BE,NL,Power,2025,1.426,,GW,,,
-BE,NL,Power,2030,1.426,,GW,,,
-BE,NL,Power,2035,1.426,,GW,,,
-BE,NL,Power,2040,1.426,,GW,,,
-BE,NL,Power,2045,1.426,,GW,,,
-BE,NL,Power,2050,1.426,,GW,,,
-BG,BG,Power,2018,0,,GW,,,
-BG,GR,Power,2018,0.35,,GW,,,
-BG,NONEU_Balkan,Power,2018,0.35,,GW,,,
-BG,RO,Power,2018,0.15,,GW,,,
-BG,TR,Power,2018,1,,GW,,,
-CH,CH,Power,2018,0,,GW,,,
-CH,FR,Power,2018,1.1,,GW,,,
-CH,AT,Power,2018,1.2,,GW,,,
-CH,IT,Power,2018,1.336,,GW,,,
-CH,DE,Power,2018,3.5,,GW,,,
-CH,DE_BY,Power,2018,3.5,,GW,,,
-CH,FR,Power,2025,1.1,,GW,,,
-CH,DE_BY,Power,2025,3.5,,GW,,,
-CH,AT,Power,2025,1.2,,GW,,,
-CH,FR,Power,2030,1.1,,GW,,,
-CH,FR,Power,2035,1.1,,GW,,,
-CH,FR,Power,2040,1.1,,GW,,,
-CH,FR,Power,2045,1.1,,GW,,,
-CH,FR,Power,2050,1.1,,GW,,,
-CH,DE_BY,Power,2030,3.5,,GW,,,
-CH,AT,Power,2030,1.2,,GW,,,
-CH,DE_BY,Power,2035,3.5,,GW,,,
-CH,AT,Power,2035,1.2,,GW,,,
-CH,DE_BY,Power,2040,3.5,,GW,,,
-CH,AT,Power,2040,1.2,,GW,,,
-CH,DE_BY,Power,2045,3.5,,GW,,,
-CH,AT,Power,2045,1.2,,GW,,,
-CH,DE_BY,Power,2050,3.5,,GW,,,
-CH,AT,Power,2050,1.2,,GW,,,
-CZ,CZ,Power,2018,0,,GW,,,
-CZ,PL,Power,2018,0.1,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,AT,Power,2018,0.8,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,SK,Power,2018,1.7,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE,Power,2018,1.775,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_HB,Power,2018,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_ST,Power,2018,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_HB,Power,2025,0.8875,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_ST,Power,2025,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,AT,Power,2025,0.8,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,PL,Power,2025,0.1,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_HB,Power,2030,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_ST,Power,2030,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,AT,Power,2030,0.8,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,PL,Power,2030,0.1,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_HB,Power,2035,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_ST,Power,2035,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,AT,Power,2035,0.8,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,PL,Power,2035,0.1,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_HB,Power,2040,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_ST,Power,2040,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,AT,Power,2040,0.8,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,PL,Power,2040,0.1,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_HB,Power,2045,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_ST,Power,2045,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,AT,Power,2045,0.8,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,PL,Power,2045,0.1,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_HB,Power,2050,0.8875,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_ST,Power,2050,0.8875,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,AT,Power,2050,0.8,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,PL,Power,2050,0.1,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,DE,Power,2018,0,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,PL,Power,2018,0.1,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,SE,Power,2018,0.353958333,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,LU,Power,2018,0.98,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CZ,Power,2018,1.1,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,NO,Power,2018,1.444,,PJ,,,
-DE,FR,Power,2018,1.675,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,AT,Power,2018,2.2,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,NL,Power,2018,2.85,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,DK,Power,2018,3.1,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CH,Power,2018,3.5,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_BE,Power,2018,6.979,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_MV,Power,2018,5.446,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_SN,Power,2018,7.14,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_ST,Power,2018,9.52,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,PL,Power,2018,0.05,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_BE,Power,2025,6.979,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_MV,Power,2025,5.446,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_SN,Power,2025,7.14,,PJ,,,
-DE_BB,DE_ST,Power,2025,9.52,,PJ,,,
-DE_BB,PL,Power,2025,0.05,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_BE,Power,2030,6.979,,PJ,,,
-DE_BB,DE_MV,Power,2030,5.446,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_SN,Power,2030,7.14,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_ST,Power,2030,9.52,,PJ,,,
-DE_BB,PL,Power,2030,0.05,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_BE,Power,2035,6.979,,PJ,,,
-DE_BB,DE_MV,Power,2035,5.446,,PJ,,,
-DE_BB,DE_SN,Power,2035,7.14,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_ST,Power,2035,9.52,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,PL,Power,2035,0.05,,PJ,,,
-DE_BB,DE_BE,Power,2040,6.979,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_MV,Power,2040,5.446,,GW,,,
-DE_BB,DE_SN,Power,2040,7.14,,GW,,,
-DE_BB,DE_ST,Power,2040,9.52,,GW,,,
-DE_BB,PL,Power,2040,0.05,,GW,,,
-DE_BB,DE_BE,Power,2045,6.979,,GW,,,
-DE_BB,DE_MV,Power,2045,5.446,,GW,,,
-DE_BB,DE_SN,Power,2045,7.14,,GW,,,
-DE_BB,DE_ST,Power,2045,9.52,,GW,,,
-DE_BB,PL,Power,2045,0.05,,GW,,,
-DE_BB,DE_BE,Power,2050,6.979,,GW,,,
-DE_BB,DE_MV,Power,2050,5.446,,GW,,,
-DE_BB,DE_SN,Power,2050,7.14,,GW,,,
-DE_BB,DE_ST,Power,2050,9.52,,GW,,,
-DE_BB,PL,Power,2050,0.05,,GW,,,
-DE_BE,DE_BB,Power,2018,6.979,,GW,,,
-DE_BE,DE_ST,Power,2018,2.38,,GW,,,
-DE_BE,DE_BB,Power,2025,6.979,,GW,,,
-DE_BE,DE_ST,Power,2025,2.38,,GW,,,
-DE_BE,DE_BB,Power,2030,6.979,,GW,,,
-DE_BE,DE_ST,Power,2030,2.38,,GW,,,
-DE_BE,DE_BB,Power,2035,6.979,,GW,,,
-DE_BE,DE_ST,Power,2035,2.38,,GW,,,
-DE_BE,DE_BB,Power,2040,6.979,,GW,,,
-DE_BE,DE_ST,Power,2040,2.38,,GW,,,
-DE_BE,DE_BB,Power,2045,6.979,,GW,,,
-DE_BE,DE_ST,Power,2045,2.38,,GW,,,
-DE_BE,DE_BB,Power,2050,6.979,,GW,,,
-DE_BE,DE_ST,Power,2050,2.38,,GW,,,
-DE_BW,DE_BY,Power,2018,5.2752,,GW,,,
-DE_BW,DE_HE,Power,2018,3.8381,,GW,,,
-DE_BW,DE_RP,Power,2018,1.535,,GW,,,
-DE_BW,CH,Power,2018,3.5,,GW,,,
-DE_BW,DE_BY,Power,2025,5.2752,,GW,,,
-DE_BW,DE_HE,Power,2025,3.8381,,GW,,,
-DE_BW,DE_RP,Power,2025,1.535,,GW,,,
-DE_BW,CH,Power,2025,3.5,,GW,,,
-DE_BW,DE_BY,Power,2030,5.2752,,GW,,,
-DE_BW,DE_HE,Power,2030,3.8381,,GW,,,
-DE_BW,DE_RP,Power,2030,1.535,,GW,,,
-DE_BW,CH,Power,2030,3.5,,GW,,,
-DE_BW,DE_BY,Power,2035,5.2752,,GW,,,
-DE_BW,DE_HE,Power,2035,3.8381,,GW,,,
-DE_BW,DE_RP,Power,2035,1.535,,GW,,,
-DE_BW,CH,Power,2035,3.5,,GW,,,
-DE_BW,DE_BY,Power,2040,5.2752,,GW,,,
-DE_BW,DE_HE,Power,2040,3.8381,,GW,,,
-DE_BW,DE_RP,Power,2040,1.535,,GW,,,
-DE_BW,CH,Power,2040,3.5,,GW,,,
-DE_BW,DE_BY,Power,2045,5.2752,,GW,,,
-DE_BW,DE_HE,Power,2045,3.8381,,GW,,,
-DE_BW,DE_RP,Power,2045,1.535,,GW,,,
-DE_BW,CH,Power,2045,3.5,,GW,,,
-DE_BW,DE_BY,Power,2050,5.2752,,GW,,,
-DE_BW,DE_HE,Power,2050,3.8381,,GW,,,
-DE_BW,DE_RP,Power,2050,1.535,,GW,,,
-DE_BW,CH,Power,2050,3.5,,GW,,,
-DE_BY,DE_BW,Power,2018,5.2752,,GW,,,
-DE_BY,DE_HE,Power,2018,3.4104,,GW,,,
-DE_BY,DE_TH,Power,2018,4.76,,GW,,,
-DE_BY,AT,Power,2018,2.2,,GW,,,
-DE_BY,CZ,Power,2018,0.55,,GW,,,
-DE_BY,DE_BW,Power,2025,5.2752,,GW,,,
-DE_BY,DE_HE,Power,2025,3.4104,,GW,,,
-DE_BY,DE_TH,Power,2025,4.76,,GW,,,
-DE_BY,AT,Power,2025,2.2,,GW,,,
-DE_BY,CZ,Power,2025,0.55,,GW,,,
-DE_BY,DE_BW,Power,2030,5.2752,,GW,,,
-DE_BY,DE_HE,Power,2030,3.4104,,GW,,,
-DE_BY,DE_TH,Power,2030,4.76,,GW,,,
-DE_BY,AT,Power,2030,2.2,,GW,,,
-DE_BY,CZ,Power,2030,0.55,,GW,,,
-DE_BY,DE_BW,Power,2035,5.2752,,GW,,,
-DE_BY,DE_HE,Power,2035,3.4104,,GW,,,
-DE_BY,DE_TH,Power,2035,4.76,,GW,,,
-DE_BY,AT,Power,2035,2.2,,GW,,,
-DE_BY,CZ,Power,2035,0.55,,GW,,,
-DE_BY,DE_BW,Power,2040,5.2752,,GW,,,
-DE_BY,DE_HE,Power,2040,3.4104,,GW,,,
-DE_BY,DE_TH,Power,2040,4.76,,GW,,,
-DE_BY,AT,Power,2040,2.2,,GW,,,
-DE_BY,CZ,Power,2040,0.55,,GW,,,
-DE_BY,DE_BW,Power,2045,5.2752,,GW,,,
-DE_BY,DE_HE,Power,2045,3.4104,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BY,DE_TH,Power,2045,4.76,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BY,AT,Power,2045,2.2,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BY,CZ,Power,2045,0.55,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BY,DE_BW,Power,2050,5.2752,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BY,DE_HE,Power,2050,3.4104,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BY,DE_TH,Power,2050,4.76,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BY,AT,Power,2050,2.2,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BY,CZ,Power,2050,0.55,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HB,DE_NI,Power,2018,3.066,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HB,DE_NI,Power,2025,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HB,DE_NI,Power,2030,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HB,DE_NI,Power,2035,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HB,DE_NI,Power,2040,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HB,DE_NI,Power,2045,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HB,DE_NI,Power,2050,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BW,Power,2018,3.8381,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BY,Power,2018,3.4104,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NI,Power,2018,0.686,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NRW,Power,2018,6.636,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_RP,Power,2018,12.6931,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_TH,Power,2018,2.38,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BW,Power,2025,3.8381,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BY,Power,2025,3.4104,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NI,Power,2025,0.686,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NRW,Power,2025,6.636,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_RP,Power,2025,12.6931,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_TH,Power,2025,2.38,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BW,Power,2030,3.8381,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BY,Power,2030,3.4104,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NI,Power,2030,0.686,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NRW,Power,2030,6.636,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_RP,Power,2030,12.6931,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_TH,Power,2030,2.38,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BW,Power,2035,3.8381,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BY,Power,2035,3.4104,,PJ,,,
-DE_HE,DE_NI,Power,2035,0.686,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NRW,Power,2035,6.636,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_RP,Power,2035,12.6931,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_TH,Power,2035,2.38,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BW,Power,2040,3.8381,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BY,Power,2040,3.4104,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NI,Power,2040,0.686,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NRW,Power,2040,6.636,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_RP,Power,2040,12.6931,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_TH,Power,2040,2.38,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BW,Power,2045,3.8381,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BY,Power,2045,3.4104,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NI,Power,2045,0.686,,PJ,,,
-DE_HE,DE_NRW,Power,2045,6.636,,PJ,,,
-DE_HE,DE_RP,Power,2045,12.6931,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_TH,Power,2045,2.38,,PJ,,,
-DE_HE,DE_BW,Power,2050,3.8381,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BY,Power,2050,3.4104,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NI,Power,2050,0.686,,PJ,,,
-DE_HE,DE_NRW,Power,2050,6.636,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_RP,Power,2050,12.6931,,PJ,,,
-DE_HE,DE_TH,Power,2050,2.38,,PJ,,,
-DE_HH,DE_NI,Power,2018,5.1044,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HH,DE_SH,Power,2018,5.7904,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HH,DE_NI,Power,2025,5.1044,,PJ,,,
-DE_HH,DE_SH,Power,2025,5.7904,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HH,DE_NI,Power,2030,5.1044,,GW,,,
-DE_HH,DE_SH,Power,2030,5.7904,,GW,,,
-DE_HH,DE_NI,Power,2035,5.1044,,GW,,,
-DE_HH,DE_SH,Power,2035,5.7904,,GW,,,
-DE_HH,DE_NI,Power,2040,5.1044,,GW,,,
-DE_HH,DE_SH,Power,2040,5.7904,,GW,,,
-DE_HH,DE_NI,Power,2045,5.1044,,GW,,,
-DE_HH,DE_SH,Power,2045,5.7904,,GW,,,
-DE_HH,DE_NI,Power,2050,5.1044,,GW,,,
-DE_HH,DE_SH,Power,2050,5.7904,,GW,,,
-DE_MV,DE_BB,Power,2018,5.446,,GW,,,
-DE_MV,DE_SH,Power,2018,5.1044,,GW,,,
-DE_MV,DE_BB,Power,2025,5.446,,GW,,,
-DE_MV,DE_SH,Power,2025,5.1044,,GW,,,
-DE_MV,DE_BB,Power,2030,5.446,,GW,,,
-DE_MV,DE_SH,Power,2030,5.1044,,GW,,,
-DE_MV,DE_BB,Power,2035,5.446,,GW,,,
-DE_MV,DE_SH,Power,2035,5.1044,,GW,,,
-DE_MV,DE_BB,Power,2040,5.446,,GW,,,
-DE_MV,DE_SH,Power,2040,5.1044,,GW,,,
-DE_MV,DE_BB,Power,2045,5.446,,GW,,,
-DE_MV,DE_SH,Power,2045,5.1044,,GW,,,
-DE_MV,DE_BB,Power,2050,5.446,,GW,,,
-DE_MV,DE_SH,Power,2050,5.1044,,GW,,,
-DE_NI,DE_HB,Power,2018,3.066,,GW,,,
-DE_NI,DE_HE,Power,2018,0.686,,GW,,,
-DE_NI,DE_HH,Power,2018,5.1044,,GW,,,
-DE_NI,DE_NRW,Power,2018,17.9473,,GW,,,
-DE_NI,DE_SH,Power,2018,5.6182,,GW,,,
-DE_NI,DE_ST,Power,2018,2.38,,GW,,,
-DE_NI,NL,Power,2018,1.425,,GW,,,
-DE_NI,DE_HB,Power,2025,3.066,,GW,,,
-DE_NI,DE_HE,Power,2025,0.686,,GW,,,
-DE_NI,DE_HH,Power,2025,5.1044,,GW,,,
-DE_NI,DE_NRW,Power,2025,17.9473,,GW,,,
-DE_NI,DE_SH,Power,2025,5.6182,,GW,,,
-DE_NI,DE_ST,Power,2025,2.38,,GW,,,
-DE_NI,NL,Power,2025,1.425,,GW,,,
-DE_NI,DE_HB,Power,2030,3.066,,GW,,,
-DE_NI,DE_HE,Power,2030,0.686,,GW,,,
-DE_NI,DE_HH,Power,2030,5.1044,,GW,,,
-DE_NI,DE_NRW,Power,2030,17.9473,,GW,,,
-DE_NI,DE_SH,Power,2030,5.6182,,GW,,,
-DE_NI,DE_ST,Power,2030,2.38,,GW,,,
-DE_NI,NL,Power,2030,1.425,,GW,,,
-DE_NI,DE_HB,Power,2035,3.066,,GW,,,
-DE_NI,DE_HE,Power,2035,0.686,,GW,,,
-DE_NI,DE_HH,Power,2035,5.1044,,GW,,,
-DE_NI,DE_NRW,Power,2035,17.9473,,GW,,,
-DE_NI,DE_SH,Power,2035,5.6182,,GW,,,
-DE_NI,DE_ST,Power,2035,2.38,,GW,,,
-DE_NI,NL,Power,2035,1.425,,GW,,,
-DE_NI,DE_HB,Power,2040,3.066,,GW,,,
-DE_NI,DE_HE,Power,2040,0.686,,GW,,,
-DE_NI,DE_HH,Power,2040,5.1044,,GW,,,
-DE_NI,DE_NRW,Power,2040,17.9473,,GW,,,
-DE_NI,DE_SH,Power,2040,5.6182,,GW,,,
-DE_NI,DE_ST,Power,2040,2.38,,GW,,,
-DE_NI,NL,Power,2040,1.425,,GW,,,
-DE_NI,DE_HB,Power,2045,3.066,,GW,,,
-DE_NI,DE_HE,Power,2045,0.686,,GW,,,
-DE_NI,DE_HH,Power,2045,5.1044,,GW,,,
-DE_NI,DE_NRW,Power,2045,17.9473,,GW,,,
-DE_NI,DE_SH,Power,2045,5.6182,,GW,,,
-DE_NI,DE_ST,Power,2045,2.38,,GW,,,
-DE_NI,NL,Power,2045,1.425,,GW,,,
-DE_NI,DE_HB,Power,2050,3.066,,GW,,,
-DE_NI,DE_HE,Power,2050,0.686,,GW,,,
-DE_NI,DE_HH,Power,2050,5.1044,,GW,,,
-DE_NI,DE_NRW,Power,2050,17.9473,,GW,,,
-DE_NI,DE_SH,Power,2050,5.6182,,GW,,,
-DE_NI,DE_ST,Power,2050,2.38,,GW,,,
-DE_NI,NL,Power,2050,1.425,,GW,,,
-DE_NRW,DE_HE,Power,2018,6.636,,GW,,,
-DE_NRW,DE_NI,Power,2018,17.9473,,GW,,,
-DE_NRW,DE_RP,Power,2018,16.2547,,GW,,,
-DE_NRW,NL,Power,2018,1.425,,GW,,,
-DE_NRW,DE_HE,Power,2025,6.636,,GW,,,
-DE_NRW,DE_NI,Power,2025,17.9473,,GW,,,
-DE_NRW,DE_RP,Power,2025,16.2547,,GW,,,
-DE_NRW,NL,Power,2025,1.425,,GW,,,
-DE_NRW,DE_HE,Power,2030,6.636,,GW,,,
-DE_NRW,DE_NI,Power,2030,17.9473,,GW,,,
-DE_NRW,DE_RP,Power,2030,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,NL,Power,2030,1.425,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_HE,Power,2035,6.636,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_NI,Power,2035,17.9473,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_RP,Power,2035,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,NL,Power,2035,1.425,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_HE,Power,2040,6.636,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_NI,Power,2040,17.9473,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_RP,Power,2040,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,NL,Power,2040,1.425,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_HE,Power,2045,6.636,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_NI,Power,2045,17.9473,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_RP,Power,2045,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,NL,Power,2045,1.425,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_HE,Power,2050,6.636,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_NI,Power,2050,17.9473,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_RP,Power,2050,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,NL,Power,2050,1.425,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Power,2018,1.535,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Power,2018,12.6931,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Power,2018,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Power,2018,6.9902,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Power,2025,1.535,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Power,2025,12.6931,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Power,2025,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Power,2025,6.9902,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Power,2030,1.535,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Power,2030,12.6931,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Power,2030,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Power,2030,6.9902,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Power,2035,1.535,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Power,2035,12.6931,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Power,2035,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Power,2035,6.9902,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Power,2040,1.535,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Power,2040,12.6931,,PJ,,,
-DE_RP,DE_NRW,Power,2040,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Power,2040,6.9902,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Power,2045,1.535,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Power,2045,12.6931,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Power,2045,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Power,2045,6.9902,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Power,2050,1.535,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Power,2050,12.6931,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Power,2050,16.2547,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Power,2050,6.9902,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HB,Power,2018,3.066,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HH,Power,2018,5.7904,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_MV,Power,2018,5.1044,,PJ,,,
-DE_SH,DE_NI,Power,2018,5.6182,,PJ,,,
-DE_SH,DE_HB,Power,2025,3.066,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HH,Power,2025,5.7904,,PJ,,,
-DE_SH,DE_MV,Power,2025,5.1044,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_NI,Power,2025,5.6182,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HB,Power,2030,3.066,,PJ,,,
-DE_SH,DE_HH,Power,2030,5.7904,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_MV,Power,2030,5.1044,,PJ,,,
-DE_SH,DE_NI,Power,2030,5.6182,,PJ,,,
-DE_SH,DE_HB,Power,2035,3.066,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HH,Power,2035,5.7904,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_MV,Power,2035,5.1044,,PJ,,,
-DE_SH,DE_NI,Power,2035,5.6182,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HB,Power,2040,3.066,,GW,,,
-DE_SH,DE_HH,Power,2040,5.7904,,GW,,,
-DE_SH,DE_MV,Power,2040,5.1044,,GW,,,
-DE_SH,DE_NI,Power,2040,5.6182,,GW,,,
-DE_SH,DE_HB,Power,2045,3.066,,GW,,,
-DE_SH,DE_HH,Power,2045,5.7904,,GW,,,
-DE_SH,DE_MV,Power,2045,5.1044,,GW,,,
-DE_SH,DE_NI,Power,2045,5.6182,,GW,,,
-DE_SH,DE_HB,Power,2050,3.066,,GW,,,
-DE_SH,DE_HH,Power,2050,5.7904,,GW,,,
-DE_SH,DE_MV,Power,2050,5.1044,,GW,,,
-DE_SH,DE_NI,Power,2050,5.6182,,GW,,,
-DE_SL,DE_RP,Power,2018,6.9902,,GW,,,
-DE_SL,DE_RP,Power,2025,6.9902,,GW,,,
-DE_SL,DE_RP,Power,2030,6.9902,,GW,,,
-DE_SL,DE_RP,Power,2035,6.9902,,GW,,,
-DE_SL,DE_RP,Power,2040,6.9902,,GW,,,
-DE_SL,DE_RP,Power,2045,6.9902,,GW,,,
-DE_SL,DE_RP,Power,2050,6.9902,,GW,,,
-DE_SN,DE_BB,Power,2018,7.14,,GW,,,
-DE_SN,DE_ST,Power,2018,0.686,,GW,,,
-DE_SN,DE_TH,Power,2018,6.132,,GW,,,
-DE_SN,CZ,Power,2018,0.55,,GW,,,
-DE_SN,PL,Power,2018,0.05,,GW,,,
-DE_SN,DE_BB,Power,2025,7.14,,GW,,,
-DE_SN,DE_ST,Power,2025,0.686,,GW,,,
-DE_SN,DE_TH,Power,2025,6.132,,GW,,,
-DE_SN,CZ,Power,2025,0.55,,GW,,,
-DE_SN,PL,Power,2025,0.05,,GW,,,
-DE_SN,DE_BB,Power,2030,7.14,,GW,,,
-DE_SN,DE_ST,Power,2030,0.686,,GW,,,
-DE_SN,DE_TH,Power,2030,6.132,,GW,,,
-DE_SN,CZ,Power,2030,0.55,,GW,,,
-DE_SN,PL,Power,2030,0.05,,GW,,,
-DE_SN,DE_BB,Power,2035,7.14,,GW,,,
-DE_SN,DE_ST,Power,2035,0.686,,GW,,,
-DE_SN,DE_TH,Power,2035,6.132,,GW,,,
-DE_SN,CZ,Power,2035,0.55,,GW,,,
-DE_SN,PL,Power,2035,0.05,,GW,,,
-DE_SN,DE_BB,Power,2040,7.14,,GW,,,
-DE_SN,DE_ST,Power,2040,0.686,,GW,,,
-DE_SN,DE_TH,Power,2040,6.132,,GW,,,
-DE_SN,CZ,Power,2040,0.55,,GW,,,
-DE_SN,PL,Power,2040,0.05,,GW,,,
-DE_SN,DE_BB,Power,2045,7.14,,GW,,,
-DE_SN,DE_ST,Power,2045,0.686,,GW,,,
-DE_SN,DE_TH,Power,2045,6.132,,GW,,,
-DE_SN,CZ,Power,2045,0.55,,GW,,,
-DE_SN,PL,Power,2045,0.05,,GW,,,
-DE_SN,DE_BB,Power,2050,7.14,,GW,,,
-DE_SN,DE_ST,Power,2050,0.686,,GW,,,
-DE_SN,DE_TH,Power,2050,6.132,,GW,,,
-DE_SN,CZ,Power,2050,0.55,,GW,,,
-DE_SN,PL,Power,2050,0.05,,GW,,,
-DE_ST,DE_BB,Power,2018,9.52,,GW,,,
-DE_ST,DE_BE,Power,2018,2.38,,GW,,,
-DE_ST,DE_NI,Power,2018,2.38,,GW,,,
-DE_ST,DE_SN,Power,2018,0.686,,GW,,,
-DE_ST,DE_TH,Power,2018,3.066,,GW,,,
-DE_ST,DE_BB,Power,2025,9.52,,GW,,,
-DE_ST,DE_BE,Power,2025,2.38,,GW,,,
-DE_ST,DE_NI,Power,2025,2.38,,GW,,,
-DE_ST,DE_SN,Power,2025,0.686,,GW,,,
-DE_ST,DE_TH,Power,2025,3.066,,GW,,,
-DE_ST,DE_BB,Power,2030,9.52,,GW,,,
-DE_ST,DE_BE,Power,2030,2.38,,GW,,,
-DE_ST,DE_NI,Power,2030,2.38,,GW,,,
-DE_ST,DE_SN,Power,2030,0.686,,GW,,,
-DE_ST,DE_TH,Power,2030,3.066,,GW,,,
-DE_ST,DE_BB,Power,2035,9.52,,GW,,,
-DE_ST,DE_BE,Power,2035,2.38,,GW,,,
-DE_ST,DE_NI,Power,2035,2.38,,GW,,,
-DE_ST,DE_SN,Power,2035,0.686,,GW,,,
-DE_ST,DE_TH,Power,2035,3.066,,GW,,,
-DE_ST,DE_BB,Power,2040,9.52,,GW,,,
-DE_ST,DE_BE,Power,2040,2.38,,GW,,,
-DE_ST,DE_NI,Power,2040,2.38,,GW,,,
-DE_ST,DE_SN,Power,2040,0.686,,GW,,,
-DE_ST,DE_TH,Power,2040,3.066,,GW,,,
-DE_ST,DE_BB,Power,2045,9.52,,GW,,,
-DE_ST,DE_BE,Power,2045,2.38,,GW,,,
-DE_ST,DE_NI,Power,2045,2.38,,GW,,,
-DE_ST,DE_SN,Power,2045,0.686,,GW,,,
-DE_ST,DE_TH,Power,2045,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_ST,DE_BB,Power,2050,9.52,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_ST,DE_BE,Power,2050,2.38,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_ST,DE_NI,Power,2050,2.38,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_ST,DE_SN,Power,2050,0.686,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_ST,DE_TH,Power,2050,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_BY,Power,2018,4.76,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_HE,Power,2018,2.38,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_SN,Power,2018,6.132,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_ST,Power,2018,3.066,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_BY,Power,2025,4.76,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_HE,Power,2025,2.38,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_SN,Power,2025,6.132,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_ST,Power,2025,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_BY,Power,2030,4.76,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_HE,Power,2030,2.38,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_SN,Power,2030,6.132,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_ST,Power,2030,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_BY,Power,2035,4.76,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_HE,Power,2035,2.38,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_SN,Power,2035,6.132,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_ST,Power,2035,3.066,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_BY,Power,2040,4.76,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_HE,Power,2040,2.38,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_SN,Power,2040,6.132,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_ST,Power,2040,3.066,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_BY,Power,2045,4.76,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_HE,Power,2045,2.38,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_SN,Power,2045,6.132,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_ST,Power,2045,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_BY,Power,2050,4.76,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_HE,Power,2050,2.38,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_SN,Power,2050,6.132,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_ST,Power,2050,3.066,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,DK,Power,2018,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,NL,Power,2018,0.7,,PJ,,,
-DK,UK,Power,2018,1.4,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,NO,Power,2018,1.7,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,SE,Power,2018,2.44,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,DE,Power,2018,3.1,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,FI,Power,2018,0.365,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,EE,Power,2018,0,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,LV,Power,2018,0.8,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,ES,Power,2018,0,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,FR,Power,2018,1.070833333,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,PT,Power,2018,1.46875,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FI,FI,Power,2018,0,,PJ,,,
-FI,EE,Power,2018,0.365,,PJ,,,
-FI,SE,Power,2018,1.95,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Power,2025,2.6,,PJ,,,
-FR,BE,Power,2030,2.6,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Power,2035,2.6,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Power,2040,2.6,,PJ,,,
-FR,BE,Power,2045,2.6,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Power,2050,2.6,,PJ,,,
-FR,FR,Power,2018,0,,PJ,,,
-FR,IT,Power,2018,0.866,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,ES,Power,2018,1.241666667,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,DE,Power,2018,1.8,,PJ,,,
-FR,UK,Power,2018,2,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Power,2018,2.6,,GW,,,
-FR,CH,Power,2018,3.2,,GW,,,
-FR,DE_BY,Power,2018,0.984,,GW,,,
-FR,DE_SN,Power,2018,0.816,,GW,,,
-FR,DE_BY,Power,2025,0.984,,GW,,,
-FR,DE_SN,Power,2025,0.816,,GW,,,
-FR,CH,Power,2025,3.2,,GW,,,
-FR,DE_BY,Power,2030,0.984,,GW,,,
-FR,DE_SN,Power,2030,0.816,,GW,,,
-FR,CH,Power,2030,3.2,,GW,,,
-FR,DE_BY,Power,2035,0.984,,GW,,,
-FR,DE_SN,Power,2035,0.816,,GW,,,
-FR,CH,Power,2035,3.2,,GW,,,
-FR,DE_BY,Power,2040,0.984,,GW,,,
-FR,DE_SN,Power,2040,0.816,,GW,,,
-FR,CH,Power,2040,3.2,,GW,,,
-FR,DE_BY,Power,2045,0.984,,GW,,,
-FR,DE_SN,Power,2045,0.816,,GW,,,
-FR,CH,Power,2045,3.2,,GW,,,
-FR,DE_BY,Power,2050,0.984,,GW,,,
-FR,DE_SN,Power,2050,0.816,,GW,,,
-FR,CH,Power,2050,3.2,,GW,,,
-GR,BG,Power,2018,0.5,,GW,,,
-GR,GR,Power,2018,0,,GW,,,
-GR,IT,Power,2018,0.5,,GW,,,
-GR,NONEU_Balkan,Power,2018,0.3,,GW,,,
-GR,TR,Power,2018,1,,GW,,,
-HR,HR,Power,2018,0,,GW,,,
-HR,HU,Power,2018,1,,GW,,,
-HR,NONEU_Balkan,Power,2018,1.1,,GW,,,
-HR,SI,Power,2018,1,,GW,,,
-HU,AT,Power,2018,0.8,,GW,,,
-HU,HR,Power,2018,1.2,,GW,,,
-HU,HU,Power,2018,0,,GW,,,
-HU,NONEU_Balkan,Power,2018,0.7,,GW,,,
-HU,RO,Power,2018,0.4,,GW,,,
-HU,SK,Power,2018,0.8,,GW,,,
-IE,IE,Power,2018,0,,GW,,,
-IE,UK,Power,2018,0.45,,GW,,,
-IT,IT,Power,2018,0,,GW,,,
-IT,AT,Power,2018,0.1,,GW,,,
-IT,SI,Power,2018,0.18,,GW,,,
-IT,GR,Power,2018,0.5,,GW,,,
-IT,FR,Power,2018,1.16,,GW,,,
-IT,CH,Power,2018,1.91,,GW,,,
-LT,LT,Power,2018,0,,GW,,,
-LT,LV,Power,2018,1.5,,GW,,,
-LU,LU,Power,2018,0,,GW,,,
-LU,DE,Power,2018,0.98,,GW,,,
-LV,EE,Power,2018,0.75,,GW,,,
-LV,LT,Power,2018,1.45,,GW,,,
-LV,LV,Power,2018,0,,GW,,,
-NL,BE,Power,2025,1.426,,GW,,,
-NL,BE,Power,2030,1.426,,GW,,,
-NL,BE,Power,2035,1.426,,GW,,,
-NL,BE,Power,2040,1.426,,GW,,,
-NL,BE,Power,2045,1.426,,GW,,,
-NL,BE,Power,2050,1.426,,GW,,,
-NL,NL,Power,2018,0,,GW,,,
-NL,DK,Power,2018,0.7,,GW,,,
-NL,NO,Power,2018,0.723,,GW,,,
-NL,UK,Power,2018,1.016,,GW,,,
-NL,BE,Power,2018,1.426,,GW,,,
-NL,DE_NRW,Power,2018,1.2,,GW,,,
-NL,DE_RP,Power,2018,1.2,,GW,,,
-NL,DE,Power,2018,2.4,,GW,,,
-NL,DE_NRW,Power,2025,1.2,,GW,,,
-NL,DE_RP,Power,2025,1.2,,GW,,,
-NL,DE_NRW,Power,2030,1.2,,GW,,,
-NL,DE_RP,Power,2030,1.2,,GW,,,
-NL,DE_NRW,Power,2035,1.2,,GW,,,
-NL,DE_RP,Power,2035,1.2,,GW,,,
-NL,DE_NRW,Power,2040,1.2,,GW,,,
-NL,DE_RP,Power,2040,1.2,,GW,,,
-NL,DE_NRW,Power,2045,1.2,,GW,,,
-NL,DE_RP,Power,2045,1.2,,GW,,,
-NL,DE_NRW,Power,2050,1.2,,GW,,,
-NL,DE_RP,Power,2050,1.2,,GW,,,
-NO,NO,Power,2018,0,,GW,,,
-NO,NL,Power,2018,0.723,,GW,,,
-NO,DE,Power,2018,1.444,,GW,,,
-NO,DK,Power,2018,1.7,,GW,,,
-NO,UK,Power,2018,2.8,,GW,,,
-NO,SE,Power,2018,3.445,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NONEU_Balkan,BG,Power,2018,0.35,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NONEU_Balkan,GR,Power,2018,0.3,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NONEU_Balkan,HR,Power,2018,1.1,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NONEU_Balkan,HU,Power,2018,0.7,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NONEU_Balkan,NONEU_Balkan,Power,2018,0,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NONEU_Balkan,RO,Power,2018,0.2,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BE,Power,2018,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_ST,Power,2018,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BE,Power,2025,0.1125,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_ST,Power,2025,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CZ,Power,2025,0.1,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BE,Power,2030,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_ST,Power,2030,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CZ,Power,2030,0.1,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,PL,Power,2018,0,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CZ,Power,2018,0.1,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BE,Power,2035,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_ST,Power,2035,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CZ,Power,2035,0.1,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE,Power,2018,0.225,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,SE,Power,2018,0.265916667,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,SK,Power,2018,0.6,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BE,Power,2040,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_ST,Power,2040,0.1125,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CZ,Power,2040,0.1,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BE,Power,2045,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_ST,Power,2045,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CZ,Power,2045,0.1,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BE,Power,2050,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_ST,Power,2050,0.1125,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,CZ,Power,2050,0.1,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PT,ES,Power,2018,1.5,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PT,PT,Power,2018,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,BG,Power,2018,0.6,,PJ,,,
-RO,HU,Power,2018,0.7,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,NONEU_Balkan,Power,2018,0.2,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,RO,Power,2018,0,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,SE,Power,2018,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,PL,Power,2018,0.341666667,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,DE,Power,2018,0.61,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,FI,Power,2018,2.25,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,DK,Power,2018,2.44,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SE,NO,Power,2018,3.695,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,AT,Power,2018,0.95,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,HR,Power,2018,1.2,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,IT,Power,2018,0.203,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,SI,Power,2018,0,,PJ,,,
-SK,CZ,Power,2018,1.2,,PJ,,,
-SK,HU,Power,2018,1.3,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,PL,Power,2018,0.5,,PJ,,,
-SK,SK,Power,2018,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-TR,BG,Power,2018,1,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-TR,GR,Power,2018,1,,PJ,,,
-TR,TR,Power,2018,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,UK,Power,2018,0,,PJ,,,
-UK,IE,Power,2018,0.45,,PJ,,,
-UK,NL,Power,2018,1.016,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,DK,Power,2018,1.4,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,FR,Power,2018,2,,PJ,,,
-UK,NO,Power,2018,2.8,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+Region,Region.1,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
+AT,DE,Gas_Natural,All,568.6889,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+AT,DE_BY,Gas_Natural,All,834.849,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+AT,HU,Gas_Natural,All,185.0579,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+AT,IT,Gas_Natural,All,1633.042,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+AT,SI,Gas_Natural,All,160.5055,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+AT,SK,Gas_Natural,All,353.1407,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+BE,DE,Gas_Natural,All,446.6692,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+BE,DE_NRW,Gas_Natural,All,380.373,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+BE,FR,Gas_Natural,All,1116.81,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+BE,LU,Gas_Natural,All,54.2152,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+BE,NL,Gas_Natural,All,516.361,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+BE,UK,Gas_Natural,All,1146.2235,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+BG,GR,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+BG,NONEU_Balkan,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+BG,RO,Gas_Natural,All,20.5162,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+BG,TR,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+CH,DE_BW,Gas_Natural,All,227.041,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+CH,FR,Gas_Natural,All,131.389,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+CH,IT,Gas_Natural,All,888.2223,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+CZ,DE,Gas_Natural,All,1575.6649,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+CZ,DE_BY,Gas_Natural,All,1191.57,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+CZ,DE_SN,Gas_Natural,All,260.545,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+CZ,PL,Gas_Natural,All,36.7891,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+CZ,SK,Gas_Natural,All,994.1356,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE,AT,Gas_Natural,All,517.0418,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE,BE,Gas_Natural,All,502.4893,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE,CH,Gas_Natural,All,830.3343,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE,CZ,Gas_Natural,All,2641.1206,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE,DK,Gas_Natural,All,144.3334,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE,FR,Gas_Natural,All,823.3577,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE,LU,Gas_Natural,All,55.2139,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE,NL,Gas_Natural,All,1329.4267,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE,PL,Gas_Natural,All,303.919,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BB,DE_MV,Gas_Natural,All,913.409,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BB,DE_SN,Gas_Natural,All,2046.42,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BB,DE_ST,Gas_Natural,All,3261.64,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BB,PL,Gas_Natural,All,306.794,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BW,CH,Gas_Natural,All,429.249,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BW,DE_BY,Gas_Natural,All,291.397,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BW,DE_RP,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BY,AT,Gas_Natural,All,804.104,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BY,DE_BW,Gas_Natural,All,78.1343,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BY,DE_HE,Gas_Natural,All,1764.63,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_HE,DE_BW,Gas_Natural,All,445.461,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_HE,DE_BY,Gas_Natural,All,787.933,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_HE,DE_NRW,Gas_Natural,All,755.143,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_HE,DE_RP,Gas_Natural,All,926.304,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_MV,DE_BB,Gas_Natural,All,1932.72,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_MV,DE_NI,Gas_Natural,All,1899.98,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,DE_HB,Gas_Natural,All,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,DE_HH,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,DE_NRW,Gas_Natural,All,1234.41,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,DE_SH,Gas_Natural,All,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,DE_ST,Gas_Natural,All,1165.46,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,NL,Gas_Natural,All,750.103,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,BE,Gas_Natural,All,525.558,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,DE_HE,Gas_Natural,All,1144.92,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,DE_NI,Gas_Natural,All,1739.25,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,DE_RP,Gas_Natural,All,1771.43,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,NL,Gas_Natural,All,122.981,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_RP,DE_BW,Gas_Natural,All,1414.45,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_RP,DE_HE,Gas_Natural,All,1714.24,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_RP,DE_NRW,Gas_Natural,All,445.461,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_RP,DE_SL,Gas_Natural,All,727.414,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SH,DE_HH,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SH,DE_MV,Gas_Natural,All,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SH,DE_NI,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SH,DK,Gas_Natural,All,218.763,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SL,FR,Gas_Natural,All,795.826,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SN,CZ,Gas_Natural,All,1847.34,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SN,DE_BB,Gas_Natural,All,603.805,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SN,DE_ST,Gas_Natural,All,1399.75,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SN,DE_TH,Gas_Natural,All,1153.34,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_ST,DE_BB,Gas_Natural,All,2250.25,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_ST,DE_SN,Gas_Natural,All,503.427,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_ST,DE_TH,Gas_Natural,All,1232.57,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_TH,DE_HE,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_TH,DE_SN,Gas_Natural,All,196.188,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_TH,DE_ST,Gas_Natural,All,67.1074,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DK,DE,Gas_Natural,All,129.8711,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DK,DE_SH,Gas_Natural,All,119.564,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DK,NL,Gas_Natural,All,564.9794,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DK,SE,Gas_Natural,All,125.551,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+EE,LV,Gas_Natural,All,285.3432,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+ES,FR,Gas_Natural,All,321.011,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+ES,PT,Gas_Natural,All,205.4471,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+FR,BE,Gas_Natural,All,354.752,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+FR,CH,Gas_Natural,All,342.138,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+FR,DE,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+FR,ES,Gas_Natural,All,235.4081,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+HR,HU,Gas_Natural,All,108.4304,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+HU,HR,Gas_Natural,All,109.4291,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+HU,NONEU_Balkan,Gas_Natural,All,202.6864,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+HU,RO,Gas_Natural,All,73.6185,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+IE,UK,Gas_Natural,All,126.9777,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+IT,AT,Gas_Natural,All,1633.042,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+IT,CH,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+IT,SI,Gas_Natural,All,40.3761,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+LT,LV,Gas_Natural,All,96.1606,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+LV,EE,Gas_Natural,All,261.089,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+LV,LT,Gas_Natural,All,92.7365,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NL,BE,Gas_Natural,All,1887.85,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NL,DE,Gas_Natural,All,2629.8277,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NL,DE_NI,Gas_Natural,All,660.889,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NL,DE_NRW,Gas_Natural,All,1313.89,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NL,UK,Gas_Natural,All,704.7976,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NO,BE,Gas_Natural,All,616.12,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NO,DE,Gas_Natural,All,2354.98,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NO,FR,Gas_Natural,All,800.08,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NO,NL,Gas_Natural,All,754.7612,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NO,UK,Gas_Natural,All,2576.82,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+GR,NONEU_Balkan,Gas_Natural,All,20.2594,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+PL,DE,Gas_Natural,All,1328.3295,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+PL,DE_BB,Gas_Natural,All,1223.89,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+PT,ES,Gas_Natural,All,114.1373,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+RO,BG,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+RO,HU,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+SI,AT,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+SI,HR,Gas_Natural,All,76.6146,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+SI,IT,Gas_Natural,All,30.5241,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+SK,AT,Gas_Natural,All,2196.0009,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+SK,CZ,Gas_Natural,All,741.8922,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+SK,HU,Gas_Natural,All,181.143,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+TR,GR,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+UK,BE,Gas_Natural,All,898.9736,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+UK,IE,Gas_Natural,All,487.9368,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+UK,NL,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+AT,CH,Power,All,1.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,CZ,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,DE,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,DE_HB,Power,All,2,,GW,,,
+AT,HU,Power,All,0.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,IT,Power,All,0.41,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,SI,Power,All,0.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,SK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,DE,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,DK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,FR,Power,All,2.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,LU,Power,All,0.68,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,NL,Power,All,2.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,OBZ,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,UK,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,GR,Power,All,0.77,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,NONEU_Balkan,Power,All,0.82,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,RO,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,TR,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,AT,Power,All,1.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,DE,Power,All,4.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,DE_BY,Power,All,3.5,,GW,,,
+CH,FR,Power,All,3.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,IT,Power,All,3.75,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,AT,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,DE,Power,All,1.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,DE_HB,Power,All,0.8875,,GW,,,
+CZ,DE_ST,Power,All,0.8875,,GW,,,
+CZ,PL,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,SK,Power,All,1.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,AT,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,BE,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,CH,Power,All,4.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,CZ,Power,All,1.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,DK,Power,All,3.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,FR,Power,All,3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,LU,Power,All,2.3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,NL,Power,All,3.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,NO,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,OBZ,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,PL,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,SE,Power,All,0.615,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,UK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BB,DE_BE,Power,All,6.979,,GW,,,
+DE_BB,DE_MV,Power,All,5.446,,GW,,,
+DE_BB,DE_SN,Power,All,7.14,,GW,,,
+DE_BB,DE_ST,Power,All,9.52,,GW,,,
+DE_BB,PL,Power,All,0.05,,GW,,,
+DE_BB,PL,Power,All,0.05,,GW,,,
+DE_BE,DE_BB,Power,All,6.979,,GW,,,
+DE_BE,DE_ST,Power,All,2.38,,GW,,,
+DE_BW,CH,Power,All,3.5,,GW,,,
+DE_BW,CH,Power,All,3.5,,GW,,,
+DE_BW,DE_BY,Power,All,5.2752,,GW,,,
+DE_BW,DE_HE,Power,All,3.8381,,GW,,,
+DE_BW,DE_RP,Power,All,1.535,,GW,,,
+DE_BY,AT,Power,All,2.2,,GW,,,
+DE_BY,AT,Power,All,2.2,,GW,,,
+DE_BY,CZ,Power,All,0.55,,GW,,,
+DE_BY,CZ,Power,All,0.55,,GW,,,
+DE_BY,DE_BW,Power,All,5.2752,,GW,,,
+DE_BY,DE_HE,Power,All,3.4104,,GW,,,
+DE_BY,DE_TH,Power,All,4.76,,GW,,,
+DE_HB,DE_NI,Power,All,3.066,,GW,,,
+DE_HE,DE_BW,Power,All,3.8381,,GW,,,
+DE_HE,DE_BY,Power,All,3.4104,,GW,,,
+DE_HE,DE_NI,Power,All,0.686,,GW,,,
+DE_HE,DE_NRW,Power,All,6.636,,GW,,,
+DE_HE,DE_RP,Power,All,12.6931,,GW,,,
+DE_HE,DE_TH,Power,All,2.38,,GW,,,
+DE_HH,DE_NI,Power,All,5.1044,,GW,,,
+DE_HH,DE_SH,Power,All,5.7904,,GW,,,
+DE_MV,DE_BB,Power,All,5.446,,GW,,,
+DE_MV,DE_SH,Power,All,5.1044,,GW,,,
+DE_NI,DE_HB,Power,All,3.066,,GW,,,
+DE_NI,DE_HE,Power,All,0.686,,GW,,,
+DE_NI,DE_HH,Power,All,5.1044,,GW,,,
+DE_NI,DE_NRW,Power,All,17.9473,,GW,,,
+DE_NI,DE_SH,Power,All,5.6182,,GW,,,
+DE_NI,DE_ST,Power,All,2.38,,GW,,,
+DE_NI,NL,Power,All,1.425,,GW,,,
+DE_NI,NL,Power,All,1.425,,GW,,,
+DE_NRW,DE_HE,Power,All,6.636,,GW,,,
+DE_NRW,DE_NI,Power,All,17.9473,,GW,,,
+DE_NRW,DE_RP,Power,All,16.2547,,GW,,,
+DE_NRW,NL,Power,All,1.425,,GW,,,
+DE_NRW,NL,Power,All,1.425,,GW,,,
+DE_RP,DE_BW,Power,All,1.535,,GW,,,
+DE_RP,DE_HE,Power,All,12.6931,,GW,,,
+DE_RP,DE_NRW,Power,All,16.2547,,GW,,,
+DE_RP,DE_SL,Power,All,6.9902,,GW,,,
+DE_SH,DE_HB,Power,All,3.066,,GW,,,
+DE_SH,DE_HH,Power,All,5.7904,,GW,,,
+DE_SH,DE_MV,Power,All,5.1044,,GW,,,
+DE_SH,DE_NI,Power,All,5.6182,,GW,,,
+DE_SL,DE_RP,Power,All,6.9902,,GW,,,
+DE_SN,CZ,Power,All,0.55,,GW,,,
+DE_SN,CZ,Power,All,0.55,,GW,,,
+DE_SN,DE_BB,Power,All,7.14,,GW,,,
+DE_SN,DE_ST,Power,All,0.686,,GW,,,
+DE_SN,DE_TH,Power,All,6.132,,GW,,,
+DE_SN,PL,Power,All,0.05,,GW,,,
+DE_SN,PL,Power,All,0.05,,GW,,,
+DE_ST,DE_BB,Power,All,9.52,,GW,,,
+DE_ST,DE_BE,Power,All,2.38,,GW,,,
+DE_ST,DE_NI,Power,All,2.38,,GW,,,
+DE_ST,DE_SN,Power,All,0.686,,GW,,,
+DE_ST,DE_TH,Power,All,3.066,,GW,,,
+DE_TH,DE_BY,Power,All,4.76,,GW,,,
+DE_TH,DE_HE,Power,All,2.38,,GW,,,
+DE_TH,DE_SN,Power,All,6.132,,GW,,,
+DE_TH,DE_ST,Power,All,3.066,,GW,,,
+DK,BE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,DE,Power,All,3.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,NL,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,NO,Power,All,1.64,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,OBZ,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,PL,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,SE,Power,All,2.45,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,UK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,FI,Power,All,1.016,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,LV,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,FR,Power,All,2.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,PT,Power,All,2.3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,EE,Power,All,1.016,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,NO,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,SE,Power,All,2.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,BE,Power,All,2.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,CH,Power,All,3.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,DE,Power,All,3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,DE_BY,Power,All,0.984,,GW,,,
+FR,DE_SN,Power,All,0.816,,GW,,,
+FR,ES,Power,All,2.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,IE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,IT,Power,All,2.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,LU,Power,All,0.38,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,UK,Power,All,3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,BG,Power,All,1.1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,IT,Power,All,0.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,NONEU_Balkan,Power,All,1.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,TR,Power,All,0.66,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,HU,Power,All,1.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,NONEU_Balkan,Power,All,1.25,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,SI,Power,All,2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,AT,Power,All,0.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,HR,Power,All,1.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,NONEU_Balkan,Power,All,0.75,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,RO,Power,All,1.1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,SI,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,SK,Power,All,1.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,FR,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,UK,Power,All,0.63,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,AT,Power,All,0.41,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,CH,Power,All,3.75,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,FR,Power,All,3.1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,GR,Power,All,0.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,NONEU_Balkan,Power,All,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,SI,Power,All,0.66,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,LV,Power,All,0.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,PL,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,SE,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,BE,Power,All,0.68,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,DE,Power,All,2.3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,FR,Power,All,0.38,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,EE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,LT,Power,All,0.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,SE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,BE,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,DE,Power,All,3.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,DE_NRW,Power,All,1.2,,GW,,,
+NL,DE_RP,Power,All,1.2,,GW,,,
+NL,DK,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,NO,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,UK,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,DE,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,DK,Power,All,1.64,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,FI,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,NL,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,SE,Power,All,3.695,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,UK,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,BG,Power,All,0.82,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,GR,Power,All,1.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,HR,Power,All,1.25,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,HU,Power,All,0.75,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,IT,Power,All,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,RO,Power,All,0.68,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,CZ,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,DE,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,DE_BE,Power,All,0.1125,,GW,,,
+PL,DE_ST,Power,All,0.1125,,GW,,,
+PL,DK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,LT,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,SE,Power,All,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,SK,Power,All,1.98,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,ES,Power,All,2.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,BG,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,HU,Power,All,1.1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,NONEU_Balkan,Power,All,0.68,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,DE,Power,All,0.615,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,DK,Power,All,2.45,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,FI,Power,All,2.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,LT,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,LV,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,NO,Power,All,3.695,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,PL,Power,All,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,AT,Power,All,0.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,HR,Power,All,2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,HU,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,IT,Power,All,0.66,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,AT,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,CZ,Power,All,1.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,HU,Power,All,1.3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,PL,Power,All,1.98,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,BG,Power,All,0.9,,GW,assumption: symmetrical to BG-TR,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,GR,Power,All,0.66,,GW,assumption: symmetrical to GR-TR,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,BE,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,DE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,DK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,FR,Power,All,3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,IE,Power,All,0.63,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,NL,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,NO,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>

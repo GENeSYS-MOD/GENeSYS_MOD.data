@@ -10,7 +10,7 @@ from functions.output_timeseries import output_timeseries
 from functions.data_error_check import search_non_utf8_characters
 import sys
 
-def master_function(settings_file,output_file_format, output_format, processing_option, scenario_option):
+def master_function(settings_file,output_file_format, output_format, processing_option, scenario_option, debugging_output, data_base_region):
     # Call directories function to get all necessary directory paths
     current_directory, excel_file_path, parameter_directory, sets_and_tags_directory, timeseries_directory, output_csv_directory, output_excel_directory, output_excel_file_path, output_excel_file_path_timeseries = directories(settings_file, scenario_option)
 
@@ -21,7 +21,8 @@ def master_function(settings_file,output_file_format, output_format, processing_
     #search_non_utf8_characters()
 
     try:
-        search_non_utf8_characters()  # Assuming this function checks for non-UTF-8 files
+        search_non_utf8_characters(file_dir=parameter_directory)  # Assuming this function checks for non-UTF-8 files
+        search_non_utf8_characters(file_dir=timeseries_directory)  # Assuming this function checks for non-UTF-8 files
     except UnicodeDecodeError as e:
         print("Non UTF-8 characters found in file" + '{relative_path}')
 
@@ -42,7 +43,7 @@ def master_function(settings_file,output_file_format, output_format, processing_
 
         # Process files and store dataframes with their names
         for path in regular_parameter_paths:
-            df_pivot, worksheet_name, data_overwritten = process_regular_parameters(path, unique_values_concatenated, output_format, scenario_option)
+            df_pivot, worksheet_name, data_overwritten = process_regular_parameters(path, unique_values_concatenated, output_format, scenario_option,debugging_output, data_base_region)
             worksheets_data[worksheet_name] = df_pivot  # or df_original based on your requirement
 
             # Check if data was overwritten and add to the list
@@ -64,7 +65,7 @@ def master_function(settings_file,output_file_format, output_format, processing_
     # Process timeseries if processing_option is not 'parameters_only'
     if processing_option != 'parameters_only':
         # Read and filter time series data
-        filtered_timeseries_data, timeseries_output_string = read_filter_timeseries(timeseries_directory, unique_values_concatenated, scenario_option)
+        filtered_timeseries_data, timeseries_output_string = read_filter_timeseries(timeseries_directory, unique_values_concatenated, scenario_option, debugging_output)
 
         # Print the output string
         print("Timeseries data overwritten by scenario data:")

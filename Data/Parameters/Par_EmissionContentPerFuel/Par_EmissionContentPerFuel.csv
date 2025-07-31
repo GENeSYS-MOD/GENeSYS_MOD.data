@@ -1,10 +1,11 @@
-Fuel,Emission,Value,Unnamed: 3,Unit,Source,Updated at,Updated by
+Fuel,Emission,Value,,Unit,Source,Updated at,Updated by
 Hardcoal,CO2,0.0939,,Megatonnes/PJ,CO2_EF Brennstoffe- Umweltbundesamt 2022,06.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
 Lignite,CO2,0.1108,,Megatonnes/PJ,CO2_EF Brennstoffe- Umweltbundesamt 2022,06.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
 Gas_Natural,CO2,0.0558,,Megatonnes/PJ,CO2_EF Brennstoffe- Umweltbundesamt 2022,06.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
 Oil,CO2,0.074,,Megatonnes/PJ,CO2_EF Brennstoffe- Umweltbundesamt 2022,06.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
 Biomass,CO2,0.1021,,Megatonnes/PJ,CO2_EF Brennstoffe- Umweltbundesamt 2022,06.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-Air,CO2,1.0,,Megatonnes/PJ,A dummy- no source is needed. See assumption text file for more information.,21.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
+Air,CO2,1,,Megatonnes/PJ,A dummy- no source is needed. See assumption text file for more information.,21.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
 LNG,CO2,0.0558,,Megatonnes/PJ,Assumed the value for LNG equal to Gas_Natural,06.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-ETS,CO2,1.0,,Megatonnes/PJ,A dummy- no source is needed. See assumption text file for more information.,21.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-ETS_Source,CO2,1.0,,Megatonnes/PJ,A dummy- no source is needed. See assumption text file for more information.,21.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
+ETS,CO2,1,,Megatonnes/PJ,A dummy- no source is needed. See assumption text file for more information.,21.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
+ETS_Source,CO2,1,,Megatonnes/PJ,A dummy- no source is needed. See assumption text file for more information.,21.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
+Waste,CO2,0.0592,,Megatonnes/PJ,Latosov et al. 2022: https://doi.org/10.1016/j.segy.2022.100070,19.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>

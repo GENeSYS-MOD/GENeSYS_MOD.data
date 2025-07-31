@@ -1,4 +1,4 @@
-﻿Technology,Value
+Technology,Value
 FRT_Rail_Electric,0
 FRT_Road_BEV,1
 FRT_Road_OH,1
@@ -8,10 +8,15 @@ HHI_DRI_EAF_CCS,0.4
 HHI_Molten_Electrolysis,1
 HHI_Scrap_EAF,1
 HLI_Direct_Electric,1
-HLR_Direct_Electric,1
-HLR_Heatpump_Aerial,1
-HLR_Heatpump_Ground,1
-HMI_Steam_Electric,1
+HB_Direct_Electric,1
+HB_Heatpump_Aerial,1
+HB_Heatpump_Ground,1
+HMHI_Steam_Electric,1
+HMLI_Heatpump,1
+HD_Heatpump_Air,1
+HD_Electric_Boiler,1
+HD_Heatpump_ExcessHeat,1
+HLI_Heatpump,1
 PSNG_Rail_Electric,0
 PSNG_Road_BEV,1
 PSNG_Road_PHEV,0
