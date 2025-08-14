@@ -38,6 +38,9 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
             # Drop all columns that come after the "Value" column
             df = df.iloc[:, :(value_col_index + 1)]
             df_scenario = df_scenario.iloc[:, :(value_col_index_scenario + 1)]  
+            
+            # Save column order before processing
+            col_ordr = df.columns.tolist()
 
             # Identify common columns excluding 'Value'
             common_cols = [col for col in df.columns if col in df_scenario.columns and col != 'Value']
@@ -55,6 +58,9 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
             # Append any additional rows from df_scenario
             additional_rows = df_scenario[~df_scenario[common_cols].apply(tuple,1).isin(df[common_cols].apply(tuple,1))]
             df = pd.concat([df, additional_rows], ignore_index=True)
+
+            # Ensure the column order is the same as originally
+            df = df[col_ordr]
 
             data_overwritten = True
 
