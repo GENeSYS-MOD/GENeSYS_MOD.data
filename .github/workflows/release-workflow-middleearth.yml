@@ -19,43 +19,19 @@ jobs:
         with:
           python-version: "3.11"
           cache: "pip"
-          # ⬇️ Cover root and subfolders (adjust paths if you know the exact location)
           cache-dependency-path: |
             requirements.txt
             **/requirements.txt
 
-      - name: Locate requirements.txt
-        id: find-req
-        run: |
-          # Prefer root; else first match under subfolders
-          if [ -f requirements.txt ]; then
-            echo "path=requirements.txt" >> $GITHUB_OUTPUT
-          else
-            REQ=$(git ls-files '**/requirements.txt' | head -n 1)
-            if [ -n "$REQ" ]; then
-              echo "path=$REQ" >> $GITHUB_OUTPUT
-            else
-              echo "No requirements.txt found" >&2
-              exit 1
-            fi
-          fi
-          echo "Using requirements at: $(cat $GITHUB_OUTPUT)"
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip setuptools wheel
-          python -m pip install -r "${{ steps.find-req.outputs.path }}"
-
-      - name: Verify Python + pandas
-        run: |
-          echo "Python executable: $(python -c 'import sys; print(sys.executable)')"
-          python - << 'PY'
-import sys, pkgutil
-print("Python version:", sys.version)
-print("Has pandas? ->", pkgutil.find_loader("pandas") is not None)
-import pandas as pd
-print("pandas version:", pd.__version__)
-PY
+          if [ -f requirements.txt ]; then
+            python -m pip install -r requirements.txt
+          else
+            echo "requirements.txt not found!"
+            exit 1
+          fi
 
       - name: Run MiddleEarth conversion script
         run: |
