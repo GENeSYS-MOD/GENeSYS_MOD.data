@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*- 
-settings_file = 'Set_filter_file_MiddleEarth.xlsx'
+settings_file = 'Conversion Script/Set_filter_file_MiddleEarth.xlsx'
 output_file_format = 'excel' 
 output_format = 'long' 
 processing_option = 'both' 
