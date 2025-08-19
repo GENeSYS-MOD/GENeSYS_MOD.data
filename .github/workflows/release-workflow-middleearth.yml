@@ -2,15 +2,14 @@ name: MiddleEarth Release Excel
 
 on:
   release:
-    types: [published]   # run when a release is published
+    types: [published]
 
 permissions:
-  contents: write  # needed to upload assets to the release
+  contents: write
 
 jobs:
   build-xlsx:
     runs-on: ubuntu-latest
-
     steps:
       - name: Check out the repo
         uses: actions/checkout@v4
@@ -20,12 +19,43 @@ jobs:
         with:
           python-version: "3.11"
           cache: "pip"
-          cache-dependency-path: "Conversion Script/requirements.txt" 
+          # ⬇️ Cover root and subfolders (adjust paths if you know the exact location)
+          cache-dependency-path: |
+            requirements.txt
+            **/requirements.txt
+
+      - name: Locate requirements.txt
+        id: find-req
+        run: |
+          # Prefer root; else first match under subfolders
+          if [ -f requirements.txt ]; then
+            echo "path=requirements.txt" >> $GITHUB_OUTPUT
+          else
+            REQ=$(git ls-files '**/requirements.txt' | head -n 1)
+            if [ -n "$REQ" ]; then
+              echo "path=$REQ" >> $GITHUB_OUTPUT
+            else
+              echo "No requirements.txt found" >&2
+              exit 1
+            fi
+          fi
+          echo "Using requirements at: $(cat $GITHUB_OUTPUT)"
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install -r "${{ steps.find-req.outputs.path }}"
+
+      - name: Verify Python + pandas
+        run: |
+          echo "Python executable: $(python -c 'import sys; print(sys.executable)')"
+          python - << 'PY'
+import sys, pkgutil
+print("Python version:", sys.version)
+print("Has pandas? ->", pkgutil.find_loader("pandas") is not None)
+import pandas as pd
+print("pandas version:", pd.__version__)
+PY
 
       - name: Run MiddleEarth conversion script
         run: |
