@@ -1,0 +1,45 @@
+name: Append Output Excel Files to Releases
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  build-xlsx:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: "Conversion Script/requirements.txt"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install -r "Conversion Script/requirements.txt"
+
+      - name: Run MiddleEarth conversion script
+        run: |
+          cd "Conversion Script"
+          python script_middleearth.py
+          
+      - name: Run European EU-EnVis-2060 data conversion script
+        run: |
+          cd "Conversion Script"
+          python script_eu_envis.py
+
+      - name: Upload Excel to release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: Output/output_excel/*.xlsx
+          tag_name: ${{ github.event.release.tag_name }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
