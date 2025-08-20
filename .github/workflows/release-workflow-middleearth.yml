@@ -30,6 +30,11 @@ jobs:
         run: |
           cd "Conversion Script"
           python script_middleearth.py
+          
+      - name: Run European EU-EnVis-2060 data conversion script
+        run: |
+          cd "Conversion Script"
+          python script_eu_envis.py
 
       - name: Upload Excel to release
         uses: softprops/action-gh-release@v2
