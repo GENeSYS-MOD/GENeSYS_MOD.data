@@ -1,6 +1,4 @@
 Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
-World,CHP_Biomass_Solid,2018,105.34,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid,2021,105.34,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,2025,98.9,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,2030,92.46,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,2035,87.17,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -9,8 +7,6 @@ World,CHP_Biomass_Solid,2045,77.165,,MEUR/GW,Biomass CHP - Energy Technology Ref
 World,CHP_Biomass_Solid,2050,72.45,,MEUR/GW,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,2055,72.45,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,2060,72.45,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Coal_Hardcoal,2018,50.83,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Coal_Hardcoal,2021,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal,2025,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal,2030,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal,2035,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -19,8 +15,6 @@ World,CHP_Coal_Hardcoal,2045,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of 
 World,CHP_Coal_Hardcoal,2050,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal,2055,50.83,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal,2060,50.83,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Coal_Lignite,2018,50.83,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Coal_Lignite,2021,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Lignite,2025,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Lignite,2030,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Lignite,2035,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -29,8 +23,6 @@ World,CHP_Coal_Lignite,2045,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of C
 World,CHP_Coal_Lignite,2050,50.83,,MEUR/GW,assumend equal Biomass_CHP: 2.3% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Lignite,2055,50.83,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Coal_Lignite,2060,50.83,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Gas_CCGT_Biogas,2018,47.19,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Gas_CCGT_Biogas,2021,47.19,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas,2025,46.605,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas,2030,46.02,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas,2035,45.63,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -39,8 +31,6 @@ World,CHP_Gas_CCGT_Biogas,2045,45.045,,MEUR/GW,CCGT advanced CHP - Energy Techno
 World,CHP_Gas_CCGT_Biogas,2050,44.85,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas,2055,44.85,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas,2060,44.85,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Gas_CCGT_SynGas,2018,47.19,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Gas_CCGT_SynGas,2021,47.19,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_SynGas,2025,46.605,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_SynGas,2030,46.02,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_SynGas,2035,45.63,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -49,8 +39,6 @@ World,CHP_Gas_CCGT_SynGas,2045,45.045,,MEUR/GW,CCGT advanced CHP - Energy Techno
 World,CHP_Gas_CCGT_SynGas,2050,44.85,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX high,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_SynGas,2055,44.85,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_SynGas,2060,44.85,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Oil,2018,47.19,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Oil,2021,47.19,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Oil,2025,46.605,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Oil,2030,46.02,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Oil,2035,45.63,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -59,13 +47,11 @@ World,CHP_Oil,2045,45.045,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.c
 World,CHP_Oil,2050,44.85,,MEUR/GW,assumend equal chp gas -https://ars.els-cdn.com/content/image/1-s2.0-S096014812300486X-mmc1.pdf,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Oil,2055,44.85,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Oil,2060,44.85,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Electrolysis,2018,26.0,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Electrolysis,2021,26.0,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Electrolysis,2025,19.5,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2030,13.0,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,2030,13,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Electrolysis,2035,11.5,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2040,10.0,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,2040,10,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Electrolysis,2045,8.5,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2050,7.0,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2055,7.0,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Electrolysis,2060,7.0,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2050,7,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,2055,7,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2060,7,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
