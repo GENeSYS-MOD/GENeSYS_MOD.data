@@ -287,14 +287,14 @@ World,X_ATR_CCS,2045,850,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentat
 World,X_ATR_CCS,2050,850,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized  (assumption: +100 in 2050),28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_ATR_CCS,2055,850,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_ATR_CCS,2060,850,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Electrolysis,2025,1165.131579,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (upper) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2030,780.2631579,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (upper) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2035,691.4473684,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (upper) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2040,602.6315789,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (upper) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2045,513.8157895,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (upper) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2050,425,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (upper) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2055,425,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Electrolysis,2060,425,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2025,875,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (upper 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2030,642,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (upper 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2035,569,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (upper 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2040,496,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (upper 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2045,423,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (upper 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2050,350,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (upper 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2055,350,,MEUR/GW,same as 2050 for now,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2060,350,,MEUR/GW,same as 2050 for now,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_SMR,2025,1727,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR medium size decentralized,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_SMR,2030,1509,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR medium size decentralized,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_SMR,2035,1509,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR medium size decentralized,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
