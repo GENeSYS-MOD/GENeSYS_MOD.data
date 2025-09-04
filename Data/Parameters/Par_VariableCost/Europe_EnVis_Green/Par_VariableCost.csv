@@ -55,35 +55,73 @@ World,X_SMR,1,2045,0.04,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentati
 World,X_SMR,1,2050,0.04,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR large size centralized,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_SMR,1,2055,0.04,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_SMR,1,2060,0.04,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_Gas,1,2025,17.47213662,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Gas,1,2030,3.446338875,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Gas,1,2035,3.406265167,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Gas,1,2040,3.366191459,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Gas,1,2045,3.326117751,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Gas,1,2050,3.286044043,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Gas,1,2055,3.286044043,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_Gas,1,2060,3.286044043,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_Hardcoal,1,2025,4.85194113,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Hardcoal,1,2030,1.950867144,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Hardcoal,1,2035,1.841551313,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Hardcoal,1,2040,1.732235481,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Hardcoal,1,2045,1.62291965,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Hardcoal,1,2050,1.513603819,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Hardcoal,1,2055,1.513603819,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_Hardcoal,1,2060,1.513603819,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_LNG,1,2025,9.953167611,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_LNG,1,2030,1.963239483,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_LNG,1,2035,1.940411117,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_LNG,1,2040,1.917582751,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_LNG,1,2045,1.894754385,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_LNG,1,2050,1.871926019,,MEUR/PJ,own calculations based on Worldbank Commodity Markets Outlook 2024  and IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_LNG,1,2055,1.871926019,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_LNG,1,2060,1.871926019,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_Oil,1,2025,10.63908478,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Oil,1,2030,5.803137155,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Oil,1,2035,5.215914943,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Oil,1,2040,4.628692731,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Oil,1,2045,4.041470519,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Oil,1,2050,3.454248307,,MEUR/PJ,own calculations based on IEA World Energy Outlook 2023,06.08.2024,Richard Dupke <rd@wip.tu-berlin.de>
-World,Z_Import_Oil,1,2055,3.454248307,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_Oil,1,2060,3.454248307,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2018,4.6746,,MEUR/PJ,World Bank Commodity Outlook 2022,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2021,13.7339,,MEUR/PJ,World Bank Commodity Outlook 2022,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2025,8.4451,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2030,3.7534,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2035,3.6254,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2040,3.4974,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2045,3.4548,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2050,3.4121,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2055,3.4121,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Gas,1,2060,3.4121,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2018,2.4045,,MEUR/PJ,World Bank Commodity Outlook 2022,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2021,4.2409,,MEUR/PJ,World Bank Commodity Outlook 2022,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2025,3.3297,,MEUR/PJ,IEA World Energy Outlook 2024: Steam coal (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2030,1.7504,,MEUR/PJ,IEA World Energy Outlook 2024: Steam coal (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2035,1.5354,,MEUR/PJ,IEA World Energy Outlook 2024: Steam coal (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2040,1.3205,,MEUR/PJ,IEA World Energy Outlook 2024: Steam coal (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2045,1.2591,,MEUR/PJ,IEA World Energy Outlook 2024: Steam coal (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2050,1.1976,,MEUR/PJ,IEA World Energy Outlook 2024: Steam coal (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2055,1.1976,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Hardcoal,1,2060,1.1976,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2018,9.0422,,MEUR/PJ,World Bank Commodity Outlook 2022,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2021,9.2128,,MEUR/PJ,World Bank Commodity Outlook 2022,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2025,9.1397,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (Japan): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2030,4.2652,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (Japan): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2035,4.1799,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (Japan): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2040,4.0946,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (Japan): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2045,4.0946,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (Japan): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2050,4.0946,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (Japan): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2055,4.0946,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_LNG,1,2060,4.0946,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2018,9.0735,,MEUR/PJ,World Bank Commodity Outlook 2022,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2021,10.3529,,MEUR/PJ,World Bank Commodity Outlook 2022,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2025,10.3782,,MEUR/PJ,IEA World Energy Outlook 2024: Crude oil: NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2030,6.1765,,MEUR/PJ,IEA World Energy Outlook 2024: Crude oil: NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2035,5.2941,,MEUR/PJ,IEA World Energy Outlook 2024: Crude oil: NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2040,4.4118,,MEUR/PJ,IEA World Energy Outlook 2024: Crude oil: NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2045,4.0441,,MEUR/PJ,IEA World Energy Outlook 2024: Crude oil: NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2050,3.6765,,MEUR/PJ,IEA World Energy Outlook 2024: Crude oil: NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2055,3.6765,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_Oil,1,2060,3.6765,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2018,4.4409,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2021,13.0472,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2025,8.0228,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2030,3.5657,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2035,3.4441,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2040,3.3225,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2045,3.2821,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2050,3.2415,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2055,3.2415,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2060,3.2415,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2018,8.6198,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2021,9.8353,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2025,9.8593,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2030,5.8677,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2035,5.0294,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2040,4.1912,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2045,3.8419,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2050,3.4927,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2055,3.4927,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2060,3.4927,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2018,2.2843,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2021,4.0289,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2025,3.1632,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2030,1.6629,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2035,1.4586,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2040,1.2545,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2045,1.1961,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2050,1.1377,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2055,1.1377,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2060,1.1377,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
