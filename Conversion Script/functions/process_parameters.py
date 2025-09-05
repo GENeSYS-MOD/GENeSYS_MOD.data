@@ -84,7 +84,7 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
        "Par_EmissionsPenalty",
        "Par_SpecifiedDemandDevelopment",
        "Par_RegionalModelPeriodEmission",
-       "Par_ModelPeriodExogenousEmissio"]:
+       "Par_ModelPeriodExogenousEmissio",]:
         df = set_regional_values_from_base(df, unique_values_concatenated, data_base_region)
     
     # Set values, if no regional data available
@@ -107,7 +107,8 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
         "Par_ModelPeriodExogenousEmissio",
         "Par_TotalAnnualMaxCapacity",
         "Par_SpecifiedDemandDevelopment",
-        "Par_AnnualMaxNewCapacity"
+        "Par_AnnualMaxNewCapacity",
+        "Par_NewCapacityExpansionStop"
         ]:
         df = set_values_from_world(df, unique_values_concatenated)
 
