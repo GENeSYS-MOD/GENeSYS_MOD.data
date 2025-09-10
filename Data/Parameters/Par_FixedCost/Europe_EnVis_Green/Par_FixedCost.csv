@@ -1,6 +1,4 @@
 Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
-World,CHP_Biomass_Solid_CCS,2018,124.476,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Biomass_Solid_CCS,2021,124.476,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid_CCS,2025,118.6294,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid_CCS,2030,112.7828,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid_CCS,2035,108.2564,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -9,8 +7,6 @@ World,CHP_Biomass_Solid_CCS,2045,99.7694,,MEUR/GW,"64% increase for ccs- https:/
 World,CHP_Biomass_Solid_CCS,2050,95.8088,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid_CCS,2055,95.8088,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Biomass_Solid_CCS,2060,95.8088,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Coal_Hardcoal_CCS,2018,67.248,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Coal_Hardcoal_CCS,2021,67.248,,MEUR/GW,"44% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal_CCS,2025,67.248,,MEUR/GW,"44% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal_CCS,2030,67.248,,MEUR/GW,"44% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal_CCS,2035,67.248,,MEUR/GW,"44% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -19,8 +15,6 @@ World,CHP_Coal_Hardcoal_CCS,2045,67.248,,MEUR/GW,"44% increase for ccs- https://
 World,CHP_Coal_Hardcoal_CCS,2050,67.248,,MEUR/GW,"44% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal_CCS,2055,67.248,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal_CCS,2060,67.248,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Coal_Lignite_CCS,2018,67.248,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Coal_Lignite_CCS,2021,67.248,,MEUR/GW,"44% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Lignite_CCS,2025,67.248,,MEUR/GW,"44% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Lignite_CCS,2030,67.248,,MEUR/GW,"44% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Lignite_CCS,2035,67.248,,MEUR/GW,"44% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -29,8 +23,6 @@ World,CHP_Coal_Lignite_CCS,2045,67.248,,MEUR/GW,"44% increase for ccs- https://w
 World,CHP_Coal_Lignite_CCS,2050,67.248,,MEUR/GW,"44% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060 (post-combustion capture at SCPC power plants using bituminous coals, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Coal_Lignite_CCS,2055,67.248,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Coal_Lignite_CCS,2060,67.248,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Gas_CCGT_Biogas_CCS,2018,112.5696,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Gas_CCGT_Biogas_CCS,2021,112.5696,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas_CCS,2025,112.5696,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas_CCS,2030,112.5696,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas_CCS,2035,112.5696,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -39,8 +31,6 @@ World,CHP_Gas_CCGT_Biogas_CCS,2045,112.5696,,MEUR/GW,"64% increase for ccs- http
 World,CHP_Gas_CCGT_Biogas_CCS,2050,112.5696,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas_CCS,2055,112.5696,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas_CCS,2060,112.5696,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Gas_CCGT_Natural,2018,33.93,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Gas_CCGT_Natural,2021,33.93,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX low,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural,2025,33.54,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX low,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural,2030,33.15,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX low,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural,2035,32.955,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX low,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -49,8 +39,6 @@ World,CHP_Gas_CCGT_Natural,2045,32.565,,MEUR/GW,CCGT advanced CHP - Energy Techn
 World,CHP_Gas_CCGT_Natural,2050,32.37,,MEUR/GW,CCGT advanced CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu) - 3.9% of CAPEX low,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural,2055,32.37,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural,2060,32.37,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Gas_CCGT_Natural_CCS,2018,112.5696,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,CHP_Gas_CCGT_Natural_CCS,2021,112.5696,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural_CCS,2025,112.5696,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural_CCS,2030,112.5696,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural_CCS,2035,112.5696,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -59,8 +47,6 @@ World,CHP_Gas_CCGT_Natural_CCS,2045,112.5696,,MEUR/GW,"64% increase for ccs- htt
 World,CHP_Gas_CCGT_Natural_CCS,2050,112.5696,,MEUR/GW,"64% increase for ccs- https://www.sciencedirect.com/science/article/pii/S1750583615001814#sec0060(post-combustion capture at new NGCC power plant, SRCCS lower range)",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural_CCS,2055,112.5696,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural_CCS,2060,112.5696,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Gas_CCS,2018,3.28,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_Gas_CCS,2021,3.28,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMHI_Gas_CCS,2025,3.198,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMHI_Gas_CCS,2030,3.116,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMHI_Gas_CCS,2035,3.034,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -69,8 +55,6 @@ World,HMHI_Gas_CCS,2045,2.87,,MEUR/GW,Assumption: same increase for CCS like CHP
 World,HMHI_Gas_CCS,2050,2.788,,MEUR/GW,Assumption: same increase for CCS like CHP_Gas_CCGT_Natural,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMHI_Gas_CCS,2055,2.788,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_Gas_CCS,2060,2.788,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_HardCoal_CCS,2018,48.528,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HMHI_HardCoal_CCS,2021,48.528,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMHI_HardCoal_CCS,2025,47.736,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMHI_HardCoal_CCS,2030,46.944,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMHI_HardCoal_CCS,2035,46.224,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -79,8 +63,6 @@ World,HMHI_HardCoal_CCS,2045,44.784,,MEUR/GW,Assumption: same increase for CCS l
 World,HMHI_HardCoal_CCS,2050,44.064,,MEUR/GW,Assumption: same increase for CCS like CHP_Hardcoal,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMHI_HardCoal_CCS,2055,44.064,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_HardCoal_CCS,2060,44.064,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Biomass_CCS,2018,73.35,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Biomass_CCS,2021,73.35,,MEUR/GW,Steam turbine biomass solid conventional w.CCS (assumption: -10%)- Power&Heat- EU Reference Scenario 2020,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Biomass_CCS,2025,67.77,,MEUR/GW,Steam turbine biomass solid conventional w.CCS (assumption: -10%)- Power&Heat- EU Reference Scenario 2021,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Biomass_CCS,2030,62.19,,MEUR/GW,Steam turbine biomass solid conventional w.CCS (assumption: -10%)- Power&Heat- EU Reference Scenario 2022,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Biomass_CCS,2035,59.445,,MEUR/GW,Steam turbine biomass solid conventional w.CCS (assumption: -10%)- Power&Heat- EU Reference Scenario 2023,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -89,8 +71,6 @@ World,P_Biomass_CCS,2045,55.98,,MEUR/GW,Steam turbine biomass solid conventional
 World,P_Biomass_CCS,2050,55.26,,MEUR/GW,Steam turbine biomass solid conventional w.CCS (assumption: -10%)- Power&Heat- EU Reference Scenario 2026,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Biomass_CCS,2055,55.26,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Biomass_CCS,2060,55.26,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Coal_Hardcoal_CCS,2018,62.82,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Coal_Hardcoal_CCS,2021,62.82,,MEUR/GW,Integrated gasification coal CCS pre combustion(assumption: -10%)-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,2025,61.065,,MEUR/GW,Integrated gasification coal CCS pre combustion(assumption: -10%)-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,2030,59.31,,MEUR/GW,Integrated gasification coal CCS pre combustion(assumption: -10%)-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,2035,58.41,,MEUR/GW,Integrated gasification coal CCS pre combustion(assumption: -10%)-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -99,8 +79,6 @@ World,P_Coal_Hardcoal_CCS,2045,56.61,,MEUR/GW,Integrated gasification coal CCS p
 World,P_Coal_Hardcoal_CCS,2050,55.71,,MEUR/GW,Integrated gasification coal CCS pre combustion(assumption: -10%)-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,2055,55.71,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,2060,55.71,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Coal_Lignite_CCS,2018,69.8175,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Coal_Lignite_CCS,2021,69.8175,,MEUR/GW,Integrated gasification lignitel CCS pre combustion(assumption: -10%)-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Lignite_CCS,2025,68.0175,,MEUR/GW,Integrated gasification lignitel CCS pre combustion(assumption: -10%)-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Lignite_CCS,2030,66.2175,,MEUR/GW,Integrated gasification lignitel CCS pre combustion(assumption: -10%)-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Lignite_CCS,2035,65.32875,,MEUR/GW,Integrated gasification lignitel CCS pre combustion(assumption: -10%)-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -109,8 +87,6 @@ World,P_Coal_Lignite_CCS,2045,63.55125,,MEUR/GW,Integrated gasification lignitel
 World,P_Coal_Lignite_CCS,2050,62.6625,,MEUR/GW,Integrated gasification lignitel CCS pre combustion(assumption: -10%)-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Lignite_CCS,2055,62.6625,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Coal_Lignite_CCS,2060,62.6625,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_CCGT,2018,26.6,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_CCGT,2021,26.6,,MEUR/GW,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCGT,2025,25.39545454,,MEUR/GW,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCGT,2030,24.19090909,,MEUR/GW,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCGT,2035,23.46818182,,MEUR/GW,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -119,18 +95,14 @@ World,P_Gas_CCGT,2045,22.02272727,,MEUR/GW,Gas Turbine combined cycle extraction
 World,P_Gas_CCGT,2050,21.3,,MEUR/GW,Gas Turbine combined cycle extraction natural gas large (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCGT,2055,21.3,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_CCGT,2060,21.3,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_CCS,2018,73.6,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_CCS,2021,73.6,,MEUR/GW,CCGT + CCS (net zero)- https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCS,2025,64.4,,MEUR/GW,CCGT + CCS (net zero)- https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCS,2030,55.2,,MEUR/GW,CCGT + CCS (net zero)- https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCS,2035,52.9,,MEUR/GW,CCGT + CCS (net zero)- https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCS,2040,50.6,,MEUR/GW,CCGT + CCS (net zero)- https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_CCS,2045,48.3,,MEUR/GW,CCGT + CCS (net zero)- https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Gas_CCS,2050,46.0,,MEUR/GW,CCGT + CCS (net zero)- https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Gas_CCS,2055,46.0,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_CCS,2060,46.0,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,2018,7.4,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_Engines,2021,7.4,,MEUR/GW,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,2050,46,,MEUR/GW,CCGT + CCS (net zero)- https://www.iea.org/data-and-statistics/data-product/global-energy-and-climate-model-2023-key-input-data#gec-model-power-generation-technology-costs-dataset,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,P_Gas_CCS,2055,46,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Gas_CCS,2060,46,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,2025,7.220000001,,MEUR/GW,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_Engines,2030,7.04,,MEUR/GW,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_Engines,2035,6.88,,MEUR/GW,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -139,8 +111,6 @@ World,P_Gas_Engines,2045,6.56,,MEUR/GW,Gas engine natural gas (lower)- https://e
 World,P_Gas_Engines,2050,6.4,,MEUR/GW,Gas engine natural gas (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_Engines,2055,6.4,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_Engines,2060,6.4,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_OCGT,2018,20.735768,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Gas_OCGT,2021,20.735768,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_OCGT,2025,20.25725028,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_OCGT,2030,19.77873255,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_OCGT,2035,19.61922665,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -149,8 +119,6 @@ World,P_Gas_OCGT,2045,19.30021483,,MEUR/GW,Gas turbine simple cycle (small and m
 World,P_Gas_OCGT,2050,19.14070892,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_OCGT,2055,19.14070892,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_OCGT,2060,19.14070892,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_H2_OCGT,2018,23.8461332,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_H2_OCGT,2021,23.8461332,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_H2_OCGT,2025,23.29583782,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_H2_OCGT,2030,22.74554243,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_H2_OCGT,2035,22.56211065,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -159,8 +127,6 @@ World,P_H2_OCGT,2045,22.19524705,,MEUR/GW,assumend 115% of OCGT - https://www.sc
 World,P_H2_OCGT,2050,22.01181526,,MEUR/GW,assumend 115% of OCGT - https://www.sciencedirect.com/science/article/pii/S0360319921039768,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_H2_OCGT,2055,22.01181526,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_H2_OCGT,2060,22.01181526,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Rooftop_Commercial,2018,9.5,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Rooftop_Commercial,2021,9.5,,MEUR/GW,Rooftop PV commercial & industrial (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Rooftop_Commercial,2025,8.732258065,,MEUR/GW,Rooftop PV commercial & industrial (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Rooftop_Commercial,2030,7.964516129,,MEUR/GW,Rooftop PV commercial & industrial (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Rooftop_Commercial,2035,7.558064516,,MEUR/GW,Rooftop PV commercial & industrial (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -169,8 +135,6 @@ World,P_PV_Rooftop_Commercial,2045,6.925806452,,MEUR/GW,Rooftop PV commercial & 
 World,P_PV_Rooftop_Commercial,2050,6.7,,MEUR/GW,Rooftop PV commercial & industrial (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Rooftop_Commercial,2055,6.7,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_PV_Rooftop_Commercial,2060,6.7,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Rooftop_Residential,2018,12.1,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Rooftop_Residential,2021,12.1,,MEUR/GW,Rooftop PV residential (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Rooftop_Residential,2025,10.9,,MEUR/GW,Rooftop PV residential (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Rooftop_Residential,2030,9.7,,MEUR/GW,Rooftop PV residential (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Rooftop_Residential,2035,9.211111111,,MEUR/GW,Rooftop PV residential (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -179,8 +143,6 @@ World,P_PV_Rooftop_Residential,2045,8.411111111,,MEUR/GW,Rooftop PV residential 
 World,P_PV_Rooftop_Residential,2050,8.1,,MEUR/GW,Rooftop PV residential (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Rooftop_Residential,2055,8.1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_PV_Rooftop_Residential,2060,8.1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Utility_Avg,2018,10.1,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Utility_Avg,2021,10.1,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Avg,2025,9.292307692,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Avg,2030,8.484615385,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Avg,2035,7.856410256,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -189,8 +151,6 @@ World,P_PV_Utility_Avg,2045,6.914102564,,MEUR/GW,Utility-scale ground mounted PV
 World,P_PV_Utility_Avg,2050,6.6,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Avg,2055,6.6,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_PV_Utility_Avg,2060,6.6,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Utility_Inf,2018,10.1,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Utility_Inf,2021,10.1,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Inf,2025,9.292307692,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Inf,2030,8.484615385,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Inf,2035,7.856410256,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -199,8 +159,6 @@ World,P_PV_Utility_Inf,2045,6.914102564,,MEUR/GW,Utility-scale ground mounted PV
 World,P_PV_Utility_Inf,2050,6.6,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Inf,2055,6.6,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_PV_Utility_Inf,2060,6.6,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Utility_Opt,2018,10.1,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Utility_Opt,2021,10.1,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Opt,2025,9.292307692,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Opt,2030,8.484615385,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Opt,2035,7.856410256,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -209,8 +167,6 @@ World,P_PV_Utility_Opt,2045,6.914102564,,MEUR/GW,Utility-scale ground mounted PV
 World,P_PV_Utility_Opt,2050,6.6,,MEUR/GW,Utility-scale ground mounted PV (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Opt,2055,6.6,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_PV_Utility_Opt,2060,6.6,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Utility_Tracking,2018,10.9,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Utility_Tracking,2021,10.9,,MEUR/GW,Utility-scale ground mounted PV tracker (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Tracking,2025,10.13225806,,MEUR/GW,Utility-scale ground mounted PV tracker (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Tracking,2030,9.364516129,,MEUR/GW,Utility-scale ground mounted PV tracker (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Tracking,2035,8.912903226,,MEUR/GW,Utility-scale ground mounted PV tracker (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -219,68 +175,6 @@ World,P_PV_Utility_Tracking,2045,8.280645161,,MEUR/GW,Utility-scale ground mount
 World,P_PV_Utility_Tracking,2050,8.1,,MEUR/GW,Utility-scale ground mounted PV tracker (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_PV_Utility_Tracking,2055,8.1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_PV_Utility_Tracking,2060,8.1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Deep,2018,48.0,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Deep,2021,48.0,,MEUR/GW,Wind-offshore - deep waters- near to shore- high resource area- Power&Heat- EU Reference Scenario 2020,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Deep,2025,42.5,,MEUR/GW,Wind-offshore - deep waters- near to shore- high resource area- Power&Heat- EU Reference Scenario 2021,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Deep,2030,37.0,,MEUR/GW,Wind-offshore - deep waters- near to shore- high resource area- Power&Heat- EU Reference Scenario 2022,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Deep,2035,36.0,,MEUR/GW,Wind-offshore - deep waters- near to shore- high resource area- Power&Heat- EU Reference Scenario 2023,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Deep,2040,35.0,,MEUR/GW,Wind-offshore - deep waters- near to shore- high resource area- Power&Heat- EU Reference Scenario 2024,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Deep,2045,34.5,,MEUR/GW,Wind-offshore - deep waters- near to shore- high resource area- Power&Heat- EU Reference Scenario 2025,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Deep,2050,34.0,,MEUR/GW,Wind-offshore - deep waters- near to shore- high resource area- Power&Heat- EU Reference Scenario 2026,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Deep,2055,34.0,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Deep,2060,34.0,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Shallow,2018,50.0,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Shallow,2021,50.0,,MEUR/GW,near shore turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Shallow,2025,42.0,,MEUR/GW,near shore turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Shallow,2030,39.0,,MEUR/GW,near shore turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Shallow,2035,36.5,,MEUR/GW,near shore turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Shallow,2040,34.0,,MEUR/GW,near shore turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Shallow,2045,33.5,,MEUR/GW,near shore turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Shallow,2050,33.0,,MEUR/GW,near shore turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Shallow,2055,33.0,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Shallow,2060,33.0,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Transitional,2018,50.0,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Transitional,2021,50.0,,MEUR/GW,Offshore wind turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Transitional,2025,42.0,,MEUR/GW,Offshore wind turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Transitional,2030,39.0,,MEUR/GW,Offshore wind turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Transitional,2035,36.5,,MEUR/GW,Offshore wind turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Transitional,2040,34.0,,MEUR/GW,Offshore wind turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Transitional,2045,33.5,,MEUR/GW,Offshore wind turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Transitional,2050,33.0,,MEUR/GW,Offshore wind turbines- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Stian Backe <stian.backe@sintef.no>
-World,P_Wind_Offshore_Transitional,2055,33.0,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Transitional,2060,33.0,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Onshore_Avg,2018,13.1,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Onshore_Avg,2021,13.1,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Avg,2025,13.84703831,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Avg,2030,13.30056896,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Avg,2035,13.03739721,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Avg,2040,12.77422546,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Avg,2045,12.63711272,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Avg,2050,12.5,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Avg,2055,12.5,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Onshore_Avg,2060,12.5,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Onshore_Inf,2018,13.1,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Onshore_Inf,2021,13.1,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Inf,2025,13.84703831,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Inf,2030,13.30056896,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Inf,2035,13.03739721,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Inf,2040,12.77422546,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Inf,2045,12.63711272,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Inf,2050,12.5,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Inf,2055,12.5,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Onshore_Inf,2060,12.5,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Onshore_Opt,2018,13.1,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Onshore_Opt,2021,13.1,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Opt,2025,13.84703831,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Opt,2030,13.30056896,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Opt,2035,13.03739721,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Opt,2040,12.77422546,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Opt,2045,12.63711272,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Opt,2050,12.5,,MEUR/GW,Onshore turbines (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Onshore_Opt,2055,12.5,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Onshore_Opt,2060,12.5,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_ATR_CCS,2018,22.41,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_ATR_CCS,2021,22.41,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized (assumption: -100 in 2050),16.11.2024,Stian Backe <stian.backe@sintef.no>
 World,X_ATR_CCS,2025,21.33,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized (assumption: -100 in 2050),16.11.2024,Stian Backe <stian.backe@sintef.no>
 World,X_ATR_CCS,2030,20.25,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized (assumption: -100 in 2050),16.11.2024,Stian Backe <stian.backe@sintef.no>
 World,X_ATR_CCS,2035,20.25,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized (assumption: -100 in 2050),16.11.2024,Stian Backe <stian.backe@sintef.no>
@@ -289,8 +183,6 @@ World,X_ATR_CCS,2045,20.25,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data document
 World,X_ATR_CCS,2050,20.25,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized (assumption: -100 in 2050),16.11.2024,Stian Backe <stian.backe@sintef.no>
 World,X_ATR_CCS,2055,20.25,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_ATR_CCS,2060,20.25,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Biofuel,2018,36.48,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Biofuel,2021,36.48,,MEUR/GW,HVO / renwable diesel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Biofuel,2025,36.48,,MEUR/GW,HVO / renwable diesel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Biofuel,2030,36.48,,MEUR/GW,HVO / renwable diesel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Biofuel,2035,36.48,,MEUR/GW,HVO / renwable diesel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -299,18 +191,14 @@ World,X_Biofuel,2045,36.48,,MEUR/GW,HVO / renwable diesel (lower)- https://ens.d
 World,X_Biofuel,2050,36.48,,MEUR/GW,HVO / renwable diesel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Biofuel,2055,36.48,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Biofuel,2060,36.48,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Electrolysis,2018,21.0,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Electrolysis,2021,21.0,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2025,15.69736842,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2030,10.39473684,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2035,9.171052632,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2040,7.947368422,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2045,6.72368421,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2050,5.5,,MEUR/GW,Hydrogen production via PEMEC electrolysis for 100 MW plant (lower) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,X_Electrolysis,2055,5.5,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Electrolysis,2060,5.5,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Powerfuel,2018,223.3487094,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Powerfuel,2021,223.3487094,,MEUR/GW,Power to Jet Fuel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,X_Electrolysis,2025,35,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (lower 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2030,18.32,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (lower 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2035,16.24,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (lower 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2040,14.16,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (lower 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2045,12.08,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (lower 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2050,10,,MEUR/GW,Hydrogen production via alkaline electrolysis for 100 MW plant (lower 2050) - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,29.08.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2055,10,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Electrolysis,2060,10,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Powerfuel,2025,178.6789675,,MEUR/GW,Power to Jet Fuel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Powerfuel,2030,134.0092257,,MEUR/GW,Power to Jet Fuel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Powerfuel,2035,111.6743547,,MEUR/GW,Power to Jet Fuel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -319,8 +207,6 @@ World,X_Powerfuel,2045,67.00461281,,MEUR/GW,Power to Jet Fuel (lower)- https://e
 World,X_Powerfuel,2050,44.66974188,,MEUR/GW,Power to Jet Fuel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Powerfuel,2055,44.66974188,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Powerfuel,2060,44.66974188,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,2018,45.25,,MEUR/GW,needs update (same as 2021 for now),17.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,2021,45.25,,MEUR/GW,"Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 average of SMR medium size decentralized and SMR large size, centralized",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_SMR,2025,39.55,,MEUR/GW,"Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 average of SMR medium size decentralized and SMR large size, centralized",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_SMR,2030,33.85,,MEUR/GW,"Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 average of SMR medium size decentralized and SMR large size, centralized",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_SMR,2035,33.85,,MEUR/GW,"Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 average of SMR medium size decentralized and SMR large size, centralized",16.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
