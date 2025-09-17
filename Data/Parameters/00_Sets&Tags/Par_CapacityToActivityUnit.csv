@@ -45,7 +45,7 @@ HHI_H2DRI_EAF,31.536
 HHI_Molten_Electrolysis,31.536
 HHI_Scrap_EAF,31.536
 HLI_Biomass,31.536
-HLI_Convert_DH,1
+X_Convert_HD,1
 HLI_Direct_Electric,31.536
 HLI_Fuelcell,31.536
 HLI_Fuelcell,31.536
@@ -66,8 +66,6 @@ HLI_Solar_Thermal,31.536
 HLI_Heatpump,31.536
 HB_Biomass,31.536
 HB_Biomass,31.536
-HB_Convert_DH,1
-HB_Convert_DH,1
 HB_Direct_Electric,31.536
 HB_Gas_Boiler,31.536
 HB_Geothermal,31.536

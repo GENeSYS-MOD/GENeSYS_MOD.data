@@ -45,7 +45,7 @@ HHI_H2DRI_EAF,Industry,1
 HHI_Molten_Electrolysis,Industry,1
 HHI_Scrap_EAF,Industry,1
 HLI_Biomass,Industry,1
-HLI_Convert_DH,Industry,1
+X_Convert_HD,Industry,1
 HLI_Direct_Electric,Industry,1
 HLI_Fuelcell,Industry,1
 HLI_Gas_Boiler,Industry,1
@@ -57,7 +57,7 @@ HLI_Oil_Boiler,Industry,1
 HLI_Solar_Thermal,Industry,1
 HLI_Heatpump,Industry,1
 HB_Biomass,Buildings,1
-HB_Convert_DH,Buildings,1
+X_Convert_HD,Buildings,1
 HB_Direct_Electric,Buildings,1
 HB_Gas_Boiler,Buildings,1
 HB_Geothermal,Buildings,1

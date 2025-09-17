@@ -602,7 +602,7 @@ World,HB_Biomass,Biomass,1,2045,1.0613,,PJ,Energy Agency Denmark (2023): Biomass
 World,HB_Biomass,Biomass,1,2050,1.0485,,PJ,Energy Agency Denmark (2023): Biomass boiler upper (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,Biomass,1,2055,1.0485,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,Biomass,1,2060,1.0485,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,Heat_District,1,All,1.2048,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (avg losses 17%),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Convert_HD,Heat_District,1,All,1.2048,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (avg losses 17%),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Direct_Electric,Power,1,All,1,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Gas_Boiler,Gas_Natural,1,2018,1.0309,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Gas_Boiler,Gas_Natural,1,2020,1.0309,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1047,7 +1047,7 @@ World,HLI_Biomass,Biomass,1,2045,1.0667,,PJ,Energy Agency Denmark (2022): Hot wa
 World,HLI_Biomass,Biomass,1,2050,1.0638,,PJ,Energy Agency Denmark (2022): Hot water boiler wood,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Biomass,Biomass,1,2055,1.0638,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Biomass,Biomass,1,2060,1.0638,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,Heat_District,1,All,1.2048,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (avg losses 17%),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Convert_HD,Heat_District,2,All,1.2048,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (avg losses 17%),23.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,Power,1,2018,1.0101,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,Power,1,2020,1.0101,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,Power,1,2025,1.005,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>

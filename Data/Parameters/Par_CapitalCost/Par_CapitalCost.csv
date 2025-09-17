@@ -395,17 +395,17 @@ World,HB_Biomass,2045,371.578125,,MEUR/GW,biomass auto - https://ens.dk/en/our-s
 World,HB_Biomass,2050,375.75,,MEUR/GW,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Biomass,2055,375.75,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,2060,375.75,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,2018,1,,MEUR/GW,,,
-World,HB_Convert_DH,2020,1,,MEUR/GW,,,
-World,HB_Convert_DH,2021,1,,MEUR/GW,,,
-World,HB_Convert_DH,2025,1,,MEUR/GW,,,
-World,HB_Convert_DH,2030,1,,MEUR/GW,,,
-World,HB_Convert_DH,2035,1,,MEUR/GW,,,
-World,HB_Convert_DH,2040,1,,MEUR/GW,,,
-World,HB_Convert_DH,2045,1,,MEUR/GW,,,
-World,HB_Convert_DH,2050,1,,MEUR/GW,,,
-World,HB_Convert_DH,2055,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,2060,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Convert_HD,2018,1,,MEUR/GW,,,
+World,X_Convert_HD,2020,1,,MEUR/GW,,,
+World,X_Convert_HD,2021,1,,MEUR/GW,,,
+World,X_Convert_HD,2025,1,,MEUR/GW,,,
+World,X_Convert_HD,2030,1,,MEUR/GW,,,
+World,X_Convert_HD,2035,1,,MEUR/GW,,,
+World,X_Convert_HD,2040,1,,MEUR/GW,,,
+World,X_Convert_HD,2045,1,,MEUR/GW,,,
+World,X_Convert_HD,2050,1,,MEUR/GW,,,
+World,X_Convert_HD,2055,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Convert_HD,2060,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Direct_Electric,2018,685.6875,,MEUR/GW,,31.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HB_Direct_Electric,2020,685.6875,,MEUR/GW,,31.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HB_Direct_Electric,2021,685.6875,,MEUR/GW,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,31.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -670,17 +670,6 @@ World,HLI_Biomass,2045,550,,MEUR/GW,Energy Agency Denmark (2022): Hot water boil
 World,HLI_Biomass,2050,536.3636364,,MEUR/GW,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Biomass,2055,536.3636364,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Biomass,2060,536.3636364,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,2018,1,,MEUR/GW,,,
-World,HLI_Convert_DH,2020,1,,MEUR/GW,,,
-World,HLI_Convert_DH,2021,1,,MEUR/GW,,,
-World,HLI_Convert_DH,2025,1,,MEUR/GW,,,
-World,HLI_Convert_DH,2030,1,,MEUR/GW,,,
-World,HLI_Convert_DH,2035,1,,MEUR/GW,,,
-World,HLI_Convert_DH,2040,1,,MEUR/GW,,,
-World,HLI_Convert_DH,2045,1,,MEUR/GW,,,
-World,HLI_Convert_DH,2050,1,,MEUR/GW,,,
-World,HLI_Convert_DH,2055,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,2060,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,2018,83.61111111,,MEUR/GW,,,
 World,HLI_Direct_Electric,2020,83.61111111,,MEUR/GW,,,
 World,HLI_Direct_Electric,2021,83.61111111,,MEUR/GW,Energy Agency Denmark (2022): Electric boiler hot water 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
