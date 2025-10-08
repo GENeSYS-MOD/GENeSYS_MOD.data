@@ -210,6 +210,7 @@ def process_all_fuel(df, unique_values_concatenated):
 
         # Define the replacement fuels and drop NaN values
         replacement_fuels = unique_values_concatenated['Fuel'].dropna()
+        replacement_fuels = replacement_fuels[replacement_fuels != "ETS"]
 
         # Create new rows by repeating the 'All' rows with different fuels
         new_rows = []
