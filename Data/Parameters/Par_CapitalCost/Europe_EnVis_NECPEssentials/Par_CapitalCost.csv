@@ -87,30 +87,6 @@ World,P_Gas_OCGT,2045,1015.3,,MEUR/GW,Gas turbine simple cycle (small and medium
 World,P_Gas_OCGT,2050,1010,,MEUR/GW,Gas turbine simple cycle (small and medium scale plant) back pressure (upper)- https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Gas_OCGT,2055,1010,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_OCGT,2060,1010,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Deep,2025,2534,,MEUR/GW,Wind-offshore - deep waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2021,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Deep,2030,2467,,MEUR/GW,Wind-offshore - deep waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2022,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Deep,2035,2431.5,,MEUR/GW,Wind-offshore - deep waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2023,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Deep,2040,2396,,MEUR/GW,Wind-offshore - deep waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2024,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Deep,2045,2359.5,,MEUR/GW,Wind-offshore - deep waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2025,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Deep,2050,2323,,MEUR/GW,Wind-offshore - deep waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2026,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Deep,2055,2323,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Deep,2060,2323,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Shallow,2025,1721,,MEUR/GW,Wind-offshore - shallow waters- near-shore- low resource area- Power&Heat- EU Reference Scenario 2021,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Shallow,2030,1650,,MEUR/GW,Wind-offshore - shallow waters- near-shore- low resource area- Power&Heat- EU Reference Scenario 2022,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Shallow,2035,1613.5,,MEUR/GW,Wind-offshore - shallow waters- near-shore- low resource area- Power&Heat- EU Reference Scenario 2023,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Shallow,2040,1577,,MEUR/GW,Wind-offshore - shallow waters- near-shore- low resource area- Power&Heat- EU Reference Scenario 2024,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Shallow,2045,1540,,MEUR/GW,Wind-offshore - shallow waters- near-shore- low resource area- Power&Heat- EU Reference Scenario 2025,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Shallow,2050,1503,,MEUR/GW,Wind-offshore - shallow waters- near-shore- low resource area- Power&Heat- EU Reference Scenario 2026,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Shallow,2055,1503,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Shallow,2060,1503,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Transitional,2025,1949.5,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2021,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Transitional,2030,1898,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2022,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Transitional,2035,1870.5,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2023,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Transitional,2040,1843,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2024,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Transitional,2045,1815,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2025,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Transitional,2050,1787,,MEUR/GW,Wind-offshore - shallow waters- distant from shore- low resource area- Power&Heat- EU Reference Scenario 2026,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_Wind_Offshore_Transitional,2055,1787,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Wind_Offshore_Transitional,2060,1787,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Biofuel,2025,865.8,,MEUR/GW,HVO / renwable diesel (upper)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Biofuel,2030,795.6,,MEUR/GW,HVO / renwable diesel (upper)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Biofuel,2035,772.2,,MEUR/GW,HVO / renwable diesel (upper)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -135,3 +111,27 @@ World,X_SMR,2045,1509,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation
 World,X_SMR,2050,1509,,MEUR/GW,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 SMR medium size decentralized,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_SMR,2055,1509,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_SMR,2060,1509,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Deep,2025,3619,,MEUR/GW,Far shore Wind DC Fixed (ctrl) - Danish Energy Agency Electricity Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Deep,2030,3222,,MEUR/GW,Far shore Wind DC Fixed (ctrl) - Danish Energy Agency Electricity Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Deep,2035,3032,,MEUR/GW,Far shore Wind DC Fixed (ctrl) - Danish Energy Agency Electricity Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Deep,2040,2898,,MEUR/GW,Far shore Wind DC Fixed (ctrl) - Danish Energy Agency Electricity Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Deep,2045,2791,,MEUR/GW,Far shore Wind DC Fixed (ctrl) - Danish Energy Agency Electricity Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Deep,2050,2684,,MEUR/GW,Far shore Wind DC Fixed (ctrl) - Danish Energy Agency Electricity Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Deep,2055,2684,,MEUR/GW,Far shore Wind DC Fixed (ctrl) - Danish Energy Agency Electricity Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Deep,2060,2684,,MEUR/GW,Far shore Wind DC Fixed (ctrl) - Danish Energy Agency Electricity Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Shallow,2025,1915,,MEUR/GW,Near Shore Wind (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Shallow,2030,1648,,MEUR/GW,Near Shore Wind (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Shallow,2035,1549,,MEUR/GW,Near Shore Wind (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Shallow,2040,1475,,MEUR/GW,Near Shore Wind (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Shallow,2045,1421,,MEUR/GW,Near Shore Wind (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Shallow,2050,1368,,MEUR/GW,Near Shore Wind (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Shallow,2055,1368,,MEUR/GW,Near Shore Wind (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Shallow,2060,1368,,MEUR/GW,Near Shore Wind (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Transitional,2025,2780,,MEUR/GW,Offshore Wind AC Fixed (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Transitional,2030,2393,,MEUR/GW,Offshore Wind AC Fixed (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Transitional,2035,2248,,MEUR/GW,Offshore Wind AC Fixed (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Transitional,2040,2141,,MEUR/GW,Offshore Wind AC Fixed (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Transitional,2045,2063,,MEUR/GW,Offshore Wind AC Fixed (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Transitional,2050,1986,,MEUR/GW,Offshore Wind AC Fixed (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Transitional,2055,1986,,MEUR/GW,Offshore Wind AC Fixed (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_Wind_Offshore_Transitional,2060,1986,,MEUR/GW,Offshore Wind AC Fixed (ctrl) - Danish Energy Agency Electricty Generation Catalogue,45946,Nikita Moskalenko <nim@wip.tu-berlin.de>
