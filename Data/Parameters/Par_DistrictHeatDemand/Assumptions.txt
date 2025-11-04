@@ -1,0 +1,18 @@
+Took final Energy consumption of district heating in 2018 from "EU Commission: District Heating and Cooling in the European Union". Summed up Residential and Services to Buildings.
+Took the development of the Buildings consumption from "Fallahnejad et al. 2024: District heating potential in the EU-27 (Best case Scenario: DH potential)". To do so, the Change between the 2020 and 2050 value was taken and applied to the consumption value of the EU Commission source.
+Industry stays on same level.
+
+See calculation file for the calculations.
+
+
+Sources:
+	- EU Commission: District Heating and Cooling in the European Union
+		- Heat_District
+	- Fallahnejad et al. 2024: District heating potential in the EU-27
+		- Heat_District
+
+	
+In general:
+	- Assumed 2020 = 2018. Interpolated values for the years not given in the sources.
+
+

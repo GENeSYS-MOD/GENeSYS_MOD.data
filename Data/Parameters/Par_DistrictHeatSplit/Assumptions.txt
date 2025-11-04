@@ -1,0 +1,15 @@
+Took the split for 2018 from final Energy consumption of district heating in 2018 from "EU Commission: District Heating and Cooling in the European Union".
+Years until 2025 remain on the same Level. For future years, the factor is lowered for both Buildings and Industry not summing up to 1 anymore, thus giving the model some freedom of choice on where to use the district heat.
+
+See calculation file for the calculations.
+
+
+Sources:
+	- EU Commission: District Heating and Cooling in the European Union
+		- Heat_District
+
+	
+In general:
+	- Assumed 2018=2020=2021=2025. Interpolated values for the years not given in the sources.
+
+
