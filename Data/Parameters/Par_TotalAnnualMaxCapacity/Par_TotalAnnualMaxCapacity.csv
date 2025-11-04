@@ -131,10 +131,6 @@ UK,P_Hydro_RoR,2045,1.9191,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 UK,P_Hydro_RoR,2050,1.9191,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Hydro_RoR,2055,1.9191,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Hydro_RoR,2060,1.9191,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,P_PV_Utility_Avg,All,66.32116224,,GW,,,
-UK,P_PV_Utility_Inf,All,66.32116224,,GW,,,
-UK,P_PV_Utility_Opt,All,66.32116224,,GW,,,
-UK,P_PV_Utility_Tracking,All,66.32116224,,GW,,,
 UK,P_Wind_Offshore_Deep,All,42.9,,GW,,,
 UK,P_Wind_Offshore_Shallow,All,42.9,,GW,,,
 UK,P_Wind_Offshore_Transitional,All,42.9,,GW,,,
@@ -182,9 +178,6 @@ TR,P_Hydro_RoR,2050,6.8,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenk
 TR,P_Hydro_RoR,2055,6.8,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,P_Hydro_RoR,2060,6.8,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,P_Ocean,All,0,,GW,,,
-TR,P_PV_Utility_Avg,All,191.035,,GW,,,
-TR,P_PV_Utility_Inf,All,191.035,,GW,,,
-TR,P_PV_Utility_Opt,All,191.035,,GW,,,
 TR,P_Wind_Offshore_Deep,All,13,,GW,,,
 TR,P_Wind_Offshore_Shallow,All,13,,GW,,,
 TR,P_Wind_Offshore_Transitional,All,13,,GW,,,
@@ -215,10 +208,6 @@ SK,P_Hydro_RoR,2045,1.2121,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 SK,P_Hydro_RoR,2050,1.2121,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,P_Hydro_RoR,2055,1.2121,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,P_Hydro_RoR,2060,1.2121,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,P_PV_Utility_Avg,All,7.626105957,,GW,,,
-SK,P_PV_Utility_Inf,All,7.626105957,,GW,,,
-SK,P_PV_Utility_Opt,All,7.626105957,,GW,,,
-SK,P_PV_Utility_Tracking,All,7.626105957,,GW,,,
 SK,P_Wind_Offshore_Deep,All,0,,GW,,,
 SK,P_Wind_Offshore_Shallow,All,0,,GW,,,
 SK,P_Wind_Offshore_Transitional,All,0,,GW,,,
@@ -249,10 +238,6 @@ SI,P_Hydro_RoR,2045,1.1251,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 SI,P_Hydro_RoR,2050,1.1251,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,P_Hydro_RoR,2055,1.1251,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,P_Hydro_RoR,2060,1.1251,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,P_PV_Utility_Avg,All,2.449814718,,GW,,,
-SI,P_PV_Utility_Inf,All,2.449814718,,GW,,,
-SI,P_PV_Utility_Opt,All,2.449814718,,GW,,,
-SI,P_PV_Utility_Tracking,All,2.449814718,,GW,,,
 SI,P_Wind_Offshore_Deep,All,0.13,,GW,,,
 SI,P_Wind_Offshore_Shallow,All,0.13,,GW,,,
 SI,P_Wind_Offshore_Transitional,All,0.13,,GW,,,
@@ -283,10 +268,6 @@ SE,P_Hydro_RoR,2045,11.22,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 SE,P_Hydro_RoR,2050,11.22,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,P_Hydro_RoR,2055,11.22,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,P_Hydro_RoR,2060,11.22,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,P_PV_Utility_Avg,All,18.5999362,,GW,,,
-SE,P_PV_Utility_Inf,All,18.5999362,,GW,,,
-SE,P_PV_Utility_Opt,All,18.5999362,,GW,,,
-SE,P_PV_Utility_Tracking,All,18.5999362,,GW,,,
 SE,P_Wind_Offshore_Deep,All,72.67,,GW,,,
 SE,P_Wind_Offshore_Shallow,All,72.67,,GW,,,
 SE,P_Wind_Offshore_Transitional,All,72.67,,GW,,,
@@ -343,10 +324,6 @@ RO,P_Hydro_RoR,2045,2.781,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 RO,P_Hydro_RoR,2050,2.781,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,P_Hydro_RoR,2055,2.781,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,P_Hydro_RoR,2060,2.781,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,P_PV_Utility_Avg,All,57.2,,GW,,,
-RO,P_PV_Utility_Inf,All,57.2,,GW,,,
-RO,P_PV_Utility_Opt,All,57.2,,GW,,,
-RO,P_PV_Utility_Tracking,All,57.2,,GW,,,
 RO,P_Wind_Offshore_Deep,All,10.53,,GW,,,
 RO,P_Wind_Offshore_Shallow,All,10.53,,GW,,,
 RO,P_Wind_Offshore_Transitional,All,10.53,,GW,,,
@@ -377,10 +354,6 @@ PT,P_Hydro_RoR,2045,2.8561,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 PT,P_Hydro_RoR,2050,2.8561,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Hydro_RoR,2055,2.8561,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Hydro_RoR,2060,2.8561,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Avg,All,10.89353324,,GW,,,
-PT,P_PV_Utility_Inf,All,10.89353324,,GW,,,
-PT,P_PV_Utility_Opt,All,10.89353324,,GW,,,
-PT,P_PV_Utility_Tracking,All,10.89353324,,GW,,,
 PT,P_Wind_Offshore_Deep,All,7.236666667,,GW,,,
 PT,P_Wind_Offshore_Shallow,All,7.236666667,,GW,,,
 PT,P_Wind_Offshore_Transitional,All,7.236666667,,GW,,,
@@ -411,10 +384,6 @@ PL,P_Hydro_RoR,2045,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 PL,P_Hydro_RoR,2050,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,P_Hydro_RoR,2055,0.455,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,P_Hydro_RoR,2060,0.455,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,P_PV_Utility_Avg,All,67.6,,GW,,,
-PL,P_PV_Utility_Inf,All,67.6,,GW,,,
-PL,P_PV_Utility_Opt,All,67.6,,GW,,,
-PL,P_PV_Utility_Tracking,All,67.6,,GW,,,
 PL,P_Wind_Offshore_Deep,All,17.63666667,,GW,,,
 PL,P_Wind_Offshore_Shallow,All,17.63666667,,GW,,,
 PL,P_Wind_Offshore_Transitional,All,17.63666667,,GW,,,
@@ -447,10 +416,6 @@ NONEU_Balkan,P_Hydro_RoR,2050,3.624,,GW,same as ResidualCapacity,21.01.2025,Niki
 NONEU_Balkan,P_Hydro_RoR,2055,3.624,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_RoR,2060,3.624,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,P_Ocean,All,0.117673885,,GW,,,
-NONEU_Balkan,P_PV_Utility_Avg,All,37.95441319,,GW,,,
-NONEU_Balkan,P_PV_Utility_Inf,All,37.95441319,,GW,,,
-NONEU_Balkan,P_PV_Utility_Opt,All,37.95441319,,GW,,,
-NONEU_Balkan,P_PV_Utility_Tracking,All,37.95441319,,GW,,,
 NONEU_Balkan,P_Wind_Offshore_Deep,All,2.403326044,,GW,,,
 NONEU_Balkan,P_Wind_Offshore_Shallow,All,0,,GW,,,
 NONEU_Balkan,P_Wind_Offshore_Transitional,All,2.403326044,,GW,,,
@@ -481,10 +446,6 @@ NO,P_Hydro_RoR,2045,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita M
 NO,P_Hydro_RoR,2050,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_RoR,2055,8.473811519,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_RoR,2060,8.473811519,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_PV_Utility_Avg,All,5.2,,GW,,,
-NO,P_PV_Utility_Inf,All,5.2,,GW,,,
-NO,P_PV_Utility_Opt,All,5.2,,GW,,,
-NO,P_PV_Utility_Tracking,All,5.2,,GW,,,
 NO,P_Wind_Offshore_Deep,2018,1,,GW,Norwegian policy and ambition ( NVE - Langsiktig kraftmarkedsanalyse 2023),09.10.2024,Stian Backe <stian.backe@sintef.no>
 NO,P_Wind_Offshore_Deep,2020,1,,GW,Norwegian policy and ambition ( NVE - Langsiktig kraftmarkedsanalyse 2023),09.10.2024,Stian Backe <stian.backe@sintef.no>
 NO,P_Wind_Offshore_Deep,2025,5,,GW,Norwegian policy and ambition ( NVE - Langsiktig kraftmarkedsanalyse 2023),09.10.2024,Stian Backe <stian.backe@sintef.no>
@@ -542,10 +503,6 @@ NL,P_Hydro_RoR,2045,0.038,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 NL,P_Hydro_RoR,2050,0.038,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,P_Hydro_RoR,2055,0.038,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,P_Hydro_RoR,2060,0.038,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,P_PV_Utility_Avg,All,25,,GW,,,
-NL,P_PV_Utility_Inf,All,15.65203385,,GW,,,
-NL,P_PV_Utility_Opt,All,15.65203385,,GW,,,
-NL,P_PV_Utility_Tracking,All,15.65203385,,GW,,,
 NL,P_Wind_Offshore_Deep,All,24.74333333,,GW,,,
 NL,P_Wind_Offshore_Shallow,All,24.74333333,,GW,,,
 NL,P_Wind_Offshore_Transitional,All,24.74333333,,GW,,,
@@ -602,10 +559,6 @@ LV,P_Hydro_RoR,2045,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 LV,P_Hydro_RoR,2050,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,P_Hydro_RoR,2055,1.594,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,P_Hydro_RoR,2060,1.594,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,P_PV_Utility_Avg,All,13,,GW,,,
-LV,P_PV_Utility_Inf,All,13,,GW,,,
-LV,P_PV_Utility_Opt,All,13,,GW,,,
-LV,P_PV_Utility_Tracking,All,13,,GW,,,
 LV,P_Wind_Offshore_Deep,All,18.67666667,,GW,,,
 LV,P_Wind_Offshore_Shallow,All,18.67666667,,GW,,,
 LV,P_Wind_Offshore_Transitional,All,18.67666667,,GW,,,
@@ -636,10 +589,6 @@ LU,P_Hydro_RoR,2045,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 LU,P_Hydro_RoR,2050,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Hydro_RoR,2055,0.025,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Hydro_RoR,2060,0.025,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,P_PV_Utility_Avg,All,0.928822943,,GW,,,
-LU,P_PV_Utility_Inf,All,0.928822943,,GW,,,
-LU,P_PV_Utility_Opt,All,0.928822943,,GW,,,
-LU,P_PV_Utility_Tracking,All,0.928822943,,GW,,,
 LU,P_Wind_Offshore_Deep,All,0,,GW,,,
 LU,P_Wind_Offshore_Shallow,All,0,,GW,,,
 LU,P_Wind_Offshore_Transitional,All,0,,GW,,,
@@ -670,10 +619,6 @@ LT,P_Hydro_RoR,2045,0.1291,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 LT,P_Hydro_RoR,2050,0.1291,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,P_Hydro_RoR,2055,0.1291,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,P_Hydro_RoR,2060,0.1291,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,P_PV_Utility_Avg,All,15.6,,GW,,,
-LT,P_PV_Utility_Inf,All,15.6,,GW,,,
-LT,P_PV_Utility_Opt,All,15.6,,GW,,,
-LT,P_PV_Utility_Tracking,All,15.6,,GW,,,
 LT,P_Wind_Offshore_Deep,All,3.986666667,,GW,,,
 LT,P_Wind_Offshore_Shallow,All,3.986666667,,GW,,,
 LT,P_Wind_Offshore_Transitional,All,3.986666667,,GW,,,
@@ -704,10 +649,6 @@ IT,P_Hydro_RoR,2045,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 IT,P_Hydro_RoR,2050,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,P_Hydro_RoR,2055,10.826,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,P_Hydro_RoR,2060,10.826,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,P_PV_Utility_Avg,All,64.21987813,,GW,,,
-IT,P_PV_Utility_Inf,All,64.21987813,,GW,,,
-IT,P_PV_Utility_Opt,All,64.21987813,,GW,,,
-IT,P_PV_Utility_Tracking,All,64.21987813,,GW,,,
 IT,P_Wind_Offshore_Deep,All,33.67,,GW,,,
 IT,P_Wind_Offshore_Shallow,All,33.67,,GW,,,
 IT,P_Wind_Offshore_Transitional,All,33.67,,GW,,,
@@ -738,10 +679,6 @@ IE,P_Hydro_RoR,2045,0.216,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 IE,P_Hydro_RoR,2050,0.216,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,P_Hydro_RoR,2055,0.216,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,P_Hydro_RoR,2060,0.216,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,P_PV_Utility_Avg,All,7.055003939,,GW,,,
-IE,P_PV_Utility_Inf,All,7.055003939,,GW,,,
-IE,P_PV_Utility_Opt,All,7.055003939,,GW,,,
-IE,P_PV_Utility_Tracking,All,7.055003939,,GW,,,
 IE,P_Wind_Offshore_Deep,All,22.62,,GW,,,
 IE,P_Wind_Offshore_Shallow,All,22.62,,GW,,,
 IE,P_Wind_Offshore_Transitional,All,22.62,,GW,,,
@@ -772,10 +709,6 @@ HU,P_Hydro_RoR,2045,0.0331,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 HU,P_Hydro_RoR,2050,0.0331,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,P_Hydro_RoR,2055,0.0331,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,P_Hydro_RoR,2060,0.0331,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,P_PV_Utility_Avg,All,10.10873483,,GW,,,
-HU,P_PV_Utility_Inf,All,10.10873483,,GW,,,
-HU,P_PV_Utility_Opt,All,10.10873483,,GW,,,
-HU,P_PV_Utility_Tracking,All,10.10873483,,GW,,,
 HU,P_Wind_Offshore_Deep,All,0,,GW,,,
 HU,P_Wind_Offshore_Shallow,All,0,,GW,,,
 HU,P_Wind_Offshore_Transitional,All,0,,GW,,,
@@ -806,10 +739,6 @@ HR,P_Hydro_RoR,2045,0.4281,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 HR,P_Hydro_RoR,2050,0.4281,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,P_Hydro_RoR,2055,0.4281,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,P_Hydro_RoR,2060,0.4281,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,P_PV_Utility_Avg,All,5.049336686,,GW,,,
-HR,P_PV_Utility_Inf,All,5.049336686,,GW,,,
-HR,P_PV_Utility_Opt,All,5.049336686,,GW,,,
-HR,P_PV_Utility_Tracking,All,5.049336686,,GW,,,
 HR,P_Wind_Offshore_Deep,All,20.41,,GW,,,
 HR,P_Wind_Offshore_Shallow,All,20.41,,GW,,,
 HR,P_Wind_Offshore_Transitional,All,20.41,,GW,,,
@@ -840,10 +769,6 @@ GR,P_Hydro_RoR,2045,0.3271,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 GR,P_Hydro_RoR,2050,0.3271,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Hydro_RoR,2055,0.3271,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Hydro_RoR,2060,0.3271,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_PV_Utility_Avg,All,36.4,,GW,,,
-GR,P_PV_Utility_Inf,All,36.4,,GW,,,
-GR,P_PV_Utility_Opt,All,36.4,,GW,,,
-GR,P_PV_Utility_Tracking,All,36.4,,GW,,,
 GR,P_Wind_Offshore_Deep,All,11.96,,GW,,,
 GR,P_Wind_Offshore_Shallow,All,11.96,,GW,,,
 GR,P_Wind_Offshore_Transitional,All,11.96,,GW,,,
@@ -874,10 +799,6 @@ FR,P_Hydro_RoR,2045,11.5981,,GW,same as ResidualCapacity,21.01.2025,Nikita Moska
 FR,P_Hydro_RoR,2050,11.5981,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_Hydro_RoR,2055,11.5981,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_Hydro_RoR,2060,11.5981,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,P_PV_Utility_Avg,All,98.96481901,,GW,,,
-FR,P_PV_Utility_Inf,All,98.96481901,,GW,,,
-FR,P_PV_Utility_Opt,All,98.96481901,,GW,,,
-FR,P_PV_Utility_Tracking,All,98.96481901,,GW,,,
 FR,P_Wind_Offshore_Deep,All,57.93666667,,GW,,,
 FR,P_Wind_Offshore_Shallow,All,57.93666667,,GW,,,
 FR,P_Wind_Offshore_Transitional,All,57.93666667,,GW,,,
@@ -908,10 +829,6 @@ FI,P_Hydro_RoR,2045,3.1731,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 FI,P_Hydro_RoR,2050,3.1731,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,P_Hydro_RoR,2055,3.1731,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,P_Hydro_RoR,2060,3.1731,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,P_PV_Utility_Avg,All,11.27204821,,GW,,,
-FI,P_PV_Utility_Inf,All,11.27204821,,GW,,,
-FI,P_PV_Utility_Opt,All,11.27204821,,GW,,,
-FI,P_PV_Utility_Tracking,All,11.27204821,,GW,,,
 FI,P_Wind_Offshore_Deep,All,56.55,,GW,,,
 FI,P_Wind_Offshore_Shallow,All,56.55,,GW,,,
 FI,P_Wind_Offshore_Transitional,All,56.55,,GW,,,
@@ -942,10 +859,6 @@ ES,P_Hydro_RoR,2045,1.156,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 ES,P_Hydro_RoR,2050,1.156,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Hydro_RoR,2055,1.156,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Hydro_RoR,2060,1.156,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,P_PV_Utility_Avg,All,105.3,,GW,,,
-ES,P_PV_Utility_Inf,All,105.3,,GW,,,
-ES,P_PV_Utility_Opt,All,105.3,,GW,,,
-ES,P_PV_Utility_Tracking,All,105.3,,GW,,,
 ES,P_Wind_Offshore_Deep,All,23.83333333,,GW,,,
 ES,P_Wind_Offshore_Shallow,All,23.83333333,,GW,,,
 ES,P_Wind_Offshore_Transitional,All,23.83333333,,GW,,,
@@ -976,10 +889,6 @@ EE,P_Hydro_RoR,2045,0.008,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 EE,P_Hydro_RoR,2050,0.008,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,P_Hydro_RoR,2055,0.008,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,P_Hydro_RoR,2060,0.008,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,P_PV_Utility_Avg,All,1.120837931,,GW,,,
-EE,P_PV_Utility_Inf,All,1.120837931,,GW,,,
-EE,P_PV_Utility_Opt,All,1.120837931,,GW,,,
-EE,P_PV_Utility_Tracking,All,1.120837931,,GW,,,
 EE,P_Wind_Offshore_Deep,All,24.22333333,,GW,,,
 EE,P_Wind_Offshore_Shallow,All,24.22333333,,GW,,,
 EE,P_Wind_Offshore_Transitional,All,24.22333333,,GW,,,
@@ -1010,10 +919,6 @@ DK,P_Hydro_RoR,2045,0.006,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 DK,P_Hydro_RoR,2050,0.006,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,P_Hydro_RoR,2055,0.006,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,P_Hydro_RoR,2060,0.006,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,P_PV_Utility_Avg,All,7.550832487,,GW,,,
-DK,P_PV_Utility_Inf,All,7.550832487,,GW,,,
-DK,P_PV_Utility_Opt,All,7.550832487,,GW,,,
-DK,P_PV_Utility_Tracking,All,7.550832487,,GW,,,
 DK,P_Wind_Offshore_Deep,All,64.56666667,,GW,,,
 DK,P_Wind_Offshore_Shallow,All,64.56666667,,GW,,,
 DK,P_Wind_Offshore_Transitional,All,64.56666667,,GW,,,
@@ -2436,10 +2341,6 @@ DE,P_Hydro_RoR,2045,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalen
 DE,P_Hydro_RoR,2050,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Hydro_RoR,2055,3.86,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Hydro_RoR,2060,3.86,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_PV_Utility_Avg,All,85.87309284,,GW,,,
-DE,P_PV_Utility_Inf,All,85.87309284,,GW,,,
-DE,P_PV_Utility_Opt,All,85.87309284,,GW,,,
-DE,P_PV_Utility_Tracking,All,85.87309284,,GW,,,
 DE,P_Wind_Offshore_Deep,All,36.22666667,,GW,,,
 DE,P_Wind_Offshore_Shallow,All,36.22666667,,GW,,,
 DE,P_Wind_Offshore_Transitional,All,36.22666667,,GW,,,
@@ -2470,10 +2371,6 @@ CZ,P_Hydro_RoR,2045,0.341,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 CZ,P_Hydro_RoR,2050,0.341,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Hydro_RoR,2055,0.341,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Hydro_RoR,2060,0.341,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,P_PV_Utility_Avg,All,16.45828438,,GW,,,
-CZ,P_PV_Utility_Inf,All,16.45828438,,GW,,,
-CZ,P_PV_Utility_Opt,All,16.45828438,,GW,,,
-CZ,P_PV_Utility_Tracking,All,16.45828438,,GW,,,
 CZ,P_Wind_Offshore_Deep,All,0,,GW,,,
 CZ,P_Wind_Offshore_Shallow,All,0,,GW,,,
 CZ,P_Wind_Offshore_Transitional,All,0,,GW,,,
@@ -2504,10 +2401,6 @@ CH,P_Hydro_RoR,2045,0.6351,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 CH,P_Hydro_RoR,2050,0.6351,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Hydro_RoR,2055,0.6351,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Hydro_RoR,2060,0.6351,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,P_PV_Utility_Avg,All,8.103333333,,GW,,,
-CH,P_PV_Utility_Inf,All,8.103333333,,GW,,,
-CH,P_PV_Utility_Opt,All,8.103333333,,GW,,,
-CH,P_PV_Utility_Tracking,All,8.103333333,,GW,,,
 CH,P_Wind_Offshore_Deep,All,0,,GW,,,
 CH,P_Wind_Offshore_Shallow,All,0,,GW,,,
 CH,P_Wind_Offshore_Transitional,All,0,,GW,,,
@@ -2551,10 +2444,6 @@ BG,P_Hydro_RoR,2045,0.5421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 BG,P_Hydro_RoR,2050,0.5421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,P_Hydro_RoR,2055,0.5421,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,P_Hydro_RoR,2060,0.5421,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,P_PV_Utility_Avg,All,7.30912474,,GW,,,
-BG,P_PV_Utility_Inf,All,7.30912474,,GW,,,
-BG,P_PV_Utility_Opt,All,7.30912474,,GW,,,
-BG,P_PV_Utility_Tracking,All,7.30912474,,GW,,,
 BG,P_Wind_Offshore_Deep,All,5.026666667,,GW,,,
 BG,P_Wind_Offshore_Shallow,All,5.026666667,,GW,,,
 BG,P_Wind_Offshore_Transitional,All,5.026666667,,GW,,,
@@ -2585,10 +2474,6 @@ BE,P_Hydro_RoR,2045,0.1861,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 BE,P_Hydro_RoR,2050,0.1861,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Hydro_RoR,2055,0.1861,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Hydro_RoR,2060,0.1861,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,P_PV_Utility_Avg,All,12.64234829,,GW,,,
-BE,P_PV_Utility_Inf,All,12.64234829,,GW,,,
-BE,P_PV_Utility_Opt,All,12.64234829,,GW,,,
-BE,P_PV_Utility_Tracking,All,12.64234829,,GW,,,
 BE,P_Wind_Offshore_Deep,All,3.943333333,,GW,,,
 BE,P_Wind_Offshore_Shallow,All,3.943333333,,GW,,,
 BE,P_Wind_Offshore_Transitional,All,3.943333333,,GW,,,
@@ -2632,10 +2517,6 @@ AT,P_Hydro_RoR,2045,5.8171,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 AT,P_Hydro_RoR,2050,5.8171,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Hydro_RoR,2055,5.8171,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Hydro_RoR,2060,5.8171,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,P_PV_Utility_Avg,All,13.04177943,,GW,,,
-AT,P_PV_Utility_Inf,All,13.04177943,,GW,,,
-AT,P_PV_Utility_Opt,All,13.04177943,,GW,,,
-AT,P_PV_Utility_Tracking,All,13.04177943,,GW,,,
 AT,P_Wind_Offshore_Deep,All,0,,GW,,,
 AT,P_Wind_Offshore_Shallow,All,0,,GW,,,
 AT,P_Wind_Offshore_Transitional,All,0,,GW,,,
@@ -2675,3 +2556,122 @@ NL,CHP_WasteToEnergy,All,2.3305,,GW,endogenous from model run to fit actual prod
 PL,CHP_WasteToEnergy,All,0.6498,,GW,endogenous from model run to fit actual production,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,CHP_WasteToEnergy,All,0.5444,,GW,endogenous from model run to fit actual production,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_WasteToEnergy,All,46.2039,,GW,endogenous from model run to fit actual production,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_PV_Utility_Avg,All,10.5638,,GW,,,
+AT,P_PV_Utility_Inf,All,10.5638,,GW,,,
+AT,P_PV_Utility_Opt,All,10.5638,,GW,,,
+AT,P_PV_Utility_Tracking,All,7.4338,,GW,,,
+BE,P_PV_Utility_Avg,All,10.2403,,GW,,,
+BE,P_PV_Utility_Inf,All,10.2403,,GW,,,
+BE,P_PV_Utility_Opt,All,10.2403,,GW,,,
+BE,P_PV_Utility_Tracking,All,7.2061,,GW,,,
+BG,P_PV_Utility_Avg,All,5.9204,,GW,,,
+BG,P_PV_Utility_Inf,All,5.9204,,GW,,,
+BG,P_PV_Utility_Opt,All,5.9204,,GW,,,
+BG,P_PV_Utility_Tracking,All,4.1662,,GW,,,
+CH,P_PV_Utility_Avg,All,6.5637,,GW,,,
+CH,P_PV_Utility_Inf,All,6.5637,,GW,,,
+CH,P_PV_Utility_Opt,All,6.5637,,GW,,,
+CH,P_PV_Utility_Tracking,All,4.6189,,GW,,,
+CZ,P_PV_Utility_Avg,All,13.3312,,GW,,,
+CZ,P_PV_Utility_Inf,All,13.3312,,GW,,,
+CZ,P_PV_Utility_Opt,All,13.3312,,GW,,,
+CZ,P_PV_Utility_Tracking,All,9.3812,,GW,,,
+DE,P_PV_Utility_Avg,All,69.5572,,GW,,,
+DE,P_PV_Utility_Inf,All,69.5572,,GW,,,
+DE,P_PV_Utility_Opt,All,69.5572,,GW,,,
+DE,P_PV_Utility_Tracking,All,48.9477,,GW,,,
+DK,P_PV_Utility_Avg,All,6.1162,,GW,,,
+DK,P_PV_Utility_Inf,All,6.1162,,GW,,,
+DK,P_PV_Utility_Opt,All,6.1162,,GW,,,
+DK,P_PV_Utility_Tracking,All,4.304,,GW,,,
+EE,P_PV_Utility_Avg,All,0.9079,,GW,,,
+EE,P_PV_Utility_Inf,All,0.9079,,GW,,,
+EE,P_PV_Utility_Opt,All,0.9079,,GW,,,
+EE,P_PV_Utility_Tracking,All,0.6389,,GW,,,
+ES,P_PV_Utility_Avg,All,85.293,,GW,,,
+ES,P_PV_Utility_Inf,All,85.293,,GW,,,
+ES,P_PV_Utility_Opt,All,85.293,,GW,,,
+ES,P_PV_Utility_Tracking,All,60.021,,GW,,,
+FI,P_PV_Utility_Avg,All,9.1304,,GW,,,
+FI,P_PV_Utility_Inf,All,9.1304,,GW,,,
+FI,P_PV_Utility_Opt,All,9.1304,,GW,,,
+FI,P_PV_Utility_Tracking,All,6.4251,,GW,,,
+FR,P_PV_Utility_Avg,All,80.1615,,GW,,,
+FR,P_PV_Utility_Inf,All,80.1615,,GW,,,
+FR,P_PV_Utility_Opt,All,80.1615,,GW,,,
+FR,P_PV_Utility_Tracking,All,56.4099,,GW,,,
+GR,P_PV_Utility_Avg,All,29.484,,GW,,,
+GR,P_PV_Utility_Inf,All,29.484,,GW,,,
+GR,P_PV_Utility_Opt,All,29.484,,GW,,,
+GR,P_PV_Utility_Tracking,All,20.748,,GW,,,
+HR,P_PV_Utility_Avg,All,4.09,,GW,,,
+HR,P_PV_Utility_Inf,All,4.09,,GW,,,
+HR,P_PV_Utility_Opt,All,4.09,,GW,,,
+HR,P_PV_Utility_Tracking,All,2.8781,,GW,,,
+HU,P_PV_Utility_Avg,All,8.1881,,GW,,,
+HU,P_PV_Utility_Inf,All,8.1881,,GW,,,
+HU,P_PV_Utility_Opt,All,8.1881,,GW,,,
+HU,P_PV_Utility_Tracking,All,5.762,,GW,,,
+IE,P_PV_Utility_Avg,All,5.7146,,GW,,,
+IE,P_PV_Utility_Inf,All,5.7146,,GW,,,
+IE,P_PV_Utility_Opt,All,5.7146,,GW,,,
+IE,P_PV_Utility_Tracking,All,4.0214,,GW,,,
+IT,P_PV_Utility_Avg,All,52.0181,,GW,,,
+IT,P_PV_Utility_Inf,All,52.0181,,GW,,,
+IT,P_PV_Utility_Opt,All,52.0181,,GW,,,
+IT,P_PV_Utility_Tracking,All,36.6053,,GW,,,
+LT,P_PV_Utility_Avg,All,12.636,,GW,,,
+LT,P_PV_Utility_Inf,All,12.636,,GW,,,
+LT,P_PV_Utility_Opt,All,12.636,,GW,,,
+LT,P_PV_Utility_Tracking,All,8.892,,GW,,,
+LU,P_PV_Utility_Avg,All,0.7523,,GW,,,
+LU,P_PV_Utility_Inf,All,0.7523,,GW,,,
+LU,P_PV_Utility_Opt,All,0.7523,,GW,,,
+LU,P_PV_Utility_Tracking,All,0.5294,,GW,,,
+LV,P_PV_Utility_Avg,All,10.53,,GW,,,
+LV,P_PV_Utility_Inf,All,10.53,,GW,,,
+LV,P_PV_Utility_Opt,All,10.53,,GW,,,
+LV,P_PV_Utility_Tracking,All,7.41,,GW,,,
+NL,P_PV_Utility_Avg,All,12.6781,,GW,,,
+NL,P_PV_Utility_Inf,All,12.6781,,GW,,,
+NL,P_PV_Utility_Opt,All,12.6781,,GW,,,
+NL,P_PV_Utility_Tracking,All,8.9217,,GW,,,
+NO,P_PV_Utility_Avg,All,4.212,,GW,,,
+NO,P_PV_Utility_Inf,All,4.212,,GW,,,
+NO,P_PV_Utility_Opt,All,4.212,,GW,,,
+NO,P_PV_Utility_Tracking,All,2.964,,GW,,,
+NONEU_Balkan,P_PV_Utility_Avg,All,30.7431,,GW,,,
+NONEU_Balkan,P_PV_Utility_Inf,All,30.7431,,GW,,,
+NONEU_Balkan,P_PV_Utility_Opt,All,30.7431,,GW,,,
+NONEU_Balkan,P_PV_Utility_Tracking,All,21.634,,GW,,,
+PL,P_PV_Utility_Avg,All,54.756,,GW,,,
+PL,P_PV_Utility_Inf,All,54.756,,GW,,,
+PL,P_PV_Utility_Opt,All,54.756,,GW,,,
+PL,P_PV_Utility_Tracking,All,38.532,,GW,,,
+PT,P_PV_Utility_Avg,All,8.8238,,GW,,,
+PT,P_PV_Utility_Inf,All,8.8238,,GW,,,
+PT,P_PV_Utility_Opt,All,8.8238,,GW,,,
+PT,P_PV_Utility_Tracking,All,6.2093,,GW,,,
+RO,P_PV_Utility_Avg,All,46.332,,GW,,,
+RO,P_PV_Utility_Inf,All,46.332,,GW,,,
+RO,P_PV_Utility_Opt,All,46.332,,GW,,,
+RO,P_PV_Utility_Tracking,All,32.604,,GW,,,
+SE,P_PV_Utility_Avg,All,15.0659,,GW,,,
+SE,P_PV_Utility_Inf,All,15.0659,,GW,,,
+SE,P_PV_Utility_Opt,All,15.0659,,GW,,,
+SE,P_PV_Utility_Tracking,All,10.602,,GW,,,
+SI,P_PV_Utility_Avg,All,1.9843,,GW,,,
+SI,P_PV_Utility_Inf,All,1.9843,,GW,,,
+SI,P_PV_Utility_Opt,All,1.9843,,GW,,,
+SI,P_PV_Utility_Tracking,All,1.3964,,GW,,,
+SK,P_PV_Utility_Avg,All,6.1771,,GW,,,
+SK,P_PV_Utility_Inf,All,6.1771,,GW,,,
+SK,P_PV_Utility_Opt,All,6.1771,,GW,,,
+SK,P_PV_Utility_Tracking,All,4.3469,,GW,,,
+TR,P_PV_Utility_Avg,All,116.0538,,GW,,,
+TR,P_PV_Utility_Inf,All,116.0538,,GW,,,
+TR,P_PV_Utility_Opt,All,116.0538,,GW,,,
+UK,P_PV_Utility_Avg,All,53.7201,,GW,,,
+UK,P_PV_Utility_Inf,All,53.7201,,GW,,,
+UK,P_PV_Utility_Opt,All,53.7201,,GW,,,
+UK,P_PV_Utility_Tracking,All,37.8031,,GW,,,
