@@ -45,7 +45,6 @@ HHI_H2DRI_EAF,Industry,1
 HHI_Molten_Electrolysis,Industry,1
 HHI_Scrap_EAF,Industry,1
 HLI_Biomass,Industry,1
-X_Convert_HD,Industry,1
 HLI_Direct_Electric,Industry,1
 HLI_Gas_Boiler,Industry,1
 HLI_Geothermal,Industry,1
@@ -56,7 +55,7 @@ HLI_Oil_Boiler,Industry,1
 HLI_Solar_Thermal,Industry,1
 HLI_Heatpump,Industry,1
 HB_Biomass,Buildings,1
-X_Convert_HD,Buildings,1
+X_Convert_HD,DistrictHeating,1
 HB_Direct_Electric,Buildings,1
 HB_Gas_Boiler,Buildings,1
 HB_Geothermal,Buildings,1
@@ -76,12 +75,12 @@ HMHI_HardCoal_CCS,Industry,1
 HMHI_Oil,Industry,1
 HMHI_Steam_Electric,Industry,1
 HMLI_Heatpump,Industry,1
-HD_Heatpump_Air,Buildings,1
+HD_Heatpump_Air,DistrictHeating,1
 CHP_WasteToEnergy,CHP,1
-HD_Geothermal,Buildings,1
-HD_Electric_Boiler,Buildings,1
-HD_Solar_Thermal,Buildings,1
-HD_Heatpump_ExcessHeat,Buildings,1
+HD_Geothermal,DistrictHeating,1
+HD_Electric_Boiler,DistrictHeating,1
+HD_Solar_Thermal,DistrictHeating,1
+HD_Heatpump_ExcessHeat,DistrictHeating,1
 P_Biomass,Power,1
 P_Biomass_CCS,Power,1
 P_Coal_Hardcoal,Power,1
