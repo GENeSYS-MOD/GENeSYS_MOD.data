@@ -133,7 +133,7 @@ HB_Biomass,Households,1,,Binary,not relevant,03.12.2024,Konstantin Loffler <kl@w
 HB_Biomass,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu-berlin.de>
 HB_Biomass,Renewables,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu-berlin.de>
 HB_Biomass,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu-berlin.de>
-HB_Convert_DH,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu-berlin.de>
+X_Convert_HD,Heat,1,,Binary,not relevant,12.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HB_Direct_Electric,EmergingTechnologies,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu-berlin.de>
 HB_Direct_Electric,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu-berlin.de>
 HB_Direct_Electric,Households,1,,Binary,not relevant,03.12.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -242,7 +242,6 @@ HLI_Biomass,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu
 HLI_Biomass,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu-berlin.de>
 HLI_Biomass,Renewables,1,,Binary,not relevant,03.12.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 HLI_Biomass,Transformation,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu-berlin.de>
-HLI_Convert_DH,Heat,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu-berlin.de>
 HLI_Direct_Electric,EmergingTechnologies,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu-berlin.de>
 HLI_Direct_Electric,Heat,1,,Binary,not relevant,03.12.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 HLI_Direct_Electric,PhaseInSet,1,,Binary,not relevant,08.09.2023,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -528,7 +527,6 @@ HMLI_Heatpump,Renewables,1,,Binary,not relevant,16.01.2025,Nikita Moskalenko <ni
 P_CSP,Renewables,1,,Binary,not relevant,16.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 P_H2_OCGT,Renewables,1,,Binary,not relevant,16.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HB_Biomass,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-HB_Convert_DH,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HB_Direct_Electric,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HB_Gas_Boiler,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HB_Geothermal,Buildings,1,,Binary,not relevant,30.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -549,3 +547,5 @@ PSNG_Air_H2,EmergingTechnologies,1,,Binary,not relevant,24.04.2025,Nikita Moskal
 PSNG_Rail_Electric,EmergingTechnologies,1,,Binary,not relevant,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PSNG_Road_BEV,EmergingTechnologies,1,,Binary,not relevant,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PSNG_Road_H2,EmergingTechnologies,1,,Binary,not relevant,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_Convert_HD,Convert,1,,Binary,not relevant,12.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+X_Convert_HD,PhaseInSet,1,,Binary,not relevant,12.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>

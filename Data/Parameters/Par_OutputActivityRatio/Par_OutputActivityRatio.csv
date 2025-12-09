@@ -184,7 +184,7 @@ World,FRT_Ship_Conv,Mobility_Freight,1,All,1,,Gtkm,FVV (2016): Renewables in Tra
 World,FRT_Ship_Conv,Mobility_Freight,2,All,1,,Gtkm,FVV (2016): Renewables in Transport 2050,29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Ship_LNG,Mobility_Freight,1,All,1,,Gtkm,FVV (2016): Renewables in Transport 2050 + less efficient due to larger tank (+5%),29.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,Heat_Buildings,1,All,1,,PJ,Energy Agency Denmark (2023): Biomass boiler upper (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Convert_DH,Heat_Buildings,1,All,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Convert_HD,Heat_Buildings,1,All,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Direct_Electric,Heat_Buildings,1,All,1,,PJ,Energy Agency Denmark (2023): Electric Heating,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Gas_Boiler,Heat_Buildings,1,All,1,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Gas_Boiler,Heat_Buildings,2,All,1,,PJ,Energy Agency Denmark (2023): Gas Boiler single,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -266,7 +266,7 @@ World,HHI_H2DRI_EAF,Heat_High_Industrial,1,All,1,,PJ,,,
 World,HHI_Molten_Electrolysis,Heat_High_Industrial,1,All,1,,PJ,,,
 World,HHI_Scrap_EAF,Heat_High_Industrial,1,All,1,,PJ,Fraunhofer et al. (2016): Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables),04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Biomass,Heat_Low_Industrial,1,All,1,,PJ,Energy Agency Denmark (2022): Hot water boiler wood,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Convert_DH,Heat_Low_Industrial,1,All,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Convert_HD,Heat_Low_Industrial,2,All,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,Heat_Low_Industrial,1,All,1,,PJ,Energy Agency Denmark (2022): Electric boiler hot water,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Gas_Boiler,Heat_Low_Industrial,1,All,1,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Gas_Boiler,Heat_Low_Industrial,2,All,1,,PJ,Energy Agency Denmark (2022): Hot water boiler gas,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>

@@ -1022,7 +1022,7 @@ World,FRT_Ship_Bio,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Her
 World,FRT_Ship_Conv,All,0.95,,Fraction,Assumption: 5% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,FRT_Ship_LNG,All,0.98,,Fraction,Assumption: 2% Maintanence,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Biomass,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,HB_Convert_DH,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,X_Convert_HD,All,1,,Fraction,"by definition only 1, no source needed",11.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Direct_Electric,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Gas_Boiler,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Geothermal,All,0,,Fraction,Assumption of short down times for maintenance | currently disabled due to lack of potential data,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -1052,7 +1052,6 @@ World,HHI_H2DRI_EAF,All,0.98,,Fraction,Assumption of short down times for mainte
 World,HHI_Molten_Electrolysis,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HHI_Scrap_EAF,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HLI_Biomass,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,HLI_Convert_DH,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HLI_Direct_Electric,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HLI_Gas_Boiler,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HLI_Geothermal,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"

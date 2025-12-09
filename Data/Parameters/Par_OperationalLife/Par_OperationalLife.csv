@@ -44,7 +44,7 @@ HHI_H2DRI_EAF,25,,Years,Benavides et al. (2024): https://doi.org/10.1016/j.ijggc
 HHI_Molten_Electrolysis,15,,Years,Assumed: Technology not commercialized yet,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HHI_Scrap_EAF,25,,Years,Assumption: Same as DRI_EAF,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HLI_Biomass,15,,Years,Energy Agency Denmark (2022) direct firing solids,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HLI_Convert_DH,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
+X_Convert_HD,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 HLI_Direct_Electric,12.5,,Years,Energy Agency Denmark (2022) direct firing electricity,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HLI_Gas_Boiler,25,,Years,Energy Agency Denmark (2022) Hot water boiler gas,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HLI_Geothermal,20,,Years,Energy Agency Denmark (2022) high temp hp,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -55,7 +55,6 @@ HLI_Oil_Boiler,25,,Years,Energy Agency Denmark (2022) How water boiler oil,29.07
 HLI_Solar_Thermal,25,,Years,Federal Ministry Republic of Austria (2023): Solar Heat World Wide,29.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HLI_Heatpump,20,,Years,DEA – Technology data for industrial process heat - heat pump 60 to 80 C,13.12.2023,Frida Sather <frida.sather@sintef.no>
 HB_Biomass,20,,Years,Energy Agency Denmark (2023) Wood stove,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HB_Convert_DH,100,,Years,Assumed (not effective),05.09.2023,Stian Backe <stian.backe@sintef.no>
 HB_Direct_Electric,30,,Years,Energy Agency Denmark (2023) Electric heating,30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HB_Gas_Boiler,22.5,,Years,Energy Agency Denmark (2023) Gas boiler apartment / single (average),30.07.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HB_Geothermal,37.5,,Years,U.S. Department of Energy (2011): Guide to Geothermal Heat Pumps,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>

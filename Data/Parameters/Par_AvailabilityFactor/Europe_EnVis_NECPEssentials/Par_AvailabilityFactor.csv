@@ -1,0 +1,44 @@
+Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
+FR,CHP_Coal_Hardcoal,2030,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,CHP_Coal_Hardcoal,2035,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,CHP_Coal_Hardcoal,2040,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,CHP_Coal_Hardcoal,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,CHP_Coal_Hardcoal,2050,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,CHP_Coal_Hardcoal,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Coal_Hardcoal,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Coal_Hardcoal_CCS,2030,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,CHP_Coal_Hardcoal_CCS,2035,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,CHP_Coal_Hardcoal_CCS,2040,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,CHP_Coal_Hardcoal_CCS,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,CHP_Coal_Hardcoal_CCS,2050,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,CHP_Coal_Hardcoal_CCS,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Coal_Hardcoal_CCS,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Coal_Hardcoal,2030,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,P_Coal_Hardcoal,2035,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,P_Coal_Hardcoal,2040,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,P_Coal_Hardcoal,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,P_Coal_Hardcoal,2050,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,P_Coal_Hardcoal,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Coal_Hardcoal,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Coal_Hardcoal_CCS,2030,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,P_Coal_Hardcoal_CCS,2035,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,P_Coal_Hardcoal_CCS,2040,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,P_Coal_Hardcoal_CCS,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,P_Coal_Hardcoal_CCS,2050,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,P_Coal_Hardcoal_CCS,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Coal_Hardcoal_CCS,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_Reservoir,All,0.3202,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,Z_Import_H2,2018,0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Z_Import_H2,2025,0,,Fraction,"by definition only 1, no source needed",22.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Z_Import_H2,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,Z_Import_LNG,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+FR,CHP_Biomass_Solid_CCS,All,0,,Fraction,French NECPs (Partner feedback from EDF),03.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Coal_Hardcoal_CCS,All,0,,Fraction,French NECPs (Partner feedback from EDF),03.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Coal_Lignite_CCS,All,0,,Fraction,French NECPs (Partner feedback from EDF),03.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Gas_CCGT_Biogas_CCS,All,0,,Fraction,French NECPs (Partner feedback from EDF),03.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,CHP_Gas_CCGT_Natural_CCS,All,0,,Fraction,French NECPs (Partner feedback from EDF),03.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Biomass_CCS,All,0,,Fraction,French NECPs (Partner feedback from EDF),03.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Coal_Hardcoal_CCS,All,0,,Fraction,French NECPs (Partner feedback from EDF),03.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Coal_Lignite_CCS,All,0,,Fraction,French NECPs (Partner feedback from EDF),03.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Gas_CCS,All,0,,Fraction,French NECPs (Partner feedback from EDF),03.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,X_ATR_CCS,All,0,,Fraction,French NECPs (Partner feedback from EDF),03.11.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
