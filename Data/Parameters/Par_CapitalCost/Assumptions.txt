@@ -97,3 +97,6 @@ HLI_Heatpump:
 
 HMLI_Heatpump:
 	- Given as the average of “302.a High temp. hp Up to 125 C”, “302.b High temp. hp Up to 150 C” and “303 Booster hp 150 C 130 K”.
+
+P_PV_Utility:
+	- For NECPEssentials and REPowerEU++ data from the IEA: World Energy Outlook 2025 was taken for the years 2030 and 2050. The rest of the years was interpolated. For PV_Tracking 	cost for the Tracker was taken from the DEA source and added to the IEA cost projections. 

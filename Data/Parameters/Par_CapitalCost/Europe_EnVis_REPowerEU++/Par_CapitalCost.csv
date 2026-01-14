@@ -87,3 +87,35 @@ World,P_Wind_Offshore_Transitional,2045,1317,,MEUR/GW,Offshore Wind AC Fixed (lo
 World,P_Wind_Offshore_Transitional,2050,1290,,MEUR/GW,Offshore Wind AC Fixed (low 2050 linear interpolation) - Danish Energy Agency Electricity Generation Catalogue,16.10.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Wind_Offshore_Transitional,2055,1290,,MEUR/GW,Offshore Wind AC Fixed (low 2050 linear interpolation) - Danish Energy Agency Electricity Generation Catalogue,16.10.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Wind_Offshore_Transitional,2060,1290,,MEUR/GW,Offshore Wind AC Fixed (low 2050 linear interpolation) - Danish Energy Agency Electricity Generation Catalogue,16.10.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,2025,499.2647,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,2030,455.8824,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,2035,412.5,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,2040,392.4667,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,2045,372.4333,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,2050,352.4,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,2055,352.4,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Inf,2060,352.4,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,2025,499.2647,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,2030,455.8824,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,2035,412.5,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,2040,392.4667,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,2045,372.4333,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,2050,352.4,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,2055,352.4,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Avg,2060,352.4,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,2025,499.2647,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,2030,455.8824,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,2035,412.5,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,2040,392.4667,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,2045,372.4333,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,2050,352.4,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,2055,352.4,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Opt,2060,352.4,,MEUR/GW,IEA: World Energy Outlook 2025,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,2025,579.2647,,MEUR/GW,IEA: World Energy Outlook 2025 + DEA: Danish Energy Agency Electricty Generation Catalogue,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,2030,525.8824,,MEUR/GW,IEA: World Energy Outlook 2025 + DEA: Danish Energy Agency Electricty Generation Catalogue,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,2035,477.5,,MEUR/GW,IEA: World Energy Outlook 2025 + DEA: Danish Energy Agency Electricty Generation Catalogue,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,2040,452.4667,,MEUR/GW,IEA: World Energy Outlook 2025 + DEA: Danish Energy Agency Electricty Generation Catalogue,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,2045,432.4333,,MEUR/GW,IEA: World Energy Outlook 2025 + DEA: Danish Energy Agency Electricty Generation Catalogue,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,2050,412.4,,MEUR/GW,IEA: World Energy Outlook 2025 + DEA: Danish Energy Agency Electricty Generation Catalogue,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,2055,412.4,,MEUR/GW,IEA: World Energy Outlook 2025 + DEA: Danish Energy Agency Electricty Generation Catalogue,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_PV_Utility_Tracking,2060,412.4,,MEUR/GW,IEA: World Energy Outlook 2025 + DEA: Danish Energy Agency Electricty Generation Catalogue,09.12.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
