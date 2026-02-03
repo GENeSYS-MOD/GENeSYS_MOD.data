@@ -1,14 +1,5 @@
 Region,Technology,Mode_of_operation,Year,Value,,Unit,Source,Updated at,Updated by
-World,A_Air,1,2018,0.5,,MEUR/PJ,,,
-World,A_Air,1,2020,0.425,,MEUR/PJ,,,
-World,A_Air,1,2025,0.425,,MEUR/PJ,,,
-World,A_Air,1,2030,0.425,,MEUR/PJ,,,
-World,A_Air,1,2035,0.425,,MEUR/PJ,,,
-World,A_Air,1,2040,0.425,,MEUR/PJ,,,
-World,A_Air,1,2045,0.425,,MEUR/PJ,,,
-World,A_Air,1,2050,0.425,,MEUR/PJ,,,
-World,A_Air,1,2055,0.425,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,A_Air,1,2060,0.425,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,A_Air,1,All,0.01,,MEUR/PJ,"dummy, not currently in use",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,1,2018,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,1,2025,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,1,2030,0.916666667,,MEUR/PJ,Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu),02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -181,84 +172,28 @@ World,D_PHS_Residual,1,2045,0.01,,MEUR/PJ,"Marginal number for numerical stabili
 World,D_PHS_Residual,1,2050,0.01,,MEUR/PJ,"Marginal number for numerical stability, no source required",08.08.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_PHS_Residual,1,2055,0.01,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,D_PHS_Residual,1,2060,0.01,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Rail_Conv,1,2018,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2020,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2025,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2030,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2035,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2040,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2045,0,,MEUR/PJ,,,
-World,FRT_Rail_Conv,1,2050,0,,MEUR/PJ,,,
+World,FRT_Rail_Conv,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,FRT_Rail_Conv,1,2055,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Rail_Conv,1,2060,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Rail_Electric,1,2018,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2020,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2025,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2030,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2035,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2040,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2045,0,,MEUR/PJ,,,
-World,FRT_Rail_Electric,1,2050,0,,MEUR/PJ,,,
+World,FRT_Rail_Electric,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,FRT_Rail_Electric,1,2055,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Rail_Electric,1,2060,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_BEV,1,2018,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2020,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2025,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2030,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2035,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2040,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2045,0,,MEUR/PJ,,,
-World,FRT_Road_BEV,1,2050,0,,MEUR/PJ,,,
+World,FRT_Road_BEV,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,FRT_Road_BEV,1,2055,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_BEV,1,2060,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_H2,1,2018,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2020,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2025,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2030,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2035,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2040,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2045,0,,MEUR/PJ,,,
-World,FRT_Road_H2,1,2050,0,,MEUR/PJ,,,
+World,FRT_Road_H2,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,FRT_Road_H2,1,2055,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_H2,1,2060,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_ICE,1,2018,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2020,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2025,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2030,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2035,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2040,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2045,0,,MEUR/PJ,,,
-World,FRT_Road_ICE,1,2050,0,,MEUR/PJ,,,
+World,FRT_Road_ICE,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,FRT_Road_ICE,1,2055,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_ICE,1,2060,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Road_PHEV,1,2018,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2020,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2025,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2030,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2035,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2040,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2045,0,,MEUR/PJ,,,
-World,FRT_Road_PHEV,1,2050,0,,MEUR/PJ,,,
+World,FRT_Road_PHEV,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,FRT_Road_PHEV,1,2055,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Road_PHEV,1,2060,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Ship_Bio,1,2018,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2020,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2025,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2030,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2035,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2040,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2045,0,,MEUR/PJ,,,
-World,FRT_Ship_Bio,1,2050,0,,MEUR/PJ,,,
+World,FRT_Ship_Bio,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,FRT_Ship_Bio,1,2055,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Ship_Bio,1,2060,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,FRT_Ship_Conv,1,2018,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2020,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2025,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2030,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2035,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2040,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2045,0,,MEUR/PJ,,,
-World,FRT_Ship_Conv,1,2050,0,,MEUR/PJ,,,
+World,FRT_Ship_Conv,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,FRT_Ship_Conv,1,2055,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,FRT_Ship_Conv,1,2060,0,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,1,2018,0.001,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -270,14 +205,7 @@ World,HB_Biomass,1,2045,0.001,,MEUR/PJ,biomass auto - https://ens.dk/en/our-serv
 World,HB_Biomass,1,2050,0.001,,MEUR/PJ,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Biomass,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Convert_HD,1,2018,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,1,2020,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,1,2025,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,1,2030,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,1,2035,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,1,2040,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,1,2045,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,1,2050,0.001,,MEUR/PJ,,,
+World,X_Convert_HD,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,X_Convert_HD,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Convert_HD,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Direct_Electric,1,2018,0.001,,MEUR/PJ,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -379,14 +307,7 @@ World,HLI_Biomass,1,2045,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Hot 
 World,HLI_Biomass,1,2050,0.305555556,,MEUR/PJ,Energy Agency Denmark (2022): Hot water boiler wood,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Biomass,1,2055,0.305555556,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Biomass,1,2060,0.305555556,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Convert_HD,2,2018,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,2,2020,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,2,2025,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,2,2030,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,2,2035,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,2,2040,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,2,2045,0.001,,MEUR/PJ,,,
-World,X_Convert_HD,2,2050,0.001,,MEUR/PJ,,,
+World,X_Convert_HD,2,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,X_Convert_HD,2,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Convert_HD,2,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Direct_Electric,1,2018,0.125,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler hot water 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -515,94 +436,31 @@ World,HMHI_Steam_Electric,1,2045,0.978075,,MEUR/PJ,Energy Agency Denmark (2022):
 World,HMHI_Steam_Electric,1,2050,0.9522,,MEUR/PJ,Energy Agency Denmark (2022): Electric boiler steam 10kV,30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HMHI_Steam_Electric,1,2055,0.9522,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_Steam_Electric,1,2060,0.9522,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Air_Bio,1,2018,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2020,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2025,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2030,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2035,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2040,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2045,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Bio,1,2050,0.001,,MEUR/PJ,,,
+World,PSNG_Air_Bio,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Air_Bio,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Air_Bio,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Air_Conv,1,2018,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2020,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2025,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2030,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2035,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2040,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2045,0.001,,MEUR/PJ,,,
-World,PSNG_Air_Conv,1,2050,0.001,,MEUR/PJ,,,
+World,PSNG_Air_Conv,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Air_Conv,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Air_Conv,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Air_H2,1,2018,0.001,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2020,0.001,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2025,0.001,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2030,0.001,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2035,0.001,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2040,0.001,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2045,0.001,,MEUR/PJ,,,
-World,PSNG_Air_H2,1,2050,0.001,,MEUR/PJ,,,
+World,PSNG_Air_H2,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Air_H2,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Air_H2,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,1,2018,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2020,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2025,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2030,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2035,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2040,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2045,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Conv,1,2050,0.001,,MEUR/PJ,,,
+World,PSNG_Rail_Conv,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Rail_Conv,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Rail_Conv,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,1,2018,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2020,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2025,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2030,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2035,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2040,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2045,0.001,,MEUR/PJ,,,
-World,PSNG_Rail_Electric,1,2050,0.001,,MEUR/PJ,,,
+World,PSNG_Rail_Electric,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Rail_Electric,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Rail_Electric,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_BEV,1,2018,0.001,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2020,0.001,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2025,0.001,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2030,0.001,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2035,0.001,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2040,0.001,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2045,0.001,,MEUR/PJ,,,
-World,PSNG_Road_BEV,1,2050,0.001,,MEUR/PJ,,,
+World,PSNG_Road_BEV,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Road_BEV,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_BEV,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_H2,1,2018,0.001,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2020,0.001,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2025,0.001,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2030,0.001,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2035,0.001,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2040,0.001,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2045,0.001,,MEUR/PJ,,,
-World,PSNG_Road_H2,1,2050,0.001,,MEUR/PJ,,,
+World,PSNG_Road_H2,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Road_H2,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_H2,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_ICE,1,2018,0.001,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2020,0.001,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2025,0.001,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2030,0.001,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2035,0.001,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2040,0.001,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2045,0.001,,MEUR/PJ,,,
-World,PSNG_Road_ICE,1,2050,0.001,,MEUR/PJ,,,
+World,PSNG_Road_ICE,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Road_ICE,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_ICE,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,1,2018,0.001,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2020,0.001,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2025,0.001,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2030,0.001,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2035,0.001,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2040,0.001,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2045,0.001,,MEUR/PJ,,,
-World,PSNG_Road_PHEV,1,2050,0.001,,MEUR/PJ,,,
+World,PSNG_Road_PHEV,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Road_PHEV,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_PHEV,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Biomass,1,2018,0.98968,,MEUR/PJ,,,
@@ -877,14 +735,14 @@ World,P_Wind_Onshore_Opt,1,2045,0.0694,,MEUR/PJ,EU REF2020 scenario: onshore hig
 World,P_Wind_Onshore_Opt,1,2050,0.0694,,MEUR/PJ,EU REF2020 scenario: onshore high resource,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Wind_Onshore_Opt,1,2055,0.0694,,MEUR/PJ,EU REF2020 scenario: onshore high resource,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Wind_Onshore_Opt,1,2060,0.0694,,MEUR/PJ,EU REF2020 scenario: onshore high resource,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Biogas,1,2018,5.176925274,,MEUR/PJ,,,
-World,R_Biogas,1,2020,4.681741117,,MEUR/PJ,,,
-World,R_Biogas,1,2025,4.963095752,,MEUR/PJ,,,
-World,R_Biogas,1,2030,5.244450386,,MEUR/PJ,,,
-World,R_Biogas,1,2035,5.52580502,,MEUR/PJ,,,
-World,R_Biogas,1,2040,5.807159655,,MEUR/PJ,,,
-World,R_Biogas,1,2045,6.088514289,,MEUR/PJ,,,
-World,R_Biogas,1,2050,6.369868924,,MEUR/PJ,,,
+World,R_Biogas,1,2018,5.176925274,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,1,2020,4.681741117,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,1,2025,4.963095752,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,1,2030,5.244450386,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,1,2035,5.52580502,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,1,2040,5.807159655,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,1,2045,6.088514289,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Biogas,1,2050,6.369868924,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,R_Biogas,1,2055,6.369868924,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Biogas,1,2060,6.369868924,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Coal_Lignite,1,2018,2.324665638,,MEUR/PJ,,,
@@ -897,14 +755,14 @@ World,R_Coal_Lignite,1,2045,1.09365943,,MEUR/PJ,,,
 World,R_Coal_Lignite,1,2050,1.038976458,,MEUR/PJ,,,
 World,R_Coal_Lignite,1,2055,1.038976458,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Coal_Lignite,1,2060,1.038976458,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Grass,1,2018,3.384912679,,MEUR/PJ,,,
-World,R_Grass,1,2020,3.061138423,,MEUR/PJ,,,
-World,R_Grass,1,2025,3.245101068,,MEUR/PJ,,,
-World,R_Grass,1,2030,3.429063714,,MEUR/PJ,,,
-World,R_Grass,1,2035,3.61302636,,MEUR/PJ,,,
-World,R_Grass,1,2040,3.796989005,,MEUR/PJ,,,
-World,R_Grass,1,2045,3.980951651,,MEUR/PJ,,,
-World,R_Grass,1,2050,4.164914296,,MEUR/PJ,,,
+World,R_Grass,1,2018,3.384912679,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,1,2020,3.061138423,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,1,2025,3.245101068,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,1,2030,3.429063714,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,1,2035,3.61302636,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,1,2040,3.796989005,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,1,2045,3.980951651,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Grass,1,2050,4.164914296,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,R_Grass,1,2055,4.164914296,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Grass,1,2060,4.164914296,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Nuclear,1,2018,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
@@ -917,44 +775,44 @@ World,R_Nuclear,1,2045,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumpt
 World,R_Nuclear,1,2050,0.722222222,,MEUR/PJ,Uranium Table 1.9- Financial assumptions for the fossil fuel price and GHG emission cost- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options Appendix A Supplementary data,16.10.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,R_Nuclear,1,2055,0.722222222,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Nuclear,1,2060,0.722222222,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Paper_Cardboard,1,2018,9.257637081,,MEUR/PJ,,,
-World,R_Paper_Cardboard,1,2020,8.372123969,,MEUR/PJ,,,
-World,R_Paper_Cardboard,1,2025,8.875256419,,MEUR/PJ,,,
-World,R_Paper_Cardboard,1,2030,9.378388869,,MEUR/PJ,,,
-World,R_Paper_Cardboard,1,2035,9.881521319,,MEUR/PJ,,,
-World,R_Paper_Cardboard,1,2040,10.38465377,,MEUR/PJ,,,
-World,R_Paper_Cardboard,1,2045,10.88778622,,MEUR/PJ,,,
-World,R_Paper_Cardboard,1,2050,11.39091867,,MEUR/PJ,,,
+World,R_Paper_Cardboard,1,2018,9.257637081,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,1,2020,8.372123969,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,1,2025,8.875256419,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,1,2030,9.378388869,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,1,2035,9.881521319,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,1,2040,10.38465377,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,1,2045,10.88778622,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Paper_Cardboard,1,2050,11.39091867,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,R_Paper_Cardboard,1,2055,11.39091867,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Paper_Cardboard,1,2060,11.39091867,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Residues,1,2018,3.982250211,,MEUR/PJ,,,
-World,R_Residues,1,2020,3.601339321,,MEUR/PJ,,,
-World,R_Residues,1,2025,3.817765963,,MEUR/PJ,,,
-World,R_Residues,1,2030,4.034192605,,MEUR/PJ,,,
-World,R_Residues,1,2035,4.250619247,,MEUR/PJ,,,
-World,R_Residues,1,2040,4.467045888,,MEUR/PJ,,,
-World,R_Residues,1,2045,4.68347253,,MEUR/PJ,,,
-World,R_Residues,1,2050,4.899899172,,MEUR/PJ,,,
+World,R_Residues,1,2018,3.982250211,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,1,2020,3.601339321,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,1,2025,3.817765963,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,1,2030,4.034192605,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,1,2035,4.250619247,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,1,2040,4.467045888,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,1,2045,4.68347253,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Residues,1,2050,4.899899172,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,R_Residues,1,2055,4.899899172,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Residues,1,2060,4.899899172,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Roundwood,1,2018,14.68136063,,MEUR/PJ,,,
-World,R_Roundwood,1,2020,13.27705657,,MEUR/PJ,,,
-World,R_Roundwood,1,2025,14.0749566,,MEUR/PJ,,,
-World,R_Roundwood,1,2030,14.87285664,,MEUR/PJ,,,
-World,R_Roundwood,1,2035,15.67075667,,MEUR/PJ,,,
-World,R_Roundwood,1,2040,16.46865671,,MEUR/PJ,,,
-World,R_Roundwood,1,2045,17.26655674,,MEUR/PJ,,,
-World,R_Roundwood,1,2050,18.06445677,,MEUR/PJ,,,
+World,R_Roundwood,1,2018,14.68136063,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,1,2020,13.27705657,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,1,2025,14.0749566,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,1,2030,14.87285664,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,1,2035,15.67075667,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,1,2040,16.46865671,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,1,2045,17.26655674,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Roundwood,1,2050,18.06445677,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,R_Roundwood,1,2055,18.06445677,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Roundwood,1,2060,18.06445677,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Wood,1,2018,3.58402519,,MEUR/PJ,,,
-World,R_Wood,1,2020,3.241205389,,MEUR/PJ,,,
-World,R_Wood,1,2025,3.435989366,,MEUR/PJ,,,
-World,R_Wood,1,2030,3.630773344,,MEUR/PJ,,,
-World,R_Wood,1,2035,3.825557322,,MEUR/PJ,,,
-World,R_Wood,1,2040,4.0203413,,MEUR/PJ,,,
-World,R_Wood,1,2045,4.215125277,,MEUR/PJ,,,
-World,R_Wood,1,2050,4.409909255,,MEUR/PJ,,,
+World,R_Wood,1,2018,3.58402519,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,1,2020,3.241205389,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,1,2025,3.435989366,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,1,2030,3.630773344,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,1,2035,3.825557322,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,1,2040,4.0203413,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,1,2045,4.215125277,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Wood,1,2050,4.409909255,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,R_Wood,1,2055,4.409909255,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Wood,1,2060,4.409909255,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Biofuel,1,2018,2.505555556,,MEUR/PJ,HVO / renwable diesel- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -1089,8 +947,8 @@ World,Z_Import_Gas,1,2045,4.4358,,MEUR/PJ,IEA World Energy Outlook 2024: Natural
 World,Z_Import_Gas,1,2050,4.4358,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (European Union): APS,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_Gas,1,2055,4.4358,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_Gas,1,2060,4.4358,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_H2,1,2018,99,,MEUR/PJ,,,
-World,Z_Import_H2,1,2020,50,,MEUR/PJ,,,
+World,Z_Import_H2,1,2018,99,,MEUR/PJ,dummy value,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,Z_Import_H2,1,2020,99,,MEUR/PJ,dummy value,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,Z_Import_H2,1,2025,49.1667,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_H2,1,2030,38.4368,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_H2,1,2035,35.554,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
