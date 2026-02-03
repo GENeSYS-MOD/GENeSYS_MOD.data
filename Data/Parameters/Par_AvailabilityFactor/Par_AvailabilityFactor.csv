@@ -252,12 +252,6 @@ DE,P_Nuclear,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko 
 DE,P_Nuclear,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Ocean,2018,0.36,,Fraction,https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2014/Wave-Energy_V4_web.pdf?rev=0b2378736cfc4c1dab1fdf38b0d6d98d,,
 DE,P_Ocean,2020,0.45,,Fraction,https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2014/Tidal_Energy_V4_WEB.pdf,,
-DE,P_Ocean,2025,0.46,,Fraction,,,
-DE,P_Ocean,2030,0.47,,Fraction,,,
-DE,P_Ocean,2035,0.47,,Fraction,,,
-DE,P_Ocean,2040,0.47,,Fraction,,,
-DE,P_Ocean,2045,0.48,,Fraction,,,
-DE,P_Ocean,2050,0.5,,Fraction,,,
 DE,P_Ocean,2055,0.5,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Ocean,2060,0.5,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Oil,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -409,13 +403,13 @@ ES,P_Nuclear,2045,0,,Fraction,Spain Nuclear Phase-out,24.07.2024,"Herpich, Phili
 ES,P_Nuclear,2050,0,,Fraction,Spain Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,P_Nuclear,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Nuclear,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,R_Coal_Lignite,2020,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-ES,R_Coal_Lignite,2025,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-ES,R_Coal_Lignite,2030,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-ES,R_Coal_Lignite,2035,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-ES,R_Coal_Lignite,2040,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-ES,R_Coal_Lignite,2045,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-ES,R_Coal_Lignite,2050,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+ES,R_Coal_Lignite,2020,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+ES,R_Coal_Lignite,2025,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+ES,R_Coal_Lignite,2030,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+ES,R_Coal_Lignite,2035,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+ES,R_Coal_Lignite,2040,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+ES,R_Coal_Lignite,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+ES,R_Coal_Lignite,2050,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,R_Coal_Lignite,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,R_Coal_Lignite,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Z_Import_Gas,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -517,11 +511,11 @@ GR,P_Coal_Hardcoal_CCS,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita M
 GR,P_Coal_Hardcoal_CCS,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Hydro_Reservoir,2018,0.4,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 GR,P_Hydro_Reservoir,All,0.33,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-GR,R_Coal_Lignite,2030,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-GR,R_Coal_Lignite,2035,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-GR,R_Coal_Lignite,2040,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-GR,R_Coal_Lignite,2045,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-GR,R_Coal_Lignite,2050,0,,Fraction,,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+GR,R_Coal_Lignite,2030,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+GR,R_Coal_Lignite,2035,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+GR,R_Coal_Lignite,2040,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+GR,R_Coal_Lignite,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+GR,R_Coal_Lignite,2050,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 GR,R_Coal_Lignite,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,R_Coal_Lignite,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Z_Import_Gas,All,1,,Fraction,"by definition only 1, no source needed",24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"

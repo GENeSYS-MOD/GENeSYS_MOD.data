@@ -1,269 +1,269 @@
 Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
-AL,P_CSP,All,0,,,,,
-AT,D_PHS,2025,3.485,,,,,
-AT,P_Biomass,2025,0.549,,,,,
-AT,P_Gas_CCGT,2025,4.225,,,,,
-AT,P_Hydro_Reservoir,2025,2.519,,,,,
-AT,P_Hydro_RoR,2025,5.817,,,,,
-AT,P_Oil,2025,0.125,,,,,
-AT,P_PV_Utility_Avg,2025,7.294,,,,,
-AT,P_Wind_Onshore_Avg,2025,4.021,,,,,
-AT,Waste,2025,0.08,,,,,
-BE,D_PHS,2025,1.308,,,,,
-BE,P_Biomass,2025,0.731,,,,,
-BE,P_Gas_CCGT,2025,6.995,,,,,
-BE,P_Hydro_RoR,2025,0.186,,,,,
-BE,P_Nuclear,2025,3.929,,,,,
-BE,P_Oil,2025,0.452,,,,,
-BE,P_PV_Utility_Avg,2025,8.789,,,,,
-BE,P_Wind_Offshore_Transitional,2025,2.262,,,,,
-BE,P_Wind_Onshore_Avg,2025,3.053,,,,,
-BE,Waste,2025,0.384,,,,,
-BG,D_PHS,2025,0.864,,,,,
-BG,P_Biomass,2025,0.074,,,,,
-BG,P_Coal_Hardcoal,2025,0.356,,,,,
-BG,P_Coal_Lignite,2025,4.119,,,,,
-BG,P_Gas_CCGT,2025,0.699,,,,,
-BG,P_Hydro_Reservoir,2025,1.807,,,,,
-BG,P_Hydro_RoR,2025,0.542,,,,,
-BG,P_Nuclear,2025,2.08,,,,,
-BG,P_PV_Utility_Avg,2025,4.055,,,,,
-BG,P_Wind_Onshore_Avg,2025,0.705,,,,,
-BG,Waste,2025,0.006,,,,,
-CH,D_PHS,2025,6.697,,,,,
-CH,P_Hydro_Reservoir,2025,5.772,,,,,
-CH,P_Hydro_RoR,2025,0.635,,,,,
-CH,P_Nuclear,2025,2.97,,,,,
-CZ,D_PHS,2025,1.172,,,,,
-CZ,Fossil Coal-derived gas,2025,0.38,,,,,
-CZ,P_Biomass,2025,0.41,,,,,
-CZ,P_Coal_Hardcoal,2025,1.2,,,,,
-CZ,P_Coal_Lignite,2025,7.2,,,,,
-CZ,P_Gas_CCGT,2025,1.24,,,,,
-CZ,P_Hydro_Reservoir,2025,0.766,,,,,
-CZ,P_Hydro_RoR,2025,0.34,,,,,
-CZ,P_Nuclear,2025,4.04,,,,,
-CZ,P_PV_Utility_Avg,2025,3.548,,,,,
-CZ,P_Wind_Onshore_Avg,2025,0.342,,,,,
-CZ,Waste,2025,0.1,,,,,
-DE,D_PHS,2025,9.449,,,,,
-DE,Fossil Coal-derived gas,2025,1.257,,,,,
-DE,P_Biomass,2025,8.577,,,,,
-DE,P_Coal_Hardcoal,2025,12.966,,,,,
-DE,P_Coal_Lignite,2025,18.363,,,,,
-DE,P_Gas_CCGT,2025,36.255,,,,,
-DE,P_Geothermal,All,0.054,,,,,
-DE,P_Hydro_Reservoir,2025,1.381,,,,,
-DE,P_Hydro_RoR,2025,3.731,,,,,
-DE,P_Oil,2025,4.118,,,,,
-DE,P_PV_Utility_Avg,2025,76.601,,,,,
-DE,P_Wind_Offshore_Transitional,2025,8.456,,,,,
-DE,P_Wind_Onshore_Avg,2025,59.841,,,,,
-DE,Waste,2025,1.808,,,,,
-DK,P_PV_Utility_Avg,2025,3.73,,,,,
-DK,P_Wind_Offshore_Transitional,2025,2.646,,,,,
-DK,P_Wind_Onshore_Avg,2025,4.86,,,,,
-EE,Fossil Coal-derived gas,2025,0.078,,,,,
-EE,P_Biomass,2025,0.15,,,,,
-EE,P_Gas_CCGT,2025,0.015,,,,,
-EE,P_Hydro_RoR,2025,0.008,,,,,
-EE,P_Oil,2025,1.33,,,,,
-EE,P_PV_Utility_Avg,2025,0.812,,,,,
-EE,P_Wind_Onshore_Avg,2025,0.447,,,,,
-EE,Waste,2025,0.017,,,,,
-ES,D_PHS,2025,3.418,,,,,
-ES,P_Biomass,2025,0.708,,,,,
-ES,P_Coal_Hardcoal,2025,3.223,,,,,
-ES,P_Gas_CCGT,2025,29.873,,,,,
-ES,P_Hydro_Reservoir,2025,15.771,,,,,
-ES,P_Hydro_RoR,2025,1.155,,,,,
-ES,P_Nuclear,2025,7.117,,,,,
-ES,P_Oil,2025,0.704,,,,,
-ES,P_PV_Utility_Avg,2025,23.867,,,,,
-ES,P_Wind_Onshore_Avg,2025,30.159,,,,,
-ES,Waste,2025,0.546,,,,,
-FI,Fossil Peat,2025,1.044,,,,,
-FI,P_Biomass,2025,1.695,,,,,
-FI,P_Coal_Hardcoal,2025,1.41,,,,,
-FI,P_Gas_CCGT,2025,1.742,,,,,
-FI,P_Hydro_RoR,2025,3.173,,,,,
-FI,P_Nuclear,2025,4.364,,,,,
-FI,P_Oil,2025,1.051,,,,,
-FI,P_PV_Utility_Avg,2025,0.027,,,,,
-FI,P_Wind_Onshore_Avg,2025,6.618,,,,,
-FI,Waste,2025,0.087,,,,,
-FR,D_PHS,2025,5.065,,,,,
-FR,P_Biomass,2025,1.403,,,,,
-FR,P_Coal_Hardcoal,2025,1.812,,,,,
-FR,P_Gas_CCGT,2025,13.133,,,,,
-FR,P_Geothermal,All,0.002,,,,,
-FR,P_Hydro_Reservoir,2025,8.787,,,,,
-FR,P_Hydro_RoR,2025,11.598,,,,,
-FR,P_Nuclear,2025,61.37,,,,,
-FR,P_Ocean,All,0.243,,,,,
-FR,P_Oil,2025,3.042,,,,,
-FR,P_PV_Utility_Avg,2025,17.419,,,,,
-FR,P_Wind_Offshore_Transitional,2025,1.483,,,,,
-FR,P_Wind_Onshore_Avg,2025,22.134,,,,,
-FR,Waste,2025,0.968,,,,,
-GR,D_PHS,2025,0.699,,,,,
-GR,P_Biomass,2025,0.12,,,,,
-GR,P_Coal_Lignite,2025,2.65,,,,,
-GR,P_Gas_CCGT,2025,6.03,,,,,
-GR,P_Hydro_Reservoir,2025,2.403,,,,,
-GR,P_Hydro_RoR,2025,0.327,,,,,
-GR,P_PV_Utility_Avg,2025,6.7,,,,,
-GR,P_Wind_Onshore_Avg,2025,5.065,,,,,
-HR,D_PHS,2025,0.281,,,,,
-HR,P_Biomass,2025,0.114,,,,,
-HR,P_Coal_Hardcoal,2025,0.217,,,,,
-HR,P_Gas_CCGT,2025,0.886,,,,,
-HR,P_Geothermal,All,0.01,,,,,
-HR,P_Hydro_Reservoir,2025,1.446,,,,,
-HR,P_Hydro_RoR,2025,0.428,,,,,
-HR,P_Oil,2025,0.045,,,,,
-HR,P_PV_Utility_Avg,2025,0.292,,,,,
-HR,P_Wind_Onshore_Avg,2025,1.209,,,,,
-HR,Waste,2025,0.006,,,,,
-HU,P_Biomass,2025,0.214,,,,,
-HU,P_Coal_Hardcoal,2025,0.042,,,,,
-HU,P_Coal_Lignite,2025,0.787,,,,,
-HU,P_Gas_CCGT,2025,3.161,,,,,
-HU,P_Geothermal,All,0.003,,,,,
-HU,P_Hydro_Reservoir,2025,0.028,,,,,
-HU,P_Hydro_RoR,2025,0.033,,,,,
-HU,P_Nuclear,2025,1.916,,,,,
-HU,P_Oil,2025,0.425,,,,,
-HU,P_PV_Utility_Avg,2025,3.888,,,,,
-HU,P_Wind_Onshore_Avg,2025,0.325,,,,,
-HU,Waste,2025,0.049,,,,,
-IE,D_PHS,2025,0.292,,,,,
-IE,Fossil Peat,2025,0.344,,,,,
-IE,P_Coal_Hardcoal,2025,0.855,,,,,
-IE,P_Gas_CCGT,2025,4.265,,,,,
-IE,P_Geothermal,All,0.017,,,,,
-IE,P_Hydro_RoR,2025,0.216,,,,,
-IE,P_Oil,2025,1.272,,,,,
-IE,P_Wind_Onshore_Avg,2025,1.919,,,,,
-IT,D_PHS,2025,7.256,,,,,
-IT,Fossil Coal-derived gas,2025,2.071,,,,,
-IT,P_Biomass,2025,1.543,,,,,
-IT,P_Coal_Hardcoal,2025,5.583,,,,,
-IT,P_Gas_CCGT,2025,45.157,,,,,
-IT,P_Geothermal,All,0.868,,,,,
-IT,P_Hydro_Reservoir,2025,4.542,,,,,
-IT,P_Hydro_RoR,2025,10.291,,,,,
-IT,P_Oil,2025,1.564,,,,,
-IT,P_PV_Utility_Avg,2025,5.927,,,,,
-IT,P_Wind_Offshore_Transitional,2025,0.03,,,,,
-IT,P_Wind_Onshore_Avg,2025,11.651,,,,,
-IT,Waste,2025,0.67,,,,,
-LT,D_PHS,2025,0.9,,,,,
-LT,P_Biomass,2025,0.196,,,,,
-LT,P_Gas_CCGT,2025,1.503,,,,,
-LT,P_Hydro_RoR,2025,0.129,,,,,
-LT,P_PV_Utility_Avg,2025,1.165,,,,,
-LT,P_Wind_Onshore_Avg,2025,1.288,,,,,
-LT,Waste,2025,0.07,,,,,
-LU,P_Biomass,2025,0.083,,,,,
-LU,P_Gas_CCGT,2025,0.072,,,,,
-LU,P_Hydro_Reservoir,2025,0.011,,,,,
-LU,P_Hydro_RoR,2025,0.022,,,,,
-LU,P_PV_Utility_Avg,2025,0.415,,,,,
-LU,P_Wind_Onshore_Avg,2025,0.208,,,,,
-LU,Waste,2025,0.024,,,,,
-LV,P_Biomass,2025,0.166,,,,,
-LV,P_Gas_CCGT,2025,1.112,,,,,
-LV,P_Hydro_RoR,2025,1.588,,,,,
-LV,P_PV_Utility_Avg,2025,0.303,,,,,
-LV,P_Wind_Onshore_Avg,2025,0.136,,,,,
-NL,P_Biomass,2025,0.415,,,,,
-NL,P_Coal_Hardcoal,2025,4.006,,,,,
-NL,P_Gas_CCGT,2025,18.351,,,,,
-NL,P_Hydro_RoR,2025,0.038,,,,,
-NL,P_Nuclear,2025,0.486,,,,,
-NL,P_PV_Utility_Avg,2025,24.261,,,,,
-NL,P_Wind_Offshore_Transitional,2025,3.978,,,,,
-NL,P_Wind_Onshore_Avg,2025,6.812,,,,,
-NL,Waste,2025,0.786,,,,,
-NO,D_PHS,2025,1.065,,,,,
-NO,P_Biomass,2025,0.014,,,,,
-NO,P_Gas_CCGT,2025,0.473,,,,,
-NO,P_Hydro_Reservoir,2025,26.66,,,,,
-NO,P_Hydro_RoR,2025,6.875,,,,,
-NO,P_PV_Utility_Avg,2025,0.009,,,,,
-NO,P_Wind_Onshore_Opt,2025,5.133,,,,,
-NO,Waste,2025,0.092,,,,,
-NONEU_Balkan,D_PHS,2025,1.082,,,,,
-NONEU_Balkan,P_Biomass,2025,0.009,,,,,
-NONEU_Balkan,P_Coal_Lignite,2025,10.216,,,,,
-NONEU_Balkan,P_Gas_CCGT,2025,0.858,,,,,
-NONEU_Balkan,P_Hydro_Reservoir,2025,2.962676,,,,,
-NONEU_Balkan,P_Hydro_RoR,2025,2.645527,,,,,
-NONEU_Balkan,P_Oil,2025,0.165097,,,,,
-NONEU_Balkan,P_PV_Utility_Avg,2025,0.059195,,,,,
-NONEU_Balkan,P_Wind_Onshore_Avg,2025,1.072,,,,,
-PL,D_PHS,2025,1.589,,,,,
-PL,Fossil Coal-derived gas,2025,0.274,,,,,
-PL,P_Biomass,2025,0.662,,,,,
-PL,P_Coal_Hardcoal,2025,18.831,,,,,
-PL,P_Coal_Lignite,2025,7.557,,,,,
-PL,P_Gas_CCGT,2025,5.162,,,,,
-PL,P_Hydro_Reservoir,2025,0.468,,,,,
-PL,P_Hydro_RoR,2025,0.321,,,,,
-PL,P_Oil,2025,0.393,,,,,
-PL,P_PV_Utility_Avg,2025,14.609,,,,,
-PL,P_Wind_Onshore_Avg,2025,9.583,,,,,
-PT,D_PHS,2025,3.707,,,,,
-PT,P_Biomass,2025,0.681,,,,,
-PT,P_Gas_CCGT,2025,4.433,,,,,
-PT,P_Hydro_Reservoir,2025,1.629,,,,,
-PT,P_Hydro_RoR,2025,2.856,,,,,
-PT,P_PV_Utility_Avg,2025,1.811,,,,,
-PT,P_Wind_Offshore_Transitional,2025,0.025,,,,,
-PT,P_Wind_Onshore_Avg,2025,5.333,,,,,
-RO,P_Biomass,2025,0.118,,,,,
-RO,P_Coal_Hardcoal,2025,0.176,,,,,
-RO,P_Coal_Lignite,2025,1.733,,,,,
-RO,P_Gas_CCGT,2025,2.238,,,,,
-RO,P_Hydro_Reservoir,2025,3.359,,,,,
-RO,P_Hydro_RoR,2025,2.78,,,,,
-RO,P_Nuclear,2025,1.3,,,,,
-RO,P_PV_Utility_Avg,2025,1.293,,,,,
-RO,P_Wind_Onshore_Avg,2025,2.958,,,,,
-RS,Waste,2025,0.032,,,,,
-SE,P_Hydro_Reservoir,2025,16.3,,,,,
-SE,P_Nuclear,2025,6.9,,,,,
-SE,P_PV_Utility_Avg,2025,3.2,,,,,
-SE,P_Wind_Onshore_Avg,2025,16.7,,,,,
-SI,D_PHS,2025,0.18,,,,,
-SI,P_Biomass,2025,0.043,,,,,
-SI,P_Coal_Lignite,2025,1.191,,,,,
-SI,P_Gas_CCGT,2025,0.756,,,,,
-SI,P_Hydro_RoR,2025,1.125,,,,,
-SI,P_Nuclear,2025,0.696,,,,,
-SI,P_Oil,2025,0.058,,,,,
-SI,P_PV_Utility_Avg,2025,1.11,,,,,
-SI,P_Wind_Onshore_Avg,2025,0.003,,,,,
-SI,Waste,2025,0.006,,,,,
-SK,D_PHS,2025,0.916,,,,,
-SK,P_Biomass,2025,0.234,,,,,
-SK,P_Coal_Hardcoal,2025,0.001,,,,,
-SK,P_Coal_Lignite,2025,0.276,,,,,
-SK,P_Gas_CCGT,2025,1.183,,,,,
-SK,P_Hydro_Reservoir,2025,0.418,,,,,
-SK,P_Hydro_RoR,2025,1.212,,,,,
-SK,P_Nuclear,2025,2.003,,,,,
-SK,P_Oil,2025,0.259,,,,,
-SK,P_PV_Utility_Avg,2025,0.532,,,,,
-SK,P_Wind_Onshore_Avg,2025,0.003,,,,,
-UK,D_PHS,2025,4.309,,,,,
-UK,P_Biomass,2025,4.528,,,,,
-UK,P_Coal_Hardcoal,2025,5.755,,,,,
-UK,P_Gas_CCGT,2025,41.371,,,,,
-UK,P_Hydro_RoR,2025,1.919,,,,,
-UK,P_Nuclear,2025,8.256,,,,,
-UK,P_Oil,2025,0.316,,,,,
-UK,P_PV_Utility_Avg,2025,13.47,,,,,
-UK,P_Wind_Offshore_Transitional,2025,12.16,,,,,
-UK,P_Wind_Onshore_Avg,2025,13.932,,,,,
+AL,P_CSP,All,0,,GW,dummy entry,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,D_PHS,2025,3.485,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_Biomass,2025,0.549,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_Gas_CCGT,2025,4.225,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_Hydro_Reservoir,2025,2.519,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_Hydro_RoR,2025,5.817,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_Oil,2025,0.125,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_PV_Utility_Avg,2025,7.294,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_Wind_Onshore_Avg,2025,4.021,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,Waste,2025,0.08,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,D_PHS,2025,1.308,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Biomass,2025,0.731,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Gas_CCGT,2025,6.995,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Hydro_RoR,2025,0.186,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Nuclear,2025,3.929,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Oil,2025,0.452,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_PV_Utility_Avg,2025,8.789,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Wind_Offshore_Transitional,2025,2.262,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Wind_Onshore_Avg,2025,3.053,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,Waste,2025,0.384,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,D_PHS,2025,0.864,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Biomass,2025,0.074,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Coal_Hardcoal,2025,0.356,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Coal_Lignite,2025,4.119,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Gas_CCGT,2025,0.699,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Hydro_Reservoir,2025,1.807,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Hydro_RoR,2025,0.542,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Nuclear,2025,2.08,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_PV_Utility_Avg,2025,4.055,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Wind_Onshore_Avg,2025,0.705,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,Waste,2025,0.006,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CH,D_PHS,2025,6.697,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CH,P_Hydro_Reservoir,2025,5.772,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CH,P_Hydro_RoR,2025,0.635,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CH,P_Nuclear,2025,2.97,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,D_PHS,2025,1.172,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,Fossil Coal-derived gas,2025,0.38,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Biomass,2025,0.41,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Coal_Hardcoal,2025,1.2,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Coal_Lignite,2025,7.2,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Gas_CCGT,2025,1.24,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Hydro_Reservoir,2025,0.766,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Hydro_RoR,2025,0.34,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Nuclear,2025,4.04,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_PV_Utility_Avg,2025,3.548,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Wind_Onshore_Avg,2025,0.342,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,Waste,2025,0.1,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,D_PHS,2025,9.449,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,Fossil Coal-derived gas,2025,1.257,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Biomass,2025,8.577,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2025,12.966,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Coal_Lignite,2025,18.363,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Gas_CCGT,2025,36.255,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Geothermal,All,0.054,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2025,1.381,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Hydro_RoR,2025,3.731,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Oil,2025,4.118,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_PV_Utility_Avg,2025,76.601,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2025,8.456,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2025,59.841,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,Waste,2025,1.808,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DK,P_PV_Utility_Avg,2025,3.73,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DK,P_Wind_Offshore_Transitional,2025,2.646,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DK,P_Wind_Onshore_Avg,2025,4.86,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,Fossil Coal-derived gas,2025,0.078,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,P_Biomass,2025,0.15,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,P_Gas_CCGT,2025,0.015,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,P_Hydro_RoR,2025,0.008,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,P_Oil,2025,1.33,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,P_PV_Utility_Avg,2025,0.812,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,P_Wind_Onshore_Avg,2025,0.447,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,Waste,2025,0.017,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,D_PHS,2025,3.418,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Biomass,2025,0.708,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Coal_Hardcoal,2025,3.223,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Gas_CCGT,2025,29.873,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Hydro_Reservoir,2025,15.771,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Hydro_RoR,2025,1.155,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Nuclear,2025,7.117,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Oil,2025,0.704,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_PV_Utility_Avg,2025,23.867,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Wind_Onshore_Avg,2025,30.159,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,Waste,2025,0.546,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,Fossil Peat,2025,1.044,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Biomass,2025,1.695,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Coal_Hardcoal,2025,1.41,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Gas_CCGT,2025,1.742,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Hydro_RoR,2025,3.173,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Nuclear,2025,4.364,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Oil,2025,1.051,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_PV_Utility_Avg,2025,0.027,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Wind_Onshore_Avg,2025,6.618,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,Waste,2025,0.087,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,D_PHS,2025,5.065,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Biomass,2025,1.403,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Coal_Hardcoal,2025,1.812,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Gas_CCGT,2025,13.133,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Geothermal,All,0.002,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Hydro_Reservoir,2025,8.787,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Hydro_RoR,2025,11.598,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Nuclear,2025,61.37,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Ocean,All,0.243,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Oil,2025,3.042,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_PV_Utility_Avg,2025,17.419,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Wind_Offshore_Transitional,2025,1.483,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Wind_Onshore_Avg,2025,22.134,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,Waste,2025,0.968,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+GR,D_PHS,2025,0.699,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+GR,P_Biomass,2025,0.12,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+GR,P_Coal_Lignite,2025,2.65,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+GR,P_Gas_CCGT,2025,6.03,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2025,2.403,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+GR,P_Hydro_RoR,2025,0.327,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+GR,P_PV_Utility_Avg,2025,6.7,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+GR,P_Wind_Onshore_Avg,2025,5.065,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,D_PHS,2025,0.281,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Biomass,2025,0.114,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Coal_Hardcoal,2025,0.217,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Gas_CCGT,2025,0.886,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Geothermal,All,0.01,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Hydro_Reservoir,2025,1.446,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Hydro_RoR,2025,0.428,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Oil,2025,0.045,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_PV_Utility_Avg,2025,0.292,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Wind_Onshore_Avg,2025,1.209,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,Waste,2025,0.006,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Biomass,2025,0.214,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Coal_Hardcoal,2025,0.042,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Coal_Lignite,2025,0.787,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Gas_CCGT,2025,3.161,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Geothermal,All,0.003,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Hydro_Reservoir,2025,0.028,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Hydro_RoR,2025,0.033,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Nuclear,2025,1.916,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Oil,2025,0.425,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_PV_Utility_Avg,2025,3.888,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Wind_Onshore_Avg,2025,0.325,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,Waste,2025,0.049,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,D_PHS,2025,0.292,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,Fossil Peat,2025,0.344,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,P_Coal_Hardcoal,2025,0.855,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,P_Gas_CCGT,2025,4.265,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,P_Geothermal,All,0.017,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,P_Hydro_RoR,2025,0.216,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,P_Oil,2025,1.272,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,P_Wind_Onshore_Avg,2025,1.919,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,D_PHS,2025,7.256,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,Fossil Coal-derived gas,2025,2.071,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Biomass,2025,1.543,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Coal_Hardcoal,2025,5.583,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Gas_CCGT,2025,45.157,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Geothermal,All,0.868,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Hydro_Reservoir,2025,4.542,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Hydro_RoR,2025,10.291,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Oil,2025,1.564,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_PV_Utility_Avg,2025,5.927,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Wind_Offshore_Transitional,2025,0.03,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Wind_Onshore_Avg,2025,11.651,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,Waste,2025,0.67,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,D_PHS,2025,0.9,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,P_Biomass,2025,0.196,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,P_Gas_CCGT,2025,1.503,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,P_Hydro_RoR,2025,0.129,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,P_PV_Utility_Avg,2025,1.165,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,P_Wind_Onshore_Avg,2025,1.288,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,Waste,2025,0.07,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,P_Biomass,2025,0.083,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,P_Gas_CCGT,2025,0.072,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,P_Hydro_Reservoir,2025,0.011,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,P_Hydro_RoR,2025,0.022,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,P_PV_Utility_Avg,2025,0.415,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,P_Wind_Onshore_Avg,2025,0.208,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,Waste,2025,0.024,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LV,P_Biomass,2025,0.166,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LV,P_Gas_CCGT,2025,1.112,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LV,P_Hydro_RoR,2025,1.588,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LV,P_PV_Utility_Avg,2025,0.303,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LV,P_Wind_Onshore_Avg,2025,0.136,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Biomass,2025,0.415,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Coal_Hardcoal,2025,4.006,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Gas_CCGT,2025,18.351,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Hydro_RoR,2025,0.038,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Nuclear,2025,0.486,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_PV_Utility_Avg,2025,24.261,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Wind_Offshore_Transitional,2025,3.978,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Wind_Onshore_Avg,2025,6.812,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,Waste,2025,0.786,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,D_PHS,2025,1.065,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,P_Biomass,2025,0.014,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,P_Gas_CCGT,2025,0.473,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2025,26.66,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,P_Hydro_RoR,2025,6.875,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,P_PV_Utility_Avg,2025,0.009,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,P_Wind_Onshore_Opt,2025,5.133,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,Waste,2025,0.092,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,D_PHS,2025,1.082,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Biomass,2025,0.009,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Coal_Lignite,2025,10.216,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Gas_CCGT,2025,0.858,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_Reservoir,2025,2.962676,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_RoR,2025,2.645527,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Oil,2025,0.165097,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_PV_Utility_Avg,2025,0.059195,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Wind_Onshore_Avg,2025,1.072,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,D_PHS,2025,1.589,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,Fossil Coal-derived gas,2025,0.274,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Biomass,2025,0.662,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Coal_Hardcoal,2025,18.831,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Coal_Lignite,2025,7.557,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Gas_CCGT,2025,5.162,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Hydro_Reservoir,2025,0.468,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Hydro_RoR,2025,0.321,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Oil,2025,0.393,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_PV_Utility_Avg,2025,14.609,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Wind_Onshore_Avg,2025,9.583,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PT,D_PHS,2025,3.707,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PT,P_Biomass,2025,0.681,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PT,P_Gas_CCGT,2025,4.433,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2025,1.629,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PT,P_Hydro_RoR,2025,2.856,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PT,P_PV_Utility_Avg,2025,1.811,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PT,P_Wind_Offshore_Transitional,2025,0.025,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PT,P_Wind_Onshore_Avg,2025,5.333,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Biomass,2025,0.118,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Coal_Hardcoal,2025,0.176,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Coal_Lignite,2025,1.733,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Gas_CCGT,2025,2.238,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Hydro_Reservoir,2025,3.359,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Hydro_RoR,2025,2.78,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Nuclear,2025,1.3,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_PV_Utility_Avg,2025,1.293,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Wind_Onshore_Avg,2025,2.958,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RS,Waste,2025,0.032,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SE,P_Hydro_Reservoir,2025,16.3,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SE,P_Nuclear,2025,6.9,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SE,P_PV_Utility_Avg,2025,3.2,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SE,P_Wind_Onshore_Avg,2025,16.7,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,D_PHS,2025,0.18,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Biomass,2025,0.043,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Coal_Lignite,2025,1.191,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Gas_CCGT,2025,0.756,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Hydro_RoR,2025,1.125,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Nuclear,2025,0.696,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Oil,2025,0.058,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_PV_Utility_Avg,2025,1.11,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Wind_Onshore_Avg,2025,0.003,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,Waste,2025,0.006,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,D_PHS,2025,0.916,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Biomass,2025,0.234,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Coal_Hardcoal,2025,0.001,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Coal_Lignite,2025,0.276,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Gas_CCGT,2025,1.183,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Hydro_Reservoir,2025,0.418,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Hydro_RoR,2025,1.212,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Nuclear,2025,2.003,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Oil,2025,0.259,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_PV_Utility_Avg,2025,0.532,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Wind_Onshore_Avg,2025,0.003,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,D_PHS,2025,4.309,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Biomass,2025,4.528,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Coal_Hardcoal,2025,5.755,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Gas_CCGT,2025,41.371,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Hydro_RoR,2025,1.919,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Nuclear,2025,8.256,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Oil,2025,0.316,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_PV_Utility_Avg,2025,13.47,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Wind_Offshore_Transitional,2025,12.16,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Wind_Onshore_Avg,2025,13.932,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
