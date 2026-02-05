@@ -1,0 +1,90 @@
+name: Missing Source Check
+
+on:
+  pull_request:
+    paths:
+      - "**/*.csv"   # only run when CSVs change
+
+permissions:
+  contents: read
+  pull-requests: write   # needed for PR comments
+  issues: write          # comments are issued via the Issues API for PRs
+
+jobs:
+  missing-source:
+    runs-on: ubuntu-latest
+
+    outputs:
+      missing_count: ${{ steps.count.outputs.missing_count }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas openpyxl
+
+      - name: Run missing-source scan
+        run: |
+          python .github/find_missing_sources.py --out missing_sources.csv
+
+      - name: Count missing rows
+        id: count
+        shell: bash
+        run: |
+          # Count data rows in CSV (minus header). If file is empty/nonexistent, count = 0.
+          if [ -f ".github/missing_sources.csv" ]; then
+            lines=$(wc -l < ".github/missing_sources.csv" | tr -d ' ')
+            if [ "$lines" -gt 0 ]; then
+              missing_count=$((lines - 1))
+            else
+              missing_count=0
+            fi
+          else
+            missing_count=0
+          fi
+
+          echo "missing_count=$missing_count" >> "$GITHUB_OUTPUT"
+          echo "Missing rows: $missing_count" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: missing-sources-report
+          path: .github/missing_sources.csv
+          if-no-files-found: warn
+
+      # Optional: Fail the check if missing rows exist (uncomment if you want to block merges)
+      - name: Fail if missing rows found
+        if: ${{ steps.count.outputs.missing_count != '0' }}
+        run: |
+          echo "Found missing source rows: ${{ steps.count.outputs.missing_count }}"
+          exit 1
+
+      - name: Comment on PR (skips forks)
+        if: ${{ github.event.pull_request.head.repo.fork == false }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const missing = Number("${{ steps.count.outputs.missing_count }}");
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+
+            const body =
+              `🧾 **Missing Source Check**\n\n` +
+              `Missing rows: **${missing}**\n\n` +
+              `Download the artifact (**missing-sources-report**) from the workflow run:\n` +
+              `${runUrl}`;
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body
+            });
