@@ -13,9 +13,32 @@ def read_settings_file(file_path, output_csv_directory, scenario_option, output_
     
     unique_values_concatenated = pd.DataFrame()
     column_list = []
+
+    # Reading of rounding threshold sheet
+    rounding_df = None
+    if "Rounding_thresholds" in sheets_to_read:
+        rounding_df = xls.parse("Rounding_thresholds")
+        
+        # normalize column names
+        rounding_df.columns = [str(c).strip() for c in rounding_df.columns]
+
+        required = {"Parameter", "Threshold", "Replace with"}
+        missing = required - set(rounding_df.columns)
+        if missing:
+            raise ValueError(f"Sheet 'Rounding_thresholds' missing columns: {missing}")
+
+        # normalize content
+        rounding_df["Parameter"] = rounding_df["Parameter"].astype(str).str.strip()
+        rounding_df["Threshold"] = pd.to_numeric(rounding_df["Threshold"], errors="coerce")
+        rounding_df["Replace with"] = pd.to_numeric(rounding_df["Replace with"], errors="coerce")
+
+    unique_values_concatenated = pd.DataFrame()
+    column_list = []
     
     # Read sheets and store them in the dictionary
     for sheet_name in sheets_to_read:
+        if sheet_name == "Rounding_thresholds":
+            continue
         data_frame = xls.parse(sheet_name)
     
         filtered_df = data_frame[data_frame.iloc[:, 1] == 1] # Assuming the second column is indexed at 1 (0-based index)
@@ -51,4 +74,4 @@ def read_settings_file(file_path, output_csv_directory, scenario_option, output_
         unique_values_concatenated.at[0, 'Output Format'] = output_format
     
     # Return the concatenated DataFrame of unique values
-    return unique_values_concatenated
+    return unique_values_concatenated, rounding_df

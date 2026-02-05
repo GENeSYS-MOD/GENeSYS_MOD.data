@@ -27,8 +27,8 @@ def master_function(settings_file,output_file_format, output_format, processing_
         print("Non UTF-8 characters found in file" + '{relative_path}')
 
     # Ensure unique_values_concatenated is defined
-    unique_values_concatenated = read_settings_file(excel_file_path, output_csv_directory, scenario_option, output_format)
-
+    unique_values_concatenated, rounding_df = read_settings_file(excel_file_path, output_csv_directory, scenario_option, output_format)
+    
 
     # Check if processing_option is not 'timeseries_only'
     if processing_option != 'timeseries_only':
@@ -43,7 +43,7 @@ def master_function(settings_file,output_file_format, output_format, processing_
 
         # Process files and store dataframes with their names
         for path in regular_parameter_paths:
-            df_pivot, worksheet_name, data_overwritten = process_regular_parameters(path, unique_values_concatenated, output_format, scenario_option,debugging_output, data_base_region)
+            df_pivot, worksheet_name, data_overwritten = process_regular_parameters(path, unique_values_concatenated, rounding_df, output_format, scenario_option,debugging_output, data_base_region)
             worksheets_data[worksheet_name] = df_pivot  # or df_original based on your requirement
 
             # Check if data was overwritten and add to the list

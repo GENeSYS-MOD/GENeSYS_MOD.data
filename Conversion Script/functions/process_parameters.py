@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def process_regular_parameters(csv_file_path, unique_values_concatenated, output_format, scenario_option, debugging_output, data_base_region):
+def process_regular_parameters(csv_file_path, unique_values_concatenated, rounding_df, output_format, scenario_option, debugging_output, data_base_region):
     # Compute and truncate worksheet_name to ensure it doesn't exceed 31 characters
     worksheet_name = os.path.splitext(os.path.basename(csv_file_path))[0]
     if len(worksheet_name) > 31:
@@ -124,6 +124,9 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, output
 
     # Keep all columns up to and including the "Value" column
     df = df.iloc[:, :(value_col_index + 1)]
+
+    # Apply rounding thresholds (rules loaded once from settings file)
+    df = apply_rounding_thresholds(df, worksheet_name, rounding_df)
 
     for header in unique_values_concatenated.columns:
         if header in df.columns:
@@ -440,4 +443,30 @@ def set_values_from_world(df, unique_values_concatenated):
             df = df[df['Region'] != 'World'].copy()  # Drop original rows with 'World' in 'Region'
             df = pd.concat([df, new_rows_df], ignore_index=True)
     
+    return df
+
+def apply_rounding_thresholds(df: pd.DataFrame, worksheet_name: str, rounding_df: pd.DataFrame | None) -> pd.DataFrame:
+    if rounding_df is None or df.empty or "Value" not in df.columns:
+        return df
+    
+    # Find rule for this parameter, otherwise fallback to default '*'
+    rule_row = rounding_df[rounding_df["Parameter"] == worksheet_name]
+    if rule_row.empty:
+        rule_row = rounding_df[rounding_df["Parameter"] == "*"]
+        if rule_row.empty:
+            return df
+
+    threshold = rule_row.iloc[0]["Threshold"]
+    replace_with = rule_row.iloc[0]["Replace with"]
+
+    # Skip if rule is incomplete
+    if pd.isna(threshold) or pd.isna(replace_with):
+        return df
+
+    # Ensure Value is numeric for the comparison
+    values = pd.to_numeric(df["Value"], errors="coerce")
+
+    mask = values.abs() < float(threshold)
+    df.loc[mask, "Value"] = float(replace_with)
+
     return df
