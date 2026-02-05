@@ -61,13 +61,6 @@ jobs:
           path: .github/missing_sources.csv
           if-no-files-found: warn
 
-      # Optional: Fail the check if missing rows exist (uncomment if you want to block merges)
-      - name: Fail if missing rows found
-        if: ${{ steps.count.outputs.missing_count != '0' }}
-        run: |
-          echo "Found missing source rows: ${{ steps.count.outputs.missing_count }}"
-          exit 1
-
       - name: Comment on PR (skips forks)
         if: ${{ github.event.pull_request.head.repo.fork == false }}
         uses: actions/github-script@v7
@@ -88,3 +81,10 @@ jobs:
               issue_number: context.issue.number,
               body
             });
+
+      # Optional: Fail the check if missing rows exist (uncomment if you want to block merges)
+      - name: Fail if missing rows found
+        if: ${{ steps.count.outputs.missing_count != '0' }}
+        run: |
+          echo "Found missing source rows: ${{ steps.count.outputs.missing_count }}"
+          exit 1
