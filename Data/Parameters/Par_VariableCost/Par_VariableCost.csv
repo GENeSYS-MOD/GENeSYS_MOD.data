@@ -1178,14 +1178,14 @@ World,P_Gas_CCS,1,2045,2.1041,,MEUR/PJ,DEA: Technology Catalogue (CCS): technolo
 World,P_Gas_CCS,1,2050,2.1041,,MEUR/PJ,DEA: Technology Catalogue (CCS): technology without CCS + 2.5EUR/tCO2,15.10.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_CCS,1,2055,2.1041,,MEUR/PJ,DEA: Technology Catalogue (CCS): technology without CCS + 2.5EUR/tCO2,15.10.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_CCS,1,2060,2.1041,,MEUR/PJ,DEA: Technology Catalogue (CCS): technology without CCS + 2.5EUR/tCO2,15.10.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_ATR_CCS,1,2018,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-World,X_ATR_CCS,1,2020,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-World,X_ATR_CCS,1,2021,0.53,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-World,X_ATR_CCS,1,2025,0.3,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-World,X_ATR_CCS,1,2030,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-World,X_ATR_CCS,1,2035,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-World,X_ATR_CCS,1,2040,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-World,X_ATR_CCS,1,2045,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-World,X_ATR_CCS,1,2050,0.07,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized,01.02.2024,Stian Backe <stian.backe@sintef.no>
-World,X_ATR_CCS,1,2055,0.07,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_ATR_CCS,1,2060,0.07,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,1,2018,0.5316,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized + surcharge  for CO2 transport and storage,22.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,1,2020,0.5316,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized + surcharge  for CO2 transport and storage,22.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,1,2021,0.5316,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized + surcharge  for CO2 transport and storage,22.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,1,2025,0.4725,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized with development from SMR,27.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,1,2030,0.3987,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized with development from SMR,27.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,1,2035,0.3987,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized with development from SMR,27.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,1,2040,0.3987,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized with development from SMR,27.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,1,2045,0.3987,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized with development from SMR,27.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,1,2050,0.3987,,MEUR/PJ,Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 GHR + ATR + CO2 capture large size centralized with development from SMR,27.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,1,2055,0.3987,,MEUR/PJ,same as 2050 for now + surcharge for CO2 transport and storage,27.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_ATR_CCS,1,2060,0.3987,,MEUR/PJ,same as 2050 for now + surcharge for CO2 transport and storage,27.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
