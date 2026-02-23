@@ -213,12 +213,13 @@ def process_all_year(df, unique_values_concatenated):
             df = pd.concat([df, new_rows_df], ignore_index=True)
 
         # Data conversions and handling NaNs
-        df.loc[:, 'Year'] = pd.to_numeric(df['Year'], errors='coerce', downcast='integer')
-        df = df.dropna(subset=['Year'])  # Dropping NaNs in 'Year'
+        df['Year'] = pd.to_numeric(df['Year'], errors='coerce').astype('Int64')
+        df = df.dropna(subset=["Year"])
     
     return df
 
 def process_all_fuel(df, unique_values_concatenated):
+
     # Check if 'Fuel' column exists
     if 'Fuel' in df.columns:
 
@@ -268,6 +269,7 @@ def process_all_fuel(df, unique_values_concatenated):
     return df
 
 def process_all_technology(df, unique_values_concatenated):
+
     # Check if 'Technology' column exists
     if 'Technology' in df.columns:
 
@@ -316,6 +318,7 @@ def process_all_technology(df, unique_values_concatenated):
     return df
 
 def process_all_mode(df, unique_values_concatenated):
+
     if 'Mode_of_operation' in df.columns:
 
         # Identify rows where 'Mode_of_operation' originally had the value 'All'
