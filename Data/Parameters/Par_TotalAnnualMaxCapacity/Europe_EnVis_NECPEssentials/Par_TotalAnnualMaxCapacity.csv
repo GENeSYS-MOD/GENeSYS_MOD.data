@@ -93,8 +93,9 @@ FI,P_PV_Utility_Avg,2025,0.027,,GW,set to 2024 installed capacities by entso-e,0
 FI,P_Wind_Onshore_Avg,2025,6.618,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FI,Waste,2025,0.087,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FR,D_PHS,2025,5.065,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-FR,P_Biomass,2025,1.403,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Biomass,2025,2.2,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FR,P_Coal_Hardcoal,2025,1.812,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Coal_Hardcoal,2030,0,,GW,partner feedback EDF,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FR,P_Gas_CCGT,2025,13.133,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FR,P_Geothermal,All,0.002,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FR,P_Hydro_Reservoir,2025,8.787,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
@@ -282,3 +283,6 @@ FR,P_PV_Utility_Avg,2050,22.248,,GW,Partner Feedback from EDF (French NECPs),15.
 FR,P_PV_Utility_Inf,2050,22.248,,GW,Partner Feedback from EDF (French NECPs),15.10.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_PV_Utility_Opt,2050,22.248,,GW,Partner Feedback from EDF (French NECPs),15.10.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_PV_Utility_Tracking,2050,15.656,,GW,Partner Feedback from EDF (French NECPs),15.10.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,CHP_Biomass_Solid_CCS,2025,0,,GW,partner feedback from CIEMAT (Spanish NECPs),20.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,CHP_Biomass_Solid_CCS,2030,0,,GW,partner feedback from CIEMAT (Spanish NECPs),20.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Gas_CCGT,All,16.334,,GW,partner feedback EDF,20.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
