@@ -1,21 +1,38 @@
 import os
 import pandas as pd
 
-def process_regular_parameters(csv_file_path, unique_values_concatenated, rounding_df, output_format, scenario_option, debugging_output, data_base_region):
+regional_from_base = {
+   "Par_CapitalCost", "Par_VariableCost", "Par_FixedCost", "Par_AvailabilityFactor",
+   "Par_InputActivityRatio", "Par_OutputActivityRatio", "Par_EmissionPenaltyTagTech",
+   "Par_ReserveMarginTagTechnology", "Par_EmissionActivityRatio", "Par_EmissionsPenalty",
+   "Par_SpecifiedDemandDevelopment", "Par_RegionalModelPeriodEmission",
+   "Par_ModelPeriodExogenousEmissio",
+}
+
+values_from_world = {
+    "Par_CapitalCost", "Par_VariableCost", "Par_FixedCost", "Par_AvailabilityFactor",
+    "Par_InputActivityRatio", "Par_OutputActivityRatio", "Par_EmissionPenaltyTagTech",
+    "Par_ReserveMarginTagTechnology", "Par_EmissionActivityRatio",
+    "Par_ReserveMarginTagFuel", "Par_ReserveMargin", "Par_MinStorageCharge",
+    "Par_CapitalCostStorage", "Par_RegionalAnnualEmissionLimit",
+    "Par_RegionalModelPeriodEmission", "Par_ModelPeriodExogenousEmissio",
+    "Par_TotalAnnualMaxCapacity", "Par_SpecifiedDemandDevelopment",
+    "Par_AnnualMaxNewCapacity", "Par_NewCapacityExpansionStop",
+}
+
+def process_regular_parameters(csv_file_path, unique_values_concatenated, rounding_df, output_format, scenario_option, debugging_output, data_base_region, interpolate_missing_values):
     # Compute and truncate worksheet_name to ensure it doesn't exceed 31 characters
-    worksheet_name = os.path.splitext(os.path.basename(csv_file_path))[0]
-    if len(worksheet_name) > 31:
-        worksheet_name = worksheet_name[:31]
+    worksheet_name = os.path.splitext(os.path.basename(csv_file_path))[0][:31]
     
     # Read the CSV file into a Pandas DataFrame
-    df = pd.read_csv(csv_file_path, delimiter=',')
+    df = pd.read_csv(csv_file_path)
     
     # Delete empty lines 
     df.dropna(how='all', inplace=True)
 
     # Initialize data_overwritten as False
     data_overwritten = False
-    if debugging_output == True:
+    if debugging_output:
         print("File being processed:"+csv_file_path)
 
     # Check if a subdirectory for the scenario exists and read additional CSV file
@@ -23,24 +40,22 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, roundi
     if os.path.exists(scenario_folder_path) and os.path.isdir(scenario_folder_path):
         scenario_csv_file = os.path.join(scenario_folder_path, os.path.basename(csv_file_path))
         if os.path.exists(scenario_csv_file):
-            df_scenario = pd.read_csv(scenario_csv_file, delimiter=',')
+            df_scenario = pd.read_csv(scenario_csv_file)
+
+            # Drop all columns that come after the "Value" column
+            df = trim_after_value(df)
+            df_scenario = trim_after_value(df_scenario)
+            
+            # Interpolate missing yearly values
+            if interpolate_missing_values and "Year" in df_scenario.columns:
+                target_years = unique_values_concatenated["Year"].dropna()
+                df_scenario = interpolate_missing_year_values(df_scenario, target_years)
 
             # Handling of 'All' entries
             df_scenario = process_all_year(df_scenario, unique_values_concatenated)
             df_scenario = process_all_fuel(df_scenario, unique_values_concatenated)
             df_scenario = process_all_technology(df_scenario, unique_values_concatenated)
             df_scenario = process_all_mode(df_scenario, unique_values_concatenated)
-
-            # Get the index of the "Value" column in each DataFrame
-            value_col_index = df.columns.get_loc("Value")
-            value_col_index_scenario = df_scenario.columns.get_loc("Value")
-
-            # Drop all columns that come after the "Value" column
-            df = df.iloc[:, :(value_col_index + 1)]
-            df_scenario = df_scenario.iloc[:, :(value_col_index_scenario + 1)]  
-            
-            # Save column order before processing
-            col_ordr = df.columns.tolist()
 
             # Identify common columns excluding 'Value'
             common_cols = [col for col in df.columns if col in df_scenario.columns and col != 'Value']
@@ -78,6 +93,11 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, roundi
 
             data_overwritten = True
 
+    # Interpolate missing yearly values
+    if interpolate_missing_values and "Year" in df.columns:
+        target_years = unique_values_concatenated["Year"].dropna()
+        df = interpolate_missing_year_values(df, target_years)
+
     # Handling of 'All' entries
     df = process_all_year(df, unique_values_concatenated)
     df = process_all_fuel(df, unique_values_concatenated)
@@ -85,45 +105,11 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, roundi
     df = process_all_mode(df, unique_values_concatenated)
 
     # Set regional values, if only value given for base-region
-    if worksheet_name in [
-       "Par_CapitalCost", 
-       "Par_VariableCost", 
-       "Par_FixedCost", 
-       "Par_AvailabilityFactor", 
-       "Par_InputActivityRatio", 
-       "Par_OutputActivityRatio", 
-       "Par_EmissionPenaltyTagTech", 
-       "Par_ReserveMarginTagTechnology", 
-       "Par_EmissionActivityRatio", 
-       "Par_EmissionsPenalty",
-       "Par_SpecifiedDemandDevelopment",
-       "Par_RegionalModelPeriodEmission",
-       "Par_ModelPeriodExogenousEmissio",]:
+    if worksheet_name in regional_from_base:
         df = set_regional_values_from_base(df, unique_values_concatenated, data_base_region)
     
     # Set values, if no regional data available
-    if worksheet_name in [
-        "Par_CapitalCost",
-        "Par_VariableCost",
-        "Par_FixedCost",
-        "Par_AvailabilityFactor",
-        "Par_InputActivityRatio",
-        "Par_OutputActivityRatio",
-        "Par_EmissionPenaltyTagTech",
-        "Par_ReserveMarginTagTechnology",
-        "Par_EmissionActivityRatio",
-        "Par_ReserveMarginTagFuel",
-        "Par_ReserveMargin",
-        "Par_MinStorageCharge",
-        "Par_CapitalCostStorage",
-        "Par_RegionalAnnualEmissionLimit",
-        "Par_RegionalModelPeriodEmission",
-        "Par_ModelPeriodExogenousEmissio",
-        "Par_TotalAnnualMaxCapacity",
-        "Par_SpecifiedDemandDevelopment",
-        "Par_AnnualMaxNewCapacity",
-        "Par_NewCapacityExpansionStop"
-        ]:
+    if worksheet_name in values_from_world:
         df = set_values_from_world(df, unique_values_concatenated)
 
     # Rename columns with .1, .2, etc. naming convention
@@ -133,11 +119,8 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, roundi
             new_col_name = f"{base_name}{int(counter) + 1}"  # Add 1 because we start from the first duplicate
             df.rename(columns={col: new_col_name}, inplace=True)
 
-    # Get the index of the "Value" column
-    value_col_index = df.columns.get_loc("Value")
-
     # Keep all columns up to and including the "Value" column
-    df = df.iloc[:, :(value_col_index + 1)]
+    df = trim_after_value(df)
 
     # Apply rounding thresholds (rules loaded once from settings file)
     df = apply_rounding_thresholds(df, worksheet_name, rounding_df)
@@ -145,7 +128,7 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, roundi
     for header in unique_values_concatenated.columns:
         if header in df.columns:
             df = df[df[header].isin(unique_values_concatenated[header])]
-    
+
     # Initialize df_pivot
     df_pivot = df  # Default to original DataFrame
 
@@ -168,202 +151,135 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, roundi
     return df_pivot, worksheet_name, data_overwritten
 
 def process_all_year(df, unique_values_concatenated):
-    # Check if 'Year' column exists
-    if 'Year' in df.columns:
-        
-        # Identify rows where 'Year' originally had the value 'All'
-        all_rows = df[df['Year'] == 'All'].copy()
     
-        # Define the replacement years
-        replacement_years = unique_values_concatenated['Year'].dropna().astype(int).astype(str)
+    # Check if 'Year' column exists
+    if 'Year' not in df.columns:
+        return df
 
-        # Get the index of the "Value" column in the DataFrame
-        value_col_index = df.columns.get_loc("Value")
+    # Define replacement years
+    replacements = (unique_values_concatenated['Year'].dropna().astype(int).astype(str))
 
-        # Drop all columns that come after the "Value" column
-        df = df.iloc[:, :(value_col_index + 1)]
+    # Expand 'All' rows
+    df = expand_all(df, 'Year', replacements)
 
-        # Identify columns to check for duplicates (excluding the 'Value' column)
-        columns_to_check = [col for col in df.columns if col != 'Value']
+    # Convert Year column to numeric and remove invalid entries
+    df['Year'] = pd.to_numeric(df['Year'], errors='coerce', downcast='integer')
+    df = df.dropna(subset=['Year'])
 
-        # Create a set of existing row signatures for fast duplicate detection
-        existing_keys = set(
-            tuple(row) for row in df[columns_to_check].itertuples(index=False, name=None)
-        )
+    return df
 
-        # Create new rows by repeating the 'All' rows with different years
-        new_rows = []
-        for _, row in all_rows.iterrows():
-            for year in replacement_years:
-                new_row = row.copy()
-                new_row['Year'] = year
 
-                # Check if a similar row already exists
+def process_all_fuel(df, unique_values_concatenated):
+    
+    # Check if 'Fuel' column exists
+    if 'Fuel' not in df.columns:
+        return df
+
+    # Define replacement fuels and exclude ETS
+    replacements = unique_values_concatenated['Fuel'].dropna()
+    replacements = replacements[replacements != "ETS"]
+
+    # Expand 'All' rows
+    df = expand_all(df, 'Fuel', replacements)
+
+    return df
+
+
+def process_all_technology(df, unique_values_concatenated):
+    
+    # Check if 'Technology' column exists
+    if 'Technology' not in df.columns:
+        return df
+
+    # Define replacement technologies
+    replacements = unique_values_concatenated['Technology'].dropna()
+
+    # Expand 'All' rows
+    df = expand_all(df, 'Technology', replacements)
+
+    return df
+
+
+def process_all_mode(df, unique_values_concatenated):
+    
+    # Check if 'Mode_of_operation' column exists
+    if 'Mode_of_operation' not in df.columns:
+        return df
+
+    # Define replacement mode values
+    replacements = unique_values_concatenated['Mode_of_operation'].dropna()
+
+    # Expand 'All' rows
+    df = expand_all(df, 'Mode_of_operation', replacements)
+
+    # Convert Mode_of_operation to numeric and remove invalid entries
+    df['Mode_of_operation'] = pd.to_numeric(df['Mode_of_operation'], errors='coerce')
+    df = df.dropna(subset=['Mode_of_operation'])
+
+    return df
+
+def trim_after_value(df: pd.DataFrame, value_col: str = "Value") -> pd.DataFrame:
+    if value_col not in df.columns:
+        return df
+    i = df.columns.get_loc(value_col)
+    return df.iloc[:, : i + 1]
+
+def expand_all(df: pd.DataFrame, column: str, replacements) -> pd.DataFrame:
+    
+    # Check if column exists
+    if column not in df.columns:
+        return df
+
+    # Drop all columns that come after the "Value" column
+    df_trim = trim_after_value(df, "Value")
+
+    # Identify rows where the column originally had the value 'All'
+    all_rows = df_trim[df_trim[column] == "All"]
+    if all_rows.empty:
+        return df
+
+    # Define the replacement values and drop NaNs
+    repl = pd.Series(replacements).dropna().unique()
+    if len(repl) == 0:
+        return df
+
+    # Define columns to check for duplicates (excluding 'Value')
+    columns_to_check = [c for c in df_trim.columns if c != "Value"]
+
+    # Create a set of existing row signatures for fast duplicate detection
+    existing_keys = set(
+        df_trim[columns_to_check].itertuples(index=False, name=None)
+    ) if columns_to_check else set()
+
+    # Create new rows by repeating the 'All' rows with different years
+    new_rows = []
+    for r in all_rows.itertuples(index=False, name=None):
+        row_dict = dict(zip(df_trim.columns, r))
+        for v in repl:
+            new_row = row_dict.copy()
+            new_row[column] = v
+
+            # Check if a similar row already exists
+            if not columns_to_check:
+                new_rows.append(new_row)
+            else:
                 key = tuple(new_row[col] for col in columns_to_check)
                 if key not in existing_keys:
                     new_rows.append(new_row)
                     existing_keys.add(key)
 
-        # Convert new rows to DataFrame if there are new rows to append
-        if new_rows:
-            new_rows_df = pd.DataFrame(new_rows)
-            
-            # Append the new rows to the original dataframe
-            df = df[df['Year'] != 'All'].copy()  # Drop original rows with 'All' in 'Year'
-            df = pd.concat([df, new_rows_df], ignore_index=True)
+    if not new_rows:
+        return df
 
-        # Data conversions and handling NaNs
-        df['Year'] = pd.to_numeric(df['Year'], errors='coerce').astype('Int64')
-        df = df.dropna(subset=["Year"])
-    
-    return df
+    new_rows_df = pd.DataFrame(new_rows)
 
-def process_all_fuel(df, unique_values_concatenated):
+    # Remove original rows where column == 'All'
+    df_no_all = df[df[column] != "All"].copy()
 
-    # Check if 'Fuel' column exists
-    if 'Fuel' in df.columns:
+    # Align new rows to original column structure
+    new_rows_df = new_rows_df.reindex(columns=df_no_all.columns)
 
-        # Identify rows where 'Fuel' originally had the value 'All'
-        all_rows = df[df['Fuel'] == 'All']
-
-        # Define the replacement fuels and drop NaN values
-        replacement_fuels = unique_values_concatenated['Fuel'].dropna()
-        replacement_fuels = replacement_fuels[replacement_fuels != "ETS"]
-
-        # Create new rows by repeating the 'All' rows with different fuels
-        new_rows = []
-        for _, row in all_rows.iterrows():
-            for fuel in replacement_fuels:
-                # Create a copy of the original row and replace the 'Fuel' value
-                new_row = row.copy()
-                new_row['Fuel'] = fuel
-
-                # Get the index of the "Value" column in each DataFrame
-                value_col_index = df.columns.get_loc("Value")
-
-                # Drop all columns that come after the "Value" column
-                df_filtered = df.iloc[:, :(value_col_index + 1)]
-
-                # Identify columns to check for duplicates (excluding the 'Value' column)
-                columns_to_check = [col for col in df_filtered.columns if col != 'Value']
-
-                if not columns_to_check:  # If there are no columns to check, skip
-                    new_rows.append(new_row)
-                    continue
-
-                # Compare the existing rows to the new row excluding the 'Value' column
-                match_condition = (df_filtered[columns_to_check] == new_row[columns_to_check].to_dict()).all(axis=1)
-
-                # Only append the new row if it doesn't already exist
-                if not match_condition.any():
-                    new_rows.append(new_row)
-
-        # Convert new rows to DataFrame if there are new rows to append
-        if new_rows:
-            new_rows_df = pd.DataFrame(new_rows)
-
-            # Append the new rows to the original dataframe, excluding the rows where 'Fuel' is 'All'
-            df = df[df['Fuel'] != 'All'].copy()  # Drop original rows with 'All' in 'Fuel'
-            df = pd.concat([df, new_rows_df], ignore_index=True)
-
-    return df
-
-def process_all_technology(df, unique_values_concatenated):
-
-    # Check if 'Technology' column exists
-    if 'Technology' in df.columns:
-
-        # Identify rows where 'Technology' originally had the value 'All'
-        all_rows = df[df['Technology'] == 'All']
-
-        # Define the replacement technologies and drop NaN values
-        replacement_technologies = unique_values_concatenated['Technology'].dropna()
-
-        # Create new rows by repeating the 'All' rows with different technologies
-        new_rows = []
-        for _, row in all_rows.iterrows():
-            for tech in replacement_technologies:
-                # Create a copy of the original row and replace the 'Technology' value
-                new_row = row.copy()
-                new_row['Technology'] = tech
-
-                # Get the index of the "Value" column in each DataFrame
-                value_col_index = df.columns.get_loc("Value")
-
-                # Drop all columns that come after the "Value" column
-                df_filtered = df.iloc[:, :(value_col_index + 1)]
-
-                # Identify columns to check for duplicates (excluding the 'Value' column)
-                columns_to_check = [col for col in df_filtered.columns if col != 'Value']
-
-                if not columns_to_check:  # If there are no columns to check, skip
-                    new_rows.append(new_row)
-                    continue
-
-                # Compare the existing rows to the new row excluding the 'Value' column
-                match_condition = (df_filtered[columns_to_check] == new_row[columns_to_check].to_dict()).all(axis=1)
-
-                # Only append the new row if it doesn't already exist
-                if not match_condition.any():
-                    new_rows.append(new_row)
-
-        # Convert new rows to DataFrame if there are new rows to append
-        if new_rows:
-            new_rows_df = pd.DataFrame(new_rows)
-
-            # Append the new rows to the original dataframe, excluding the rows where 'Technology' is 'All'
-            df = df[df['Technology'] != 'All'].copy()  # Drop original rows with 'All' in 'Technology'
-            df = pd.concat([df, new_rows_df], ignore_index=True)
-
-    return df
-
-def process_all_mode(df, unique_values_concatenated):
-
-    if 'Mode_of_operation' in df.columns:
-
-        # Identify rows where 'Mode_of_operation' originally had the value 'All'
-        all_rows = df[df['Mode_of_operation'] == 'All']
-
-        # Define the replacement values and drop NaNs
-        replacement_mode = unique_values_concatenated['Mode_of_operation'].dropna()
-
-        # Create new rows by repeating the 'All' rows with different Mode_of_operation values
-        new_rows = []
-        for _, row in all_rows.iterrows():
-            for mode in replacement_mode:
-                new_row = row.copy()
-                new_row['Mode_of_operation'] = mode
-
-                # Get the index of the "Value" column
-                value_col_index = df.columns.get_loc("Value")
-
-                # Work only with columns up to and including 'Value'
-                df_filtered = df.iloc[:, :(value_col_index + 1)]
-
-                # Define columns to check for duplicates (excluding 'Value')
-                columns_to_check = [col for col in df_filtered.columns if col != 'Value']
-
-                if not columns_to_check:
-                    new_rows.append(new_row)
-                    continue
-
-                # Check if similar row already exists
-                match_condition = (df_filtered[columns_to_check] == new_row[columns_to_check].to_dict()).all(axis=1)
-
-                if not match_condition.any():
-                    new_rows.append(new_row)
-
-        # Append new rows to the DataFrame
-        if new_rows:
-            new_rows_df = pd.DataFrame(new_rows)
-            df = df[df['Mode_of_operation'] != 'All'].copy()
-            df = pd.concat([df, new_rows_df], ignore_index=True)
-
-        # Convert and clean Mode_of_operation column
-        df['Mode_of_operation'] = pd.to_numeric(df['Mode_of_operation'], errors='coerce')
-        df = df.dropna(subset=['Mode_of_operation'])
-
-    return df
+    return pd.concat([df_no_all, new_rows_df], ignore_index=True)
 
 def set_regional_values_from_base(df, unique_values_concatenated, data_base_region):
     # Check if 'Region' column exists
@@ -375,11 +291,8 @@ def set_regional_values_from_base(df, unique_values_concatenated, data_base_regi
         # Define the replacement regions
         replacement_regions = unique_values_concatenated['Region'].dropna().astype(str)
 
-        # Get the index of the "Value" column in the DataFrame
-        value_col_index = df.columns.get_loc("Value")
-
         # Drop all columns that come after the "Value" column
-        df = df.iloc[:, :(value_col_index + 1)]
+        df = trim_after_value(df)
 
         # Identify columns to check for duplicates (excluding the 'Value' column)
         columns_to_check = [col for col in df.columns if col != 'Value']
@@ -416,7 +329,6 @@ def set_regional_values_from_base(df, unique_values_concatenated, data_base_regi
 
 def set_values_from_world(df, unique_values_concatenated):
 
-    # Nur aktiv werden, wenn es die Region-Spalte gibt
     if 'Region' in df.columns:
     
         # Identify rows where 'Region' originally had the value 'World'
@@ -425,11 +337,8 @@ def set_values_from_world(df, unique_values_concatenated):
         # Define the replacement regions
         replacement_regions = unique_values_concatenated['Region'].dropna().astype(str)
 
-        # Get the index of the "Value" column in the DataFrame
-        value_col_index = df.columns.get_loc("Value")
-
         # Drop all columns that come after the "Value" column
-        df = df.iloc[:, :(value_col_index + 1)]
+        df = trim_after_value(df)
 
         # Identify columns to check for duplicates (excluding the 'Value' column)
         columns_to_check = [col for col in df.columns if col != 'Value']
@@ -487,3 +396,119 @@ def apply_rounding_thresholds(df: pd.DataFrame, worksheet_name: str, rounding_df
     df.loc[mask, "Value"] = float(replace_with)
 
     return df
+
+def interpolate_missing_year_values(df, target_years):
+ 
+    if df is None or df.empty or "Year" not in df.columns or "Value" not in df.columns:
+        return df
+
+    # Keep original (including 'All' rows)
+    df_orig = df.copy()
+
+    # Identify 'All' rows in Year (case-insensitive)
+    year_as_str = df_orig["Year"].astype(str)
+    is_all_mask = year_as_str.str.strip().str.upper() == "ALL"
+
+    # DataFrame to operate on (exclude 'All' rows)
+    df_numeric = df_orig.loc[~is_all_mask].copy()
+
+    # Convert Year and Value only in the numeric-working copy
+    df_numeric["Year"] = pd.to_numeric(df_numeric["Year"], errors="coerce")
+    df_numeric = df_numeric.dropna(subset=["Year"])
+    if df_numeric.empty:
+        # Nothing numeric to work with; return original unchanged
+        return df_orig
+
+    df_numeric["Year"] = df_numeric["Year"].astype(int)
+    df_numeric["Value"] = pd.to_numeric(df_numeric["Value"], errors="coerce")
+
+    # Prepare target years (ints)
+    target_years = sorted({int(y) for y in pd.Series(target_years).dropna().astype(int)})
+    if not target_years:
+        return df_orig
+
+    # Grouping columns are all except Year and Value
+    group_cols = [c for c in df_numeric.columns if c not in ("Year", "Value")]
+
+    new_rows = []
+
+    
+    # Early skip: if no target year is missing in any numeric part, skip.
+    if target_years:
+        if group_cols:
+            total_groups = df_numeric.groupby(group_cols, dropna=False).ngroups
+            present_counts = (
+                df_numeric[df_numeric["Year"].isin(target_years)]
+                .groupby(group_cols, dropna=False)["Year"]
+                .nunique()
+            )
+
+            if (present_counts.size == total_groups) and (present_counts.min() == len(target_years)):
+                return df_orig
+        else:
+            existing_years = set(df_numeric["Year"].dropna().astype(int).unique())
+            if set(target_years).issubset(existing_years):
+                return df_orig
+
+    # Build groups
+    if group_cols:
+        groups = df_numeric.groupby(group_cols, dropna=False, sort=False)
+    else:
+        groups = [(None, df_numeric)]
+
+    for group_key, g in groups:
+        # numeric values for interpolation
+        g_val_num = pd.to_numeric(g["Value"], errors="coerce")
+
+        # need at least two known points to interpolate
+        known_mask = g_val_num.notna()
+        if known_mask.sum() < 2:
+            continue
+
+        known_years = g.loc[known_mask, "Year"].astype(int)
+        min_y = int(known_years.min())
+        max_y = int(known_years.max())
+
+        # consider only target years inside [min_y, max_y] (no extrapolation)
+        years_in_range = [y for y in target_years if min_y <= y <= max_y]
+        if not years_in_range:
+            continue
+
+        # Build Year-indexed series for interpolation
+        s = pd.Series(g_val_num.values, index=g["Year"].values)
+
+        # Collapse duplicate years (take first non-null)
+        if s.index.duplicated().any():
+            s = s.groupby(level=0).first()
+
+        existing_years = set(int(y) for y in s.index.tolist())
+        missing_years = [y for y in years_in_range if y not in existing_years]
+        if not missing_years:
+            continue
+
+        # Reindex only to union of existing_years + missing_years and interpolate
+        reindex_index = sorted(existing_years.union(missing_years))
+        s2 = s.reindex(reindex_index)
+        s2 = s2.interpolate(method="index", limit_area="inside")
+
+        for y in missing_years:
+            v = s2.get(y, pd.NA)
+            if pd.isna(v):
+                continue
+
+            # Build row dict with the group's values (if any)
+            row = {}
+            if group_cols:
+                gk = group_key if isinstance(group_key, tuple) else (group_key,)
+                row.update(dict(zip(group_cols, gk)))
+            row["Year"] = int(y)
+            row["Value"] = float(v)
+
+            new_rows.append(row)
+
+    # If we created new rows, append them to the ORIGINAL df (which still contains 'All' rows)
+    if new_rows:
+        df_new = pd.concat([df_orig, pd.DataFrame(new_rows)], ignore_index=True)
+        return df_new
+
+    return df_orig
