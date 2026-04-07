@@ -402,6 +402,8 @@ def interpolate_missing_year_values(df, target_years):
     if df is None or df.empty or "Year" not in df.columns or "Value" not in df.columns:
         return df
 
+    df = trim_after_value(df)
+
     # Keep original (including 'All' rows)
     df_orig = df.copy()
 
