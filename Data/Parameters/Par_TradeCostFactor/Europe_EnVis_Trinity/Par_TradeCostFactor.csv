@@ -1,0 +1,15 @@
+Fuel,Year,Value,,Unit,Source,Updated at,Updated by
+Hardcoal,All,0.00051429,,MEUR/PJ/km,DeSantis et al. 2021: https://doi.org/10.1016/j.isci.2021.103495 (1.5x increase),17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Biomass,All,0.000799995,,MEUR/PJ/km,DeSantis et al. 2021: https://doi.org/10.1016/j.isci.2021.103495 (1.5x increase),17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Oil,All,0.008500005,,MEUR/PJ/km,DeSantis et al. 2021: https://doi.org/10.1016/j.isci.2021.103495 (1.5x increase),17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+H2,All,0.00002397,,MEUR/PJ/km,DeSantis et al. 2021: https://doi.org/10.1016/j.isci.2021.103495 (1.5x increase),17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LH2,All,0.01573944,,MEUR/PJ/km,DeSantis et al. 2021: https://doi.org/10.1016/j.isci.2021.103495 (1.5x increase),17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LSG,All,0.008500005,,MEUR/PJ/km,DeSantis et al. 2021: https://doi.org/10.1016/j.isci.2021.103495 (1.5x increase),17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LNG,All,0.008500005,,MEUR/PJ/km,DeSantis et al. 2021: https://doi.org/10.1016/j.isci.2021.103495 (1.5x increase),17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LBG,All,0.008500005,,MEUR/PJ/km,DeSantis et al. 2021: https://doi.org/10.1016/j.isci.2021.103495 (1.5x increase),17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Powerfuel,All,0.008500005,,MEUR/PJ/km,DeSantis et al. 2021: https://doi.org/10.1016/j.isci.2021.103495 (1.5x increase),17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Biofuel,All,0.008500005,,MEUR/PJ/km,DeSantis et al. 2021: https://doi.org/10.1016/j.isci.2021.103495 (1.5x increase),17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Gas_Natural,All,0.000081,,MEUR/PJ/km,DeSantis et al. 2021: https://doi.org/10.1016/j.isci.2021.103495 + G. Molnar 2022: Economics of Gas Transportation by Pipeline and LNG (1.5x increase),17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Gas_Bio,All,0.000081,,MEUR/PJ/km,same as methane-based fuels,17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Gas_Synth,All,0.000081,,MEUR/PJ/km,same as methane-based fuels,17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+H2_Blend,All,0.000081,,MEUR/PJ/km,same as methane-based fuels,17.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
