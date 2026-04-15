@@ -129,7 +129,6 @@ UK,NL,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-ber
 AT,CH,Power,All,1.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,CZ,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,DE,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-AT,DE_HB,Power,All,2,,GW,,,
 AT,HU,Power,All,0.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,IT,Power,All,0.41,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,SI,Power,All,0.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -147,13 +146,10 @@ BG,RO,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-in
 BG,TR,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,AT,Power,All,1.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,DE,Power,All,4.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CH,DE_BY,Power,All,3.5,,GW,,,
 CH,FR,Power,All,3.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,IT,Power,All,3.75,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,AT,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,DE,Power,All,1.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-CZ,DE_HB,Power,All,0.8875,,GW,,,
-CZ,DE_ST,Power,All,0.8875,,GW,,,
 CZ,PL,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,SK,Power,All,1.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,AT,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -169,75 +165,6 @@ DE,OBZ,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-int
 DE,PL,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,SE,Power,All,0.615,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,UK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE_BB,DE_BE,Power,All,6.979,,GW,,,
-DE_BB,DE_MV,Power,All,5.446,,GW,,,
-DE_BB,DE_SN,Power,All,7.14,,GW,,,
-DE_BB,DE_ST,Power,All,9.52,,GW,,,
-DE_BB,PL,Power,All,0.05,,GW,,,
-DE_BB,PL,Power,All,0.05,,GW,,,
-DE_BE,DE_BB,Power,All,6.979,,GW,,,
-DE_BE,DE_ST,Power,All,2.38,,GW,,,
-DE_BW,CH,Power,All,3.5,,GW,,,
-DE_BW,CH,Power,All,3.5,,GW,,,
-DE_BW,DE_BY,Power,All,5.2752,,GW,,,
-DE_BW,DE_HE,Power,All,3.8381,,GW,,,
-DE_BW,DE_RP,Power,All,1.535,,GW,,,
-DE_BY,AT,Power,All,2.2,,GW,,,
-DE_BY,AT,Power,All,2.2,,GW,,,
-DE_BY,CZ,Power,All,0.55,,GW,,,
-DE_BY,CZ,Power,All,0.55,,GW,,,
-DE_BY,DE_BW,Power,All,5.2752,,GW,,,
-DE_BY,DE_HE,Power,All,3.4104,,GW,,,
-DE_BY,DE_TH,Power,All,4.76,,GW,,,
-DE_HB,DE_NI,Power,All,3.066,,GW,,,
-DE_HE,DE_BW,Power,All,3.8381,,GW,,,
-DE_HE,DE_BY,Power,All,3.4104,,GW,,,
-DE_HE,DE_NI,Power,All,0.686,,GW,,,
-DE_HE,DE_NRW,Power,All,6.636,,GW,,,
-DE_HE,DE_RP,Power,All,12.6931,,GW,,,
-DE_HE,DE_TH,Power,All,2.38,,GW,,,
-DE_HH,DE_NI,Power,All,5.1044,,GW,,,
-DE_HH,DE_SH,Power,All,5.7904,,GW,,,
-DE_MV,DE_BB,Power,All,5.446,,GW,,,
-DE_MV,DE_SH,Power,All,5.1044,,GW,,,
-DE_NI,DE_HB,Power,All,3.066,,GW,,,
-DE_NI,DE_HE,Power,All,0.686,,GW,,,
-DE_NI,DE_HH,Power,All,5.1044,,GW,,,
-DE_NI,DE_NRW,Power,All,17.9473,,GW,,,
-DE_NI,DE_SH,Power,All,5.6182,,GW,,,
-DE_NI,DE_ST,Power,All,2.38,,GW,,,
-DE_NI,NL,Power,All,1.425,,GW,,,
-DE_NI,NL,Power,All,1.425,,GW,,,
-DE_NRW,DE_HE,Power,All,6.636,,GW,,,
-DE_NRW,DE_NI,Power,All,17.9473,,GW,,,
-DE_NRW,DE_RP,Power,All,16.2547,,GW,,,
-DE_NRW,NL,Power,All,1.425,,GW,,,
-DE_NRW,NL,Power,All,1.425,,GW,,,
-DE_RP,DE_BW,Power,All,1.535,,GW,,,
-DE_RP,DE_HE,Power,All,12.6931,,GW,,,
-DE_RP,DE_NRW,Power,All,16.2547,,GW,,,
-DE_RP,DE_SL,Power,All,6.9902,,GW,,,
-DE_SH,DE_HB,Power,All,3.066,,GW,,,
-DE_SH,DE_HH,Power,All,5.7904,,GW,,,
-DE_SH,DE_MV,Power,All,5.1044,,GW,,,
-DE_SH,DE_NI,Power,All,5.6182,,GW,,,
-DE_SL,DE_RP,Power,All,6.9902,,GW,,,
-DE_SN,CZ,Power,All,0.55,,GW,,,
-DE_SN,CZ,Power,All,0.55,,GW,,,
-DE_SN,DE_BB,Power,All,7.14,,GW,,,
-DE_SN,DE_ST,Power,All,0.686,,GW,,,
-DE_SN,DE_TH,Power,All,6.132,,GW,,,
-DE_SN,PL,Power,All,0.05,,GW,,,
-DE_SN,PL,Power,All,0.05,,GW,,,
-DE_ST,DE_BB,Power,All,9.52,,GW,,,
-DE_ST,DE_BE,Power,All,2.38,,GW,,,
-DE_ST,DE_NI,Power,All,2.38,,GW,,,
-DE_ST,DE_SN,Power,All,0.686,,GW,,,
-DE_ST,DE_TH,Power,All,3.066,,GW,,,
-DE_TH,DE_BY,Power,All,4.76,,GW,,,
-DE_TH,DE_HE,Power,All,2.38,,GW,,,
-DE_TH,DE_SN,Power,All,6.132,,GW,,,
-DE_TH,DE_ST,Power,All,3.066,,GW,,,
 DK,BE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,DE,Power,All,3.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,NL,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -256,8 +183,6 @@ FI,SE,Power,All,2.4,,GW,https://ember-climate.org/data/data-tools/electricity-in
 FR,BE,Power,All,2.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,CH,Power,All,3.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,DE,Power,All,3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-FR,DE_BY,Power,All,0.984,,GW,,,
-FR,DE_SN,Power,All,0.816,,GW,,,
 FR,ES,Power,All,2.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,IE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,IT,Power,All,2.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -295,8 +220,6 @@ LV,LT,Power,All,0.95,,GW,https://ember-climate.org/data/data-tools/electricity-i
 LV,SE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,BE,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,DE,Power,All,3.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NL,DE_NRW,Power,All,1.2,,GW,,,
-NL,DE_RP,Power,All,1.2,,GW,,,
 NL,DK,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,NO,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,UK,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -314,8 +237,6 @@ NONEU_Balkan,IT,Power,All,0.6,,GW,https://ember-climate.org/data/data-tools/elec
 NONEU_Balkan,RO,Power,All,0.68,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,CZ,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,DE,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,DE_BE,Power,All,0.1125,,GW,,,
-PL,DE_ST,Power,All,0.1125,,GW,,,
 PL,DK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,LT,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,SE,Power,All,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -348,3 +269,81 @@ UK,FR,Power,All,3,,GW,https://ember-climate.org/data/data-tools/electricity-inte
 UK,IE,Power,All,0.63,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,NL,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,NO,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,DE_BW,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+AT,DE_BY,Power,All,7,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+CH,DE_BW,Power,All,13.78,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+CZ,DE_BY,Power,All,2.807,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+CZ,DE_SN,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,DE_BE,Power,All,9.094,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,DE_MV,Power,All,6,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,DE_SN,Power,All,8.69,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,DE_ST,Power,All,10.902,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,PL,Power,All,1.044,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,DE_BB,Power,All,9.094,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,AT,Power,All,3.43,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,CH,Power,All,14,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,DE_BY,Power,All,15.379,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,DE_HE,Power,All,10.918,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,DE_RP,Power,All,3.508,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,FR,Power,All,2.478,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,AT,Power,All,6.69,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,CZ,Power,All,2.807,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_BW,Power,All,15.379,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_HE,Power,All,6,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_TH,Power,All,9.476,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_SN,Power,All,0.776,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,DE_NI,Power,All,7,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_BW,Power,All,11,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_BY,Power,All,6.368,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_NI,Power,All,3.345,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_NRW,Power,All,27.296,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_RP,Power,All,13.257,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_TH,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,DE_NI,Power,All,3.396,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,DE_SH,Power,All,14,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,DE_BB,Power,All,6,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,DE_SH,Power,All,3.554,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_HB,Power,All,6.541,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_HE,Power,All,3.345,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_HH,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_NRW,Power,All,33,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_SH,Power,All,7,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_ST,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,NL,Power,All,5,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,DE_HE,Power,All,27,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,DE_NI,Power,All,33,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,DE_RP,Power,All,18,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,NL,Power,All,8.528,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_BW,Power,All,4,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_HE,Power,All,13.257,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_NRW,Power,All,18,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_SL,Power,All,10.229,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,LU,Power,All,0.984,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,DE_HH,Power,All,14.222,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,DE_MV,Power,All,3.554,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,DE_NI,Power,All,7.306,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,DK,Power,All,3.618,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,DE_RP,Power,All,10.229,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,FR,Power,All,4,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,CZ,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_BB,Power,All,8.69,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_ST,Power,All,0.709,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_TH,Power,All,18.804,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,PL,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_BY,Power,All,0.776,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_BB,Power,All,11,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_NI,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_SN,Power,All,0.709,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_TH,Power,All,4.738,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_BY,Power,All,9,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_HE,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_SN,Power,All,18.804,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_ST,Power,All,4.738,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DK,DE_SH,Power,All,3.618,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+FR,DE_SL,Power,All,3.862,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+FR,DE_BW,Power,All,2.478,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+LU,DE_RP,Power,All,0.984,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+NL,DE_NI,Power,All,5.301,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+NL,DE_NRW,Power,All,8.528,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+PL,DE_BB,Power,All,1.044,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+PL,DE_SN,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>

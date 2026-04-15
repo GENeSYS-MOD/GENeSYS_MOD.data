@@ -1076,3 +1076,61 @@ UK,FR,Power,2040,0,,GW,https://ember-climate.org/data/data-tools/electricity-int
 UK,IE,Power,2040,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 UK,NL,Power,2040,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 UK,NO,Power,2040,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_TH,Power,2030,4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_TH,Power,2030,4.8,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_TH,Power,2030,6.8,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_TH,H2,2035,276.131321,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_TH,H2,2030,78.5440203,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_ST,Power,2030,4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_ST,Power,2030,6.8,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,DE_ST,H2,2025,495.809128,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,DE_ST,H2,2030,89.452912,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_ST,H2,2030,583.080262,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_ST,H2,2030,89.452912,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_SN,Power,2030,4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_SN,Power,2030,4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,DE_SN,H2,2030,964.618749,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_SN,H2,2030,176.724046,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_SN,H2,2030,169.360544,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_SN,H2,2035,185.451159,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_SH,Power,2030,4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_RP,Power,2030,2,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,DE_RP,Power,2030,5,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_RP,H2,2030,198.541829,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,DE_RP,H2,2035,223.66637,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,DE_RP,H2,2035,223.66637,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_NRW,Power,2030,5.7,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_NRW,Power,2030,5,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_Nord,Power,2030,1.4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_NI,Power,2030,6,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,DE_NI,Power,2030,5.7,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,DE_NI,Power,2030,4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_Nord,DE_NI,Power,2030,1.4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_Nord,DE_NI,H2,2030,593.989153,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_Nord,DE_NI,H2,2035,344.311894,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_Baltic,DE_MV,H2,2030,266.850241,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,DE_HE,Power,2030,2,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_HE,Power,2030,6,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_HE,Power,2030,2,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_HE,Power,2030,4.8,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,DE_HE,H2,2035,314.8578866,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_HE,H2,2035,334.118899,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_HE,H2,2030,198.541829,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_HB,H2,2030,44.1810114,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,DE_BY,Power,2030,3.5,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_BY,Power,2030,4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_BY,Power,2030,4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,DE_BY,H2,2035,344.311894,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_BY,H2,2035,334.118899,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_BY,H2,2030,176.724046,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_BY,H2,2030,86.0779736,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_BW,Power,2030,3.5,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_BW,Power,2030,2,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+FR,DE_BW,H2,2030,44.1810114,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_BW,H2,2030,344.311894,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_BW,H2,2030,176.724046,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,DE_BB,H2,2025,674.851313,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_BB,H2,2030,185.451159,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_BB,H2,2030,72.441859,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,PL,H2,2030,510.127048,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,PL,H2,2030,26.0790692,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
