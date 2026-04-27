@@ -1892,17 +1892,8 @@ World,X_Powerfuel,Power,1,2045,0.0067,,PJ,Energy Agency Denmark (2024): Hydrogen
 World,X_Powerfuel,Power,1,2050,0.0067,,PJ,Energy Agency Denmark (2024): Hydrogen to jet,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Powerfuel,Power,1,2055,0.0067,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Powerfuel,Power,1,2060,0.0067,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Gas_Natural,1,All,0.8265,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06197,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Heat_Medium_Industrial,1,2018,0.3753,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06205,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Heat_Medium_Industrial,1,2020,0.3753,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06206,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Heat_Medium_Industrial,1,2025,0.3813,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06207,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Heat_Medium_Industrial,1,2030,0.3874,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06208,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Heat_Medium_Industrial,1,2035,0.3884,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06209,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Heat_Medium_Industrial,1,2040,0.3894,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06210,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Heat_Medium_Industrial,1,2045,0.3904,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06211,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Heat_Medium_Industrial,1,2050,0.3914,,PJ,Sun et al. (2019): https://doi.org/10.1021/acs.est.8b06212,04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Heat_Medium_Industrial,1,2055,0.3914,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_SMR,Heat_Medium_Industrial,1,2060,0.3914,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SMR,Gas_Natural,1,All,1.5,,PJ,Oni et al. 20222: https://doi.org/10.1016/j.enconman.2022.115245,10.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_SMR,Power,1,All,0.0288,,PJ,Oni et al. 20222: https://doi.org/10.1016/j.enconman.2022.115245,10.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_SOEC_Electrolysis,Heat_Medium_Industrial,1,2018,0.3148,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_SOEC_Electrolysis,Heat_Medium_Industrial,1,2020,0.3108,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_SOEC_Electrolysis,Heat_Medium_Industrial,1,2025,0.3042,,PJ,Energy Agency Denmark (2024): SOEC,03.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
