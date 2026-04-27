@@ -748,27 +748,12 @@ HR,P_Wind_Onshore_Opt,All,8.58,,GW,,,
 GR,A_Rooftop_Commercial,All,106.7274256,,GW,,,
 GR,A_Rooftop_Residential,All,114.9813015,,GW,,,
 GR,D_PHS,All,0.125,,GW,,,
+GR,D_PHS,All,5.453,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_CSP,All,21.19,,GW,,,
 GR,P_Hydro_Reservoir,2018,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Hydro_Reservoir,2020,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_Reservoir,2025,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_Reservoir,2030,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_Reservoir,2035,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_Reservoir,2040,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_Reservoir,2045,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_Reservoir,2050,2.403,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_Reservoir,2055,2.403,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_Reservoir,2060,2.403,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Hydro_RoR,2018,0.3271,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Hydro_RoR,2020,0.3271,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_RoR,2025,0.3271,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_RoR,2030,0.3271,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_RoR,2035,0.3271,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_RoR,2040,0.3271,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_RoR,2045,0.3271,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_RoR,2050,0.3271,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_RoR,2055,0.3271,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Hydro_RoR,2060,0.3271,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Wind_Offshore_Deep,All,11.96,,GW,,,
 GR,P_Wind_Offshore_Shallow,All,11.96,,GW,,,
 GR,P_Wind_Offshore_Transitional,All,11.96,,GW,,,
@@ -2675,3 +2660,19 @@ UK,P_PV_Utility_Avg,All,53.7201,,GW,,,
 UK,P_PV_Utility_Inf,All,53.7201,,GW,,,
 UK,P_PV_Utility_Opt,All,53.7201,,GW,,,
 UK,P_PV_Utility_Tracking,All,37.8031,,GW,,,
+GR,P_Hydro_Reservoir,2025,2.464,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2025,0.336,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2030,2.728,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2030,0.372,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2035,3.168,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2035,0.432,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2040,3.344,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2040,0.456,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2045,3.696,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2045,0.504,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2050,3.96,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2050,0.54,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2055,3.96,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2055,0.54,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2060,3.96,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2060,0.54,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>

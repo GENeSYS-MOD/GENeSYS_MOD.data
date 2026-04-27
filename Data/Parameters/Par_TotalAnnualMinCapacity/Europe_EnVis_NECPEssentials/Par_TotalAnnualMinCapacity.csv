@@ -70,7 +70,7 @@ ES,D_PHS,2025,3.418,,GW,ENTSO-E Transparency Platform - Installed Capacity per P
 ES,P_Biomass,2025,0.708,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,P_Coal_Hardcoal,2025,3.223,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,P_Gas_CCGT,2025,29.873,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,P_Hydro_Reservoir,2025,15.771,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,P_Hydro_Reservoir,2025,13.105,,GW,partner feedback CIEMAT (Spanish NECPs),08.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Hydro_RoR,2025,1.155,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,P_Oil,2025,0.704,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,P_PV_Utility_Avg,2025,23.867,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -98,14 +98,12 @@ FR,P_PV_Utility_Avg,2025,17.419,,GW,ENTSO-E Transparency Platform - Installed Ca
 FR,P_Wind_Offshore_Transitional,2025,1.483,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,P_Wind_Onshore_Avg,2025,22.134,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,Waste,2025,0.968,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,D_PHS,2025,0.699,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,P_Biomass,2025,0.12,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,P_Coal_Lignite,2025,2.65,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,D_PHS,2050,5.453,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Biomass,2025,0.1,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Coal_Lignite,2025,1.3,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Gas_CCGT,2025,6.03,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,P_Hydro_Reservoir,2025,2.403,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,P_Hydro_RoR,2025,0.327,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,P_PV_Utility_Avg,2025,6.7,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,P_Wind_Onshore_Avg,2025,5.065,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2025,2.464,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2025,0.336,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,D_PHS,2025,0.281,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,P_Biomass,2025,0.114,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,P_Coal_Hardcoal,2025,0.217,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -204,14 +202,16 @@ PL,P_Hydro_RoR,2025,0.321,,GW,ENTSO-E Transparency Platform - Installed Capacity
 PL,P_Oil,2025,0.393,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,P_PV_Utility_Avg,2025,14.609,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,P_Wind_Onshore_Avg,2025,9.583,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,D_PHS,2025,3.707,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,P_Biomass,2025,0.681,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,P_Gas_CCGT,2025,4.433,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,P_Hydro_Reservoir,2025,1.629,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,P_Hydro_RoR,2025,2.856,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,P_PV_Utility_Avg,2025,1.811,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,P_Wind_Offshore_Transitional,2025,0.025,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,P_Wind_Onshore_Avg,2025,5.333,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,D_PHS,2025,3.6,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Biomass,2025,0.681,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Gas_CCGT,2025,4.233,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2025,1.644,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2025,2.856,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Inf,2025,2.025,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Avg,2025,4.05,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Opt,2025,1.215,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Tracking,2025,0.81,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Avg,2025,2.9,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,P_Biomass,2025,0.118,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,P_Coal_Hardcoal,2025,0.176,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,P_Coal_Lignite,2025,1.733,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -251,3 +251,65 @@ UK,P_Oil,2025,0.316,,GW,ENTSO-E Transparency Platform - Installed Capacity per P
 UK,P_PV_Utility_Avg,2025,13.47,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_Wind_Offshore_Transitional,2025,12.16,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_Wind_Onshore_Avg,2025,13.932,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Inf,2025,1.45,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Opt,2025,1.45,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Geothermal,2025,0.1,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,D_Battery_Li-Ion,2030,2,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,D_PHS,2030,3.6,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Biomass,2030,0.681,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2030,1.644,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2030,2.856,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Inf,2030,3.225,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Avg,2030,6.45,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Opt,2030,1.935,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Tracking,2030,1.29,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Avg,2030,4.55,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Inf,2030,2.275,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Opt,2030,2.275,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Geothermal,2030,0.1,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Ocean,2030,0.2,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Offshore_Transitional,2030,0.3,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,D_PHS,2035,3.6,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Biomass,2035,0.681,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2035,1.644,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2035,2.856,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Inf,2035,4.8,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Avg,2035,9.6,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Opt,2035,2.88,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Tracking,2035,1.92,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Avg,2035,5.2,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Inf,2035,2.6,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Opt,2035,2.6,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Geothermal,2035,0.1,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Ocean,2035,0.2,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Offshore_Transitional,2035,0.95,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Offshore_Deep,2035,0.95,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,D_Battery_Li-Ion,2035,2,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,D_PHS,2040,3.6,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Biomass,2040,0.681,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_Reservoir,2040,1.644,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2040,2.856,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Inf,2040,6.775,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Avg,2040,13.55,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Opt,2040,4.065,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Tracking,2040,2.71,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Avg,2040,6.05,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Inf,2040,3.05,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Onshore_Opt,2040,3.05,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Geothermal,2040,0.1,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Ocean,2040,0.2,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Offshore_Transitional,2040,0.95,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Wind_Offshore_Deep,2040,0.95,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,D_Battery_Li-Ion,2040,2,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,X_Electrolysis,2030,3,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2030,2.728,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2030,0.372,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2035,3.168,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2035,0.432,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2040,3.344,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2040,0.456,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2045,3.696,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2045,0.504,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_Reservoir,2050,3.96,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,P_Hydro_RoR,2050,0.54,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,D_Battery_Li-Ion,2050,12.025,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
