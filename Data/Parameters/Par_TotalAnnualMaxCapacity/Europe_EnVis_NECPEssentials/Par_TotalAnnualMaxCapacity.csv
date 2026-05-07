@@ -107,11 +107,13 @@ FR,P_Wind_Offshore_Transitional,2025,1.483,,GW,set to 2024 installed capacities 
 FR,P_Wind_Onshore_Avg,2025,22.134,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FR,Waste,2025,0.968,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 GR,D_PHS,2025,0.0007,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,D_PHS,2030,0.0019,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,D_PHS,2035,0.003,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,D_PHS,2040,0.004,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,D_PHS,2045,0.005,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,D_PHS,2030,5.453,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,D_PHS,2035,5.453,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,D_PHS,2040,5.453,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,D_PHS,2045,5.453,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,D_PHS,2050,5.453,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,D_PHS,2055,5.453,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,D_PHS,2060,5.453,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Biomass,All,0.1,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Coal_Lignite,2025,1.3,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Gas_CCGT,2025,6.03,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
