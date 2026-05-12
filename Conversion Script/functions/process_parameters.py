@@ -199,7 +199,7 @@ def process_all_year(df, unique_values_concatenated):
             df = pd.concat([df, new_rows_df], ignore_index=True)
 
         # Data conversions and handling NaNs
-        df.loc[:, 'Year'] = pd.to_numeric(df['Year'], errors='coerce', downcast='integer')
+        df['Year'] = pd.to_numeric(df['Year'].astype(object), errors='coerce', downcast='integer').to_numpy()
         df = df.dropna(subset=['Year'])  # Dropping NaNs in 'Year'
     
     return df
@@ -343,7 +343,7 @@ def process_all_mode(df, unique_values_concatenated):
             df = pd.concat([df, new_rows_df], ignore_index=True)
 
         # Convert and clean Mode_of_operation column
-        df['Mode_of_operation'] = pd.to_numeric(df['Mode_of_operation'], errors='coerce')
+        df['Mode_of_operation'] = pd.to_numeric(df['Mode_of_operation'].astype(object), errors='coerce').to_numpy()
         df = df.dropna(subset=['Mode_of_operation'])
 
     return df
