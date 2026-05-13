@@ -52,15 +52,29 @@ def process_regular_parameters(csv_file_path, unique_values_concatenated, roundi
             
             # Merge on common columns excluding 'Value', updating 'Value' from df_scenario
             df = df.merge(df_scenario, on=common_cols, how='left', suffixes=('', '_updated'))
-            df['Value'] = df['Value_updated'].combine_first(df['Value'])
-            df.drop('Value_updated', axis=1, inplace=True)
+            vu = df["Value_updated"]
+            df["Value"] = vu.where(vu.notna(), df["Value"])
+            df.drop(columns=["Value_updated"], inplace=True)
 
-            # Append any additional rows from df_scenario
-            additional_rows = df_scenario[~df_scenario[common_cols].apply(tuple,1).isin(df[common_cols].apply(tuple,1))]
-            df = pd.concat([df, additional_rows], ignore_index=True)
 
-            # Ensure the column order is the same as originally
-            df = df[col_ordr]
+            ## Determine additional rows from df_scenario that are not already present in df
+
+            base_keys = set(df[common_cols].itertuples(index=False, name=None))
+
+            scenario_keys = df_scenario[common_cols].itertuples(index=False, name=None)
+            mask = list(map(lambda k: k not in base_keys, scenario_keys))
+
+            additional_rows = df_scenario.loc[mask].copy()
+
+            if not additional_rows.empty:
+                # Ensure the column structure matches the original DataFrame
+                additional_rows = additional_rows.reindex(columns=df.columns)
+
+                # Remove completely empty rows (if any)
+                additional_rows = additional_rows.dropna(axis=0, how="all")
+
+                # Append additional rows to the main DataFrame
+                df = pd.concat([df, additional_rows], ignore_index=True)
 
             data_overwritten = True
 
@@ -199,12 +213,13 @@ def process_all_year(df, unique_values_concatenated):
             df = pd.concat([df, new_rows_df], ignore_index=True)
 
         # Data conversions and handling NaNs
-        df['Year'] = pd.to_numeric(df['Year'].astype(object), errors='coerce', downcast='integer').to_numpy()
-        df = df.dropna(subset=['Year'])  # Dropping NaNs in 'Year'
+        df['Year'] = pd.to_numeric(df['Year'], errors='coerce').astype('Int64')
+        df = df.dropna(subset=["Year"])
     
     return df
 
 def process_all_fuel(df, unique_values_concatenated):
+
     # Check if 'Fuel' column exists
     if 'Fuel' in df.columns:
 
@@ -254,6 +269,7 @@ def process_all_fuel(df, unique_values_concatenated):
     return df
 
 def process_all_technology(df, unique_values_concatenated):
+
     # Check if 'Technology' column exists
     if 'Technology' in df.columns:
 
@@ -302,6 +318,7 @@ def process_all_technology(df, unique_values_concatenated):
     return df
 
 def process_all_mode(df, unique_values_concatenated):
+
     if 'Mode_of_operation' in df.columns:
 
         # Identify rows where 'Mode_of_operation' originally had the value 'All'
@@ -343,7 +360,7 @@ def process_all_mode(df, unique_values_concatenated):
             df = pd.concat([df, new_rows_df], ignore_index=True)
 
         # Convert and clean Mode_of_operation column
-        df['Mode_of_operation'] = pd.to_numeric(df['Mode_of_operation'].astype(object), errors='coerce').to_numpy()
+        df['Mode_of_operation'] = pd.to_numeric(df['Mode_of_operation'], errors='coerce')
         df = df.dropna(subset=['Mode_of_operation'])
 
     return df
