@@ -402,7 +402,7 @@ ES,P_Coal_Hardcoal_CCS,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita M
 ES,P_Coal_Hardcoal_CCS,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Hydro_Reservoir,2018,0.5127,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,P_Hydro_Reservoir,All,0.4527,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-ES,P_Nuclear,All,0.83,,Fraction,Partner feedback EDF based on data from World Nuclear Association (Reactor Database),28.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,P_Nuclear,2025,0.87,,Fraction,Partner feedback CIEMAT (Spanish NECPs),01.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Nuclear,2035,0,,Fraction,Spain Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,P_Nuclear,2040,0,,Fraction,Spain Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 ES,P_Nuclear,2045,0,,Fraction,Spain Nuclear Phase-out,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -1042,7 +1042,9 @@ World,HB_H2_Boiler,2021,0,,Fraction,not commercially available,04.03.2025,Konsta
 World,HB_H2_Boiler,2025,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HB_H2_Boiler,2030,0,,Fraction,not commercially available,04.03.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HB_H2_Boiler,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-World,HB_Hardcoal,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,HB_Hardcoal,2018,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+World,HB_Hardcoal,2025,0.1,,Fraction,Assumption,20.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HB_Hardcoal,All,0,,Fraction,Assumption,20.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Heatpump_Aerial,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Heatpump_Ground,All,0.98,,Fraction,Assumption of short down times for maintenance,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 World,HB_Lignite,All,0,,Fraction,Assumption,28.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1270,3 +1272,12 @@ PL,Z_Import_LNG,All,1,,Fraction,sea access necessary,29.01.2026,Nikita Moskalenk
 PT,Z_Import_LNG,All,1,,Fraction,sea access necessary,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,Z_Import_LNG,All,1,,Fraction,sea access necessary,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Z_Import_LNG,All,1,,Fraction,sea access necessary,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HB_Hardcoal,All,0,,Fraction,partner feedback EDF,23.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2018,0,,Fraction,Not available,16.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2020,0,,Fraction,Not available,16.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2025,0,,Fraction,Not available,16.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2030,0,,Fraction,Assumption,16.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_H2,2018,0,,Fraction,Not available,16.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_H2,2020,0,,Fraction,Not available,16.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_H2,2025,0,,Fraction,Not available,16.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_H2,2030,0,,Fraction,Assumption,16.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
