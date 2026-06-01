@@ -1166,209 +1166,113 @@ DE_NI,P_Wind_Offshore_Transitional,Power,2018,0,,PJ,,17.03.2026,Julian Bornemann
 DE_SH,P_Wind_Offshore_Transitional,Power,2018,0,,PJ,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BB,CHP_Biomass_Solid,Power,2018,2,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BB,CHP_Coal_Lignite,Power,2018,37.6549546,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BB,CHP_Gas_CCGT_Biogas,Power,2018,3.2634294,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BB,CHP_Gas_CCGT_Natural,Power,2018,5.39721016,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BB,P_Biomass,Power,2018,5.27169365,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BB,P_Gas_OCGT,Power,2018,2.76136334,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BB,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BB,P_Hydro_Reservoir,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BB,P_Hydro_RoR,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BB,P_Oil,Power,2018,4.26756152,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BB,P_PV_Rooftop_residential,Power,2018,28.9943151,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BB,P_PV_Utility_Opt,Power,2018,28.9943151,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BB,P_Wind_Onshore_Opt,Power,2018,88.7401764,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BE,CHP_Biomass_Solid,Power,2018,0.27810989,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BE,CHP_Coal_Hardcoal,Power,2018,9.27032967,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BE,CHP_Gas_CCGT_Biogas,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BE,CHP_Gas_CCGT_Natural,Power,2018,11.7733187,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BE,P_Biomass,Power,2018,0.37081319,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BE,P_Gas_CCGT,Power,2018,3.15191209,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BE,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BE,P_Hydro_Reservoir,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BE,P_Hydro_RoR,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BE,P_Oil,Power,2018,0.37081319,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BE,P_PV_Rooftop_residential,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BE,P_PV_Utility_Opt,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BE,P_Wind_Onshore_Opt,Power,2018,0.0927033,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BW,CHP_Biomass_Solid,Power,2018,2.36601798,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BW,CHP_Coal_Hardcoal,Power,2018,69.588764,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BW,CHP_Gas_CCGT_Biogas,Power,2018,6.40216629,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BW,CHP_Gas_CCGT_Natural,Power,2018,8.62900674,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BW,P_Biomass,Power,2018,10.4383146,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BW,P_Gas_OCGT,Power,2018,4.87121348,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BW,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BW,P_Hydro_Reservoir,Power,2018,26.4437303,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BW,P_Hydro_RoR,Power,2018,9.74242697,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BW,P_Nuclear,Power,2018,37.7171101,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BW,P_Oil,Power,2018,13.3610427,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BW,P_PV_Rooftop_residential,Power,2018,6.12381124,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BW,P_PV_Utility_Opt,Power,2018,6.12381124,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BW,P_Wind_Onshore_Opt,Power,2018,21.1549843,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BY,CHP_Biomass_Solid,Power,2018,3.06066359,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BY,CHP_Gas_CCGT_Biogas,Power,2018,15.303318,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BY,CHP_Gas_CCGT_Natural,Power,2018,59.9890065,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BY,P_Biomass,Power,2018,19.7106735,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BY,P_Gas_OCGT,Power,2018,8.9371377,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BY,P_Geothermal,Power,2018,0.36727963,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BY,P_Hydro_Reservoir,Power,2018,6.61103336,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BY,P_Hydro_RoR,Power,2018,12.4875075,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BY,P_Nuclear,Power,2018,33.0551668,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BY,P_Oil,Power,2018,12.8547871,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BY,P_PV_Rooftop_residential,Power,2018,31.5860483,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BY,P_PV_Utility_Opt,Power,2018,31.5860483,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_BY,P_Wind_Onshore_Opt,Power,2018,30.1169298,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HB,CHP_Biomass_Solid,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HB,CHP_Gas_CCGT_Biogas,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HB,CHP_Gas_CCGT_Natural,Power,2018,3.67508571,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HB,P_Biomass,Power,2018,0.26250612,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HB,P_Gas_CCGT,Power,2018,13.9128245,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HB,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HB,P_Hydro_Reservoir,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HB,P_Hydro_RoR,Power,2018,0.20250612,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HB,P_Oil,Power,2018,2.3625551,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HB,P_PV_Rooftop_residential,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HB,P_PV_Utility_Opt,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HB,P_Wind_Onshore_Opt,Power,2018,5.25012245,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HE,CHP_Biomass_Solid,Power,2018,0.7649395,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HE,CHP_Coal_Hardcoal,Power,2018,8.49932773,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HE,CHP_Gas_CCGT_Biogas,Power,2018,1.10491261,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HE,CHP_Gas_CCGT_Natural,Power,2018,7.90437479,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HE,P_Biomass,Power,2018,2.20982521,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HE,P_Gas_CCGT,Power,2018,6.45948908,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HE,P_Gas_OCGT,Power,2018,5.18458992,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HE,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HE,P_Hydro_Reservoir,Power,2018,5.35457647,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HE,P_Hydro_RoR,Power,2018,0.08499328,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HE,P_Oil,Power,2018,0.25497983,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HE,P_PV_Rooftop_residential,Power,2018,2.46480504,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HE,P_PV_Utility_Opt,Power,2018,2.46480504,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HE,P_Wind_Onshore_Opt,Power,2018,17.9335815,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HH,CHP_Biomass_Solid,Power,2018,1.08199375,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HH,CHP_Coal_Hardcoal,Power,2018,21.8181062,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HH,CHP_Gas_CCGT_Biogas,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HH,CHP_Gas_CCGT_Natural,Power,2018,8.65595001,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HH,P_Biomass,Power,2018,2.1639875,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HH,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HH,P_Hydro_Reservoir,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HH,P_Hydro_RoR,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_HH,P_Oil,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HH,P_PV_Rooftop_residential,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HH,P_PV_Utility_Opt,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_HH,P_Wind_Onshore_Opt,Power,2018,6.49196251,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_MV,CHP_Biomass_Solid,Power,2018,0.35856233,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_MV,CHP_Coal_Hardcoal,Power,2018,7.17124654,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_MV,CHP_Gas_CCGT_Biogas,Power,2018,2.00794903,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_MV,CHP_Gas_CCGT_Natural,Power,2018,0.93226205,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_MV,P_Biomass,Power,2018,2.43822383,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_MV,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_MV,P_Hydro_Reservoir,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_MV,P_Hydro_RoR,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_MV,P_Oil,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_MV,P_PV_Rooftop_residential,Power,2018,7.31467148,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_MV,P_PV_Utility_Opt,Power,2018,7.31467148,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_MV,P_Wind_Onshore_Opt,Power,2018,23.880251,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NI,CHP_Biomass_Solid,Power,2018,2.09089164,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NI,CHP_Coal_Hardcoal,Power,2018,13.0680727,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NI,CHP_Gas_CCGT_Biogas,Power,2018,16.9884945,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NI,CHP_Gas_CCGT_Natural,Power,2018,44.3007665,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NI,P_Biomass,Power,2018,20.2555127,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NI,P_Coal_Hardcoal,Power,2018,26.1361455,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NI,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NI,P_Hydro_Reservoir,Power,2018,2.61361455,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NI,P_Hydro_RoR,Power,2018,0.39204218,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NI,P_Nuclear,Power,2018,35.2837964,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NI,P_Oil,Power,2018,1.30680727,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NI,P_PV_Rooftop_residential,Power,2018,7.18744,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NI,P_PV_Utility_Opt,Power,2018,7.18744,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NI,P_Wind_Onshore_Opt,Power,2018,146.623776,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NRW,CHP_Biomass_Solid,Power,2018,3.58604417,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NRW,CHP_Coal_Hardcoal,Power,2018,109.140475,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NRW,CHP_Coal_Lignite,Power,2018,41.1556668,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NRW,CHP_Gas_CCGT_Biogas,Power,2018,7.48391826,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NRW,CHP_Gas_CCGT_Natural,Power,2018,114.597498,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NRW,P_Biomass,Power,2018,12.6291121,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NRW,P_Coal_Hardcoal,Power,2018,22.1575898,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NRW,P_Coal_Lignite,Power,2018,93.5489782,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NRW,P_Gas_OCGT,Power,2018,26.0377989,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NRW,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NRW,P_Hydro_Reservoir,Power,2018,4.67744891,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NRW,P_Hydro_RoR,Power,2018,0.31182993,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_NRW,P_Oil,Power,2018,9.97855768,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NRW,P_PV_Rooftop_residential,Power,2018,3.58604417,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NRW,P_PV_Utility_Opt,Power,2018,3.58604417,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_NRW,P_Wind_Onshore_Opt,Power,2018,90.5865939,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_RP,CHP_Biomass_Solid,Power,2018,0.70592514,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_RP,CHP_Gas_CCGT_Biogas,Power,2018,0.70592514,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_RP,CHP_Gas_CCGT_Natural,Power,2018,19.5305954,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_RP,P_Biomass,Power,2018,1.25497802,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_RP,P_Geothermal,Power,2018,0.07843613,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_RP,P_Hydro_Reservoir,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_RP,P_Hydro_RoR,Power,2018,1.64715865,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_RP,P_Oil,Power,2018,0.54905288,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_RP,P_PV_Rooftop_residential,Power,2018,9.8829519,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_RP,P_PV_Utility_Opt,Power,2018,9.8829519,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_RP,P_Wind_Onshore_Opt,Power,2018,27.8448248,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SH,CHP_Biomass_Solid,Power,2018,0.12566094,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SH,CHP_Gas_CCGT_Biogas,Power,2018,5.78040332,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SH,CHP_Gas_CCGT_Natural,Power,2018,2.89020166,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SH,P_Biomass,Power,2018,6.28304709,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SH,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SH,P_Hydro_Reservoir,Power,2018,1.5079313,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SH,P_Hydro_RoR,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SH,P_Nuclear,Power,2018,17.7181928,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SH,P_Oil,Power,2018,3.51850637,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SH,P_PV_Rooftop_residential,Power,2018,6.28304709,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SH,P_PV_Utility_Opt,Power,2018,6.28304709,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SH,P_Wind_Onshore_Opt,Power,2018,85.7007623,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SL,CHP_Biomass_Solid,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SL,CHP_Coal_Hardcoal,Power,2018,20.843323,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SL,CHP_Gas_CCGT_Biogas,Power,2018,0.10421661,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SL,CHP_Gas_CCGT_Natural,Power,2018,2.29276553,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SL,P_Biomass,Power,2018,0.20843323,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SL,P_Coal_Hardcoal,Power,2018,10.4216615,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SL,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SL,P_Hydro_Reservoir,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SL,P_Hydro_RoR,Power,2018,0.10421661,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SL,P_Oil,Power,2018,0.41686646,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SL,P_PV_Rooftop_residential,Power,2018,1.35481599,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SL,P_PV_Utility_Opt,Power,2018,1.35481599,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SL,P_Wind_Onshore_Opt,Power,2018,5.31504736,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SN,CHP_Biomass_Solid,Power,2018,1.15945336,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SN,CHP_Coal_Lignite,Power,2018,77.2968903,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SN,CHP_Gas_CCGT_Biogas,Power,2018,1.93242226,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SN,CHP_Gas_CCGT_Natural,Power,2018,10.306252,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SN,P_Biomass,Power,2018,3.47836007,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SN,P_Coal_Lignite,Power,2018,12.8828151,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SN,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SN,P_Hydro_Reservoir,Power,2018,13.5269558,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SN,P_Hydro_RoR,Power,2018,0.12882815,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_SN,P_Oil,Power,2018,0.38648445,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SN,P_PV_Rooftop_residential,Power,2018,9.91976759,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SN,P_PV_Utility_Opt,Power,2018,9.91976759,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_SN,P_Wind_Onshore_Opt,Power,2018,16.4900033,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_ST,CHP_Biomass_Solid,Power,2018,0.65998373,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_ST,CHP_Coal_Lignite,Power,2018,16.4995932,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_ST,CHP_Gas_CCGT_Biogas,Power,2018,1.97995119,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_ST,CHP_Gas_CCGT_Natural,Power,2018,8.57978847,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_ST,P_Biomass,Power,2018,3.62991051,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_ST,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_ST,P_Hydro_Reservoir,Power,2018,0.65998373,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_ST,P_Hydro_RoR,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_ST,P_Oil,Power,2018,1.97995119,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_ST,P_PV_Rooftop_residential,Power,2018,10.4772417,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_ST,P_PV_Utility_Opt,Power,2018,10.4772417,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_ST,P_Wind_Onshore_Opt,Power,2018,42.4039546,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_TH,CHP_Biomass_Solid,Power,2018,0.57870345,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_TH,CHP_Gas_CCGT_Biogas,Power,2018,0.86805517,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_TH,CHP_Gas_CCGT_Natural,Power,2018,3.32754483,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_TH,P_Biomass,Power,2018,1.80844828,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_TH,P_Geothermal,Power,2018,0,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_TH,P_Hydro_Reservoir,Power,2018,10.489,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_TH,P_Hydro_RoR,Power,2018,0.07233793,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_TH,P_Oil,Power,2018,0.07233793,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_TH,P_PV_Rooftop_residential,Power,2018,4.26793793,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_TH,P_PV_Utility_Opt,Power,2018,4.26793793,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
-DE_TH,P_Wind_Onshore_Opt,Power,2018,12.0080966,,PJ,https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe (dissaggregated by residual capacity),24.03.2026,Alena Diesing<ad@wip.tu-berlin.de>
 DE_BB,HB_Biomass,Heat_Buildings,2018,8.592968641,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BE,HB_Biomass,Heat_Buildings,2018,5.341758183,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BW,HB_Biomass,Heat_Buildings,2018,46.67219916,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -1465,310 +1369,310 @@ DE_SL,HB_Oil_Boiler,Heat_Buildings,2018,13.24709359,,PJ,Assumption - calculated 
 DE_SN,HB_Oil_Boiler,Heat_Buildings,2018,21.61123541,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_ST,HB_Oil_Boiler,Heat_Buildings,2018,13.41866087,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_TH,HB_Oil_Boiler,Heat_Buildings,2018,13.98350235,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HHI_BF_BOF,Heat_High_Industrial,2018,13.86118672,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HHI_BF_BOF,Heat_High_Industrial,2018,0.18215953,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HHI_BF_BOF,Heat_High_Industrial,2018,7.044363967,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HHI_BF_BOF,Heat_High_Industrial,2018,13.13451892,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HHI_BF_BOF,Heat_High_Industrial,2018,0.368391978,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HHI_BF_BOF,Heat_High_Industrial,2018,11.30607058,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HHI_BF_BOF,Heat_High_Industrial,2018,12.6825854,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HHI_BF_BOF,Heat_High_Industrial,2018,0.170274148,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HHI_BF_BOF,Heat_High_Industrial,2018,6.407869996,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HHI_BF_BOF,Heat_High_Industrial,2018,11.97197156,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HHI_BF_BOF,Heat_High_Industrial,2018,0.340054134,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HHI_BF_BOF,Heat_High_Industrial,2018,9.5410531,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_HH,HHI_BF_BOF,Heat_High_Industrial,2018,2.324780024,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HHI_BF_BOF,Heat_High_Industrial,2018,1.894715328,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HHI_BF_BOF,Heat_High_Industrial,2018,6.711628582,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HHI_BF_BOF,Heat_High_Industrial,2018,106.5526854,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HHI_BF_BOF,Heat_High_Industrial,2018,5.941124469,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HHI_BF_BOF,Heat_High_Industrial,2018,1.687524333,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HHI_BF_BOF,Heat_High_Industrial,2018,6.132339209,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HHI_BF_BOF,Heat_High_Industrial,2018,98.30240059,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HHI_BF_BOF,Heat_High_Industrial,2018,5.665903073,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HHI_BF_BOF,Heat_High_Industrial,2018,1.95609147,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HHI_BF_BOF,Heat_High_Industrial,2018,9.032106489,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HHI_BF_BOF,Heat_High_Industrial,2018,5.279354117,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HHI_BF_BOF,Heat_High_Industrial,2018,7.289724152,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HHI_BF_BOF,Heat_High_Industrial,2018,1.798846472,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.627003062,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.008239885,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.318647881,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.594132649,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.016664006,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.511423806,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HHI_BF_BOF,Heat_High_Industrial,2018,8.279309793,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HHI_BF_BOF,Heat_High_Industrial,2018,5.02381684,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HHI_BF_BOF,Heat_High_Industrial,2018,6.840107809,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HHI_BF_BOF,Heat_High_Industrial,2018,1.635999197,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.573689688,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.007702256,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.289856431,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.541545466,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.015382159,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.431584224,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_HH,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.10516013,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.085706393,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.303596781,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,4.819851387,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.268743457,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.076334223,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.277392949,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,4.446654347,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.25629397,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.088482708,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.408562307,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.238808643,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.329746612,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.081369818,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HHI_DRI_EAF,Heat_High_Industrial,2018,16.99707014,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HHI_DRI_EAF,Heat_High_Industrial,2018,0.223370363,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HHI_DRI_EAF,Heat_High_Industrial,2018,8.638044548,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HHI_DRI_EAF,Heat_High_Industrial,2018,16.10600476,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HHI_DRI_EAF,Heat_High_Industrial,2018,0.45173508,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HHI_DRI_EAF,Heat_High_Industrial,2018,13.86389769,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HHI_DRI_EAF,Heat_High_Industrial,2018,2.85072627,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HHI_DRI_EAF,Heat_High_Industrial,2018,2.323365955,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HHI_DRI_EAF,Heat_High_Industrial,2018,8.230032826,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HHI_DRI_EAF,Heat_High_Industrial,2018,130.6586155,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HHI_DRI_EAF,Heat_High_Industrial,2018,7.285213835,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.374509968,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.227249557,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.309408468,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.074003513,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HHI_DRI_EAF,Heat_High_Industrial,2018,15.55182813,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HHI_DRI_EAF,Heat_High_Industrial,2018,0.208796093,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HHI_DRI_EAF,Heat_High_Industrial,2018,7.857553463,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HHI_DRI_EAF,Heat_High_Industrial,2018,14.68044867,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HHI_DRI_EAF,Heat_High_Industrial,2018,0.416986228,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HHI_DRI_EAF,Heat_High_Industrial,2018,11.69957176,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HHI_DRI_EAF,Heat_High_Industrial,2018,2.850726269,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HHI_DRI_EAF,Heat_High_Industrial,2018,2.069301137,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HHI_DRI_EAF,Heat_High_Industrial,2018,7.519688011,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HHI_DRI_EAF,Heat_High_Industrial,2018,120.5418288,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HHI_DRI_EAF,Heat_High_Industrial,2018,6.94772777,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HHI_DRI_EAF,Heat_High_Industrial,2018,2.398627518,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HHI_DRI_EAF,Heat_High_Industrial,2018,11.07548369,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HHI_DRI_EAF,Heat_High_Industrial,2018,6.47372797,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HHI_DRI_EAF,Heat_High_Industrial,2018,8.938913757,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HHI_DRI_EAF,Heat_High_Industrial,2018,2.205808223,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HHI_Scrap_EAF,Heat_High_Industrial,2018,2.204493878,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.028970793,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HHI_Scrap_EAF,Heat_High_Industrial,2018,1.120341104,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HHI_Scrap_EAF,Heat_High_Industrial,2018,2.088924068,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.058589346,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HHI_Scrap_EAF,Heat_High_Industrial,2018,1.798126226,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.369734817,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.301336994,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HHI_Scrap_EAF,Heat_High_Industrial,2018,1.067422611,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HHI_Scrap_EAF,Heat_High_Industrial,2018,16.94622166,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.944881039,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HHI_DRI_EAF,Heat_High_Industrial,2018,10.15237815,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HHI_DRI_EAF,Heat_High_Industrial,2018,6.160379258,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HHI_DRI_EAF,Heat_High_Industrial,2018,8.387578531,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HHI_DRI_EAF,Heat_High_Industrial,2018,2.00611922,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HHI_Scrap_EAF,Heat_High_Industrial,2018,2.017048211,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.027080532,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HHI_Scrap_EAF,Heat_High_Industrial,2018,1.01911261,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HHI_Scrap_EAF,Heat_High_Industrial,2018,1.904031634,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.054082473,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HHI_Scrap_EAF,Heat_High_Industrial,2018,1.517416479,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.369734816,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.268385178,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.97529198,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HHI_Scrap_EAF,Heat_High_Industrial,2018,15.63408997,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.901109615,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.311098303,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HHI_Scrap_EAF,Heat_High_Industrial,2018,1.436473215,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.83963257,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HHI_Scrap_EAF,Heat_High_Industrial,2018,1.159363378,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.286089937,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.051515635,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.048695001,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.462062002,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,2.540042962,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.096144524,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.046159741,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HHI_Scrap_EAF,Heat_High_Industrial,2018,1.316747845,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.798991723,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HHI_Scrap_EAF,Heat_High_Industrial,2018,1.087856047,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.26019058,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.867566399,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.041066594,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.221280319,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,2.156726807,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.080411784,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.882841264,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_HH,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.645341257,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.177163925,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.307059554,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,11.88702575,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,2.29577921,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.154397704,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.102717471,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,9.903833727,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.937324489,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.491612267,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.349711853,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.870372445,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,2.201487348,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.321839681,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HMHI_Gas,Heat_MediumHigh_Industrial,2018,14.13811593,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HMHI_Gas,Heat_MediumHigh_Industrial,2018,0.654726903,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HMHI_Gas,Heat_MediumHigh_Industrial,2018,19.65810245,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HMHI_Gas,Heat_MediumHigh_Industrial,2018,34.15205696,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HMHI_Gas,Heat_MediumHigh_Industrial,2018,1.292707767,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HMHI_Gas,Heat_MediumHigh_Industrial,2018,14.06610345,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HMHI_Gas,Heat_MediumHigh_Industrial,2018,8.676912827,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HMHI_Gas,Heat_MediumHigh_Industrial,2018,2.382051222,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HMHI_Gas,Heat_MediumHigh_Industrial,2018,17.57402256,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HMHI_Gas,Heat_MediumHigh_Industrial,2018,159.8265804,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HMHI_Gas,Heat_MediumHigh_Industrial,2018,30.8678174,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.27983308,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.57811763,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.865256422,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.269720816,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HMHI_Gas,Heat_MediumHigh_Industrial,2018,11.66483304,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HMHI_Gas,Heat_MediumHigh_Industrial,2018,0.552159422,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HMHI_Gas,Heat_MediumHigh_Industrial,2018,16.42068092,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HMHI_Gas,Heat_MediumHigh_Industrial,2018,28.99819329,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HMHI_Gas,Heat_MediumHigh_Industrial,2018,1.08117377,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HMHI_Gas,Heat_MediumHigh_Industrial,2018,11.8702107,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HMHI_Gas,Heat_MediumHigh_Industrial,2018,8.676912836,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HMHI_Gas,Heat_MediumHigh_Industrial,2018,2.075948819,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HMHI_Gas,Heat_MediumHigh_Industrial,2018,14.82654838,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HMHI_Gas,Heat_MediumHigh_Industrial,2018,133.1616428,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HMHI_Gas,Heat_MediumHigh_Industrial,2018,26.04822724,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HMHI_Gas,Heat_MediumHigh_Industrial,2018,6.609955187,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HMHI_Gas,Heat_MediumHigh_Industrial,2018,4.702038234,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HMHI_Gas,Heat_MediumHigh_Industrial,2018,25.14802593,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HMHI_Gas,Heat_MediumHigh_Industrial,2018,29.60001953,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HMHI_Gas,Heat_MediumHigh_Industrial,2018,4.327283935,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,3.258064152,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,0.15087882,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,4.530119797,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,7.870185323,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,0.297898592,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,3.241469204,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,1.999554875,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,0.548932809,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,4.04985312,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,36.83130443,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,7.113347338,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HMHI_Gas,Heat_MediumHigh_Industrial,2018,3.762485688,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HMHI_Gas,Heat_MediumHigh_Industrial,2018,21.21852425,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HMHI_Gas,Heat_MediumHigh_Industrial,2018,25.07923863,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HMHI_Gas,Heat_MediumHigh_Industrial,2018,3.6265216,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,2.688107421,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,0.127242613,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,3.784070814,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,6.682501011,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,0.24915155,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,2.735435763,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,1.999554877,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,0.47839291,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,3.416710261,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,30.68649153,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,6.002694829,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,1.52323394,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,1.083563205,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,5.795247555,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,6.821189117,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,0.997202791,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HMHI_Oil,Heat_MediumHigh_Industrial,2018,8.564233989,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HMHI_Oil,Heat_MediumHigh_Industrial,2018,0.396604075,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HMHI_Oil,Heat_MediumHigh_Industrial,2018,11.90799326,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HMHI_Oil,Heat_MediumHigh_Industrial,2018,20.68777823,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HMHI_Oil,Heat_MediumHigh_Industrial,2018,0.783064154,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HMHI_Oil,Heat_MediumHigh_Industrial,2018,8.520612068,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HMHI_Oil,Heat_MediumHigh_Industrial,2018,5.256083067,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HMHI_Oil,Heat_MediumHigh_Industrial,2018,1.442939366,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HMHI_Oil,Heat_MediumHigh_Industrial,2018,10.64555151,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HMHI_Oil,Heat_MediumHigh_Industrial,2018,96.81574537,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HMHI_Oil,Heat_MediumHigh_Industrial,2018,18.6983338,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,0.867047618,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,4.889711865,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,5.779395834,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,0.835715316,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HMHI_Oil,Heat_MediumHigh_Industrial,2018,7.066030585,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HMHI_Oil,Heat_MediumHigh_Industrial,2018,0.334473314,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HMHI_Oil,Heat_MediumHigh_Industrial,2018,9.946909077,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HMHI_Oil,Heat_MediumHigh_Industrial,2018,17.5657997,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HMHI_Oil,Heat_MediumHigh_Industrial,2018,0.654926384,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HMHI_Oil,Heat_MediumHigh_Industrial,2018,7.190439122,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HMHI_Oil,Heat_MediumHigh_Industrial,2018,5.256083073,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HMHI_Oil,Heat_MediumHigh_Industrial,2018,1.257516314,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HMHI_Oil,Heat_MediumHigh_Industrial,2018,8.981255368,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HMHI_Oil,Heat_MediumHigh_Industrial,2018,80.66332691,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HMHI_Oil,Heat_MediumHigh_Industrial,2018,15.77884311,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HMHI_Oil,Heat_MediumHigh_Industrial,2018,4.004013205,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HMHI_Oil,Heat_MediumHigh_Industrial,2018,2.848283029,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HMHI_Oil,Heat_MediumHigh_Industrial,2018,15.23354169,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HMHI_Oil,Heat_MediumHigh_Industrial,2018,17.93035894,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HMHI_Oil,Heat_MediumHigh_Industrial,2018,2.621273749,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.608275493,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.02816884,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.845766297,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,1.469351319,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.055617202,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.605177242,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HMHI_Oil,Heat_MediumHigh_Industrial,2018,2.279144404,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HMHI_Oil,Heat_MediumHigh_Industrial,2018,12.85322652,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HMHI_Oil,Heat_MediumHigh_Industrial,2018,15.19187344,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HMHI_Oil,Heat_MediumHigh_Industrial,2018,2.196783482,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.501865461,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.023755997,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.706480116,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,1.247612511,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.046516206,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.510701588,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_HH,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.373313775,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.102484899,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.756101258,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,6.876347064,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,1.328050848,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.08931521,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.637894474,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,5.729120083,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,1.120693758,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.2843854,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.202299559,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,1.081963675,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,1.273505364,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.186176205,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.408408837,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.040012736,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.751306506,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HMHI_Biomass,Heat_MediumLow_Industrial,2018,1.956825464,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.065554447,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.370226385,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.288104761,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.200565616,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.911895296,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HMHI_Biomass,Heat_MediumLow_Industrial,2018,3.648389929,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.665744873,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.161876437,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.912901575,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,1.079004184,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.156026745,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.606008868,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.047125233,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.974257389,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HMHI_Biomass,Heat_MediumLow_Industrial,2018,2.301201929,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.080772443,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.495283296,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.288104762,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.229155397,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HMHI_Biomass,Heat_MediumLow_Industrial,2018,1.091608379,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HMHI_Biomass,Heat_MediumLow_Industrial,2018,5.513883078,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.92722355,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.219474306,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.094773643,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.574916937,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.792709515,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.158313128,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HMHI_Gas,Heat_MediumLow_Industrial,2018,4.40747545,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HMHI_Gas,Heat_MediumLow_Industrial,2018,0.431810326,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HMHI_Gas,Heat_MediumLow_Industrial,2018,8.107966036,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HMHI_Gas,Heat_MediumLow_Industrial,2018,21.11771199,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HMHI_Gas,Heat_MediumLow_Industrial,2018,0.707451917,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HMHI_Gas,Heat_MediumLow_Industrial,2018,3.995417232,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HMHI_Gas,Heat_MediumLow_Industrial,2018,3.109175287,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HMHI_Gas,Heat_MediumLow_Industrial,2018,2.164468418,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HMHI_Gas,Heat_MediumLow_Industrial,2018,9.841011664,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HMHI_Gas,Heat_MediumLow_Industrial,2018,39.37277451,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HMHI_Gas,Heat_MediumLow_Industrial,2018,7.184600127,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.18832345,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.794045764,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HMHI_Biomass,Heat_MediumLow_Industrial,2018,1.048270484,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.20709058,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HMHI_Gas,Heat_MediumLow_Industrial,2018,6.539939806,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HMHI_Gas,Heat_MediumLow_Industrial,2018,0.508567123,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HMHI_Gas,Heat_MediumLow_Industrial,2018,10.51401228,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HMHI_Gas,Heat_MediumLow_Industrial,2018,24.83416149,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HMHI_Gas,Heat_MediumLow_Industrial,2018,0.871681827,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HMHI_Gas,Heat_MediumLow_Industrial,2018,5.345009145,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HMHI_Gas,Heat_MediumLow_Industrial,2018,3.109175289,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HMHI_Gas,Heat_MediumLow_Industrial,2018,2.473004245,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HMHI_Gas,Heat_MediumLow_Industrial,2018,11.78044326,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HMHI_Gas,Heat_MediumLow_Industrial,2018,59.50484441,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HMHI_Gas,Heat_MediumLow_Industrial,2018,10.00643146,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HMHI_Gas,Heat_MediumLow_Industrial,2018,2.368527633,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HMHI_Gas,Heat_MediumLow_Industrial,2018,1.022780284,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HMHI_Gas,Heat_MediumLow_Industrial,2018,6.204401221,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HMHI_Gas,Heat_MediumLow_Industrial,2018,8.554779937,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HMHI_Gas,Heat_MediumLow_Industrial,2018,1.708487087,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.762862419,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.074739354,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,1.40335724,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,3.655132974,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.122448437,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.691541834,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.538147746,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.37463433,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,1.703319292,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,6.814787817,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,1.243537598,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HMHI_Gas,Heat_MediumLow_Industrial,2018,2.032353136,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HMHI_Gas,Heat_MediumLow_Industrial,2018,8.569200504,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HMHI_Gas,Heat_MediumLow_Industrial,2018,11.31274841,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HMHI_Gas,Heat_MediumLow_Industrial,2018,2.234884665,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,1.131957366,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.088024709,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,1.819804768,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,4.298390024,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.150873967,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.925134275,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.538147747,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.428036871,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,2.039003404,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,10.29932215,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,1.731950772,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.409953666,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.177026656,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,1.073881086,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,1.48069347,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.295711367,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HMHI_Oil,Heat_MediumLow_Industrial,2018,2.158772737,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.211499842,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HMHI_Oil,Heat_MediumLow_Industrial,2018,3.97126569,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HMHI_Oil,Heat_MediumLow_Industrial,2018,10.34341346,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.346508546,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HMHI_Oil,Heat_MediumLow_Industrial,2018,1.956947439,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HMHI_Oil,Heat_MediumLow_Industrial,2018,1.522867891,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HMHI_Oil,Heat_MediumLow_Industrial,2018,1.06015234,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HMHI_Oil,Heat_MediumLow_Industrial,2018,4.820108002,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HMHI_Oil,Heat_MediumLow_Industrial,2018,19.28470689,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HMHI_Oil,Heat_MediumLow_Industrial,2018,3.519002898,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.351767321,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,1.483189436,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,1.958053021,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.386822239,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HMHI_Oil,Heat_MediumLow_Industrial,2018,3.203249551,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.249095169,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HMHI_Oil,Heat_MediumLow_Industrial,2018,5.149742369,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HMHI_Oil,Heat_MediumLow_Industrial,2018,12.16372306,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.42694803,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HMHI_Oil,Heat_MediumLow_Industrial,2018,2.617974883,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HMHI_Oil,Heat_MediumLow_Industrial,2018,1.522867892,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HMHI_Oil,Heat_MediumLow_Industrial,2018,1.211272576,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HMHI_Oil,Heat_MediumLow_Industrial,2018,5.770037755,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HMHI_Oil,Heat_MediumLow_Industrial,2018,29.14535482,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HMHI_Oil,Heat_MediumLow_Industrial,2018,4.901130291,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HMHI_Oil,Heat_MediumLow_Industrial,2018,1.160100139,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.500955755,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HMHI_Oil,Heat_MediumLow_Industrial,2018,3.038903417,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HMHI_Oil,Heat_MediumLow_Industrial,2018,4.190114253,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.836813588,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.272324757,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.026680272,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.500967028,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,1.304800412,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.043711343,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.246864909,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.995442537,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HMHI_Oil,Heat_MediumLow_Industrial,2018,4.197177418,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HMHI_Oil,Heat_MediumLow_Industrial,2018,5.540961745,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HMHI_Oil,Heat_MediumLow_Industrial,2018,1.094642078,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.404083366,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.031422845,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.649629446,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,1.534428737,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.053858619,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.330252166,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_HH,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.192106664,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.133736045,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.608046747,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,2.432726254,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.443915004,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.152799553,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.727878438,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,3.676626783,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.618267542,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.146344255,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.063194542,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.383351438,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.528574326,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.105562319,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HLI_Biomass,Heat_Low_Industrial,2018,1.642466493,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HLI_Biomass,Heat_Low_Industrial,2018,0.076061549,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HLI_Biomass,Heat_Low_Industrial,2018,2.283739555,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HLI_Biomass,Heat_Low_Industrial,2018,3.967544863,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HLI_Biomass,Heat_Low_Industrial,2018,0.150177662,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HLI_Biomass,Heat_Low_Industrial,2018,1.634100591,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HLI_Biomass,Heat_Low_Industrial,2018,1.008022473,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HLI_Biomass,Heat_Low_Industrial,2018,0.276729894,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HLI_Biomass,Heat_Low_Industrial,2018,2.041625868,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HLI_Biomass,Heat_Low_Industrial,2018,18.56752373,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HLI_Biomass,Heat_Low_Industrial,2018,3.586005098,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,HLI_Biomass,Heat_Low_Industrial,2018,0.767897927,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HLI_Biomass,Heat_Low_Industrial,2018,0.546249605,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HLI_Biomass,Heat_Low_Industrial,2018,2.921520107,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HLI_Biomass,Heat_Low_Industrial,2018,3.438721292,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HLI_Biomass,Heat_Low_Industrial,2018,0.502713297,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.730964198,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.033850474,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HLI_Direct_Electric,Heat_Low_Industrial,2018,1.016356717,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HLI_Direct_Electric,Heat_Low_Industrial,2018,1.765718364,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.06683515,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.727241033,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.44861088,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.123156025,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.908606308,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HLI_Direct_Electric,Heat_Low_Industrial,2018,8.263301048,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HLI_Direct_Electric,Heat_Low_Industrial,2018,1.595917696,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.341745719,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.243103227,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HLI_Direct_Electric,Heat_Low_Industrial,2018,1.300194927,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HLI_Direct_Electric,Heat_Low_Industrial,2018,1.530370429,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.223727804,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HLI_Gas_Boiler,Heat_Low_Industrial,2018,2.834906301,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0.131282657,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HLI_Gas_Boiler,Heat_Low_Industrial,2018,3.941747172,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HLI_Gas_Boiler,Heat_Low_Industrial,2018,6.848004496,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0.259207479,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HLI_Gas_Boiler,Heat_Low_Industrial,2018,2.820466707,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HLI_Gas_Boiler,Heat_Low_Industrial,2018,1.739852394,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0.477637335,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HLI_Gas_Boiler,Heat_Low_Industrial,2018,3.523857601,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HLI_Gas_Boiler,Heat_Low_Industrial,2018,32.0476492,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HLI_Gas_Boiler,Heat_Low_Industrial,2018,6.18946474,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,HLI_Gas_Boiler,Heat_Low_Industrial,2018,1.325396092,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0.942829857,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HLI_Gas_Boiler,Heat_Low_Industrial,2018,5.042559951,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HLI_Gas_Boiler,Heat_Low_Industrial,2018,5.935252072,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0.867685946,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HLI_Hardcoal,Heat_Low_Industrial,2018,11.41521231,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HLI_Hardcoal,Heat_Low_Industrial,2018,0.528631017,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HLI_Hardcoal,Heat_Low_Industrial,2018,15.8720875,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HLI_Hardcoal,Heat_Low_Industrial,2018,27.57460633,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HLI_Hardcoal,Heat_Low_Industrial,2018,1.043741167,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HLI_Hardcoal,Heat_Low_Industrial,2018,11.35706893,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HLI_Hardcoal,Heat_Low_Industrial,2018,7.00579926,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HLI_Hardcoal,Heat_Low_Industrial,2018,1.923284585,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HLI_Hardcoal,Heat_Low_Industrial,2018,14.18938702,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HLI_Hardcoal,Heat_Low_Industrial,2018,129.0450833,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HLI_Hardcoal,Heat_Low_Industrial,2018,24.92288866,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,HLI_Hardcoal,Heat_Low_Industrial,2018,5.336923407,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HLI_Hardcoal,Heat_Low_Industrial,2018,3.7964581,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HLI_Hardcoal,Heat_Low_Industrial,2018,20.30468958,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HLI_Hardcoal,Heat_Low_Industrial,2018,23.89925992,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HLI_Hardcoal,Heat_Low_Industrial,2018,3.493878894,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,HLI_Oil_Boiler,Heat_Low_Industrial,2018,2.163785996,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.100203514,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,HLI_Oil_Boiler,Heat_Low_Industrial,2018,3.008599377,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,HLI_Oil_Boiler,Heat_Low_Industrial,2018,5.226845143,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.19784411,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,HLI_Oil_Boiler,Heat_Low_Industrial,2018,2.152764753,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,HLI_Oil_Boiler,Heat_Low_Industrial,2018,1.327969197,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.364564069,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,HLI_Oil_Boiler,Heat_Low_Industrial,2018,2.689638711,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,HLI_Oil_Boiler,Heat_Low_Industrial,2018,24.46086297,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,HLI_Oil_Boiler,Heat_Low_Industrial,2018,4.724204509,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,HLI_Oil_Boiler,Heat_Low_Industrial,2018,1.011629027,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.719629442,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,HLI_Oil_Boiler,Heat_Low_Industrial,2018,3.848811724,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,HLI_Oil_Boiler,Heat_Low_Industrial,2018,4.530172766,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.662274692,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.125573036,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.52946533,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.698980969,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HMLI_Heatpump,Heat_MediumLow_Industrial,2018,0.138086855,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HLI_Biomass,Heat_Low_Industrial,2018,2.145677317,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HLI_Biomass,Heat_Low_Industrial,2018,0.110253678,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HLI_Biomass,Heat_Low_Industrial,2018,4.168794843,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HLI_Biomass,Heat_Low_Industrial,2018,8.904895374,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HLI_Biomass,Heat_Low_Industrial,2018,0.445473066,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HLI_Biomass,Heat_Low_Industrial,2018,1.6664295,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HLI_Biomass,Heat_Low_Industrial,2018,0.596810582,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HLI_Biomass,Heat_Low_Industrial,2018,0.33636073,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HLI_Biomass,Heat_Low_Industrial,2018,2.853011044,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HLI_Biomass,Heat_Low_Industrial,2018,12.97974887,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HLI_Biomass,Heat_Low_Industrial,2018,2.206723846,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,HLI_Biomass,Heat_Low_Industrial,2018,0.282131906,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HLI_Biomass,Heat_Low_Industrial,2018,0.444008934,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HLI_Biomass,Heat_Low_Industrial,2018,2.271681643,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HLI_Biomass,Heat_Low_Industrial,2018,1.884084285,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HLI_Biomass,Heat_Low_Industrial,2018,0.822524053,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.954913422,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.049067358,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HLI_Direct_Electric,Heat_Low_Industrial,2018,1.855282767,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HLI_Direct_Electric,Heat_Low_Industrial,2018,3.963039572,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.19825358,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.741628708,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.265604912,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.149694166,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HLI_Direct_Electric,Heat_Low_Industrial,2018,1.269705616,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HLI_Direct_Electric,Heat_Low_Industrial,2018,5.776514631,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.982081603,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.12556014,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.197601982,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HLI_Direct_Electric,Heat_Low_Industrial,2018,1.010990457,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.838493914,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.36605656,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HLI_Gas_Boiler,Heat_Low_Industrial,2018,3.703450982,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0.190298462,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HLI_Gas_Boiler,Heat_Low_Industrial,2018,7.195363081,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HLI_Gas_Boiler,Heat_Low_Industrial,2018,15.36989893,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0.76888899,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HLI_Gas_Boiler,Heat_Low_Industrial,2018,2.876266583,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HLI_Gas_Boiler,Heat_Low_Industrial,2018,1.030098384,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0.58056049,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HLI_Gas_Boiler,Heat_Low_Industrial,2018,4.924312927,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HLI_Gas_Boiler,Heat_Low_Industrial,2018,22.40311873,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HLI_Gas_Boiler,Heat_Low_Industrial,2018,3.80881763,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0.486961239,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0.766361888,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HLI_Gas_Boiler,Heat_Low_Industrial,2018,3.920935148,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HLI_Gas_Boiler,Heat_Low_Industrial,2018,3.251939953,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HLI_Gas_Boiler,Heat_Low_Industrial,2018,1.419681089,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HLI_Hardcoal,Heat_Low_Industrial,2018,14.91254904,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HLI_Hardcoal,Heat_Low_Industrial,2018,0.766267776,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HLI_Hardcoal,Heat_Low_Industrial,2018,28.9733023,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HLI_Hardcoal,Heat_Low_Industrial,2018,61.88940336,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HLI_Hardcoal,Heat_Low_Industrial,2018,3.096056847,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HLI_Hardcoal,Heat_Low_Industrial,2018,11.58175623,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HLI_Hardcoal,Heat_Low_Industrial,2018,4.147859051,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HLI_Hardcoal,Heat_Low_Industrial,2018,2.337721446,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HLI_Hardcoal,Heat_Low_Industrial,2018,19.82854867,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HLI_Hardcoal,Heat_Low_Industrial,2018,90.20980931,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HLI_Hardcoal,Heat_Low_Industrial,2018,15.33682503,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,HLI_Hardcoal,Heat_Low_Industrial,2018,1.960828805,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HLI_Hardcoal,Heat_Low_Industrial,2018,3.085881061,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HLI_Hardcoal,Heat_Low_Industrial,2018,15.78828449,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HLI_Hardcoal,Heat_Low_Industrial,2018,13.09446629,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HLI_Hardcoal,Heat_Low_Industrial,2018,5.716577314,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,HLI_Oil_Boiler,Heat_Low_Industrial,2018,2.826716131,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.145248239,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,HLI_Oil_Boiler,Heat_Low_Industrial,2018,5.491971945,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,HLI_Oil_Boiler,Heat_Low_Industrial,2018,11.73131262,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.586866391,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,HLI_Oil_Boiler,Heat_Low_Industrial,2018,2.19535487,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.786238493,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.443121756,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,HLI_Oil_Boiler,Heat_Low_Industrial,2018,3.758557857,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,HLI_Oil_Boiler,Heat_Low_Industrial,2018,17.09952621,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,HLI_Oil_Boiler,Heat_Low_Industrial,2018,2.907138852,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.371680683,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.584937542,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,HLI_Oil_Boiler,Heat_Low_Industrial,2018,2.992714279,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,HLI_Oil_Boiler,Heat_Low_Industrial,2018,2.482093369,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,HLI_Oil_Boiler,Heat_Low_Industrial,2018,1.083593507,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BB,CHP_Biomass_Solid,Heat_District,2018,5.977462509,,PJ,Assumption - calculated using total German DistricHeatDemand data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BE,CHP_Biomass_Solid,Heat_District,2018,8.596800007,,PJ,Assumption - calculated using total German DistricHeatDemand data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BW,CHP_Biomass_Solid,Heat_District,2018,8.663962492,,PJ,Assumption - calculated using total German DistricHeatDemand data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
