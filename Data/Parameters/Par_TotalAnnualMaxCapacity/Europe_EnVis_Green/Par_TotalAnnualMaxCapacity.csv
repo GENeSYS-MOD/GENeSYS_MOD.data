@@ -75,12 +75,8 @@ ES,D_PHS,2025,3.418,,GW,set to 2024 installed capacities by entso-e,03.02.2026,K
 ES,P_Biomass,2025,0.708,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 ES,P_Coal_Hardcoal,2025,3.223,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 ES,P_Gas_CCGT,2025,29.873,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-ES,P_Hydro_Reservoir,2025,15.771,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-ES,P_Hydro_RoR,2025,1.155,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 ES,P_Nuclear,2025,7.117,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 ES,P_Oil,2025,0.704,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-ES,P_PV_Utility_Avg,2025,23.867,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-ES,P_Wind_Onshore_Avg,2025,30.159,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 ES,Waste,2025,0.546,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FI,Fossil Peat,2025,1.044,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FI,P_Biomass,2025,1.695,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
@@ -267,3 +263,10 @@ UK,P_Oil,2025,0.316,,GW,set to 2024 installed capacities by entso-e,03.02.2026,K
 UK,P_PV_Utility_Avg,2025,13.47,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 UK,P_Wind_Offshore_Transitional,2025,12.16,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 UK,P_Wind_Onshore_Avg,2025,13.932,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,X_Electrolysis,2030,3,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2035,13,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2040,21,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2045,74,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2050,130,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2055,130,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2060,130,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
