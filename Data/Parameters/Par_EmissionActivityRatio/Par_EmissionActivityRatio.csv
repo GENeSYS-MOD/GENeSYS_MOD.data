@@ -1,12 +1,12 @@
 Region,Technology,Mode_of_operation,Emission,Year,Value,,Unit,Source,Updated at,Updated by
 World,CHP_Biomass_Solid,All,CO2,All,0,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,CHP_Biomass_Solid_CCS,All,CO2,All,-0.88,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,CHP_Biomass_Solid_CCS,All,CO2,All,-0.735,,Fraction,partner feedback UFZ (BECCS technology sheet/BENOPTX),20.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,CHP_Coal_Hardcoal_CCS,All,CO2,All,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,CHP_Coal_Lignite,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,CHP_Coal_Lignite_CCS,All,CO2,All,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Biogas,All,CO2,All,0,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,CHP_Gas_CCGT_Biogas_CCS,All,CO2,All,-0.88,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,CHP_Gas_CCGT_Biogas_CCS,All,CO2,All,-0.53,,Fraction,partner feedback UFZ (BECCS technology sheet/BENOPTX),20.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_Natural_CCS,All,CO2,All,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,CHP_Gas_CCGT_SynGas,All,CO2,All,0,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -80,7 +80,7 @@ World,PSNG_Rail_Conv,All,CO2,All,1,,Fraction,no source needed - all emissions go
 World,PSNG_Road_ICE,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Road_LNG,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Road_PHEV,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,P_Biomass_CCS,All,CO2,All,-0.7,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,P_Biomass_CCS,All,CO2,All,-0.585,,Fraction,partner feedback UFZ (BECCS technology sheet/BENOPTX) but with adjusted lower rate compared to chp,02.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Coal_Hardcoal,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,All,CO2,2018,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Coal_Hardcoal_CCS,All,CO2,2020,0.093,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
