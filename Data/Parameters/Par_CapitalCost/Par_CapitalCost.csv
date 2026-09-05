@@ -1000,17 +1000,17 @@ World,P_Biomass_CCS,2045,3255,,MEUR/GW,Steam turbine biomass solid conventional 
 World,P_Biomass_CCS,2050,3205,,MEUR/GW,Steam turbine biomass solid conventional w.CCS- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Biomass_CCS,2055,3205,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Biomass_CCS,2060,3205,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2018,968,,MEUR/GW,,,
-World,P_CSP,2020,968,,MEUR/GW,,,
-World,P_CSP,2021,968,,MEUR/GW,CSP (solar field parabolic trough) - https://www.sciencedirect.com/science/article/pii/S096014812300486X,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_CSP,2025,946,,MEUR/GW,CSP (solar field parabolic trough) - https://www.sciencedirect.com/science/article/pii/S096014812300486X,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_CSP,2030,923,,MEUR/GW,CSP (solar field parabolic trough) - https://www.sciencedirect.com/science/article/pii/S096014812300486X,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_CSP,2035,902,,MEUR/GW,CSP (solar field parabolic trough) - https://www.sciencedirect.com/science/article/pii/S096014812300486X,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_CSP,2040,880,,MEUR/GW,CSP (solar field parabolic trough) - https://www.sciencedirect.com/science/article/pii/S096014812300486X,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_CSP,2045,860,,MEUR/GW,CSP (solar field parabolic trough) - https://www.sciencedirect.com/science/article/pii/S096014812300486X,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_CSP,2050,840,,MEUR/GW,CSP (solar field parabolic trough) - https://www.sciencedirect.com/science/article/pii/S096014812300486X,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,P_CSP,2055,840,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2060,840,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2018,6220.6088,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2020,6189.4705,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2021,6189.4705,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2025,6049.0487,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2030,5908.627,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2035,5376.4284,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2040,4844.2298,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2045,4374.4057,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2050,3904.5815,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2055,3904.5815,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2060,3904.5815,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Coal_Hardcoal,2018,1650,,MEUR/GW,Steam turbine coal supercritical- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Coal_Hardcoal,2020,1650,,MEUR/GW,Steam turbine coal supercritical- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Coal_Hardcoal,2021,1650,,MEUR/GW,Steam turbine coal supercritical- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
