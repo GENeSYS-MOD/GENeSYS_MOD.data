@@ -218,53 +218,55 @@ def process_all_year(df, unique_values_concatenated):
     
     return df
 
+def _expand_all_rows(df, column, replacements):
+    """Expand rows whose `column` is 'All' into one row per replacement value.
+
+    Set-based duplicate detection (same pattern as process_all_year): a
+    candidate is skipped when an identical key (all columns up to 'Value',
+    excluding 'Value') already exists in df or was already produced. The old
+    per-candidate full-DataFrame comparison was O(allRows x replacements x
+    len(df)) and dominated conversion runtime for the activity-ratio tables.
+    """
+    all_rows = df[df[column] == 'All']
+    if all_rows.empty:
+        return df
+
+    # Work only with columns up to and including 'Value'
+    value_col_index = df.columns.get_loc("Value")
+    df = df.iloc[:, :(value_col_index + 1)]
+
+    columns_to_check = [col for col in df.columns if col != 'Value']
+    col_pos = {col: i for i, col in enumerate(df.columns)}
+    target_pos = col_pos[column]
+
+    existing_keys = set(
+        df[columns_to_check].itertuples(index=False, name=None)
+    )
+
+    new_rows = []
+    for row in all_rows[df.columns].itertuples(index=False, name=None):
+        for repl in replacements:
+            candidate = list(row)
+            candidate[target_pos] = repl
+            key = tuple(candidate[col_pos[c]] for c in columns_to_check)
+            if key not in existing_keys:
+                new_rows.append(candidate)
+                existing_keys.add(key)
+
+    if new_rows:
+        new_rows_df = pd.DataFrame(new_rows, columns=df.columns)
+        df = df[df[column] != 'All'].copy()  # Drop original rows with 'All'
+        df = pd.concat([df, new_rows_df], ignore_index=True)
+
+    return df
+
 def process_all_fuel(df, unique_values_concatenated):
 
     # Check if 'Fuel' column exists
     if 'Fuel' in df.columns:
-
-        # Identify rows where 'Fuel' originally had the value 'All'
-        all_rows = df[df['Fuel'] == 'All']
-
-        # Define the replacement fuels and drop NaN values
         replacement_fuels = unique_values_concatenated['Fuel'].dropna()
         replacement_fuels = replacement_fuels[replacement_fuels != "ETS"]
-
-        # Create new rows by repeating the 'All' rows with different fuels
-        new_rows = []
-        for _, row in all_rows.iterrows():
-            for fuel in replacement_fuels:
-                # Create a copy of the original row and replace the 'Fuel' value
-                new_row = row.copy()
-                new_row['Fuel'] = fuel
-
-                # Get the index of the "Value" column in each DataFrame
-                value_col_index = df.columns.get_loc("Value")
-
-                # Drop all columns that come after the "Value" column
-                df_filtered = df.iloc[:, :(value_col_index + 1)]
-
-                # Identify columns to check for duplicates (excluding the 'Value' column)
-                columns_to_check = [col for col in df_filtered.columns if col != 'Value']
-
-                if not columns_to_check:  # If there are no columns to check, skip
-                    new_rows.append(new_row)
-                    continue
-
-                # Compare the existing rows to the new row excluding the 'Value' column
-                match_condition = (df_filtered[columns_to_check] == new_row[columns_to_check].to_dict()).all(axis=1)
-
-                # Only append the new row if it doesn't already exist
-                if not match_condition.any():
-                    new_rows.append(new_row)
-
-        # Convert new rows to DataFrame if there are new rows to append
-        if new_rows:
-            new_rows_df = pd.DataFrame(new_rows)
-
-            # Append the new rows to the original dataframe, excluding the rows where 'Fuel' is 'All'
-            df = df[df['Fuel'] != 'All'].copy()  # Drop original rows with 'All' in 'Fuel'
-            df = pd.concat([df, new_rows_df], ignore_index=True)
+        df = _expand_all_rows(df, 'Fuel', replacement_fuels)
 
     return df
 
@@ -272,92 +274,16 @@ def process_all_technology(df, unique_values_concatenated):
 
     # Check if 'Technology' column exists
     if 'Technology' in df.columns:
-
-        # Identify rows where 'Technology' originally had the value 'All'
-        all_rows = df[df['Technology'] == 'All']
-
-        # Define the replacement technologies and drop NaN values
         replacement_technologies = unique_values_concatenated['Technology'].dropna()
-
-        # Create new rows by repeating the 'All' rows with different technologies
-        new_rows = []
-        for _, row in all_rows.iterrows():
-            for tech in replacement_technologies:
-                # Create a copy of the original row and replace the 'Technology' value
-                new_row = row.copy()
-                new_row['Technology'] = tech
-
-                # Get the index of the "Value" column in each DataFrame
-                value_col_index = df.columns.get_loc("Value")
-
-                # Drop all columns that come after the "Value" column
-                df_filtered = df.iloc[:, :(value_col_index + 1)]
-
-                # Identify columns to check for duplicates (excluding the 'Value' column)
-                columns_to_check = [col for col in df_filtered.columns if col != 'Value']
-
-                if not columns_to_check:  # If there are no columns to check, skip
-                    new_rows.append(new_row)
-                    continue
-
-                # Compare the existing rows to the new row excluding the 'Value' column
-                match_condition = (df_filtered[columns_to_check] == new_row[columns_to_check].to_dict()).all(axis=1)
-
-                # Only append the new row if it doesn't already exist
-                if not match_condition.any():
-                    new_rows.append(new_row)
-
-        # Convert new rows to DataFrame if there are new rows to append
-        if new_rows:
-            new_rows_df = pd.DataFrame(new_rows)
-
-            # Append the new rows to the original dataframe, excluding the rows where 'Technology' is 'All'
-            df = df[df['Technology'] != 'All'].copy()  # Drop original rows with 'All' in 'Technology'
-            df = pd.concat([df, new_rows_df], ignore_index=True)
+        df = _expand_all_rows(df, 'Technology', replacement_technologies)
 
     return df
 
 def process_all_mode(df, unique_values_concatenated):
 
     if 'Mode_of_operation' in df.columns:
-
-        # Identify rows where 'Mode_of_operation' originally had the value 'All'
-        all_rows = df[df['Mode_of_operation'] == 'All']
-
-        # Define the replacement values and drop NaNs
         replacement_mode = unique_values_concatenated['Mode_of_operation'].dropna()
-
-        # Create new rows by repeating the 'All' rows with different Mode_of_operation values
-        new_rows = []
-        for _, row in all_rows.iterrows():
-            for mode in replacement_mode:
-                new_row = row.copy()
-                new_row['Mode_of_operation'] = mode
-
-                # Get the index of the "Value" column
-                value_col_index = df.columns.get_loc("Value")
-
-                # Work only with columns up to and including 'Value'
-                df_filtered = df.iloc[:, :(value_col_index + 1)]
-
-                # Define columns to check for duplicates (excluding 'Value')
-                columns_to_check = [col for col in df_filtered.columns if col != 'Value']
-
-                if not columns_to_check:
-                    new_rows.append(new_row)
-                    continue
-
-                # Check if similar row already exists
-                match_condition = (df_filtered[columns_to_check] == new_row[columns_to_check].to_dict()).all(axis=1)
-
-                if not match_condition.any():
-                    new_rows.append(new_row)
-
-        # Append new rows to the DataFrame
-        if new_rows:
-            new_rows_df = pd.DataFrame(new_rows)
-            df = df[df['Mode_of_operation'] != 'All'].copy()
-            df = pd.concat([df, new_rows_df], ignore_index=True)
+        df = _expand_all_rows(df, 'Mode_of_operation', replacement_mode)
 
         # Convert and clean Mode_of_operation column
         df['Mode_of_operation'] = pd.to_numeric(df['Mode_of_operation'], errors='coerce')
