@@ -123,7 +123,7 @@ UK,P_Hydro_Reservoir,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenk
 UK,P_Hydro_Reservoir,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Hydro_RoR,2018,1.9191,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Hydro_RoR,2020,1.9191,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,P_Hydro_RoR,2025,1.9191,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,P_Hydro_RoR,2025,1.919,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 UK,P_Hydro_RoR,2030,1.9191,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Hydro_RoR,2035,1.9191,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Hydro_RoR,2040,1.9191,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -200,7 +200,7 @@ SK,P_Hydro_Reservoir,2055,0.418,,GW,same as 2050 for now,29.01.2025,Nikita Moska
 SK,P_Hydro_Reservoir,2060,0.418,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,P_Hydro_RoR,2018,1.2121,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,P_Hydro_RoR,2020,1.2121,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,P_Hydro_RoR,2025,1.2121,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,P_Hydro_RoR,2025,1.212,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 SK,P_Hydro_RoR,2030,1.2121,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,P_Hydro_RoR,2035,1.2121,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,P_Hydro_RoR,2040,1.2121,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -230,7 +230,7 @@ SI,P_Hydro_Reservoir,2055,0.18,,GW,same as 2050 for now,29.01.2025,Nikita Moskal
 SI,P_Hydro_Reservoir,2060,0.18,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,P_Hydro_RoR,2018,1.1251,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,P_Hydro_RoR,2020,1.1251,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,P_Hydro_RoR,2025,1.1251,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,P_Hydro_RoR,2025,1.125,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 SI,P_Hydro_RoR,2030,1.1251,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,P_Hydro_RoR,2035,1.1251,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,P_Hydro_RoR,2040,1.1251,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -250,7 +250,7 @@ SE,D_PHS,All,16,,GW,,,
 SE,P_CSP,All,8.06,,GW,,,
 SE,P_Hydro_Reservoir,2018,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,P_Hydro_Reservoir,2020,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,P_Hydro_Reservoir,2025,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_Hydro_Reservoir,2025,16.3,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 SE,P_Hydro_Reservoir,2030,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,P_Hydro_Reservoir,2035,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,P_Hydro_Reservoir,2040,4.98,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -306,7 +306,7 @@ RO,D_PHS,All,0,,GW,,,
 RO,P_CSP,All,36.79,,GW,,,
 RO,P_Hydro_Reservoir,2018,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,P_Hydro_Reservoir,2020,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,P_Hydro_Reservoir,2025,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_Reservoir,2025,3.359,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 RO,P_Hydro_Reservoir,2030,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,P_Hydro_Reservoir,2035,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,P_Hydro_Reservoir,2040,3.803,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -316,7 +316,7 @@ RO,P_Hydro_Reservoir,2055,3.803,,GW,same as 2050 for now,29.01.2025,Nikita Moska
 RO,P_Hydro_Reservoir,2060,3.803,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,P_Hydro_RoR,2018,2.781,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,P_Hydro_RoR,2020,2.781,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,P_Hydro_RoR,2025,2.781,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Hydro_RoR,2025,2.78,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 RO,P_Hydro_RoR,2030,2.781,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,P_Hydro_RoR,2035,2.781,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,P_Hydro_RoR,2040,2.781,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -346,7 +346,7 @@ PT,P_Hydro_Reservoir,2055,1.6291,,GW,same as 2050 for now,29.01.2025,Nikita Mosk
 PT,P_Hydro_Reservoir,2060,1.6291,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Hydro_RoR,2018,2.8561,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Hydro_RoR,2020,2.8561,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_Hydro_RoR,2025,2.8561,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2025,2.856,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 PT,P_Hydro_RoR,2030,2.8561,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Hydro_RoR,2035,2.8561,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Hydro_RoR,2040,2.8561,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -366,7 +366,7 @@ PL,D_PHS,All,0,,GW,,,
 PL,P_CSP,All,37.96,,GW,,,
 PL,P_Hydro_Reservoir,2018,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,P_Hydro_Reservoir,2020,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,P_Hydro_Reservoir,2025,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_Reservoir,2025,0.468,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 PL,P_Hydro_Reservoir,2030,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,P_Hydro_Reservoir,2035,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,P_Hydro_Reservoir,2040,2.391,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -376,7 +376,7 @@ PL,P_Hydro_Reservoir,2055,2.391,,GW,same as 2050 for now,29.01.2025,Nikita Moska
 PL,P_Hydro_Reservoir,2060,2.391,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,P_Hydro_RoR,2018,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,P_Hydro_RoR,2020,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,P_Hydro_RoR,2025,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,P_Hydro_RoR,2025,0.321,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 PL,P_Hydro_RoR,2030,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,P_Hydro_RoR,2035,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,P_Hydro_RoR,2040,0.455,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -397,7 +397,7 @@ NONEU_Balkan,P_CSP,All,22.98771429,,GW,,,
 NONEU_Balkan,P_Geothermal,All,1.17,,GW,,,
 NONEU_Balkan,P_Hydro_Reservoir,2018,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_Reservoir,2020,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,P_Hydro_Reservoir,2025,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_Reservoir,2025,2.962676,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_Reservoir,2030,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_Reservoir,2035,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_Reservoir,2040,4.409,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -407,7 +407,7 @@ NONEU_Balkan,P_Hydro_Reservoir,2055,4.409,,GW,same as 2050 for now,29.01.2025,Ni
 NONEU_Balkan,P_Hydro_Reservoir,2060,4.409,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_RoR,2018,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_RoR,2020,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,P_Hydro_RoR,2025,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_RoR,2025,2.645527,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_RoR,2030,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_RoR,2035,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_RoR,2040,3.624,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -428,7 +428,7 @@ NO,D_PHS,All,5.75,,GW,,,
 NO,P_CSP,All,2.6,,GW,,,
 NO,P_Hydro_Reservoir,2018,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_Reservoir,2020,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2025,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2025,26.66,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 NO,P_Hydro_Reservoir,2030,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_Reservoir,2035,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_Reservoir,2040,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -438,7 +438,7 @@ NO,P_Hydro_Reservoir,2055,26.661,,GW,same as 2050 for now,29.01.2025,Nikita Mosk
 NO,P_Hydro_Reservoir,2060,26.661,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_RoR,2018,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_RoR,2020,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_RoR,2025,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_RoR,2025,6.875,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 NO,P_Hydro_RoR,2030,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_RoR,2035,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_RoR,2040,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -551,7 +551,7 @@ LV,P_Hydro_Reservoir,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenk
 LV,P_Hydro_Reservoir,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,P_Hydro_RoR,2018,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,P_Hydro_RoR,2020,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,P_Hydro_RoR,2025,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,P_Hydro_RoR,2025,1.588,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 LV,P_Hydro_RoR,2030,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,P_Hydro_RoR,2035,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,P_Hydro_RoR,2040,1.594,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -581,7 +581,7 @@ LU,P_Hydro_Reservoir,2055,0.011,,GW,same as 2050 for now,29.01.2025,Nikita Moska
 LU,P_Hydro_Reservoir,2060,0.011,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Hydro_RoR,2018,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Hydro_RoR,2020,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,P_Hydro_RoR,2025,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,P_Hydro_RoR,2025,0.022,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 LU,P_Hydro_RoR,2030,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Hydro_RoR,2035,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Hydro_RoR,2040,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -611,7 +611,7 @@ LT,P_Hydro_Reservoir,2055,0.116,,GW,same as 2050 for now,29.01.2025,Nikita Moska
 LT,P_Hydro_Reservoir,2060,0.116,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,P_Hydro_RoR,2018,0.1291,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,P_Hydro_RoR,2020,0.1291,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,P_Hydro_RoR,2025,0.1291,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,P_Hydro_RoR,2025,0.129,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 LT,P_Hydro_RoR,2030,0.1291,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,P_Hydro_RoR,2035,0.1291,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,P_Hydro_RoR,2040,0.1291,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -631,7 +631,7 @@ IT,D_PHS,All,28,,GW,,,
 IT,P_CSP,All,37.18,,GW,,,
 IT,P_Hydro_Reservoir,2018,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,P_Hydro_Reservoir,2020,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,P_Hydro_Reservoir,2025,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_Reservoir,2025,4.542,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 IT,P_Hydro_Reservoir,2030,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,P_Hydro_Reservoir,2035,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,P_Hydro_Reservoir,2040,4.733,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -641,7 +641,7 @@ IT,P_Hydro_Reservoir,2055,4.733,,GW,same as 2050 for now,29.01.2025,Nikita Moska
 IT,P_Hydro_Reservoir,2060,4.733,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,P_Hydro_RoR,2018,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,P_Hydro_RoR,2020,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,P_Hydro_RoR,2025,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,P_Hydro_RoR,2025,10.291,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 IT,P_Hydro_RoR,2030,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,P_Hydro_RoR,2035,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,P_Hydro_RoR,2040,10.826,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -701,7 +701,7 @@ HU,P_Hydro_Reservoir,2055,0.028,,GW,same as 2050 for now,29.01.2025,Nikita Moska
 HU,P_Hydro_Reservoir,2060,0.028,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,P_Hydro_RoR,2018,0.0331,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,P_Hydro_RoR,2020,0.0331,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,P_Hydro_RoR,2025,0.0331,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Hydro_RoR,2025,0.033,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 HU,P_Hydro_RoR,2030,0.0331,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,P_Hydro_RoR,2035,0.0331,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,P_Hydro_RoR,2040,0.0331,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -721,7 +721,7 @@ HR,D_PHS,All,0.75,,GW,,,
 HR,P_CSP,All,3.51,,GW,,,
 HR,P_Hydro_Reservoir,2018,1.4461,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,P_Hydro_Reservoir,2020,1.4461,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,P_Hydro_Reservoir,2025,1.4461,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_Reservoir,2025,1.446,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 HR,P_Hydro_Reservoir,2030,1.4461,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,P_Hydro_Reservoir,2035,1.4461,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,P_Hydro_Reservoir,2040,1.4461,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -731,7 +731,7 @@ HR,P_Hydro_Reservoir,2055,1.4461,,GW,same as 2050 for now,29.01.2025,Nikita Mosk
 HR,P_Hydro_Reservoir,2060,1.4461,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,P_Hydro_RoR,2018,0.4281,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,P_Hydro_RoR,2020,0.4281,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,P_Hydro_RoR,2025,0.4281,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,P_Hydro_RoR,2025,0.428,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 HR,P_Hydro_RoR,2030,0.4281,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,P_Hydro_RoR,2035,0.4281,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,P_Hydro_RoR,2040,0.4281,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -766,7 +766,7 @@ FR,D_PHS,All,7.25,,GW,,,
 FR,P_CSP,All,75.79,,GW,,,
 FR,P_Hydro_Reservoir,2018,8.7871,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_Hydro_Reservoir,2020,8.7871,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,P_Hydro_Reservoir,2025,8.7871,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_Reservoir,2025,8.787,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FR,P_Hydro_Reservoir,2030,8.7871,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_Hydro_Reservoir,2035,8.7871,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_Hydro_Reservoir,2040,8.7871,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -776,7 +776,7 @@ FR,P_Hydro_Reservoir,2055,8.7871,,GW,same as 2050 for now,29.01.2025,Nikita Mosk
 FR,P_Hydro_Reservoir,2060,8.7871,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_Hydro_RoR,2018,11.5981,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_Hydro_RoR,2020,11.5981,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,P_Hydro_RoR,2025,11.5981,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,P_Hydro_RoR,2025,11.598,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FR,P_Hydro_RoR,2030,11.5981,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_Hydro_RoR,2035,11.5981,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,P_Hydro_RoR,2040,11.5981,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -806,7 +806,7 @@ FI,P_Hydro_Reservoir,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenk
 FI,P_Hydro_Reservoir,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,P_Hydro_RoR,2018,3.1731,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,P_Hydro_RoR,2020,3.1731,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,P_Hydro_RoR,2025,3.1731,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,P_Hydro_RoR,2025,3.173,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FI,P_Hydro_RoR,2030,3.1731,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,P_Hydro_RoR,2035,3.1731,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,P_Hydro_RoR,2040,3.1731,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2308,7 +2308,7 @@ DE,D_PHS,All,9.4491,,GW,,,
 DE,P_CSP,All,43.42,,GW,,,
 DE,P_Hydro_Reservoir,2018,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Hydro_Reservoir,2020,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2025,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2025,1.381,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 DE,P_Hydro_Reservoir,2030,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Hydro_Reservoir,2035,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Hydro_Reservoir,2040,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2318,7 +2318,7 @@ DE,P_Hydro_Reservoir,2055,1.44,,GW,same as 2050 for now,29.01.2025,Nikita Moskal
 DE,P_Hydro_Reservoir,2060,1.44,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Hydro_RoR,2018,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Hydro_RoR,2020,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2025,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2025,3.731,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 DE,P_Hydro_RoR,2030,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Hydro_RoR,2035,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Hydro_RoR,2040,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2338,7 +2338,7 @@ CZ,D_PHS,All,0.625,,GW,,,
 CZ,P_CSP,All,11.05,,GW,,,
 CZ,P_Hydro_Reservoir,2018,0.7661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Hydro_Reservoir,2020,0.7661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,P_Hydro_Reservoir,2025,0.7661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_Reservoir,2025,0.766,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 CZ,P_Hydro_Reservoir,2030,0.7661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Hydro_Reservoir,2035,0.7661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Hydro_Reservoir,2040,0.7661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2348,7 +2348,7 @@ CZ,P_Hydro_Reservoir,2055,0.7661,,GW,same as 2050 for now,29.01.2025,Nikita Mosk
 CZ,P_Hydro_Reservoir,2060,0.7661,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Hydro_RoR,2018,0.341,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Hydro_RoR,2020,0.341,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,P_Hydro_RoR,2025,0.341,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,P_Hydro_RoR,2025,0.34,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 CZ,P_Hydro_RoR,2030,0.341,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Hydro_RoR,2035,0.341,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Hydro_RoR,2040,0.341,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2368,7 +2368,7 @@ CH,D_PHS,All,6.6971,,GW,,,
 CH,P_CSP,All,3.9,,GW,,,
 CH,P_Hydro_Reservoir,2018,5.7721,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Hydro_Reservoir,2020,5.7721,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,P_Hydro_Reservoir,2025,5.7721,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_Reservoir,2025,5.772,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 CH,P_Hydro_Reservoir,2030,5.7721,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Hydro_Reservoir,2035,5.7721,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Hydro_Reservoir,2040,5.7721,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2378,7 +2378,7 @@ CH,P_Hydro_Reservoir,2055,5.7721,,GW,same as 2050 for now,29.01.2025,Nikita Mosk
 CH,P_Hydro_Reservoir,2060,5.7721,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Hydro_RoR,2018,0.6351,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Hydro_RoR,2020,0.6351,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,P_Hydro_RoR,2025,0.6351,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,P_Hydro_RoR,2025,0.635,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 CH,P_Hydro_RoR,2030,0.6351,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Hydro_RoR,2035,0.6351,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Hydro_RoR,2040,0.6351,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2411,7 +2411,7 @@ BG,D_PHS,All,0,,GW,,,
 BG,P_CSP,All,13.13,,GW,,,
 BG,P_Hydro_Reservoir,2018,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,P_Hydro_Reservoir,2020,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,P_Hydro_Reservoir,2025,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_Reservoir,2025,1.807,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 BG,P_Hydro_Reservoir,2030,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,P_Hydro_Reservoir,2035,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,P_Hydro_Reservoir,2040,1.81,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2421,7 +2421,7 @@ BG,P_Hydro_Reservoir,2055,1.81,,GW,same as 2050 for now,29.01.2025,Nikita Moskal
 BG,P_Hydro_Reservoir,2060,1.81,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,P_Hydro_RoR,2018,0.5421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,P_Hydro_RoR,2020,0.5421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,P_Hydro_RoR,2025,0.5421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,P_Hydro_RoR,2025,0.542,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 BG,P_Hydro_RoR,2030,0.5421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,P_Hydro_RoR,2035,0.5421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,P_Hydro_RoR,2040,0.5421,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2451,7 +2451,7 @@ BE,P_Hydro_Reservoir,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenk
 BE,P_Hydro_Reservoir,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Hydro_RoR,2018,0.1861,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Hydro_RoR,2020,0.1861,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,P_Hydro_RoR,2025,0.1861,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,P_Hydro_RoR,2025,0.186,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 BE,P_Hydro_RoR,2030,0.1861,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Hydro_RoR,2035,0.1861,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Hydro_RoR,2040,0.1861,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2494,7 +2494,7 @@ AT,P_Hydro_Reservoir,2055,2.519,,GW,same as 2050 for now,29.01.2025,Nikita Moska
 AT,P_Hydro_Reservoir,2060,2.519,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Hydro_RoR,2018,5.8171,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Hydro_RoR,2020,5.8171,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,P_Hydro_RoR,2025,5.8171,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,P_Hydro_RoR,2025,5.817,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 AT,P_Hydro_RoR,2030,5.8171,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Hydro_RoR,2035,5.8171,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Hydro_RoR,2040,5.8171,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2676,3 +2676,209 @@ GR,P_Hydro_Reservoir,2055,3.96,,GW,partner feedback E3M (Greek NECPs),23.04.2026
 GR,P_Hydro_RoR,2055,0.54,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Hydro_Reservoir,2060,3.96,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Hydro_RoR,2060,0.54,,GW,partner feedback E3M (Greek NECPs),23.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,D_PHS,2025,3.485,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_Biomass,2025,0.549,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_Gas_CCGT,2025,4.225,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_Oil,2025,0.125,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_PV_Utility_Avg,2025,7.294,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,P_Wind_Onshore_Avg,2025,4.021,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+AT,Waste,2025,0.08,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,D_PHS,2025,1.308,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Biomass,2025,0.731,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Gas_CCGT,2025,6.995,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Nuclear,2025,3.929,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Oil,2025,0.452,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_PV_Utility_Avg,2025,8.789,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Wind_Offshore_Transitional,2025,2.262,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,P_Wind_Onshore_Avg,2025,3.053,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BE,Waste,2025,0.384,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,D_PHS,2025,0.864,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Biomass,2025,0.074,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Coal_Hardcoal,2025,0.356,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Coal_Lignite,2025,4.119,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Gas_CCGT,2025,0.699,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Nuclear,2025,2.08,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_PV_Utility_Avg,2025,4.055,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,P_Wind_Onshore_Avg,2025,0.705,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+BG,Waste,2025,0.006,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CH,D_PHS,2025,6.697,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CH,P_Nuclear,2025,2.97,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,D_PHS,2025,1.172,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,Fossil Coal-derived gas,2025,0.38,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Biomass,2025,0.41,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Coal_Hardcoal,2025,1.2,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Coal_Lignite,2025,7.2,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Gas_CCGT,2025,1.24,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Nuclear,2025,4.04,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_PV_Utility_Avg,2025,3.548,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,P_Wind_Onshore_Avg,2025,0.342,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+CZ,Waste,2025,0.1,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,D_PHS,2025,9.449,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,Fossil Coal-derived gas,2025,1.257,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Biomass,2025,8.577,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2025,12.966,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Coal_Lignite,2025,18.363,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Gas_CCGT,2025,36.255,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Oil,2025,4.118,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_PV_Utility_Avg,2025,76.601,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2025,8.456,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2025,59.841,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,Waste,2025,1.808,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DK,P_PV_Utility_Avg,2025,3.73,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DK,P_Wind_Offshore_Transitional,2025,2.646,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DK,P_Wind_Onshore_Avg,2025,4.86,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,Fossil Coal-derived gas,2025,0.078,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,P_Biomass,2025,0.15,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,P_Gas_CCGT,2025,0.015,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,P_Oil,2025,1.33,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,P_PV_Utility_Avg,2025,0.812,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,P_Wind_Onshore_Avg,2025,0.447,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+EE,Waste,2025,0.017,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,D_PHS,2025,3.418,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Biomass,2025,0.708,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Coal_Hardcoal,2025,3.223,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Gas_CCGT,2025,29.873,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Nuclear,2025,7.117,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,P_Oil,2025,0.704,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+ES,Waste,2025,0.546,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,Fossil Peat,2025,1.044,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Biomass,2025,1.695,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Coal_Hardcoal,2025,1.41,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Gas_CCGT,2025,1.742,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Nuclear,2025,4.364,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Oil,2025,1.051,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_PV_Utility_Avg,2025,0.027,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,P_Wind_Onshore_Avg,2025,6.618,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FI,Waste,2025,0.087,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,D_PHS,2025,5.065,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Coal_Hardcoal,2025,1.812,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Gas_CCGT,2025,13.133,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Nuclear,2025,61.37,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Oil,2025,3.042,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Wind_Offshore_Transitional,2025,1.483,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Wind_Onshore_Avg,2025,22.134,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,Waste,2025,0.968,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+GR,P_Gas_CCGT,2025,6.03,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,D_PHS,2025,0.281,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Biomass,2025,0.114,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Coal_Hardcoal,2025,0.217,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Gas_CCGT,2025,0.886,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Oil,2025,0.045,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_PV_Utility_Avg,2025,0.292,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Wind_Onshore_Avg,2025,1.209,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,Waste,2025,0.006,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Biomass,2025,0.214,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Coal_Hardcoal,2025,0.042,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Coal_Lignite,2025,0.787,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Gas_CCGT,2025,3.161,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Nuclear,2025,1.916,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Oil,2025,0.425,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_PV_Utility_Avg,2025,3.888,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Wind_Onshore_Avg,2025,0.325,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,Waste,2025,0.049,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,D_PHS,2025,0.292,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,Fossil Peat,2025,0.344,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,P_Coal_Hardcoal,2025,0.855,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,P_Gas_CCGT,2025,4.265,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,P_Oil,2025,1.272,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,P_Wind_Onshore_Avg,2025,1.919,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,D_PHS,2025,7.256,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,Fossil Coal-derived gas,2025,2.071,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Biomass,2025,1.543,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Coal_Hardcoal,2025,5.583,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Gas_CCGT,2025,45.157,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Oil,2025,1.564,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_PV_Utility_Avg,2025,5.927,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Wind_Offshore_Transitional,2025,0.03,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Wind_Onshore_Avg,2025,11.651,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,Waste,2025,0.67,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,D_PHS,2025,0.9,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,P_Biomass,2025,0.196,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,P_Gas_CCGT,2025,1.503,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,P_PV_Utility_Avg,2025,1.165,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,P_Wind_Onshore_Avg,2025,1.288,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LT,Waste,2025,0.07,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,P_Biomass,2025,0.083,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,P_Gas_CCGT,2025,0.072,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,P_PV_Utility_Avg,2025,0.415,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,P_Wind_Onshore_Avg,2025,0.208,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LU,Waste,2025,0.024,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LV,P_Biomass,2025,0.166,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LV,P_Gas_CCGT,2025,1.112,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LV,P_PV_Utility_Avg,2025,0.303,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+LV,P_Wind_Onshore_Avg,2025,0.136,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Biomass,2025,0.415,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Coal_Hardcoal,2025,4.006,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Gas_CCGT,2025,18.351,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Nuclear,2025,0.486,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_PV_Utility_Avg,2025,24.261,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Wind_Offshore_Transitional,2025,3.978,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,P_Wind_Onshore_Avg,2025,6.812,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NL,Waste,2025,0.786,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,D_PHS,2025,1.065,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,P_Biomass,2025,0.014,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,P_Gas_CCGT,2025,0.473,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,P_PV_Utility_Avg,2025,0.009,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,P_Wind_Onshore_Opt,2025,5.133,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NO,Waste,2025,0.092,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,D_PHS,2025,1.082,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Biomass,2025,0.009,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Coal_Lignite,2025,10.216,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Gas_CCGT,2025,0.858,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Oil,2025,0.165097,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_PV_Utility_Avg,2025,0.059195,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+NONEU_Balkan,P_Wind_Onshore_Avg,2025,1.072,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,D_PHS,2025,1.589,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,Fossil Coal-derived gas,2025,0.274,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Biomass,2025,0.662,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Coal_Hardcoal,2025,18.831,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Coal_Lignite,2025,7.557,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Gas_CCGT,2025,5.162,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Oil,2025,0.393,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_PV_Utility_Avg,2025,14.609,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+PL,P_Wind_Onshore_Avg,2025,9.583,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Biomass,2025,0.118,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Coal_Hardcoal,2025,0.176,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Coal_Lignite,2025,1.733,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Gas_CCGT,2025,2.238,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Nuclear,2025,1.3,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_PV_Utility_Avg,2025,1.293,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RO,P_Wind_Onshore_Avg,2025,2.958,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+RS,Waste,2025,0.032,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SE,P_Nuclear,2025,6.9,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SE,P_PV_Utility_Avg,2025,3.2,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SE,P_Wind_Onshore_Avg,2025,16.7,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,D_PHS,2025,0.18,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Biomass,2025,0.043,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Coal_Lignite,2025,1.191,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Gas_CCGT,2025,0.756,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Nuclear,2025,0.696,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Oil,2025,0.058,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_PV_Utility_Avg,2025,1.11,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,P_Wind_Onshore_Avg,2025,0.003,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SI,Waste,2025,0.006,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,D_PHS,2025,0.916,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Biomass,2025,0.234,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Coal_Hardcoal,2025,0.001,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Coal_Lignite,2025,0.276,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Gas_CCGT,2025,1.183,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Nuclear,2025,2.003,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Oil,2025,0.259,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_PV_Utility_Avg,2025,0.532,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+SK,P_Wind_Onshore_Avg,2025,0.003,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,D_PHS,2025,4.309,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Biomass,2025,4.528,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Coal_Hardcoal,2025,5.755,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Gas_CCGT,2025,41.371,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Nuclear,2025,8.256,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Oil,2025,0.316,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_PV_Utility_Avg,2025,13.47,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Wind_Offshore_Transitional,2025,12.16,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+UK,P_Wind_Onshore_Avg,2025,13.932,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+DE,P_Geothermal,2025,0.054,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Geothermal,2025,0.002,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+FR,P_Ocean,2025,0.243,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HR,P_Geothermal,2025,0.01,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+HU,P_Geothermal,2025,0.003,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IE,P_Geothermal,2025,0.017,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
+IT,P_Geothermal,2025,0.868,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
