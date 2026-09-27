@@ -1564,7 +1564,7 @@ DE_SL,CHP_Coal_Lignite,2050,0,,Fraction,https://beyondfossilfuels.org/europes-co
 DE_SL,CHP_Coal_Lignite,2055,0,,Fraction,same as 2050 for now,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SL,CHP_Coal_Lignite,2060,0,,Fraction,same as 2050 for now,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SN,CHP_Coal_Lignite,2030,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,CHP_Coal_Lignite,2035,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,CHP_Coal_Lignite,2035,0.8,,Fraction,aligned with residual capacity 1.46 GW in 2035 and the 2038 coal exit (Ch5 rule: AF 0 after 2035),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
 DE_SN,CHP_Coal_Lignite,2040,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SN,CHP_Coal_Lignite,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SN,CHP_Coal_Lignite,2050,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
