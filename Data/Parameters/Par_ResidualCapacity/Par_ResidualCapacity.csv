@@ -1,4 +1,4 @@
-Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
+Region,Technology,Year,Value,Unnamed: 4,Unit,Source,Updated at,Updated by
 AL,D_PHS,2018,1.66,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,04.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 AL,D_PHS,2020,1.66,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,04.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 AL,D_PHS,2025,1.66,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,04.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -17092,14 +17092,6 @@ DE_TH,P_PV_Utility_Opt,2035,0.779264,,GW,https://foederale-energiewende.unendlic
 DE_TH,P_PV_Utility_Opt,2040,0.535744,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.02.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_TH,P_PV_Utility_Opt,2045,0.292224,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.02.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_TH,P_PV_Utility_Opt,2050,0.048704,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.02.2026,Alena Diesing <ad@wip.tu-berlin.de>
-DE_Baltic,P_Wind_Offshore_Deep,2018,1.076,,GW,,,
-DE_Baltic,P_Wind_Offshore_Deep,2025,1.0675,,GW,,,
-DE_Baltic,P_Wind_Offshore_Deep,2030,1.065,,GW,,,
-DE_Baltic,P_Wind_Offshore_Deep,2035,1.0167,,GW,,,
-DE_Nord,P_Wind_Offshore_Deep,2018,5.306,,GW,,,
-DE_Nord,P_Wind_Offshore_Deep,2025,6.698,,GW,,,
-DE_Nord,P_Wind_Offshore_Deep,2030,6.293,,GW,,,
-DE_Nord,P_Wind_Offshore_Deep,2035,4.6538,,GW,,,
 DE_MV,P_Wind_Offshore_Transitional,2018,1.268905742,,GW,https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.wind-energie.de/fileadmin/redaktion/dokumente/dokumente-englisch/statistics/Status_of_Offshore_Wind_Energy_Development_Year_2024.pdf),04.01.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_MV,P_Wind_Offshore_Transitional,2020,1.566305525,,GW,https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.wind-energie.de/fileadmin/redaktion/dokumente/dokumente-englisch/statistics/Status_of_Offshore_Wind_Energy_Development_Year_2024.pdf),04.01.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_MV,P_Wind_Offshore_Transitional,2025,1.83,,GW,Status des Offshore-Windenergieausbaus in Deutschland,04.01.2026,Alena Diesing <ad@wip.tu-berlin.de>
@@ -17624,3 +17616,15 @@ DE_TH,PSNG_Road_ICE,2025,72.64532,,GW,Calibrated from model run - Assumption,31.
 DE_TH,PSNG_Road_ICE,2030,49.18694,,GW,Calibrated from model run - Assumption,31.05.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_TH,PSNG_Road_ICE,2035,26.48528,,GW,Calibrated from model run - Assumption,31.05.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_TH,PSNG_Road_ICE,2040,11.35084,,GW,Calibrated from model run - Assumption,31.05.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,P_Wind_Offshore_Deep,2018,2.86519,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
+DE_MV,P_Wind_Offshore_Deep,2018,0.538,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
+DE_SH,P_Wind_Offshore_Deep,2025,3.47147,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
+DE_MV,P_Wind_Offshore_Deep,2025,0.53375,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
+DE_SH,P_Wind_Offshore_Deep,2030,3.29259,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
+DE_MV,P_Wind_Offshore_Deep,2030,0.5325,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
+DE_SH,P_Wind_Offshore_Deep,2035,2.54949,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
+DE_MV,P_Wind_Offshore_Deep,2035,0.50835,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
+DE_NI,P_Wind_Offshore_Deep,2018,2.97881,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
+DE_NI,P_Wind_Offshore_Deep,2025,3.76028,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
+DE_NI,P_Wind_Offshore_Deep,2030,3.53291,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
+DE_NI,P_Wind_Offshore_Deep,2035,2.61266,,GW,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)

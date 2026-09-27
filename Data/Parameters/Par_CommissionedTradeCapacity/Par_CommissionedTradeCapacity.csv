@@ -1,4 +1,4 @@
-Region,Region2,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
+Region,Region2,Fuel,Year,Value,Unnamed: 5,Unit,Source,Updated at,Updated by
 AT,DE,H2,2030,197.1,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 AT,IT,H2,2030,165.564,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 AT,SK,H2,2030,189.216,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -1101,14 +1101,9 @@ DE_NRW,DE_RP,H2,2035,223.66637,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Jul
 DE_SL,DE_RP,H2,2035,223.66637,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_NI,DE_NRW,Power,2030,5.7,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_RP,DE_NRW,Power,2030,5,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,DE_Nord,Power,2030,1.4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_HE,DE_NI,Power,2030,6,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_NRW,DE_NI,Power,2030,5.7,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,DE_NI,Power,2030,4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_Nord,DE_NI,Power,2030,1.4,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_Nord,DE_NI,H2,2030,593.989153,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_Nord,DE_NI,H2,2035,344.311894,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_Baltic,DE_MV,H2,2030,266.850241,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BW,DE_HE,Power,2030,2,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_NI,DE_HE,Power,2030,6,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_RP,DE_HE,Power,2030,2,,GW,Netzausbau - Vorhaben,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>

@@ -1,4 +1,4 @@
-Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
+Region,Technology,Year,Value,Unnamed: 4,Unit,Source,Updated at,Updated by
 AT,CHP_Coal_Hardcoal,2020,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,CHP_Coal_Hardcoal,2025,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,CHP_Coal_Hardcoal,2030,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -1296,18 +1296,6 @@ DE_SN,Z_Import_H2,2018,0,,Fraction,,,
 DE_SN,Z_Import_H2,2025,0,,Fraction,,,
 DE_ST,Z_Import_H2,All,0,,Fraction,,,
 DE_TH,Z_Import_H2,All,0,,Fraction,,,
-DE_Nord,All,All,0,,Fraction,,,
-DE_Baltic,All,All,0,,Fraction,,,
-DE_Nord,P_Wind_Offshore_Deep,All,0.97,,Fraction,,,
-DE_Nord,D_Battery_Li-Ion,All,1,,Fraction,,,
-DE_Nord,X_Alkaline_Electrolysis,All,1,,Fraction,,,
-DE_Nord,X_PEM_Electrolysis,All,1,,Fraction,,,
-DE_Nord,X_SOEC_Electrolysis,All,1,,Fraction,,,
-DE_Baltic,P_Wind_Offshore_Deep,All,0.97,,Fraction,,,
-DE_Baltic,D_Battery_Li-Ion,All,1,,Fraction,,,
-DE_Baltic,X_Alkaline_Electrolysis,All,1,,Fraction,,,
-DE_Baltic,X_PEM_Electrolysis,All,1,,Fraction,,,
-DE_Baltic,X_SOEC_Electrolysis,All,1,,Fraction,,,
 DE_BB,CHP_Coal_Hardcoal,2035,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,12.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BB,CHP_Coal_Hardcoal,2040,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,12.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BB,CHP_Coal_Hardcoal,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,12.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>

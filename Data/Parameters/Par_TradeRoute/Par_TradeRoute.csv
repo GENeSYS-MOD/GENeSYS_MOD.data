@@ -1,4 +1,4 @@
-Region,Region.1,Fuel,Value,,Unit,Source,Updated at,Updated by
+Region,Region.1,Fuel,Value,Unnamed: 4,Unit,Source,Updated at,Updated by
 AT,CH,All,439,,km,Own calulation of distance - see txt.file for more Info,05.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,CZ,All,286,,km,Own calulation of distance - see txt.file for more Info,05.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,DE,All,487,,km,Own calulation of distance - see txt.file for more Info,05.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -43,8 +43,6 @@ DE,NO,All,1195,,km,Own calulation of distance - see txt.file for more Info,05.09
 DE,PL,All,677,,km,Own calulation of distance - see txt.file for more Info,05.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,SE,All,1198,,km,Own calulation of distance - see txt.file for more Info,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,UK,All,1016,,km,Own calulation of distance - see txt.file for more Info,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE_Baltic,DE_MV,All,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_Baltic,DE_SH,All,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_BB,DE_BE,All,45,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_BB,DE_MV,All,174,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_BB,DE_NI,All,236,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -78,7 +76,6 @@ DE_HE,DE_RP,All,144,,km,Own calulation of distance - see txt.file for more Info,
 DE_HE,DE_TH,All,124,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_HH,DE_NI,All,102,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_HH,DE_SH,All,77,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_MV,DE_Baltic,All,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_MV,DE_BB,All,174,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_MV,DE_NI,All,204,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_MV,DE_SH,All,192,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -88,14 +85,11 @@ DE_NI,DE_HB,All,86,,km,Own calulation of distance - see txt.file for more Info,1
 DE_NI,DE_HE,All,225,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,DE_HH,All,102,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,DE_MV,All,204,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NI,DE_Nord,All,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,DE_NRW,All,200,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,DE_SH,All,176,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,DE_ST,All,146,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,DE_TH,All,193,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,NL,All,246,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_Nord,DE_NI,All,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_Nord,DE_SH,All,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,DE_BW,All,340,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,DE_HE,All,136,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,DE_NI,All,200,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -106,13 +100,11 @@ DE_RP,DE_BW,All,288,,km,Own calulation of distance - see txt.file for more Info,
 DE_RP,DE_HE,All,144,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_RP,DE_NRW,All,149,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_RP,DE_SL,All,83,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_Baltic,All,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DE_BW,All,620,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DE_BY,All,625,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DE_HH,All,77,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DE_MV,All,192,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DE_NI,All,176,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_Nord,All,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DK,All,203,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SL,DE_RP,All,83,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SL,FR,All,426,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -458,7 +450,6 @@ DE_HE,DE_RP,ETS,144,,km,Own calulation of distance - see txt.file for more Info,
 DE_HE,DE_TH,ETS,124,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_HH,DE_NI,ETS,102,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_HH,DE_SH,ETS,77,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_MV,DE_Baltic,ETS,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_MV,DE_BB,ETS,174,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_MV,DE_NI,ETS,204,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_MV,DE_SH,ETS,192,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -468,7 +459,6 @@ DE_NI,DE_HB,ETS,86,,km,Own calulation of distance - see txt.file for more Info,1
 DE_NI,DE_HE,ETS,225,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,DE_HH,ETS,102,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,DE_MV,ETS,204,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NI,DE_Nord,ETS,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,DE_NRW,ETS,200,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,DE_SH,ETS,176,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,DE_ST,ETS,146,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -484,13 +474,11 @@ DE_RP,DE_BW,ETS,288,,km,Own calulation of distance - see txt.file for more Info,
 DE_RP,DE_HE,ETS,144,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_RP,DE_NRW,ETS,149,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_RP,DE_SL,ETS,83,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_Baltic,ETS,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DE_BW,ETS,620,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DE_BY,ETS,625,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DE_HH,ETS,77,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DE_MV,ETS,192,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DE_NI,ETS,176,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_Nord,ETS,30,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,DK,ETS,203,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SL,DE_RP,ETS,83,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SL,FR,ETS,426,,km,Own calulation of distance - see txt.file for more Info,19.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>

@@ -1,4 +1,4 @@
-Region,Technology,Fuel,Year,Value,Unnamed: 5,Unit,Source,Updated at,Updated by
+Region,Technology,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
 AT,HB_Biomass,Heat_Buildings,2018,71.694,,PJ,,,
 AT,HB_Direct_Electric,Heat_Buildings,2018,13.863,,PJ,,,
 AT,HB_Hardcoal,Heat_Buildings,2018,2.794,,PJ,,,
@@ -1159,6 +1159,8 @@ UK,HLI_Direct_Electric,Heat_Low_Industrial,2018,8.2061,,PJ,TYNDP 2024 +  SINTEF_
 UK,HLI_Oil_Boiler,Heat_Low_Industrial,2018,40.1954,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat (See calculation file) - District Heat (proportional),15.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Gas_Boiler,Heat_Low_Industrial,2018,122.6565,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat (See calculation file) - District Heat (proportional),15.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Hardcoal,Heat_Low_Industrial,2018,12.0681,,PJ,TYNDP 2024 +  SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry + Fraunhofer ISI (2024): Direct electrification of industrial process heat (See calculation file) - District Heat (proportional),15.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_Nord,P_Wind_Offshore_Deep,Power,2018,55,,PJ,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_Baltic,P_Wind_Offshore_Deep,Power,2018,13,,PJ,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_MV,P_Wind_Offshore_Transitional,Power,2018,0,,PJ,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_NI,P_Wind_Offshore_Transitional,Power,2018,0,,PJ,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,P_Wind_Offshore_Transitional,Power,2018,0,,PJ,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -1815,6 +1817,3 @@ DE_SL,HD_Solar_Thermal,Heat_District,2018,0.00112312,,PJ,Assumption - calculated
 DE_SN,HD_Solar_Thermal,Heat_District,2018,0.006337604,,PJ,Assumption - calculated using total German DistricHeatDemand data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_ST,HD_Solar_Thermal,Heat_District,2018,0.00705961,,PJ,Assumption - calculated using total German DistricHeatDemand data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_TH,HD_Solar_Thermal,Heat_District,2018,0.003128691,,PJ,Assumption - calculated using total German DistricHeatDemand data,28.04.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,P_Wind_Offshore_Deep,Power,2018,30.8772,,PJ,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
-DE_SH,P_Wind_Offshore_Deep,Power,2018,30.6228,,PJ,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
-DE_MV,P_Wind_Offshore_Deep,Power,2018,6.5,,PJ,reallocated from offshore regions DE_Nord/DE_Baltic (regions removed for the vertical-integration study),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de> (via Claude)
