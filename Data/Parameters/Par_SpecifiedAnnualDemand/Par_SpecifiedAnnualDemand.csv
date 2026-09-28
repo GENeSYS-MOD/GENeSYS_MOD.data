@@ -1,4 +1,4 @@
-Region,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
+Region,Fuel,Year,Value,Unnamed: 4,Unit,Source,Updated at,Updated by
 AT,Heat_Buildings,2018,288.3879,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,Heat_Buildings,2020,252.5284542,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,Heat_Buildings,2025,239.1044957,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2486,15 +2486,15 @@ DE_BW,Heat_Buildings,2045,153.14698,,PJ,TYNDP 2022 Scenario Report - see asumpti
 DE_BW,Heat_Buildings,2050,125.465659,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BW,Heat_Buildings,2055,125.465659,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BW,Heat_Buildings,2060,125.465659,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Heat_Buildings,2018,357.389028,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Heat_Buildings,2025,280.411207,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Heat_Buildings,2030,248.097661,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Heat_Buildings,2035,214.462981,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Heat_Buildings,2040,180.8283,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Heat_Buildings,2045,153.14698,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Heat_Buildings,2050,125.465659,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Heat_Buildings,2055,125.465659,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Heat_Buildings,2060,125.465659,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,Heat_Buildings,2018,430.8011421,,PJ,TYNDP 2022 Scenario Report disaggregation - see assumption file (J. Bornemann); BY row restored 28.09.2026 (had duplicated BW),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_Buildings,2025,338.0111274,,PJ,TYNDP 2022 Scenario Report disaggregation - see assumption file (J. Bornemann); BY row restored 28.09.2026 (had duplicated BW),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_Buildings,2030,299.0599807,,PJ,TYNDP 2022 Scenario Report disaggregation - see assumption file (J. Bornemann); BY row restored 28.09.2026 (had duplicated BW),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_Buildings,2035,258.5163221,,PJ,TYNDP 2022 Scenario Report disaggregation - see assumption file (J. Bornemann); BY row restored 28.09.2026 (had duplicated BW),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_Buildings,2040,217.9726636,,PJ,TYNDP 2022 Scenario Report disaggregation - see assumption file (J. Bornemann); BY row restored 28.09.2026 (had duplicated BW),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_Buildings,2045,184.6052582,,PJ,TYNDP 2022 Scenario Report disaggregation - see assumption file (J. Bornemann); BY row restored 28.09.2026 (had duplicated BW),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_Buildings,2050,151.2378526,,PJ,TYNDP 2022 Scenario Report disaggregation - see assumption file (J. Bornemann); BY row restored 28.09.2026 (had duplicated BW),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_Buildings,2055,151.2378526,,PJ,TYNDP 2022 Scenario Report disaggregation - see assumption file (J. Bornemann); BY row restored 28.09.2026 (had duplicated BW),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Heat_Buildings,2060,151.2378526,,PJ,TYNDP 2022 Scenario Report disaggregation - see assumption file (J. Bornemann); BY row restored 28.09.2026 (had duplicated BW),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,Heat_Buildings,2018,20.4841234,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_HB,Heat_Buildings,2025,16.0720596,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_HB,Heat_Buildings,2030,14.2199752,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,01.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -3179,150 +3179,150 @@ DE_TH,Heat_MediumLow_Industrial,2045,2.797093181,,PJ,Thueringer Landesamt fuer S
 DE_TH,Heat_MediumLow_Industrial,2050,2.652242643,,PJ,Thueringer Landesamt fuer Statistik: Energieverbrauch im Bergbau und Verarbeitenden Gewerbe nach Wirtschaftszweigen ab 2008 (WZ 2008) in Thueringen + TYNDP 2022 Scenario Report (see asuption file for more info),19.05.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_TH,Heat_MediumLow_Industrial,2055,2.652242643,,PJ,Thueringer Landesamt fuer Statistik: Energieverbrauch im Bergbau und Verarbeitenden Gewerbe nach Wirtschaftszweigen ab 2008 (WZ 2008) in Thueringen + TYNDP 2022 Scenario Report (see asuption file for more info),19.05.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_TH,Heat_MediumLow_Industrial,2060,2.652242643,,PJ,Thueringer Landesamt fuer Statistik: Energieverbrauch im Bergbau und Verarbeitenden Gewerbe nach Wirtschaftszweigen ab 2008 (WZ 2008) in Thueringen + TYNDP 2022 Scenario Report (see asuption file for more info),19.05.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,Power,2018,50.0672055,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,Power,2025,48.4595935,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,Power,2030,46.8787383,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,Power,2035,45.3242682,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,Power,2040,43.7958089,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,Power,2045,42.2930003,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,Power,2050,40.8154794,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,Power,2055,40.8154794,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,Power,2060,40.8154794,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,Power,2018,44.5240644,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,Power,2025,43.0944376,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,Power,2030,41.6886052,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,Power,2035,40.3062367,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,Power,2040,38.9469993,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,Power,2045,37.6105727,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,Power,2050,36.296634,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,Power,2055,36.296634,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,Power,2060,36.296634,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,Power,2018,211.116,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,Power,2025,204.337259,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,Power,2030,197.671342,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,Power,2035,191.116682,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,Power,2040,184.671701,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,Power,2045,178.33488,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,Power,2050,172.104688,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,Power,2055,172.104688,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,Power,2060,172.104688,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Power,2018,271.897873,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Power,2025,263.167483,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Power,2030,254.582398,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Power,2035,246.140603,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Power,2040,237.840063,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Power,2045,229.678824,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Power,2050,221.654913,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Power,2055,221.654913,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,Power,2060,221.654913,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,Power,2018,15.5252647,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,Power,2025,15.0267627,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,Power,2030,14.5365577,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,Power,2035,14.0545344,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,Power,2040,13.5805767,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,Power,2045,13.1145731,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,Power,2050,12.6564108,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,Power,2055,12.6564108,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,Power,2060,12.6564108,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,Power,2018,121.776963,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,Power,2025,117.59831,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2021,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,Power,2030,113.563044,,PJ,LAK Endenergieverbrauch nach Energietraegern 2021,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,Power,2035,109.666244,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2022,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,Power,2040,105.903158,,PJ,LAK Endenergieverbrauch nach Energietraegern 2022,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,Power,2045,102.269199,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,Power,2050,98.6963884,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,Power,2055,98.6963884,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,Power,2060,98.6963884,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,Power,2018,42.1685327,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,Power,2025,40.8145399,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,Power,2030,39.4830826,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,Power,2035,38.1738479,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,Power,2040,36.8865205,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,Power,2045,35.6207971,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,Power,2050,34.376372,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,Power,2055,34.376372,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,Power,2060,34.376372,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,Power,2018,23.4904572,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,Power,2025,22.7362003,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,Power,2030,21.9944969,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,Power,2035,21.265173,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,Power,2040,20.5480527,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,Power,2045,19.8429672,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,Power,2050,19.1497461,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,Power,2055,19.1497461,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,Power,2060,19.1497461,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,Power,2018,165.946819,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,Power,2025,160.618419,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,Power,2030,155.378704,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,Power,2035,150.226442,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,Power,2040,145.160392,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,Power,2045,140.179361,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,Power,2050,135.282146,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,Power,2055,135.282146,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,Power,2060,135.282146,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,Power,2018,409.196238,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,Power,2025,396.057323,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,Power,2030,383.137089,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,Power,2035,370.432499,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,Power,2040,357.940494,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,Power,2045,345.65813,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,Power,2050,333.582441,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,Power,2055,333.582441,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,Power,2060,333.582441,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,Power,2018,97.0256113,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,Power,2025,93.9102082,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,Power,2030,90.846657,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,Power,2035,87.8342378,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,Power,2040,84.8722251,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,Power,2045,81.9599211,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,Power,2050,79.0966223,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,Power,2055,79.0966223,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,Power,2060,79.0966223,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,Power,2018,43.9354692,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,Power,2025,42.5247417,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,Power,2030,41.1374939,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,Power,2035,39.7734,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,Power,2040,38.4321313,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,Power,2045,37.1133718,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,Power,2050,35.8168031,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,Power,2055,35.8168031,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,Power,2060,35.8168031,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,Power,2018,22.5551657,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,Power,2025,21.8309401,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,Power,2030,21.1187683,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,Power,2035,20.4184829,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,Power,2040,19.7299154,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,Power,2045,19.0529034,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,Power,2050,18.3872835,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,Power,2055,18.3872835,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,Power,2060,18.3872835,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,Power,2018,75.0897764,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,Power,2025,72.6787127,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,Power,2030,70.3077782,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,Power,2035,67.9764156,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,Power,2040,65.6840634,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,Power,2045,63.4301817,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,Power,2050,61.2142258,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,Power,2055,61.2142258,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,Power,2060,61.2142258,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,Power,2018,58.9394268,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,Power,2025,57.046936,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,Power,2030,55.1859433,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,Power,2035,53.3560115,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,Power,2040,51.5566997,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,Power,2045,49.787584,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,Power,2050,48.0482371,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,Power,2055,48.0482371,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,Power,2060,48.0482371,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,Power,2018,40.6821055,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,Power,2025,39.3758405,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,Power,2030,38.0913166,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,Power,2035,36.828232,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,Power,2040,35.5862825,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,Power,2045,34.3651755,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,Power,2050,33.1646159,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,Power,2055,33.1646159,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,Power,2060,33.1646159,,PJ,LAK Endenergieverbrauch nach Energietraegern 2020 + EU Reference Scenario 2020,03.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,Power,2018,44.6208,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Power,2025,49.6016,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Power,2030,47.9835,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Power,2035,46.3924,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Power,2040,44.8279,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Power,2045,43.2897,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Power,2050,41.7774,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Power,2055,41.7774,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Power,2060,41.7774,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Power,2018,40.4953,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Power,2025,45.0157,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Power,2030,43.5472,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Power,2035,42.1032,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Power,2040,40.6833,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Power,2045,39.2873,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Power,2050,37.9148,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Power,2055,37.9148,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Power,2060,37.9148,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Power,2018,195.331,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Power,2025,217.135,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Power,2030,210.052,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Power,2035,203.087,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Power,2040,196.238,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Power,2045,189.504,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Power,2050,182.884,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Power,2055,182.884,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Power,2060,182.884,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Power,2018,245.62,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Power,2025,273.037,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Power,2030,264.13,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Power,2035,255.372,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Power,2040,246.76,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Power,2045,238.293,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Power,2050,229.968,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Power,2055,229.968,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Power,2060,229.968,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Power,2018,14.3157,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Power,2025,15.9137,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Power,2030,15.3946,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Power,2035,14.8841,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Power,2040,14.3821,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Power,2045,13.8886,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Power,2050,13.4034,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Power,2055,13.4034,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Power,2060,13.4034,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Power,2018,105.927,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Power,2025,117.752,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Power,2030,113.91,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Power,2035,110.133,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Power,2040,106.419,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Power,2045,102.767,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Power,2050,99.1772,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Power,2055,99.1772,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Power,2060,99.1772,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Power,2018,37.2313,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Power,2025,41.3873,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Power,2030,40.0371,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Power,2035,38.7095,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Power,2040,37.4041,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Power,2045,36.1206,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Power,2050,34.8587,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Power,2055,34.8587,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Power,2060,34.8587,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Power,2018,20.4011,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Power,2025,22.6784,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Power,2030,21.9386,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Power,2035,21.2111,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Power,2040,20.4958,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Power,2045,19.7925,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Power,2050,19.1011,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Power,2055,19.1011,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Power,2060,19.1011,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Power,2018,156.016,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Power,2025,173.432,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Power,2030,167.774,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Power,2035,162.211,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Power,2040,156.741,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Power,2045,151.362,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Power,2050,146.074,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Power,2055,146.074,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Power,2060,146.074,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Power,2018,376.174,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Power,2025,418.165,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Power,2030,404.524,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Power,2035,391.11,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Power,2040,377.921,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Power,2045,364.953,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Power,2050,352.203,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Power,2055,352.203,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Power,2060,352.203,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Power,2018,86.556,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Power,2025,96.218,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Power,2030,93.0791,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Power,2035,89.9927,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Power,2040,86.9579,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Power,2045,83.974,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Power,2050,81.0403,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Power,2055,81.0403,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Power,2060,81.0403,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Power,2018,39.2695,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Power,2025,43.653,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Power,2030,42.2289,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Power,2035,40.8287,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Power,2040,39.4518,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Power,2045,38.0981,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Power,2050,36.7671,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Power,2055,36.7671,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Power,2060,36.7671,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Power,2018,20.4682,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded (Saarland scaled from its 2020 value),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Power,2025,22.753,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded (Saarland scaled from its 2020 value),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Power,2030,22.0107,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded (Saarland scaled from its 2020 value),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Power,2035,21.2809,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded (Saarland scaled from its 2020 value),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Power,2040,20.5632,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded (Saarland scaled from its 2020 value),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Power,2045,19.8576,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded (Saarland scaled from its 2020 value),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Power,2050,19.1639,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded (Saarland scaled from its 2020 value),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Power,2055,19.1639,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded (Saarland scaled from its 2020 value),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Power,2060,19.1639,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded (Saarland scaled from its 2020 value),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Power,2018,66.3862,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Power,2025,73.7966,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Power,2030,71.3892,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Power,2035,69.022,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Power,2040,66.6944,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Power,2045,64.4058,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Power,2050,62.1558,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Power,2055,62.1558,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Power,2060,62.1558,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Power,2018,52.2123,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Power,2025,58.0406,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Power,2030,56.1472,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Power,2035,54.2854,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Power,2040,52.4547,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Power,2045,50.6548,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Power,2050,48.8851,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Power,2055,48.8851,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Power,2060,48.8851,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Power,2018,36.1765,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Power,2025,40.2147,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Power,2030,38.9028,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Power,2035,37.6128,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Power,2040,36.3444,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Power,2045,35.0973,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Power,2050,33.8712,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Power,2055,33.8712,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Power,2060,33.8712,,PJ,LAK Endenergieverbrauch Strom 2018 (Land share) x DE node exogenous power demand (EnVis NECP Essentials); modelled electricity uses excluded,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,Mobility_Freight,2018,27.3192521,,Gtkm,,11.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BB,Mobility_Freight,2025,26.3060374,,Gtkm,,11.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BB,Mobility_Freight,2030,29.2610175,,Gtkm,,11.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
