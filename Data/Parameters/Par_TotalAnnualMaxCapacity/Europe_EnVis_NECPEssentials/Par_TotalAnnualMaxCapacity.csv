@@ -75,12 +75,8 @@ ES,D_PHS,2025,3.418,,GW,set to 2024 installed capacities by entso-e,03.02.2026,K
 ES,P_Biomass,2025,0.708,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 ES,P_Coal_Hardcoal,2025,3.223,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 ES,P_Gas_CCGT,2025,29.873,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-ES,P_Hydro_Reservoir,2025,13.105,,GW,Partner feedback CIEMAT (Spanish NECPs),01.04.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-ES,P_Hydro_RoR,2025,1.155,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 ES,P_Nuclear,2025,7.117,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 ES,P_Oil,2025,0.704,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-ES,P_PV_Utility_Avg,2025,23.867,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-ES,P_Wind_Onshore_Avg,2025,30.159,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 ES,Waste,2025,0.546,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FI,Fossil Peat,2025,1.044,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FI,P_Biomass,2025,1.695,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
@@ -223,10 +219,6 @@ PT,P_Biomass,2025,0.8,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.20
 PT,P_Gas_CCGT,2025,4.3,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Hydro_Reservoir,2025,1.644,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Hydro_RoR,2025,2.856,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Inf,2025,2.1,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Avg,2025,4.2,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Opt,2025,1.26,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Tracking,2025,0.84,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Wind_Offshore_Transitional,2025,0.03,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Wind_Onshore_Inf,2025,1.575,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Wind_Onshore_Avg,2025,3.15,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -302,37 +294,35 @@ PT,P_Biomass,All,0.8,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.202
 PT,P_Gas_CCGT,All,4.3,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Hydro_Reservoir,All,1.644,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Hydro_RoR,All,2.856,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Inf,2030,5.2,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Avg,2030,10.4,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Opt,2030,3.12,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Tracking,2030,2.08,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Wind_Offshore_Transitional,2030,2,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Wind_Onshore_Inf,2030,2.6,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Wind_Onshore_Avg,2030,5.2,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Wind_Onshore_Opt,2030,2.6,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Geothermal,All,0.1,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Ocean,All,1,,GW,Partner Feedback from LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Avg,2035,9.6,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Avg,2040,13.55,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Avg,All,14.2875,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Avg,2045,14.2875,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Avg,2050,15.025,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Avg,2055,15.7625,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Avg,2060,16.5,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Inf,2035,4.8,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Inf,2040,6.775,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Inf,All,7.1438,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Inf,2045,7.1438,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Inf,2050,7.5125,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Inf,2055,7.8813,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Inf,2060,8.25,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Opt,2035,2.88,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Opt,2040,4.065,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Opt,All,4.2863,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Opt,2045,4.2863,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Opt,2050,4.5075,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Opt,2055,4.7288,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Opt,2060,4.95,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Tracking,2035,1.92,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,P_PV_Utility_Tracking,2040,2.71,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,P_PV_Utility_Tracking,All,2.8575,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Tracking,2045,2.8575,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Tracking,2050,3.005,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Tracking,2055,3.1525,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_PV_Utility_Tracking,2060,3.3,,GW,partner feedback LNEG (Portuguese NECPs),17.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2035,10,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2040,15,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2045,40,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2050,75,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2055,75,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2060,75,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
