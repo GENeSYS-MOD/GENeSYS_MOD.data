@@ -1,4 +1,4 @@
-Region,Region2,Fuel,Year,Value,Unnamed: 5,Unit,Source,Updated at,Updated by
+Region,Region2,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
 AT,DE,H2,2030,197.1,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 AT,IT,H2,2030,165.564,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 AT,SK,H2,2030,189.216,,PJ,TYNDP 2022 - Annex C2,02.08.2024,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -1128,4 +1128,4 @@ DE_NI,DE_BB,H2,2030,185.451159,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Jul
 DE_ST,DE_BB,H2,2030,72.441859,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BB,PL,H2,2030,510.127048,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_MV,PL,H2,2030,26.0790692,,PJ,Wasserstoff-Kernnetz - FNB GAS,24.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,DE_BY,H2,2030,86.0779736,,PJ,Wasserstoff-Kernnetz - FNB GAS (ST->BY corridor re-expressed along the adjacency path ST-TH-BY),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,DE_BY,H2,2030,86.0779736,,PJ,"Wasserstoff-Kernnetz (FNB Gas), ST-BY corridor via TH",27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>

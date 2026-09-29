@@ -1,4 +1,4 @@
-Region,Technology,Year,Value,Unnamed: 4,Unit,Source,Updated at,Updated by
+Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
 AT,CHP_Coal_Hardcoal,2020,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,CHP_Coal_Hardcoal,2025,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 AT,CHP_Coal_Hardcoal,2030,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -1538,7 +1538,7 @@ DE_SL,CHP_Coal_Lignite,2050,0,,Fraction,https://beyondfossilfuels.org/europes-co
 DE_SL,CHP_Coal_Lignite,2055,0,,Fraction,same as 2050 for now,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SL,CHP_Coal_Lignite,2060,0,,Fraction,same as 2050 for now,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SN,CHP_Coal_Lignite,2030,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,CHP_Coal_Lignite,2035,0.8,,Fraction,aligned with residual capacity 1.46 GW in 2035 and the 2038 coal exit (Ch5 rule: AF 0 after 2035),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_Coal_Lignite,2035,0.8,,Fraction,coal exit 2038 (KVBG),27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,CHP_Coal_Lignite,2040,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SN,CHP_Coal_Lignite,2045,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SN,CHP_Coal_Lignite,2050,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -2957,159 +2957,159 @@ DE_BY,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_HB,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_HE,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_HH,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
-DE_MV,P_Wind_Offshore_Deep,2018,0.97,,Fraction,2018 fleet reallocated from the sea nodes; AF aligned with 2025+,27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,P_Wind_Offshore_Deep,2018,0.97,,Fraction,2018 fleet reallocated from the sea nodes; AF aligned with 2025+,27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Wind_Offshore_Deep,2018,0.97,,Fraction,reallocated from DE_Nord/DE_Baltic,27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Wind_Offshore_Deep,2018,0.97,,Fraction,reallocated from DE_Nord/DE_Baltic,27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_RP,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
-DE_SH,P_Wind_Offshore_Deep,2018,0.97,,Fraction,2018 fleet reallocated from the sea nodes; AF aligned with 2025+,27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Wind_Offshore_Deep,2018,0.97,,Fraction,reallocated from DE_Nord/DE_Baltic,27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_SN,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_ST,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_TH,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
-DE_BB,Z_Import_Gas,All,1,,Fraction,"eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,Z_Import_Gas,All,0,,Fraction,"not eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,Z_Import_Gas,All,0,,Fraction,"not eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,Z_Import_Gas,All,1,,Fraction,"eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,Z_Import_Gas,All,0,,Fraction,"not eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,Z_Import_Gas,All,0,,Fraction,"not eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,Z_Import_Gas,All,0,,Fraction,"not eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,Z_Import_Gas,All,1,,Fraction,"eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,Z_Import_Gas,All,1,,Fraction,"eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,Z_Import_Gas,All,1,,Fraction,"eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,Z_Import_Gas,All,0,,Fraction,"not eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,Z_Import_Gas,All,1,,Fraction,"eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,Z_Import_Gas,All,0,,Fraction,"not eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,Z_Import_Gas,All,1,,Fraction,"eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,Z_Import_Gas,All,0,,Fraction,"not eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,Z_Import_Gas,All,0,,Fraction,"not eligible: STANDALONE: all pipeline entry points - Nord Stream (MV), Yamal/JAGAL (BB), Transgas via CZ (SN, BY), Ellund from DK (SH), Emden/Dornum from NO and NL (NI), NL entries (NRW); linked runs narrow to the extra-EU entries MV/BB/SN/BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,Z_Import_LNG,All,1,,Fraction,"eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,Z_Import_LNG,All,1,,Fraction,"eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,Z_Import_LNG,All,1,,Fraction,"eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany in 2018 (first terminals end of 2022),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,Z_Import_LNG,All,0,,Fraction,"not eligible: LNG terminals: Wilhelmshaven/Stade (NI), Brunsbuettel (SH), Lubmin/Mukran (MV)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,Z_Import_Hardcoal,All,0,,Fraction,"not eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,Z_Import_Hardcoal,All,0,,Fraction,"not eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,Z_Import_Hardcoal,All,0,,Fraction,"not eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,Z_Import_Hardcoal,All,0,,Fraction,"not eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,Z_Import_Hardcoal,All,1,,Fraction,"eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,Z_Import_Hardcoal,All,0,,Fraction,"not eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,Z_Import_Hardcoal,All,1,,Fraction,"eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,Z_Import_Hardcoal,All,1,,Fraction,"eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,Z_Import_Hardcoal,All,1,,Fraction,"eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,Z_Import_Hardcoal,All,1,,Fraction,"eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,Z_Import_Hardcoal,All,0,,Fraction,"not eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,Z_Import_Hardcoal,All,1,,Fraction,"eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,Z_Import_Hardcoal,All,0,,Fraction,"not eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,Z_Import_Hardcoal,All,0,,Fraction,"not eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,Z_Import_Hardcoal,All,0,,Fraction,"not eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,Z_Import_Hardcoal,All,0,,Fraction,"not eligible: STANDALONE: seaports (Hamburg, Bremen, Wilhelmshaven, Brunsbuettel, Rostock) and the Rhine ports (NRW, coal via Rotterdam); linked runs narrow to the seaports",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,Z_Import_Oil,All,1,,Fraction,"eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,Z_Import_Oil,All,0,,Fraction,"not eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,Z_Import_Oil,All,1,,Fraction,"eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,Z_Import_Oil,All,1,,Fraction,"eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,Z_Import_Oil,All,1,,Fraction,"eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,Z_Import_Oil,All,0,,Fraction,"not eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,Z_Import_Oil,All,1,,Fraction,"eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,Z_Import_Oil,All,1,,Fraction,"eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,Z_Import_Oil,All,1,,Fraction,"eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,Z_Import_Oil,All,1,,Fraction,"eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,Z_Import_Oil,All,0,,Fraction,"not eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,Z_Import_Oil,All,1,,Fraction,"eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,Z_Import_Oil,All,0,,Fraction,"not eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,Z_Import_Oil,All,0,,Fraction,"not eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,Z_Import_Oil,All,0,,Fraction,"not eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,Z_Import_Oil,All,0,,Fraction,"not eligible: STANDALONE: crude by ship (ports), Druzhba (Schwedt, BB), TAL from Trieste (BY), RRP from Rotterdam (NRW), SPSE from Marseille (BW); linked runs narrow to ports + BB + BY",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,Z_Import_H2,All,1,,Fraction,eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,Z_Import_H2,All,0,,Fraction,not eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,Z_Import_H2,All,0,,Fraction,not eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,Z_Import_H2,All,1,,Fraction,eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,Z_Import_H2,All,1,,Fraction,eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,Z_Import_H2,All,0,,Fraction,not eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,Z_Import_H2,All,1,,Fraction,eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,Z_Import_H2,All,1,,Fraction,eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,Z_Import_H2,All,1,,Fraction,eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,Z_Import_H2,All,0,,Fraction,not eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,Z_Import_H2,All,0,,Fraction,not eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,Z_Import_H2,All,1,,Fraction,eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,Z_Import_H2,All,0,,Fraction,not eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,Z_Import_H2,All,1,,Fraction,eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,Z_Import_H2,All,0,,Fraction,not eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,Z_Import_H2,2018,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,Z_Import_H2,2025,0,,Fraction,no hydrogen imports before 2030 (students' assumption),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,Z_Import_H2,All,0,,Fraction,not eligible: H2 by ship through the seaports and by pipeline at the eastern entry points; none before 2030 (students' assumption kept),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,Z_Import_Biomass,All,0,,Fraction,not eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,Z_Import_Biomass,All,0,,Fraction,not eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,Z_Import_Biomass,All,1,,Fraction,eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,Z_Import_Biomass,All,0,,Fraction,not eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,Z_Import_Biomass,All,0,,Fraction,not eligible: solid biomass by ship or land transport: Laender with a seaport or an external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Z_Import_Gas,All,1,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Z_Import_Gas,All,0,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Z_Import_Gas,All,0,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Z_Import_Gas,All,1,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Z_Import_Gas,All,0,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Z_Import_Gas,All,0,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Z_Import_Gas,All,0,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Z_Import_Gas,All,1,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Z_Import_Gas,All,1,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Z_Import_Gas,All,1,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Z_Import_Gas,All,0,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Z_Import_Gas,All,1,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Z_Import_Gas,All,0,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Z_Import_Gas,All,1,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Z_Import_Gas,All,0,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Z_Import_Gas,All,0,,Fraction,gas pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Z_Import_LNG,All,1,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Z_Import_LNG,All,1,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Z_Import_LNG,All,1,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Z_Import_LNG,2018,0,,Fraction,no LNG terminal in Germany before 2022,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Z_Import_LNG,All,0,,Fraction,"LNG terminals (Wilhelmshaven, Stade, Brunsbuettel, Lubmin)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Z_Import_Hardcoal,All,0,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Z_Import_Hardcoal,All,0,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Z_Import_Hardcoal,All,0,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Z_Import_Hardcoal,All,0,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Z_Import_Hardcoal,All,1,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Z_Import_Hardcoal,All,0,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Z_Import_Hardcoal,All,1,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Z_Import_Hardcoal,All,1,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Z_Import_Hardcoal,All,1,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Z_Import_Hardcoal,All,1,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Z_Import_Hardcoal,All,0,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Z_Import_Hardcoal,All,1,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Z_Import_Hardcoal,All,0,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Z_Import_Hardcoal,All,0,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Z_Import_Hardcoal,All,0,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Z_Import_Hardcoal,All,0,,Fraction,seaports and Rhine ports,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Z_Import_Oil,All,1,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Z_Import_Oil,All,0,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Z_Import_Oil,All,1,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Z_Import_Oil,All,1,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Z_Import_Oil,All,1,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Z_Import_Oil,All,0,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Z_Import_Oil,All,1,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Z_Import_Oil,All,1,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Z_Import_Oil,All,1,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Z_Import_Oil,All,1,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Z_Import_Oil,All,0,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Z_Import_Oil,All,1,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Z_Import_Oil,All,0,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Z_Import_Oil,All,0,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Z_Import_Oil,All,0,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Z_Import_Oil,All,0,,Fraction,"seaports and crude oil pipelines (Druzhba, TAL, RRP, SPSE)",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Z_Import_H2,All,1,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Z_Import_H2,All,0,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Z_Import_H2,All,0,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Z_Import_H2,All,1,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Z_Import_H2,All,1,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Z_Import_H2,All,0,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Z_Import_H2,All,1,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Z_Import_H2,All,1,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Z_Import_H2,All,1,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Z_Import_H2,All,0,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Z_Import_H2,All,0,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Z_Import_H2,All,1,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Z_Import_H2,All,0,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Z_Import_H2,All,1,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Z_Import_H2,All,0,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Z_Import_H2,2018,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Z_Import_H2,2025,0,,Fraction,no H2 imports before 2030,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Z_Import_H2,All,0,,Fraction,seaports and eastern pipeline entry points,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,Z_Import_Biomass,All,0,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,Z_Import_Biomass,All,0,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,Z_Import_Biomass,All,1,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,Z_Import_Biomass,All,0,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,Z_Import_Biomass,All,0,,Fraction,seaports or external border,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,X_Liquifier,2018,0,,Fraction,no liquefaction plant in Germany in 2018,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,X_Liquifier,2018,0,,Fraction,no liquefaction plant in Germany in 2018,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,X_Liquifier,2018,0,,Fraction,no liquefaction plant in Germany in 2018,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>

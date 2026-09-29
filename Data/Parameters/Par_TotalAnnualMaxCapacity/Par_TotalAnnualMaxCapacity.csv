@@ -1,4 +1,4 @@
-Region,Technology,Year,Value,Unnamed: 4,Unit,Source,Updated at,Updated by
+Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
 World,A_Air,All,999999,,GW,"no source needed, unlimited",21.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,A_Rooftop_Commercial,All,999999,,GW,"no source needed, unlimited",21.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,A_Rooftop_Residential,All,999999,,GW,"no source needed, unlimited",21.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -1422,148 +1422,148 @@ DE_NI,P_Wind_Offshore_Transitional,All,4.253,,GW,,06.05.2026,Julian Bornemann <j
 DE_SH,P_Wind_Offshore_Transitional,All,2.445,,GW,,06.05.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BY,P_Geothermal,All,0.0332,,GW,,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,P_Geothermal,All,0.0078,,GW,,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,CHP_WasteToEnergy,2018,0.0399816,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,CHP_WasteToEnergy,2025,0.0372655,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,CHP_WasteToEnergy,2030,0.0354391,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,CHP_WasteToEnergy,2035,0.0337022,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,CHP_WasteToEnergy,2040,0.0320505,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,CHP_WasteToEnergy,2045,0.0304797,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,CHP_WasteToEnergy,2050,0.0289859,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,CHP_WasteToEnergy,2055,0.0275653,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,CHP_WasteToEnergy,2060,0.0262143,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,CHP_WasteToEnergy,2018,0.0623802,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,CHP_WasteToEnergy,2025,0.0581424,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,CHP_WasteToEnergy,2030,0.0552929,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,CHP_WasteToEnergy,2035,0.052583,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,CHP_WasteToEnergy,2040,0.0500059,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,CHP_WasteToEnergy,2045,0.0475551,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,CHP_WasteToEnergy,2050,0.0452244,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,CHP_WasteToEnergy,2055,0.043008,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,CHP_WasteToEnergy,2060,0.0409002,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,CHP_WasteToEnergy,2018,0.04861,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,CHP_WasteToEnergy,2025,0.0453077,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,CHP_WasteToEnergy,2030,0.0430872,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,CHP_WasteToEnergy,2035,0.0409755,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,CHP_WasteToEnergy,2040,0.0389673,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,CHP_WasteToEnergy,2045,0.0370575,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,CHP_WasteToEnergy,2050,0.0352413,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,CHP_WasteToEnergy,2055,0.0335141,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,CHP_WasteToEnergy,2060,0.0318716,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,CHP_WasteToEnergy,2018,0.0878708,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,CHP_WasteToEnergy,2025,0.0819013,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,CHP_WasteToEnergy,2030,0.0778873,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,CHP_WasteToEnergy,2035,0.0740701,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,CHP_WasteToEnergy,2040,0.0704399,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,CHP_WasteToEnergy,2045,0.0669877,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,CHP_WasteToEnergy,2050,0.0637046,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,CHP_WasteToEnergy,2055,0.0605824,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,CHP_WasteToEnergy,2060,0.0576133,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,CHP_WasteToEnergy,2018,0.0103921,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,CHP_WasteToEnergy,2025,0.00968612,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,CHP_WasteToEnergy,2030,0.0092114,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,CHP_WasteToEnergy,2035,0.00875995,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,CHP_WasteToEnergy,2040,0.00833063,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,CHP_WasteToEnergy,2045,0.00792234,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,CHP_WasteToEnergy,2050,0.00753407,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,CHP_WasteToEnergy,2055,0.00716482,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,CHP_WasteToEnergy,2060,0.00681368,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,CHP_WasteToEnergy,2018,0.0505347,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,CHP_WasteToEnergy,2025,0.0471016,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,CHP_WasteToEnergy,2030,0.0447932,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,CHP_WasteToEnergy,2035,0.0425979,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,CHP_WasteToEnergy,2040,0.0405102,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,CHP_WasteToEnergy,2045,0.0385248,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,CHP_WasteToEnergy,2050,0.0366367,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,CHP_WasteToEnergy,2055,0.0348411,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,CHP_WasteToEnergy,2060,0.0331335,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,CHP_WasteToEnergy,2018,0.02035,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,CHP_WasteToEnergy,2025,0.0189675,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,CHP_WasteToEnergy,2030,0.0180379,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,CHP_WasteToEnergy,2035,0.0171539,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,CHP_WasteToEnergy,2040,0.0163132,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,CHP_WasteToEnergy,2045,0.0155137,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,CHP_WasteToEnergy,2050,0.0147533,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,CHP_WasteToEnergy,2055,0.0140303,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,CHP_WasteToEnergy,2060,0.0133427,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,CHP_WasteToEnergy,2018,0.0102353,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,CHP_WasteToEnergy,2025,0.00953997,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,CHP_WasteToEnergy,2030,0.00907242,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,CHP_WasteToEnergy,2035,0.00862778,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,CHP_WasteToEnergy,2040,0.00820493,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,CHP_WasteToEnergy,2045,0.00780281,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,CHP_WasteToEnergy,2050,0.00742039,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,CHP_WasteToEnergy,2055,0.00705672,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,CHP_WasteToEnergy,2060,0.00671087,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,CHP_WasteToEnergy,2018,0.035411,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,CHP_WasteToEnergy,2025,0.0330054,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,CHP_WasteToEnergy,2030,0.0313878,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,CHP_WasteToEnergy,2035,0.0298495,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,CHP_WasteToEnergy,2040,0.0283865,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,CHP_WasteToEnergy,2045,0.0269953,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,CHP_WasteToEnergy,2050,0.0256723,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,CHP_WasteToEnergy,2055,0.0244141,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,CHP_WasteToEnergy,2060,0.0232175,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,CHP_WasteToEnergy,2018,0.11719,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,CHP_WasteToEnergy,2025,0.109229,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,CHP_WasteToEnergy,2030,0.103875,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,CHP_WasteToEnergy,2035,0.0987845,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,CHP_WasteToEnergy,2040,0.0939431,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,CHP_WasteToEnergy,2045,0.0893389,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,CHP_WasteToEnergy,2050,0.0849604,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,CHP_WasteToEnergy,2055,0.0807965,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,CHP_WasteToEnergy,2060,0.0768367,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2018,0.0240144,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2025,0.022383,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2030,0.021286,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2035,0.0202428,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2040,0.0192507,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2045,0.0183072,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2050,0.01741,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2055,0.0165567,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2060,0.0157453,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,CHP_WasteToEnergy,2018,0.0392963,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,CHP_WasteToEnergy,2025,0.0366267,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,CHP_WasteToEnergy,2030,0.0348316,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,CHP_WasteToEnergy,2035,0.0331245,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,CHP_WasteToEnergy,2040,0.0315011,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,CHP_WasteToEnergy,2045,0.0299572,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,CHP_WasteToEnergy,2050,0.028489,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,CHP_WasteToEnergy,2055,0.0270928,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,CHP_WasteToEnergy,2060,0.025765,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2018,0.00528,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2025,0.00492131,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2030,0.00468011,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2035,0.00445074,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2040,0.00423261,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2045,0.00402517,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2050,0.0038279,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2055,0.00364029,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2060,0.00346188,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,CHP_WasteToEnergy,2018,0.02977,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,CHP_WasteToEnergy,2025,0.0277476,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,CHP_WasteToEnergy,2030,0.0263877,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,CHP_WasteToEnergy,2035,0.0250944,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,CHP_WasteToEnergy,2040,0.0238645,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,CHP_WasteToEnergy,2045,0.0226949,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,CHP_WasteToEnergy,2050,0.0215827,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,CHP_WasteToEnergy,2055,0.0205249,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,CHP_WasteToEnergy,2060,0.019519,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,CHP_WasteToEnergy,2018,0.043852,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,CHP_WasteToEnergy,2025,0.0408729,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,CHP_WasteToEnergy,2030,0.0388697,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,CHP_WasteToEnergy,2035,0.0369647,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,CHP_WasteToEnergy,2040,0.0351531,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,CHP_WasteToEnergy,2045,0.0334303,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,CHP_WasteToEnergy,2050,0.0317918,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,CHP_WasteToEnergy,2055,0.0302337,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,CHP_WasteToEnergy,2060,0.028752,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,CHP_WasteToEnergy,2018,0.0212855,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,CHP_WasteToEnergy,2025,0.0198395,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,CHP_WasteToEnergy,2030,0.0188671,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,CHP_WasteToEnergy,2035,0.0179425,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,CHP_WasteToEnergy,2040,0.0170631,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,CHP_WasteToEnergy,2045,0.0162268,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,CHP_WasteToEnergy,2050,0.0154316,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,CHP_WasteToEnergy,2055,0.0146753,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,CHP_WasteToEnergy,2060,0.013956,,GW,PLACEHOLDER: 2018 residual capacity declining 1 %/a (no R_Waste potential in the data) - open data item,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_WasteToEnergy,2018,0.0399816,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_WasteToEnergy,2025,0.0372655,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_WasteToEnergy,2030,0.0354391,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_WasteToEnergy,2035,0.0337022,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_WasteToEnergy,2040,0.0320505,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_WasteToEnergy,2045,0.0304797,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_WasteToEnergy,2050,0.0289859,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_WasteToEnergy,2055,0.0275653,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_WasteToEnergy,2060,0.0262143,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,CHP_WasteToEnergy,2018,0.0623802,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,CHP_WasteToEnergy,2025,0.0581424,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,CHP_WasteToEnergy,2030,0.0552929,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,CHP_WasteToEnergy,2035,0.052583,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,CHP_WasteToEnergy,2040,0.0500059,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,CHP_WasteToEnergy,2045,0.0475551,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,CHP_WasteToEnergy,2050,0.0452244,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,CHP_WasteToEnergy,2055,0.043008,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,CHP_WasteToEnergy,2060,0.0409002,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_WasteToEnergy,2018,0.04861,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_WasteToEnergy,2025,0.0453077,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_WasteToEnergy,2030,0.0430872,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_WasteToEnergy,2035,0.0409755,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_WasteToEnergy,2040,0.0389673,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_WasteToEnergy,2045,0.0370575,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_WasteToEnergy,2050,0.0352413,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_WasteToEnergy,2055,0.0335141,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_WasteToEnergy,2060,0.0318716,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_WasteToEnergy,2018,0.0878708,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_WasteToEnergy,2025,0.0819013,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_WasteToEnergy,2030,0.0778873,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_WasteToEnergy,2035,0.0740701,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_WasteToEnergy,2040,0.0704399,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_WasteToEnergy,2045,0.0669877,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_WasteToEnergy,2050,0.0637046,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_WasteToEnergy,2055,0.0605824,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_WasteToEnergy,2060,0.0576133,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,CHP_WasteToEnergy,2018,0.0103921,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,CHP_WasteToEnergy,2025,0.00968612,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,CHP_WasteToEnergy,2030,0.0092114,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,CHP_WasteToEnergy,2035,0.00875995,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,CHP_WasteToEnergy,2040,0.00833063,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,CHP_WasteToEnergy,2045,0.00792234,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,CHP_WasteToEnergy,2050,0.00753407,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,CHP_WasteToEnergy,2055,0.00716482,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,CHP_WasteToEnergy,2060,0.00681368,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_WasteToEnergy,2018,0.0505347,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_WasteToEnergy,2025,0.0471016,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_WasteToEnergy,2030,0.0447932,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_WasteToEnergy,2035,0.0425979,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_WasteToEnergy,2040,0.0405102,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_WasteToEnergy,2045,0.0385248,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_WasteToEnergy,2050,0.0366367,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_WasteToEnergy,2055,0.0348411,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_WasteToEnergy,2060,0.0331335,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,CHP_WasteToEnergy,2018,0.02035,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,CHP_WasteToEnergy,2025,0.0189675,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,CHP_WasteToEnergy,2030,0.0180379,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,CHP_WasteToEnergy,2035,0.0171539,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,CHP_WasteToEnergy,2040,0.0163132,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,CHP_WasteToEnergy,2045,0.0155137,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,CHP_WasteToEnergy,2050,0.0147533,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,CHP_WasteToEnergy,2055,0.0140303,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,CHP_WasteToEnergy,2060,0.0133427,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_WasteToEnergy,2018,0.0102353,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_WasteToEnergy,2025,0.00953997,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_WasteToEnergy,2030,0.00907242,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_WasteToEnergy,2035,0.00862778,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_WasteToEnergy,2040,0.00820493,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_WasteToEnergy,2045,0.00780281,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_WasteToEnergy,2050,0.00742039,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_WasteToEnergy,2055,0.00705672,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_WasteToEnergy,2060,0.00671087,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_WasteToEnergy,2018,0.035411,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_WasteToEnergy,2025,0.0330054,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_WasteToEnergy,2030,0.0313878,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_WasteToEnergy,2035,0.0298495,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_WasteToEnergy,2040,0.0283865,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_WasteToEnergy,2045,0.0269953,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_WasteToEnergy,2050,0.0256723,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_WasteToEnergy,2055,0.0244141,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_WasteToEnergy,2060,0.0232175,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_WasteToEnergy,2018,0.11719,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_WasteToEnergy,2025,0.109229,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_WasteToEnergy,2030,0.103875,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_WasteToEnergy,2035,0.0987845,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_WasteToEnergy,2040,0.0939431,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_WasteToEnergy,2045,0.0893389,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_WasteToEnergy,2050,0.0849604,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_WasteToEnergy,2055,0.0807965,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_WasteToEnergy,2060,0.0768367,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2018,0.0240144,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2025,0.022383,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2030,0.021286,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2035,0.0202428,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2040,0.0192507,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2045,0.0183072,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2050,0.01741,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2055,0.0165567,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2060,0.0157453,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_WasteToEnergy,2018,0.0392963,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_WasteToEnergy,2025,0.0366267,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_WasteToEnergy,2030,0.0348316,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_WasteToEnergy,2035,0.0331245,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_WasteToEnergy,2040,0.0315011,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_WasteToEnergy,2045,0.0299572,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_WasteToEnergy,2050,0.028489,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_WasteToEnergy,2055,0.0270928,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_WasteToEnergy,2060,0.025765,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2018,0.00528,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2025,0.00492131,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2030,0.00468011,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2035,0.00445074,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2040,0.00423261,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2045,0.00402517,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2050,0.0038279,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2055,0.00364029,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2060,0.00346188,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_WasteToEnergy,2018,0.02977,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_WasteToEnergy,2025,0.0277476,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_WasteToEnergy,2030,0.0263877,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_WasteToEnergy,2035,0.0250944,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_WasteToEnergy,2040,0.0238645,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_WasteToEnergy,2045,0.0226949,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_WasteToEnergy,2050,0.0215827,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_WasteToEnergy,2055,0.0205249,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_WasteToEnergy,2060,0.019519,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_WasteToEnergy,2018,0.043852,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_WasteToEnergy,2025,0.0408729,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_WasteToEnergy,2030,0.0388697,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_WasteToEnergy,2035,0.0369647,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_WasteToEnergy,2040,0.0351531,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_WasteToEnergy,2045,0.0334303,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_WasteToEnergy,2050,0.0317918,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_WasteToEnergy,2055,0.0302337,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_WasteToEnergy,2060,0.028752,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_WasteToEnergy,2018,0.0212855,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_WasteToEnergy,2025,0.0198395,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_WasteToEnergy,2030,0.0188671,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_WasteToEnergy,2035,0.0179425,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_WasteToEnergy,2040,0.0170631,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_WasteToEnergy,2045,0.0162268,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_WasteToEnergy,2050,0.0154316,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_WasteToEnergy,2055,0.0146753,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_WasteToEnergy,2060,0.013956,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_Biomass,All,999999,,GW,"no source needed, unlimited",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>

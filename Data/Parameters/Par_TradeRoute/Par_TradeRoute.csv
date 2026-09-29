@@ -1,4 +1,4 @@
-Region,Region.1,Fuel,Value,Unnamed: 4,Unit,Source,Updated at,Updated by
+Region,Region.1,Fuel,Value,,Unit,Source,Updated at,Updated by
 AT,CH,All,439,,km,Own calulation of distance - see txt.file for more Info,05.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,CZ,All,286,,km,Own calulation of distance - see txt.file for more Info,05.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,DE,All,487,,km,Own calulation of distance - see txt.file for more Info,05.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1187,5 +1187,5 @@ BE,NO,Power,0,,km,Own calulation of distance - see txt.file for more Info,20.02.
 FR,NO,Power,0,,km,Own calulation of distance - see txt.file for more Info,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,BE,Power,0,,km,Own calulation of distance - see txt.file for more Info,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,FR,Power,0,,km,Own calulation of distance - see txt.file for more Info,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE_BB,DE_BE,Gas_Natural,45,,km,"Berlin gas supply from the Brandenburg transmission ring (ONTRAS/GASCADE), missing in SciGRID_gas; capacity = 2018 Berlin gas use (~150 PJ) x heat peak factor 1.8 + margin",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,DE_BB,Gas_Natural,45,,km,"Berlin gas supply from the Brandenburg transmission ring (ONTRAS/GASCADE), missing in SciGRID_gas; capacity = 2018 Berlin gas use (~150 PJ) x heat peak factor 1.8 + margin",28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,DE_BE,Gas_Natural,45,,km,ONTRAS/GASCADE network; BE-BB link missing in SciGRID_gas,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,DE_BB,Gas_Natural,45,,km,ONTRAS/GASCADE network; BE-BB link missing in SciGRID_gas,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
