@@ -2967,11 +2967,8 @@ DE_BY,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_HB,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_HE,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_HH,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
-DE_MV,P_Wind_Offshore_Deep,2018,0.97,,Fraction,reallocated from DE_Nord/DE_Baltic,27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,P_Wind_Offshore_Deep,2018,0.97,,Fraction,reallocated from DE_Nord/DE_Baltic,27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_RP,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
-DE_SH,P_Wind_Offshore_Deep,2018,0.97,,Fraction,reallocated from DE_Nord/DE_Baltic,27.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_SN,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
 DE_ST,P_Wind_Offshore_Deep,2018,0,,Fraction,,,
@@ -3137,3 +3134,20 @@ DE_SN,X_Liquifier,2018,0,,Fraction,no liquefaction plant in Germany in 2018,28.0
 DE_ST,X_Liquifier,2018,0,,Fraction,no liquefaction plant in Germany in 2018,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,X_Liquifier,2018,0,,Fraction,no liquefaction plant in Germany in 2018,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HB_Hardcoal,All,0,,Fraction,partner feedback EDF,23.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HD_Gas_Boiler,All,0,,Fraction,not available outside the German Laender,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
