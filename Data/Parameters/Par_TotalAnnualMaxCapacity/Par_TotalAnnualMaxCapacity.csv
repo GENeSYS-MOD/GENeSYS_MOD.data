@@ -1367,7 +1367,7 @@ DE_BB,P_PV_Rooftop_Commercial,All,10.34,,GW,https://www.agora-energiewende.de/pu
 DE_BB,P_PV_Rooftop_Residential,All,12.82,,GW,https://www.agora-energiewende.de/publikationen/solarstrom-vom-dach#downloads ,26.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_BE,P_PV_Utility_Avg,All,0,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_BE,P_PV_Utility_Inf,All,0,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
-DE_BE,P_PV_Utility_Opt,All,0.0025,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,P_PV_Utility_Opt,All,0.0025,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier); https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,P_Wind_Onshore_Avg,All,1.13333333,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_BE,P_Wind_Onshore_Inf,All,1.13333333,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_BE,P_Wind_Onshore_Opt,All,1.13333333,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
@@ -1416,7 +1416,7 @@ DE_HH,P_PV_Rooftop_Residential,All,2.38,,GW,https://www.agora-energiewende.de/pu
 DE_MV,P_PV_Utility_Avg,All,12.2333333,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_MV,P_PV_Utility_Inf,All,12.2333333,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_MV,P_PV_Utility_Opt,All,12.2333333,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
-DE_MV,P_Wind_Offshore_Deep,All,10,,GW,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,P_Wind_Offshore_Deep,All,0,,GW,"GENeSYS-MOD RES tool (ERA5 2018): Baltic EEZ within 100 km of shore, no far-shore cells",07.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,P_Wind_Offshore_Shallow,All,1.0675,,GW,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_MV,P_Wind_Onshore_Avg,All,29.4,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_MV,P_Wind_Onshore_Inf,All,29.4,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
@@ -1461,7 +1461,7 @@ DE_SH,P_PV_Rooftop_Commercial,All,8.94,,GW,https://www.agora-energiewende.de/pub
 DE_SH,P_PV_Rooftop_Residential,All,11.15,,GW,https://www.agora-energiewende.de/publikationen/solarstrom-vom-dach#downloads ,26.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_SL,P_PV_Utility_Avg,All,0.36666667,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_SL,P_PV_Utility_Inf,All,0.36666667,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
-DE_SL,P_PV_Utility_Opt,All,0.4253,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_PV_Utility_Opt,All,0.4253,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier); https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,P_Wind_Onshore_Avg,All,2.96666667,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_SL,P_Wind_Onshore_Inf,All,2.96666667,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_SL,P_Wind_Onshore_Opt,All,2.96666667,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
@@ -1491,10 +1491,10 @@ DE_TH,P_Wind_Onshore_Inf,All,14.1,,GW,https://www.umweltbundesamt.de/system/file
 DE_TH,P_Wind_Onshore_Opt,All,14.1,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_TH,P_PV_Rooftop_Commercial,All,6.72,,GW,https://www.agora-energiewende.de/publikationen/solarstrom-vom-dach#downloads ,26.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_TH,P_PV_Rooftop_Residential,All,8.24,,GW,https://www.agora-energiewende.de/publikationen/solarstrom-vom-dach#downloads ,26.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
-DE_MV,P_Wind_Offshore_Transitional,All,1.83,,GW,; raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,P_Wind_Offshore_Transitional,All,5.26,,GW,; raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Wind_Offshore_Transitional,All,1.83,,GW,Status des Offshore-Windenergieausbaus in Deutschland,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Wind_Offshore_Transitional,All,5.26,,GW,Status des Offshore-Windenergieausbaus in Deutschland,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,P_Wind_Offshore_Transitional,All,2.445,,GW,,06.05.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,P_Geothermal,All,0.03992,,GW,; raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Geothermal,All,0.03992,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,P_Geothermal,All,0.0078,,GW,,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,CHP_WasteToEnergy,2018,0.0399816,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,CHP_WasteToEnergy,2025,0.0372655,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1587,14 +1587,14 @@ DE_NRW,CHP_WasteToEnergy,2050,0.0849604,,GW,placeholder: 2018 residual capacity 
 DE_NRW,CHP_WasteToEnergy,2055,0.0807965,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,CHP_WasteToEnergy,2060,0.0768367,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,CHP_WasteToEnergy,2018,0.0240144,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2025,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2030,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2035,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2040,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2045,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2050,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2055,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,CHP_WasteToEnergy,2060,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2025,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2030,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2035,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2040,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2045,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2050,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2055,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2060,0.0350681,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,CHP_WasteToEnergy,2018,0.0392963,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,CHP_WasteToEnergy,2025,0.0366267,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,CHP_WasteToEnergy,2030,0.0348316,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1605,14 +1605,14 @@ DE_SH,CHP_WasteToEnergy,2050,0.028489,,GW,placeholder: 2018 residual capacity -1
 DE_SH,CHP_WasteToEnergy,2055,0.0270928,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,CHP_WasteToEnergy,2060,0.025765,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,CHP_WasteToEnergy,2018,0.00528,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2025,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2030,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2035,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2040,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2045,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2050,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2055,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,CHP_WasteToEnergy,2060,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); raised to the capacity in 2025,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2025,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2030,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2035,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2040,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2045,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2050,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2055,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2060,0.0223161,,GW,placeholder: 2018 residual capacity -1 %/a (open data item); Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,CHP_WasteToEnergy,2018,0.02977,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,CHP_WasteToEnergy,2025,0.0277476,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,CHP_WasteToEnergy,2030,0.0263877,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1775,3 +1775,9 @@ HU,P_Geothermal,2025,0.003,,GW,set to 2024 installed capacities by entso-e,03.02
 IE,P_Geothermal,2025,0.017,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 IT,P_Geothermal,2025,0.868,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 World,HD_Gas_Boiler,All,999999,,GW,"no source needed, unlimited",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Geothermal,All,0.0004,,GW,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Hydro_RoR,All,0.000564615,,GW,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_Hydro_RoR,All,0.0879042,,GW,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Hydro_Reservoir,All,0.00143977,,GW,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Geothermal,All,0.007,,GW,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Hydro_RoR,All,0.0207026,,GW,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
