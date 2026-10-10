@@ -264,7 +264,7 @@ DE,P_Oil,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/20
 DE,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Air_Bio,2020,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
-DE,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
+DE,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,PSNG_Air_H2,2018,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Air_H2,2020,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 DE,PSNG_Air_H2,2025,0,,Fraction,Not available in Germany,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
@@ -2530,52 +2530,52 @@ DE_ST,P_Oil,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD
 DE_TH,P_Oil,All,0.8,,Fraction,https://www.europarl.europa.eu/RegData/etudes/STUD/2023/740094/IPOL_STU(2023)740094_EN.pdf,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BB,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BB,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BE,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BW,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BY,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BY,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_HB,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HE,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_HE,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_HH,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_MV,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NI,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_NI,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_NRW,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_RP,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SH,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SL,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_SN,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_ST,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,PSNG_Air_Bio,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_TH,PSNG_Air_Bio,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,PSNG_Air_Bio,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,PSNG_Air_Bio,2030,0.95,,Fraction,assumption based on Regulation (EU) 2023/2405,09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,PSNG_Air_H2,2018,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BB,PSNG_Air_H2,2025,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
 DE_BB,PSNG_Air_H2,2030,0,,Fraction,Not available in Germany,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
@@ -3151,3 +3151,37 @@ DE_SL,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskal
 DE_SN,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HD_Gas_Boiler,All,0.98,,Fraction,as HB_Gas_Boiler,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,PSNG_Air_H2,2040,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,PSNG_Air_H2,2045,0,,Fraction,assumption based on the Airbus ZEROe postponement (2025),09.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
