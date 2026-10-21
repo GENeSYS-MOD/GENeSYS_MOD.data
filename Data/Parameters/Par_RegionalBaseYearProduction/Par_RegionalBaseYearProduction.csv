@@ -1511,8 +1511,8 @@ DE_BB,CHP_Biomass_Solid,Power,2018,0.497401,,PJ,Energy-Charts (net generation 20
 DE_BB,P_Biomass,Power,2018,11.9046,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,CHP_WasteToEnergy,Power,2018,3.4488,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,P_Hydro_RoR,Power,2018,0.0684,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,P_Wind_Onshore_Opt,Power,2018,41.1732,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,P_PV_Utility_Opt,Power,2018,8.51734,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_Wind_Onshore_Avg,Power,2018,41.1732,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_PV_Utility_Avg,Power,2018,8.51734,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,P_PV_Rooftop_Residential,Power,2018,5.06906,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,CHP_Coal_Hardcoal,Power,2018,8.13314,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,P_Coal_Hardcoal,Power,2018,1.09366,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1520,7 +1520,7 @@ DE_BE,CHP_Gas_CCGT_Natural,Power,2018,7.32376,,PJ,Energy-Charts (net generation 
 DE_BE,P_Gas_CCGT,Power,2018,5.04944,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,CHP_Oil,Power,2018,0.0972,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,CHP_Biomass_Solid,Power,2018,1.2024,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,P_Wind_Onshore_Opt,Power,2018,0.0972,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,P_Wind_Onshore_Avg,Power,2018,0.0971999,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,P_PV_Rooftop_Residential,Power,2018,0.32135,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,P_Nuclear,Power,2018,70.452,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,CHP_Coal_Hardcoal,Power,2018,14.3643,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1534,8 +1534,8 @@ DE_BW,P_Biomass,Power,2018,15.8251,,PJ,Energy-Charts (net generation 2018 by Lan
 DE_BW,CHP_WasteToEnergy,Power,2018,2.7072,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,P_Hydro_RoR,Power,2018,14.0508,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,P_Hydro_Reservoir,Power,2018,1.8,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,P_Wind_Onshore_Opt,Power,2018,9.1044,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,P_PV_Utility_Opt,Power,2018,1.49182,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_Wind_Onshore_Opt,Power,2018,9.1044,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_PV_Utility_Avg,Power,2018,1.49182,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,P_PV_Rooftop_Residential,Power,2018,17.9446,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BY,P_Nuclear,Power,2018,76.554,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BY,P_Coal_Hardcoal,Power,2018,9.1476,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1549,8 +1549,8 @@ DE_BY,CHP_WasteToEnergy,Power,2018,4.7736,,PJ,Energy-Charts (net generation 2018
 DE_BY,P_Geothermal,Power,2018,0.378,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BY,P_Hydro_RoR,Power,2018,37.9404,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BY,P_Hydro_Reservoir,Power,2018,2.4444,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,P_Wind_Onshore_Opt,Power,2018,16.2324,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,P_PV_Utility_Opt,Power,2018,9.36323,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Wind_Onshore_Opt,Power,2018,16.2324,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_PV_Utility_Avg,Power,2018,9.36323,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BY,P_PV_Rooftop_Residential,Power,2018,34.8052,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,P_Coal_Hardcoal,Power,2018,11.862,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,P_Gas_CCGT,Power,2018,4.6764,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1558,7 +1558,7 @@ DE_HB,P_Oil,Power,2018,0.0756,,PJ,Energy-Charts (net generation 2018 by Land); L
 DE_HB,P_Biomass,Power,2018,1.2492,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,CHP_WasteToEnergy,Power,2018,2.4912,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,P_Hydro_RoR,Power,2018,0.108,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,P_Wind_Onshore_Opt,Power,2018,1.2096,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,P_Wind_Onshore_Avg,Power,2018,1.2096,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,P_PV_Rooftop_Residential,Power,2018,0.112562,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HE,CHP_Coal_Hardcoal,Power,2018,5.4651,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HE,P_Coal_Hardcoal,Power,2018,2.9445,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1572,8 +1572,8 @@ DE_HE,P_Biomass,Power,2018,6.68412,,PJ,Energy-Charts (net generation 2018 by Lan
 DE_HE,CHP_WasteToEnergy,Power,2018,4.824,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HE,P_Hydro_RoR,Power,2018,0.72,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HE,P_Hydro_Reservoir,Power,2018,0.0756,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,P_Wind_Onshore_Opt,Power,2018,13.5288,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,P_PV_Utility_Opt,Power,2018,0.938128,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Wind_Onshore_Opt,Power,2018,13.5288,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_PV_Utility_Avg,Power,2018,0.938128,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HE,P_PV_Rooftop_Residential,Power,2018,5.66787,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,CHP_Coal_Hardcoal,Power,2018,3.80671,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,P_Coal_Hardcoal,Power,2018,26.7069,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1585,7 +1585,7 @@ DE_HH,P_Oil,Power,2018,0.106189,,PJ,Energy-Charts (net generation 2018 by Land);
 DE_HH,CHP_Biomass_Solid,Power,2018,0.302925,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,P_Biomass,Power,2018,0.683475,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,CHP_WasteToEnergy,Power,2018,0.504,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,P_Wind_Onshore_Opt,Power,2018,0.7524,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,P_Wind_Onshore_Avg,Power,2018,0.7524,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,P_PV_Rooftop_Residential,Power,2018,0.102123,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,CHP_Coal_Hardcoal,Power,2018,3.16661,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,P_Coal_Hardcoal,Power,2018,4.67059,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1598,8 +1598,8 @@ DE_MV,CHP_Biomass_Solid,Power,2018,0.141586,,PJ,Energy-Charts (net generation 20
 DE_MV,P_Biomass,Power,2018,8.49481,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,CHP_WasteToEnergy,Power,2018,0.7128,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,P_Hydro_RoR,Power,2018,0.0216,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,P_Wind_Onshore_Opt,Power,2018,20.8692,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,P_PV_Utility_Opt,Power,2018,3.45375,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Wind_Onshore_Avg,Power,2018,20.8692,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_PV_Utility_Avg,Power,2018,3.45376,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,P_PV_Rooftop_Residential,Power,2018,2.84265,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,P_Wind_Offshore_Transitional,Power,2018,8.3412,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NI,P_Nuclear,Power,2018,76.392,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1615,8 +1615,8 @@ DE_NI,P_Biomass,Power,2018,29.2249,,PJ,Energy-Charts (net generation 2018 by Lan
 DE_NI,CHP_WasteToEnergy,Power,2018,2.2536,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NI,P_Hydro_RoR,Power,2018,0.8424,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NI,P_Hydro_Reservoir,Power,2018,0.036,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,P_Wind_Onshore_Opt,Power,2018,70.7976,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,P_PV_Utility_Opt,Power,2018,1.80159,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Wind_Onshore_Avg,Power,2018,70.7976,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_PV_Utility_Avg,Power,2018,1.80159,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NI,P_PV_Rooftop_Residential,Power,2018,10.7516,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NI,P_Wind_Offshore_Transitional,Power,2018,42.867,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,CHP_Coal_Lignite,Power,2018,6.53194,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1632,8 +1632,8 @@ DE_NRW,P_Biomass,Power,2018,18.8621,,PJ,Energy-Charts (net generation 2018 by La
 DE_NRW,CHP_WasteToEnergy,Power,2018,8.9352,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,P_Hydro_RoR,Power,2018,1.5048,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,P_Hydro_Reservoir,Power,2018,0.1836,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,P_Wind_Onshore_Opt,Power,2018,33.9336,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,P_PV_Utility_Opt,Power,2018,0.71125,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_Wind_Onshore_Avg,Power,2018,33.9336,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_PV_Utility_Avg,Power,2018,0.71125,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,P_PV_Rooftop_Residential,Power,2018,14.5528,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,CHP_Gas_CCGT_Natural,Power,2018,27.2401,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,P_Gas_CCGT,Power,2018,1.14719,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1644,8 +1644,8 @@ DE_RP,CHP_WasteToEnergy,Power,2018,1.008,,PJ,Energy-Charts (net generation 2018 
 DE_RP,P_Geothermal,Power,2018,0.072,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,P_Hydro_RoR,Power,2018,2.97,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,P_Hydro_Reservoir,Power,2018,0.0144,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,P_Wind_Onshore_Opt,Power,2018,21.8448,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,P_PV_Utility_Opt,Power,2018,3.1785,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Wind_Onshore_Opt,Power,2018,21.8448,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_PV_Utility_Avg,Power,2018,3.17849,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,P_PV_Rooftop_Residential,Power,2018,4.4427,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,P_Nuclear,Power,2018,35.3196,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,P_Coal_Hardcoal,Power,2018,9.0144,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1656,8 +1656,8 @@ DE_SH,CHP_Biomass_Solid,Power,2018,6.78856,,PJ,Energy-Charts (net generation 201
 DE_SH,P_Biomass,Power,2018,3.34544,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,CHP_WasteToEnergy,Power,2018,1.5768,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,P_Hydro_RoR,Power,2018,0.0252,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,P_Wind_Onshore_Opt,Power,2018,41.0724,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,P_PV_Utility_Opt,Power,2018,1.56369,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Wind_Onshore_Avg,Power,2018,41.0724,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_PV_Utility_Avg,Power,2018,1.56369,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,P_PV_Rooftop_Residential,Power,2018,3.55911,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,P_Wind_Offshore_Transitional,Power,2018,17.4402,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,CHP_Coal_Hardcoal,Power,2018,3.2616,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1669,8 +1669,8 @@ DE_SL,CHP_Biomass_Solid,Power,2018,0.0114049,,PJ,Energy-Charts (net generation 2
 DE_SL,P_Biomass,Power,2018,1.2234,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,CHP_WasteToEnergy,Power,2018,0.5832,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,P_Hydro_RoR,Power,2018,0.3672,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,P_Wind_Onshore_Opt,Power,2018,3.0744,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,P_PV_Utility_Opt,Power,2018,0.440874,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_Wind_Onshore_Avg,Power,2018,3.0744,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_PV_Utility_Opt,Power,2018,0.440874,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,P_PV_Rooftop_Residential,Power,2018,1.14313,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,CHP_Coal_Lignite,Power,2018,15.9088,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,P_Coal_Lignite,Power,2018,93.6644,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1684,8 +1684,8 @@ DE_SN,P_Biomass,Power,2018,5.81764,,PJ,Energy-Charts (net generation 2018 by Lan
 DE_SN,CHP_WasteToEnergy,Power,2018,0.3744,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,P_Hydro_RoR,Power,2018,0.6876,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,P_Hydro_Reservoir,Power,2018,0.0108,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,P_Wind_Onshore_Opt,Power,2018,7.0524,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,P_PV_Utility_Opt,Power,2018,2.76253,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_Wind_Onshore_Avg,Power,2018,7.0524,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_PV_Utility_Avg,Power,2018,2.76253,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,P_PV_Rooftop_Residential,Power,2018,3.93347,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,CHP_Coal_Lignite,Power,2018,9.33946,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,P_Coal_Lignite,Power,2018,15.4285,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1698,8 +1698,8 @@ DE_ST,CHP_Biomass_Solid,Power,2018,0.822874,,PJ,Energy-Charts (net generation 20
 DE_ST,P_Biomass,Power,2018,9.21033,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,CHP_WasteToEnergy,Power,2018,3.5856,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,P_Hydro_RoR,Power,2018,0.3204,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,P_Wind_Onshore_Opt,Power,2018,29.4588,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,P_PV_Utility_Opt,Power,2018,4.64397,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Wind_Onshore_Avg,Power,2018,29.4588,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_PV_Utility_Avg,Power,2018,4.64397,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,P_PV_Rooftop_Residential,Power,2018,4.44603,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,CHP_Gas_CCGT_Natural,Power,2018,7.0128,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,CHP_Oil,Power,2018,0.0874077,,PJ,Energy-Charts (net generation 2018 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1708,8 +1708,8 @@ DE_TH,P_Biomass,Power,2018,5.04585,,PJ,Energy-Charts (net generation 2018 by Lan
 DE_TH,CHP_WasteToEnergy,Power,2018,0.3384,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,P_Hydro_RoR,Power,2018,0.6516,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,P_Hydro_Reservoir,Power,2018,0.2124,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,P_Wind_Onshore_Opt,Power,2018,9.5976,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,P_PV_Utility_Opt,Power,2018,1.97916,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,P_Wind_Onshore_Opt,Power,2018,9.5976,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,P_PV_Utility_Avg,Power,2018,1.97916,,PJ,Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,P_PV_Rooftop_Residential,Power,2018,2.89524,,PJ,Energy-Charts (net generation 2018 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,CHP_Coal_Lignite,Power,2025,6.60381,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,P_Coal_Lignite,Power,2025,52.0942,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1721,14 +1721,14 @@ DE_BB,CHP_Biomass_Solid,Power,2025,0.521982,,PJ,Energy-Charts (net generation 20
 DE_BB,P_Biomass,Power,2025,10.5732,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,CHP_WasteToEnergy,Power,2025,2.8512,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,P_Hydro_RoR,Power,2025,0.0468,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,P_Wind_Onshore_Opt,Power,2025,50.9616,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BB,P_PV_Utility_Opt,Power,2025,17.7165,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_Wind_Onshore_Avg,Power,2025,50.9616,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_PV_Utility_Avg,Power,2025,17.7165,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,P_PV_Rooftop_Residential,Power,2025,8.53112,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,CHP_Coal_Hardcoal,Power,2025,4.4532,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,CHP_Gas_CCGT_Natural,Power,2025,14.7204,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,CHP_Oil,Power,2025,0.036,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,CHP_Biomass_Solid,Power,2025,0.828,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,P_Wind_Onshore_Opt,Power,2025,0.09,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,P_Wind_Onshore_Avg,Power,2025,0.09,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,P_PV_Rooftop_Residential,Power,2025,0.937619,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,CHP_Coal_Hardcoal,Power,2025,14.9762,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,P_Coal_Hardcoal,Power,2025,21.5062,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1741,8 +1741,8 @@ DE_BW,P_Biomass,Power,2025,14.7614,,PJ,Energy-Charts (net generation 2025 by Lan
 DE_BW,CHP_WasteToEnergy,Power,2025,1.9656,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,P_Hydro_RoR,Power,2025,13.9824,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,P_Hydro_Reservoir,Power,2025,2.0556,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,P_Wind_Onshore_Opt,Power,2025,10.1052,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BW,P_PV_Utility_Opt,Power,2025,6.10693,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_Wind_Onshore_Opt,Power,2025,10.1052,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_PV_Utility_Avg,Power,2025,6.10693,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BW,P_PV_Rooftop_Residential,Power,2025,36.3407,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BY,P_Coal_Hardcoal,Power,2025,1.4328,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BY,CHP_Gas_CCGT_Natural,Power,2025,29.6345,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1755,8 +1755,8 @@ DE_BY,CHP_WasteToEnergy,Power,2025,3.8232,,PJ,Energy-Charts (net generation 2025
 DE_BY,P_Geothermal,Power,2025,0.4968,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BY,P_Hydro_RoR,Power,2025,34.0488,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BY,P_Hydro_Reservoir,Power,2025,2.1564,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,P_Wind_Onshore_Opt,Power,2025,15.5052,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BY,P_PV_Utility_Opt,Power,2025,36.6553,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Wind_Onshore_Opt,Power,2025,15.5052,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_PV_Utility_Avg,Power,2025,36.6553,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BY,P_PV_Rooftop_Residential,Power,2025,56.4155,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,CHP_Gas_CCGT_Natural,Power,2025,0.504148,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,P_Gas_CCGT,Power,2025,3.85545,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1764,7 +1764,7 @@ DE_HB,P_Oil,Power,2025,0.0568841,,PJ,Energy-Charts (net generation 2025 by Land)
 DE_HB,P_Biomass,Power,2025,1.1556,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,CHP_WasteToEnergy,Power,2025,1.98,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,P_Hydro_RoR,Power,2025,0.108,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HB,P_Wind_Onshore_Opt,Power,2025,1.332,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,P_Wind_Onshore_Avg,Power,2025,1.332,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HB,P_PV_Rooftop_Residential,Power,2025,0.324794,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HE,CHP_Coal_Hardcoal,Power,2025,2.052,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HE,CHP_Gas_CCGT_Natural,Power,2025,12.9701,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1777,15 +1777,15 @@ DE_HE,P_Biomass,Power,2025,4.85624,,PJ,Energy-Charts (net generation 2025 by Lan
 DE_HE,CHP_WasteToEnergy,Power,2025,3.888,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HE,P_Hydro_RoR,Power,2025,0.702,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HE,P_Hydro_Reservoir,Power,2025,0.0864,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,P_Wind_Onshore_Opt,Power,2025,16.074,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HE,P_PV_Utility_Opt,Power,2025,2.55685,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Wind_Onshore_Opt,Power,2025,16.074,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_PV_Utility_Avg,Power,2025,2.55685,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HE,P_PV_Rooftop_Residential,Power,2025,11.9512,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,CHP_Coal_Hardcoal,Power,2025,2.2212,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,CHP_Gas_CCGT_Natural,Power,2025,2.7612,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,CHP_Oil,Power,2025,0.0216,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,CHP_Biomass_Solid,Power,2025,0.7668,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,CHP_WasteToEnergy,Power,2025,0.4248,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_HH,P_Wind_Onshore_Opt,Power,2025,0.8208,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,P_Wind_Onshore_Avg,Power,2025,0.820799,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_HH,P_PV_Rooftop_Residential,Power,2025,0.3867,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,CHP_Coal_Hardcoal,Power,2025,2.68154,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,P_Coal_Hardcoal,Power,2025,3.84166,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1797,8 +1797,8 @@ DE_MV,CHP_Biomass_Solid,Power,2025,0.255853,,PJ,Energy-Charts (net generation 20
 DE_MV,P_Biomass,Power,2025,7.72895,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,CHP_WasteToEnergy,Power,2025,0.576,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,P_Hydro_RoR,Power,2025,0.0108,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,P_Wind_Onshore_Opt,Power,2025,26.0028,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,P_PV_Utility_Opt,Power,2025,8.46238,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Wind_Onshore_Avg,Power,2025,26.0028,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_PV_Utility_Avg,Power,2025,8.46238,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,P_PV_Rooftop_Residential,Power,2025,5.25002,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_MV,P_Wind_Offshore_Transitional,Power,2025,19.4904,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NI,CHP_Coal_Hardcoal,Power,2025,3.63213,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1813,8 +1813,8 @@ DE_NI,P_Biomass,Power,2025,27.5076,,PJ,Energy-Charts (net generation 2025 by Lan
 DE_NI,CHP_WasteToEnergy,Power,2025,2.0376,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NI,P_Hydro_RoR,Power,2025,0.792,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NI,P_Hydro_Reservoir,Power,2025,0.0396,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,P_Wind_Onshore_Opt,Power,2025,70.8912,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NI,P_PV_Utility_Opt,Power,2025,4.06343,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Wind_Onshore_Avg,Power,2025,70.8912,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_PV_Utility_Avg,Power,2025,4.06343,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NI,P_PV_Rooftop_Residential,Power,2025,22.4074,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NI,P_Wind_Offshore_Transitional,Power,2025,53.1769,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,CHP_Coal_Lignite,Power,2025,4.69554,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1830,8 +1830,8 @@ DE_NRW,P_Biomass,Power,2025,17.7081,,PJ,Energy-Charts (net generation 2025 by La
 DE_NRW,CHP_WasteToEnergy,Power,2025,7.5672,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,P_Hydro_RoR,Power,2025,1.7028,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,P_Hydro_Reservoir,Power,2025,0.216,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,P_Wind_Onshore_Opt,Power,2025,48.4704,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_NRW,P_PV_Utility_Opt,Power,2025,2.69546,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_Wind_Onshore_Avg,Power,2025,48.4704,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_PV_Utility_Avg,Power,2025,2.69546,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_NRW,P_PV_Rooftop_Residential,Power,2025,34.3485,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,CHP_Gas_CCGT_Natural,Power,2025,24.21,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,CHP_Oil,Power,2025,0.0468,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1840,8 +1840,8 @@ DE_RP,CHP_WasteToEnergy,Power,2025,1.0296,,PJ,Energy-Charts (net generation 2025
 DE_RP,P_Geothermal,Power,2025,0.0576,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,P_Hydro_RoR,Power,2025,3.4164,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,P_Hydro_Reservoir,Power,2025,0.018,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,P_Wind_Onshore_Opt,Power,2025,26.6256,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_RP,P_PV_Utility_Opt,Power,2025,5.50208,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Wind_Onshore_Opt,Power,2025,26.6256,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_PV_Utility_Avg,Power,2025,5.50208,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_RP,P_PV_Rooftop_Residential,Power,2025,12.0947,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,P_Coal_Hardcoal,Power,2025,2.97,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,CHP_Gas_CCGT_Natural,Power,2025,7.0344,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1850,8 +1850,8 @@ DE_SH,CHP_Biomass_Solid,Power,2025,8.31169,,PJ,Energy-Charts (net generation 202
 DE_SH,P_Biomass,Power,2025,1.53791,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,CHP_WasteToEnergy,Power,2025,1.26,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,P_Hydro_RoR,Power,2025,0.0216,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,P_Wind_Onshore_Opt,Power,2025,56.7612,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SH,P_PV_Utility_Opt,Power,2025,4.94115,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Wind_Onshore_Avg,Power,2025,56.7612,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_PV_Utility_Avg,Power,2025,4.94114,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,P_PV_Rooftop_Residential,Power,2025,6.05325,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SH,P_Wind_Offshore_Transitional,Power,2025,21.6347,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,CHP_Gas_CCGT_Natural,Power,2025,3.096,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1859,8 +1859,8 @@ DE_SL,CHP_Oil,Power,2025,0.1008,,PJ,Energy-Charts (net generation 2025 by Land);
 DE_SL,CHP_Biomass_Solid,Power,2025,0.2448,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,CHP_WasteToEnergy,Power,2025,0.6552,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,P_Hydro_RoR,Power,2025,0.2016,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,P_Wind_Onshore_Opt,Power,2025,3.9384,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SL,P_PV_Utility_Opt,Power,2025,1.30964,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_Wind_Onshore_Avg,Power,2025,3.9384,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_PV_Utility_Opt,Power,2025,1.30964,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SL,P_PV_Rooftop_Residential,Power,2025,2.05996,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,CHP_Coal_Lignite,Power,2025,13.8935,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,P_Coal_Lignite,Power,2025,57.1885,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1874,8 +1874,8 @@ DE_SN,P_Biomass,Power,2025,4.78216,,PJ,Energy-Charts (net generation 2025 by Lan
 DE_SN,CHP_WasteToEnergy,Power,2025,0.3024,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,P_Hydro_RoR,Power,2025,0.6372,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,P_Hydro_Reservoir,Power,2025,0.0144,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,P_Wind_Onshore_Opt,Power,2025,7.9416,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_SN,P_PV_Utility_Opt,Power,2025,6.85564,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_Wind_Onshore_Avg,Power,2025,7.9416,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_PV_Utility_Avg,Power,2025,6.85565,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_SN,P_PV_Rooftop_Residential,Power,2025,7.49756,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,CHP_Coal_Lignite,Power,2025,8.4008,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,P_Coal_Lignite,Power,2025,6.6688,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1888,8 +1888,8 @@ DE_ST,CHP_Biomass_Solid,Power,2025,1.05524,,PJ,Energy-Charts (net generation 202
 DE_ST,P_Biomass,Power,2025,9.02476,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,CHP_WasteToEnergy,Power,2025,3.492,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,P_Hydro_RoR,Power,2025,0.396,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,P_Wind_Onshore_Opt,Power,2025,31.1652,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_ST,P_PV_Utility_Opt,Power,2025,8.41358,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Wind_Onshore_Avg,Power,2025,31.1652,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_PV_Utility_Avg,Power,2025,8.41358,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_ST,P_PV_Rooftop_Residential,Power,2025,7.66042,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,CHP_Gas_CCGT_Natural,Power,2025,6.7248,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,CHP_Biomass_Solid,Power,2025,2.09609,,PJ,Energy-Charts (net generation 2025 by Land); LAK Energiebilanzen (KWK share),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1897,8 +1897,8 @@ DE_TH,P_Biomass,Power,2025,3.06631,,PJ,Energy-Charts (net generation 2025 by Lan
 DE_TH,CHP_WasteToEnergy,Power,2025,0.2736,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,P_Hydro_RoR,Power,2025,0.63,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,P_Hydro_Reservoir,Power,2025,0.2448,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,P_Wind_Onshore_Opt,Power,2025,11.6388,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_TH,P_PV_Utility_Opt,Power,2025,3.3969,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,P_Wind_Onshore_Opt,Power,2025,11.6388,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,P_PV_Utility_Avg,Power,2025,3.3969,,PJ,Energy-Charts (net generation 2025 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,P_PV_Rooftop_Residential,Power,2025,6.0495,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HHI_BF_BOF,Heat_High_Industrial,2018,10.8259,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HHI_BF_BOF,Heat_High_Industrial,2025,9.06983,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
