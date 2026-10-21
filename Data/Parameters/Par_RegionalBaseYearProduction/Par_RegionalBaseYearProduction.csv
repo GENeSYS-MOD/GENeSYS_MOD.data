@@ -148,27 +148,105 @@ CZ,P_Gas_CCGT,Power,2018,7.237,,PJ,,,
 CZ,P_Gas_Engines,Power,2018,0.831,,PJ,,,
 CZ,P_Gas_OCGT,Power,2018,0.914,,PJ,,,
 CZ,P_Nuclear,Power,2018,102.047,,PJ,,,
-DE,HB_Biomass,Heat_Buildings,2018,251.332,,PJ,,,
-DE,HB_Direct_Electric,Heat_Buildings,2018,46.072,,PJ,,,
-DE,HB_Hardcoal,Heat_Buildings,2018,45.728,,PJ,,,
-DE,HB_Heatpump_Aerial,Heat_Buildings,2018,32.082,,PJ,,,
-DE,HB_Heatpump_Ground,Heat_Buildings,2018,1.689,,PJ,,,
-DE,HB_Oil_Boiler,Heat_Buildings,2018,681.617,,PJ,,,
-DE,PSNG_Road_BEV,Mobility_Passenger,2025,33.83072,,Gpkm,Share from European Commission: European Alternative Fuels Observatory (Country Comparison) multiplied with SpecifiedAnnualDemand,27.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,PSNG_Road_PHEV,Mobility_Passenger,2025,24.2350976,,Gpkm,Share from European Commission: European Alternative Fuels Observatory (Country Comparison) multiplied with SpecifiedAnnualDemand,27.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,Power,2018,45.608,,PJ,,,
-DE,CHP_Coal_Hardcoal,Power,2018,63.923,,PJ,,,
-DE,CHP_Coal_Lignite,Power,2018,13.051,,PJ,,,
-DE,CHP_Gas_CCGT_Natural,Power,2018,152.842,,PJ,,,
-DE,CHP_Oil,Power,2018,6.514,,PJ,,,
-DE,P_Biomass,Power,2018,145.486,,PJ,,,
-DE,P_Coal_Hardcoal,Power,2018,233.776,,PJ,,,
-DE,P_Coal_Lignite,Power,2018,461.9879019,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Gas_CCGT,Power,2018,106.984,,PJ,,,
-DE,P_Gas_Engines,Power,2018,10.267,,PJ,,,
-DE,P_Gas_OCGT,Power,2018,30.237,,PJ,,,
-DE,P_Nuclear,Power,2018,259.217,,PJ,,,
-DE,P_Oil,Power,2018,8.178,,PJ,,,
+DE,CHP_Biomass_Solid,Heat_District,2018,82.78,,PJ,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,Power,2018,17.5006919,,PJ,Energy-Charts (net generation 2018 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,Power,2025,23.881952,,PJ,Energy-Charts (net generation 2025 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Hardcoal,Heat_District,2018,72.27861,,PJ,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Hardcoal,Power,2018,60.31656,,PJ,Energy-Charts (net generation 2018 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Hardcoal,Power,2025,40.96887,,PJ,Energy-Charts (net generation 2025 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Lignite,Heat_District,2018,17.69079,,PJ,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Lignite,Power,2018,40.75175,,PJ,Energy-Charts (net generation 2018 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Lignite,Power,2025,33.59365,,PJ,Energy-Charts (net generation 2025 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,Heat_District,2018,169.943823,,PJ,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,Power,2018,143.561238,,PJ,Energy-Charts (net generation 2018 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,Power,2025,169.358278,,PJ,Energy-Charts (net generation 2025 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,Heat_District,2018,4.5658729,,PJ,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,Power,2018,1.148217,,PJ,Energy-Charts (net generation 2018 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,Power,2025,0.5528127,,PJ,Energy-Charts (net generation 2025 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,Heat_District,2018,50.038449,,PJ,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,Power,2018,38.1168,,PJ,Energy-Charts (net generation 2018 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,Power,2025,32.1264,,PJ,Energy-Charts (net generation 2025 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Biomass,Heat_Buildings,2018,251.332000006,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Direct_Electric,Heat_Buildings,2018,46.072000001,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Hardcoal,Heat_Buildings,2018,45.728000002,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Aerial,Heat_Buildings,2018,32.082000001,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Ground,Heat_Buildings,2018,1.689,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Oil_Boiler,Heat_Buildings,2018,681.617000001,,PJ,Assumption - calculated using total German RegionalBaseYearProduction data and Wie_heizt_Deutschland_2023_-aktualisierte_Fassung-_BDEW_1.pdf,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Gas_Boiler,Heat_District,2018,83.914344,,PJ,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,Heat_District,2018,3.4866027,,PJ,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,Heat_District,2018,8.7929663,,PJ,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Solar_Thermal,Heat_District,2018,0.122336854,,PJ,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_BF_BOF,Heat_High_Industrial,2018,152.762056,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_BF_BOF,Heat_High_Industrial,2025,127.982996,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,6.1828525,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Bio_BF_BOF,Heat_High_Industrial,2025,6.58607935,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,Heat_High_Industrial,2018,59.1024683,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,Heat_High_Industrial,2025,49.7609512,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Scrap_EAF,Heat_High_Industrial,2018,58.7081601,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Scrap_EAF,Heat_High_Industrial,2025,46.4458038,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Biomass,Heat_Low_Industrial,2018,29.430708,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Biomass,Heat_Low_Industrial,2025,31.350096,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Direct_Electric,Heat_Low_Industrial,2018,19.6208999,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Direct_Electric,Heat_Low_Industrial,2025,15.5226955,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Gas_Boiler,Heat_Low_Industrial,2018,151.97096,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Gas_Boiler,Heat_Low_Industrial,2025,127.950981,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Hardcoal,Heat_Low_Industrial,2018,22.7488082,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Hardcoal,Heat_Low_Industrial,2025,19.0588067,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Oil_Boiler,Heat_Low_Industrial,2018,8.6649629,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Oil_Boiler,Heat_Low_Industrial,2025,13.5016962,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,29.616665,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,Heat_MediumHigh_Industrial,2025,31.5481975,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,Heat_MediumLow_Industrial,2018,12.696201,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,Heat_MediumLow_Industrial,2025,13.5241964,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,Heat_MediumHigh_Industrial,2018,338.58166,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,Heat_MediumHigh_Industrial,2025,285.065588,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,Heat_MediumLow_Industrial,2018,111.895023,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,Heat_MediumLow_Industrial,2025,94.209112,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,183.555892,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,Heat_MediumHigh_Industrial,2025,153.781888,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,39.71637,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,Heat_MediumLow_Industrial,2025,33.274135,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,Heat_MediumHigh_Industrial,2018,24.7924876,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,Heat_MediumHigh_Industrial,2025,38.6315122,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,Heat_MediumLow_Industrial,2018,6.6129347,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,Heat_MediumLow_Industrial,2025,10.3042026,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,12.3065021,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2025,9.7360392,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,9.393667,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2025,7.4316094,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; federal-state share of Par_SpecifiedAnnualDemand 2018,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_BEV,Mobility_Passenger,2025,33.83072,,Gpkm,Share from European Commission: European Alternative Fuels Observatory (Country Comparison) multiplied with SpecifiedAnnualDemand,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_PHEV,Mobility_Passenger,2025,24.235098,,Gpkm,Share from European Commission: European Alternative Fuels Observatory (Country Comparison) multiplied with SpecifiedAnnualDemand,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Biomass,Power,2018,149.920785,,PJ,Energy-Charts (net generation 2018 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Biomass,Power,2025,129.78763,,PJ,Energy-Charts (net generation 2025 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,Power,2018,217.27585,,PJ,Energy-Charts (net generation 2018 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,Power,2025,57.77913,,PJ,Energy-Charts (net generation 2025 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Lignite,Power,2018,445.0069,,PJ,Energy-Charts (net generation 2018 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Lignite,Power,2025,216.0375,,PJ,Energy-Charts (net generation 2025 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_CCGT,Power,2018,27.891488,,PJ,Energy-Charts (net generation 2018 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_CCGT,Power,2025,20.384011,,PJ,Energy-Charts (net generation 2025 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_OCGT,Power,2018,101.99247,,PJ,Energy-Charts (net generation 2018 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_OCGT,Power,2025,138.37617,,PJ,Energy-Charts (net generation 2025 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,Power,2018,0.45,,PJ,Energy-Charts (net generation 2018 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,Power,2025,0.5544,,PJ,Energy-Charts (net generation 2025 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,Power,2018,4.7772,,PJ,Energy-Charts (net generation 2018 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,Power,2025,4.8312,,PJ,Energy-Charts (net generation 2025 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,Power,2018,60.2784,,PJ,Energy-Charts (net generation 2018 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,Power,2025,56.6964,,PJ,Energy-Charts (net generation 2025 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Nuclear,Power,2018,258.7176,,PJ,Energy-Charts (net generation 2018 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Oil,Power,2018,5.0644326,,PJ,Energy-Charts (net generation 2018 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Oil,Power,2025,4.3963817,,PJ,Energy-Charts (net generation 2025 by federal state); LAK Energiebilanzen (KWK share),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Rooftop_Residential,Power,2018,112.589495,,PJ,Energy-Charts (net generation 2018 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Rooftop_Residential,Power,2025,218.308943,,PJ,Energy-Charts (net generation 2025 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Avg,Power,2018,40.372152370684,,PJ,Energy-Charts (net generation 2018 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Avg,Power,2025,107.27854591109,,PJ,Energy-Charts (net generation 2025 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,Power,2018,0.47367962931605,,PJ,Energy-Charts (net generation 2018 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,Power,2025,1.3972940889127,,PJ,Energy-Charts (net generation 2025 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,Power,2018,68.6484,,PJ,Energy-Charts (net generation 2018 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,Power,2025,94.302,,PJ,Energy-Charts (net generation 2025 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,Power,2018,222.45806441766,,PJ,Energy-Charts (net generation 2018 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,Power,2025,266.56096160671,,PJ,Energy-Charts (net generation 2025 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,Power,2018,97.340735482335,,PJ,Energy-Charts (net generation 2018 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,Power,2025,111.76303739329,,PJ,Energy-Charts (net generation 2025 by federal state),12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HB_Biomass,Heat_Buildings,2018,38.037,,PJ,,,
 DK,HB_Direct_Electric,Heat_Buildings,2018,6.404,,PJ,,,
 DK,HB_Hardcoal,Heat_Buildings,2018,0.517,,PJ,,,
@@ -883,15 +961,6 @@ CZ,CHP_Coal_Lignite,Heat_District,2018,47.4692,,PJ,European Commission 2021: Ove
 CZ,CHP_Gas_CCGT_Natural,Heat_District,2018,24.4057,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HD_Heatpump_Air,Heat_District,2018,0.0992,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HD_Heatpump_ExcessHeat,Heat_District,2018,0.5953,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix|other distributed),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,Heat_District,2018,94.5648,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,Heat_District,2018,108.954,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,Heat_District,2018,22.2447,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,Heat_District,2018,193.889,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Oil,Heat_District,2018,5.2092,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,Heat_District,2018,57.0888,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Geothermal,Heat_District,2018,3.2832,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Heatpump_ExcessHeat,Heat_District,2018,8.28,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Solar_Thermal,Heat_District,2018,0.1152,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,CHP_Biomass_Solid,Heat_District,2018,76.381,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,CHP_Coal_Hardcoal,Heat_District,2018,16.509,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,CHP_Gas_CCGT_Natural,Heat_District,2018,20.446,,PJ,European Commission 2021: Overview of District Heating and Cooling Markets and Regulatory Frameworks under the Revised Renewable Energy Directive (Heat supply and fuel mix),45861,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1831,7 +1900,6 @@ DE_TH,P_Hydro_Reservoir,Power,2025,0.2448,,PJ,Energy-Charts (net generation 2025
 DE_TH,P_Wind_Onshore_Opt,Power,2025,11.6388,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,P_PV_Utility_Opt,Power,2025,3.3969,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,P_PV_Rooftop_Residential,Power,2025,6.0495,,PJ,Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_BF_BOF,Heat_High_Industrial,2018,152.762,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HHI_BF_BOF,Heat_High_Industrial,2018,10.8259,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HHI_BF_BOF,Heat_High_Industrial,2025,9.06983,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HHI_BF_BOF,Heat_High_Industrial,2018,0.145346,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1864,7 +1932,6 @@ DE_ST,HHI_BF_BOF,Heat_High_Industrial,2018,5.83871,,PJ,AGEB Anwendungsbilanzen I
 DE_ST,HHI_BF_BOF,Heat_High_Industrial,2025,4.89164,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HHI_BF_BOF,Heat_High_Industrial,2018,1.39649,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HHI_BF_BOF,Heat_High_Industrial,2025,1.16997,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,6.18285,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.438163,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HHI_Bio_BF_BOF,Heat_High_Industrial,2025,0.466739,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.0058827,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1897,7 +1964,6 @@ DE_ST,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.236315,,PJ,AGEB Anwendungsbilan
 DE_ST,HHI_Bio_BF_BOF,Heat_High_Industrial,2025,0.251726,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HHI_Bio_BF_BOF,Heat_High_Industrial,2018,0.0565211,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HHI_Bio_BF_BOF,Heat_High_Industrial,2025,0.0602073,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_DRI_EAF,Heat_High_Industrial,2018,59.1025,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HHI_DRI_EAF,Heat_High_Industrial,2018,4.18844,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HHI_DRI_EAF,Heat_High_Industrial,2025,3.52643,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HHI_DRI_EAF,Heat_High_Industrial,2018,0.0562333,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1930,7 +1996,6 @@ DE_ST,HHI_DRI_EAF,Heat_High_Industrial,2018,2.25896,,PJ,AGEB Anwendungsbilanzen 
 DE_ST,HHI_DRI_EAF,Heat_High_Industrial,2025,1.90191,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HHI_DRI_EAF,Heat_High_Industrial,2018,0.540291,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HHI_DRI_EAF,Heat_High_Industrial,2025,0.454894,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Scrap_EAF,Heat_High_Industrial,2018,58.7082,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HHI_Scrap_EAF,Heat_High_Industrial,2018,4.1605,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HHI_Scrap_EAF,Heat_High_Industrial,2025,3.2915,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.0558581,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1963,7 +2028,6 @@ DE_ST,HHI_Scrap_EAF,Heat_High_Industrial,2018,2.24389,,PJ,AGEB Anwendungsbilanze
 DE_ST,HHI_Scrap_EAF,Heat_High_Industrial,2025,1.7752,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HHI_Scrap_EAF,Heat_High_Industrial,2018,0.536687,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HHI_Scrap_EAF,Heat_High_Industrial,2025,0.424589,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018; fitted to the 2018 electricity balance,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Biomass,Heat_Low_Industrial,2018,29.4307,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HLI_Biomass,Heat_Low_Industrial,2018,1.71335,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HLI_Biomass,Heat_Low_Industrial,2025,1.82509,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HLI_Biomass,Heat_Low_Industrial,2018,0.101009,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1996,7 +2060,6 @@ DE_ST,HLI_Biomass,Heat_Low_Industrial,2018,1.57487,,PJ,AGEB Anwendungsbilanzen I
 DE_ST,HLI_Biomass,Heat_Low_Industrial,2025,1.67758,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HLI_Biomass,Heat_Low_Industrial,2018,0.579721,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HLI_Biomass,Heat_Low_Industrial,2025,0.617529,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Direct_Electric,Heat_Low_Industrial,2018,19.6209,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HLI_Direct_Electric,Heat_Low_Industrial,2018,1.14226,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HLI_Direct_Electric,Heat_Low_Industrial,2025,0.903676,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.0673409,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2029,7 +2092,6 @@ DE_ST,HLI_Direct_Electric,Heat_Low_Industrial,2018,1.04994,,PJ,AGEB Anwendungsbi
 DE_ST,HLI_Direct_Electric,Heat_Low_Industrial,2025,0.830636,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HLI_Direct_Electric,Heat_Low_Industrial,2018,0.386489,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HLI_Direct_Electric,Heat_Low_Industrial,2025,0.305764,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Gas_Boiler,Heat_Low_Industrial,2018,151.971,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HLI_Gas_Boiler,Heat_Low_Industrial,2018,8.8472,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HLI_Gas_Boiler,Heat_Low_Industrial,2025,7.44885,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HLI_Gas_Boiler,Heat_Low_Industrial,2018,0.52158,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2062,7 +2124,6 @@ DE_ST,HLI_Gas_Boiler,Heat_Low_Industrial,2018,8.13213,,PJ,AGEB Anwendungsbilanze
 DE_ST,HLI_Gas_Boiler,Heat_Low_Industrial,2025,6.8468,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HLI_Gas_Boiler,Heat_Low_Industrial,2018,2.9935,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HLI_Gas_Boiler,Heat_Low_Industrial,2025,2.52036,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Hardcoal,Heat_Low_Industrial,2018,22.7488,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HLI_Hardcoal,Heat_Low_Industrial,2018,1.32435,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HLI_Hardcoal,Heat_Low_Industrial,2025,1.10953,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HLI_Hardcoal,Heat_Low_Industrial,2018,0.0780762,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2095,7 +2156,6 @@ DE_ST,HLI_Hardcoal,Heat_Low_Industrial,2018,1.21731,,PJ,AGEB Anwendungsbilanzen 
 DE_ST,HLI_Hardcoal,Heat_Low_Industrial,2025,1.01986,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HLI_Hardcoal,Heat_Low_Industrial,2018,0.448102,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HLI_Hardcoal,Heat_Low_Industrial,2025,0.375417,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Oil_Boiler,Heat_Low_Industrial,2018,8.66497,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.504443,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HLI_Oil_Boiler,Heat_Low_Industrial,2025,0.78602,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.029739,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2128,7 +2188,6 @@ DE_ST,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.463672,,PJ,AGEB Anwendungsbilanz
 DE_ST,HLI_Oil_Boiler,Heat_Low_Industrial,2025,0.722491,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HLI_Oil_Boiler,Heat_Low_Industrial,2018,0.170681,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HLI_Oil_Boiler,Heat_Low_Industrial,2025,0.265954,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,29.6167,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,1.0944,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Biomass,Heat_MediumHigh_Industrial,2025,1.16578,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.051804,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2161,7 +2220,6 @@ DE_ST,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,2.35295,,PJ,AGEB Anwendungsbi
 DE_ST,HMHI_Biomass,Heat_MediumHigh_Industrial,2025,2.5064,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Biomass,Heat_MediumHigh_Industrial,2018,0.340243,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Biomass,Heat_MediumHigh_Industrial,2025,0.362432,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Biomass,Heat_MediumLow_Industrial,2018,12.6962,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.51253,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Biomass,Heat_MediumLow_Industrial,2025,0.545955,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.039856,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2194,7 +2252,6 @@ DE_ST,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.886571,,PJ,AGEB Anwendungsbi
 DE_ST,HMHI_Biomass,Heat_MediumLow_Industrial,2025,0.94439,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Biomass,Heat_MediumLow_Industrial,2018,0.175146,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Biomass,Heat_MediumLow_Industrial,2025,0.186569,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Gas,Heat_MediumHigh_Industrial,2018,338.582,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Gas,Heat_MediumHigh_Industrial,2018,12.5114,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Gas,Heat_MediumHigh_Industrial,2025,10.5338,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HMHI_Gas,Heat_MediumHigh_Industrial,2018,0.59223,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2227,7 +2284,6 @@ DE_ST,HMHI_Gas,Heat_MediumHigh_Industrial,2018,26.8993,,PJ,AGEB Anwendungsbilanz
 DE_ST,HMHI_Gas,Heat_MediumHigh_Industrial,2025,22.6476,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Gas,Heat_MediumHigh_Industrial,2018,3.8897,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Gas,Heat_MediumHigh_Industrial,2025,3.2749,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Gas,Heat_MediumLow_Industrial,2018,111.895,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Gas,Heat_MediumLow_Industrial,2018,4.51706,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Gas,Heat_MediumLow_Industrial,2025,3.8031,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HMHI_Gas,Heat_MediumLow_Industrial,2018,0.351262,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2260,7 +2316,6 @@ DE_ST,HMHI_Gas,Heat_MediumLow_Industrial,2018,7.81359,,PJ,AGEB Anwendungsbilanze
 DE_ST,HMHI_Gas,Heat_MediumLow_Industrial,2025,6.57859,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Gas,Heat_MediumLow_Industrial,2018,1.54361,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Gas,Heat_MediumLow_Industrial,2025,1.29963,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,183.556,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,6.7828,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_HardCoal,Heat_MediumHigh_Industrial,2025,5.68259,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,0.321067,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2293,7 +2348,6 @@ DE_ST,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,14.5829,,PJ,AGEB Anwendungsb
 DE_ST,HMHI_HardCoal,Heat_MediumHigh_Industrial,2025,12.2175,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_HardCoal,Heat_MediumHigh_Industrial,2018,2.10873,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_HardCoal,Heat_MediumHigh_Industrial,2025,1.76668,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,39.7164,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,1.6033,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_HardCoal,Heat_MediumLow_Industrial,2025,1.34323,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.124678,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2326,7 +2380,6 @@ DE_ST,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,2.77338,,PJ,AGEB Anwendungsbi
 DE_ST,HMHI_HardCoal,Heat_MediumLow_Industrial,2025,2.32352,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_HardCoal,Heat_MediumLow_Industrial,2018,0.547894,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_HardCoal,Heat_MediumLow_Industrial,2025,0.459022,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Oil,Heat_MediumHigh_Industrial,2018,24.7925,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Oil,Heat_MediumHigh_Industrial,2018,0.916138,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Oil,Heat_MediumHigh_Industrial,2025,1.42752,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HMHI_Oil,Heat_MediumHigh_Industrial,2018,0.0433658,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2359,7 +2412,6 @@ DE_ST,HMHI_Oil,Heat_MediumHigh_Industrial,2018,1.96969,,PJ,AGEB Anwendungsbilanz
 DE_ST,HMHI_Oil,Heat_MediumHigh_Industrial,2025,3.06915,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Oil,Heat_MediumHigh_Industrial,2018,0.284822,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Oil,Heat_MediumHigh_Industrial,2025,0.443807,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Oil,Heat_MediumLow_Industrial,2018,6.61294,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.266956,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Oil,Heat_MediumLow_Industrial,2025,0.415968,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.0207594,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2392,7 +2444,6 @@ DE_ST,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.461779,,PJ,AGEB Anwendungsbilanz
 DE_ST,HMHI_Oil,Heat_MediumLow_Industrial,2025,0.719538,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Oil,Heat_MediumLow_Industrial,2018,0.0912266,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Oil,Heat_MediumLow_Industrial,2025,0.142148,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,12.3065,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.454753,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2025,0.359768,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.0215259,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -2425,7 +2476,6 @@ DE_ST,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.977712,,PJ,AGEB Anwe
 DE_ST,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2025,0.773497,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2018,0.14138,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_TH,HMHI_Steam_Electric,Heat_MediumHigh_Industrial,2025,0.11185,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,9.39366,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0.37921,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BB,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2025,0.300005,,PJ,AGEB Anwendungsbilanzen Industrie 2018 and 2024; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE_BE,HMHI_Steam_Electric,Heat_MediumLow_Industrial,2018,0.0294886,,PJ,AGEB Anwendungsbilanzen Industrie 2018; SINTEF temperature profiles; Land share of Par_SpecifiedAnnualDemand 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
