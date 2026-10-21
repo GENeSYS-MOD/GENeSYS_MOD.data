@@ -10,3 +10,4 @@ Assumptions:
 - Then, each individual hour value is normed to the mean, which creates a timeseries that varies around the base value of 100%.
 - A value of e.g. 120% would thus mean that in the particular hour, the heat pump uses 120% more energy than on average.
 - The average efficiencies for heat pumps are given in the parameters (InputActivityRatio)
+DE: GENeSYS-MOD RES tool (ERA5 2018)
