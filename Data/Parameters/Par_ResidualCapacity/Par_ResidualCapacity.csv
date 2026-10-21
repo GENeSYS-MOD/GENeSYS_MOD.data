@@ -1722,361 +1722,440 @@ CZ,HB_Oil_Boiler,2035,0.4548,,GW,Assumptions based on model run,09.04.2025,Nikit
 CZ,HB_Oil_Boiler,2040,0.1516,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Oil_Boiler,2045,0.0758,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HHI_Bio_BF_BOF,2018,0.0402,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_BF_BOF,2018,7.7461,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_BF_BOF,2025,5.4029,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_BF_BOF,2030,3.2417,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_BF_BOF,2035,1.6208,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_BF_BOF,2040,0.6485,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_BF_BOF,2045,0.1296,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_DRI_EAF,2018,5.1468,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_DRI_EAF,2025,3.5271,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_DRI_EAF,2030,2.1163,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_DRI_EAF,2035,1.0581,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_DRI_EAF,2040,0.4232,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_DRI_EAF,2045,0.0848,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_DRI_EAF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_DRI_EAF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_DRI_EAF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Scrap_EAF,2018,4.5209,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Scrap_EAF,2025,3.1361,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Scrap_EAF,2030,1.8817,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Scrap_EAF,2035,0.9409,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Scrap_EAF,2040,0.3765,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Scrap_EAF,2045,0.0754,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Scrap_EAF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Scrap_EAF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Scrap_EAF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Direct_Electric,2018,0.5881,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Direct_Electric,2025,0.1661,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Direct_Electric,2030,0.0998,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Direct_Electric,2035,0.0501,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Direct_Electric,2040,0.02,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Direct_Electric,2045,0.004,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Direct_Electric,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Direct_Electric,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Direct_Electric,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Gas_Boiler,2018,14.2068,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Gas_Boiler,2025,9.9093,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Gas_Boiler,2030,5.9454,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Gas_Boiler,2035,2.973,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Gas_Boiler,2040,1.1891,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Gas_Boiler,2045,0.2379,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Gas_Boiler,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Gas_Boiler,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Gas_Boiler,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Oil_Boiler,2018,2.1366,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Oil_Boiler,2025,1.4906,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Oil_Boiler,2030,0.8944,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Oil_Boiler,2035,0.4472,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Oil_Boiler,2040,0.1789,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Oil_Boiler,2045,0.0358,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Oil_Boiler,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Oil_Boiler,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Oil_Boiler,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Biomass,2018,2.8196,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Biomass,2025,1.9668,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Biomass,2030,1.1798,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Biomass,2035,0.5899,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Biomass,2040,0.2358,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Biomass,2045,0.0473,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Biomass,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Biomass,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Biomass,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Gas,2018,44.241,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Gas,2025,26.5666,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Gas,2030,15.9398,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Gas,2035,7.9701,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Gas,2040,3.188,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Gas,2045,0.6376,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Gas,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Gas,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Gas,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_HardCoal,2018,3.5197,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_HardCoal,2025,2.455,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_HardCoal,2030,1.473,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_HardCoal,2035,0.7365,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_HardCoal,2040,0.2947,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_HardCoal,2045,0.059,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_HardCoal,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_HardCoal,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_HardCoal,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Oil,2018,10.5961,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Oil,2025,7.3909,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Oil,2030,4.4346,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Oil,2035,2.2173,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Oil,2040,0.887,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Oil,2045,0.1773,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Oil,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Oil,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Oil,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Steam_Electric,2018,2.3509,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Steam_Electric,2025,1.6402,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Steam_Electric,2030,0.9842,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Steam_Electric,2035,0.4923,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Steam_Electric,2040,0.1968,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Steam_Electric,2045,0.0395,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Steam_Electric,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Steam_Electric,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMHI_Steam_Electric,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMLI_Heatpump,2018,0.7781,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMLI_Heatpump,2025,0.7781,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMLI_Heatpump,2030,0.7781,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMLI_Heatpump,2035,0.7781,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMLI_Heatpump,2040,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,2018,7.7174,,GW,eurostat - Combined Heat and Power (CHP) data,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,2020,7.7174,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,2025,7.7174,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,2030,7.7174,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,2035,7.3315,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,2040,6.9456,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,2045,6.3668,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,2050,5.788,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,2055,5.788,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Biomass_Solid,2060,5.788,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,2018,12.0531,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,2020,12.0531,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,2025,7.7229,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,2030,3.3927,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,2035,1.6963,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Coal_Hardcoal,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,2018,0.9849,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,2020,0.9849,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,2025,0.8471,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,2030,0.7092,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,2035,0.3546,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Coal_Lignite,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,2018,25.8627,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,2020,25.8627,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,2025,23.7673,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,2030,21.6718,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,2035,17.6409,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,2040,13.6099,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,2045,7.546,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,2050,1.482,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,2055,1.482,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Gas_CCGT_Natural,2060,1.482,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Oil,2018,1.1023,,GW,eurostat - Combined Heat and Power (CHP) data,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Oil,2020,1.1023,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Oil,2025,0.5512,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Oil,2040,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Oil,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Oil,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CHP_Oil,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_Oil,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,D_PHS,2018,8.918,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,D_PHS,2020,8.918,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,D_PHS,2025,8.918,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,D_PHS,2030,8.918,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,D_PHS,2035,8.918,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,D_PHS,2040,8.918,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,D_PHS,2045,8.918,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,D_PHS,2050,8.918,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,D_PHS,2055,8.918,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,D_PHS,2060,8.918,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Electric_Boiler,2018,1.3439,,GW,Assumption ,,
-DE,HD_Geothermal ,2018,0.335,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,HD_Heatpump,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,HD_Solar_Thermal,2018,0.056,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Biomass,2018,9.407,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Biomass,2020,9.389,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Biomass,2025,8.064,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Biomass,2030,7.125,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Biomass,2035,6.332,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Biomass,2040,6.332,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Biomass,2045,6.327,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Biomass,2050,6.327,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Biomass,2055,6.327,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Biomass,2060,6.327,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2018,12.9819,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type (minus CHP value),24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2020,10.2705,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2025,10.2705,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2030,7.1598,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2035,5.0669,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2040,5.0669,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2045,5.0669,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2050,5.0669,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2055,5.0669,,GW,same as 2050 for now,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2060,5.0669,,GW,same as 2050 for now,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2018,18.7418,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2020,6.456,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2025,5.865,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2030,4.036,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2035,3.684,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2040,3.684,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2045,3.684,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2018,12.372,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2020,12.372,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2025,10.975,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2030,9.578,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2035,9.1574,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2040,8.7367,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2045,4.3683,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Gas_CCGT,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Gas_Engines,2018,1.98,,GW,Entsoe Transparency Platform- Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_Engines,2020,1.98,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_Engines,2025,0.99,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_Engines,2030,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_Engines,2035,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_Engines,2040,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_Engines,2045,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_Engines,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_Engines,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Gas_Engines,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2018,5.163,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2020,5.163,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2025,3.4166,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2030,1.6702,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2035,1.6702,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2040,1.6702,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2045,0.8351,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Gas_OCGT,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2018,1.44,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2020,1.191,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2025,1.191,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2030,1.191,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2035,1.191,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2040,1.191,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2045,1.191,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2050,1.191,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2055,1.191,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2060,1.191,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2018,3.86,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2020,3.86,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2025,3.86,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2030,3.86,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2035,3.86,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2040,3.86,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2045,3.86,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2050,3.86,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2055,3.86,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2060,3.86,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Nuclear,2018,9.516,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Nuclear,2020,8.114,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Nuclear,2025,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Nuclear,2030,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Nuclear,2035,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Nuclear,2040,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Nuclear,2045,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Nuclear,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Nuclear,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Nuclear,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Oil,2018,3.271,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Oil,2020,2.5998,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Oil,2025,2.3596,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Oil,2030,2.3242,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Oil,2035,2.1664,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Oil,2040,0.1438,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Oil,2045,0.1438,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Oil,2050,0.0838,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Oil,2055,0.0838,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Oil,2060,0.0838,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_PV_Utility_Avg,2018,42.804,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,08.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_PV_Utility_Avg,2020,42.804,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,08.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_PV_Utility_Avg,2025,42.804,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,08.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_PV_Utility_Avg,2030,42.804,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,08.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_PV_Utility_Avg,2035,38.0651,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,08.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_PV_Utility_Avg,2040,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,08.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_PV_Utility_Avg,2045,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,08.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_PV_Utility_Avg,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,08.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_PV_Utility_Avg,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_PV_Utility_Avg,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Wind_Offshore_Transitional,2018,6.358,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Offshore_Transitional,2020,6.4,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Offshore_Transitional,2025,6.4,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Offshore_Transitional,2030,6.4,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Offshore_Transitional,2035,4.159,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Offshore_Transitional,2040,0,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Offshore_Transitional,2045,0,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Offshore_Transitional,2050,0,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Offshore_Transitional,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Wind_Offshore_Transitional,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Wind_Onshore_Avg,2018,52.259,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Onshore_Avg,2020,52.9,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Onshore_Avg,2025,52.9,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Onshore_Avg,2030,52.9,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Onshore_Avg,2035,40.2996,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Onshore_Avg,2040,0,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Onshore_Avg,2045,0,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Onshore_Avg,2050,0,,GW,WindEurope- Wind energy in Europe statistics 2022,22.09.2023,Martha Pedersen <martha.pedersen@sintef.no>
-DE,P_Wind_Onshore_Avg,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Wind_Onshore_Avg,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,X_Gasifier,2018,0,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,X_Gasifier,2020,0,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,X_Gasifier,2025,5,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,X_Gasifier,2030,5,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,X_Gasifier,2035,5,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,X_Gasifier,2040,5,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,X_Gasifier,2045,5,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,X_Gasifier,2050,5,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,X_Gasifier,2055,5,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,X_Gasifier,2060,5,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Biomass,2018,10.9131,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Biomass,2025,10.0816,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Biomass,2030,7.7951,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Biomass,2035,4.677,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Biomass,2040,1.559,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Biomass,2045,0.7795,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Direct_Electric,2018,1.9919,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Direct_Electric,2025,1.8402,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Direct_Electric,2030,1.4228,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Direct_Electric,2035,0.8537,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Direct_Electric,2040,0.2846,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Direct_Electric,2045,0.1423,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Gas_Boiler,2018,138.9049,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Gas_Boiler,2025,128.3217,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Gas_Boiler,2030,99.2178,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Gas_Boiler,2035,59.5307,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Gas_Boiler,2040,19.8436,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Gas_Boiler,2045,9.9218,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Hardcoal,2018,1.6276,,GW,Assumptions based on model run,16.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Hardcoal,2025,1.5036,,GW,Assumptions based on model run,16.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Hardcoal,2030,1.1626,,GW,Assumptions based on model run,16.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Hardcoal,2035,0.6975,,GW,Assumptions based on model run,16.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Hardcoal,2040,0.2325,,GW,Assumptions based on model run,16.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Hardcoal,2045,0.1163,,GW,Assumptions based on model run,16.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Aerial,2018,1.199,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Aerial,2025,1.1076,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Aerial,2030,0.8564,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Aerial,2035,0.5138,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Aerial,2040,0.1713,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Aerial,2045,0.0856,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Ground,2018,0.0631,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Ground,2025,0.0583,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Ground,2030,0.0451,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Ground,2035,0.0271,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Ground,2040,0.009,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Ground,2045,0.0045,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Oil_Boiler,2018,74.7262,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Oil_Boiler,2025,69.0328,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Oil_Boiler,2030,53.3759,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Oil_Boiler,2035,32.0255,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Oil_Boiler,2040,10.6752,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Oil_Boiler,2045,5.3376,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HHI_Bio_BF_BOF,2018,0.3161,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,2018,2.8624,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,2020,1.04166,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,2025,2.77228,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,2030,2.34756,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,2035,1.88952,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,2040,1.42215,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,2045,0.839788,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Biomass_Solid,2050,0.390394,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Hardcoal,2018,9.49602,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Hardcoal,2020,9.23931,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Hardcoal,2025,6.11879,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Hardcoal,2030,2.89965,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Hardcoal,2035,1.45166,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Lignite,2018,2.44478,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Lignite,2020,2.4216,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Lignite,2025,1.71482,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Lignite,2030,0.826502,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Coal_Lignite,2035,0.255453,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Biogas,2018,5.24,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Biogas,2020,5.239,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Biogas,2025,5.238,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Biogas,2030,4.8552,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Biogas,2035,3.6414,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Biogas,2040,2.4276,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Biogas,2045,1.2138,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Biogas,2050,0,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,2018,18.4977,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,2020,18.1394,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,2025,18.3782,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,2030,16.5277,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,2035,12.396,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,2040,8.26399,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,2045,4.13186,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Gas_CCGT_Natural,2050,0,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,2018,0.959231,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,2020,0.955278,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,2025,0.477837,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,2030,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,2035,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,2040,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,2045,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,2050,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,2055,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_Oil,2060,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2018,1.37735,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2025,1.37735,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2030,1.37735,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2035,0.688743,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2040,0.344476,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2045,0.172342,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,D_PHS,2018,6.084,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,D_PHS,2020,6.084,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,D_PHS,2025,6.084,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,D_PHS,2030,6.084,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,D_PHS,2035,6.084,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,D_PHS,2040,6.084,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,D_PHS,2045,6.084,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,D_PHS,2050,6.084,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,D_PHS,2055,6.084,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,D_PHS,2060,6.084,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Rail_Conv,2018,99.1402,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Rail_Conv,2025,90.6404,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Rail_Conv,2030,61.3718,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Rail_Conv,2035,33.0469,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Rail_Conv,2040,14.1648,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Rail_Electric,2018,397.008,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Rail_Electric,2025,362.982,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Rail_Electric,2030,245.768,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Rail_Electric,2035,132.336,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Rail_Electric,2040,56.7162,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Road_Conv,2018,493.803,,gtkm,Kraftfahrt-Bundesamt - Gueterbefoerderung,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Road_Conv,2020,493.803,,gtkm,Kraftfahrt-Bundesamt - Gueterbefoerderung,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Road_Conv,2025,493.803,,gtkm,Kraftfahrt-Bundesamt - Gueterbefoerderung,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Road_Conv,2030,330.848,,gtkm,Kraftfahrt-Bundesamt - Gueterbefoerderung,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Road_Conv,2035,162.955,,gtkm,Kraftfahrt-Bundesamt - Gueterbefoerderung,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Road_ICE,2018,1940.97,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Road_ICE,2025,1774.6,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Road_ICE,2030,1201.55,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Road_ICE,2035,646.991,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Road_ICE,2040,277.282,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Ship_Conv,2018,308.76,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Ship_Conv,2025,282.295,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Ship_Conv,2030,191.138,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Ship_Conv,2035,102.922,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,FRT_Ship_Conv,2040,44.1109,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Biomass,2018,25.869,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Biomass,2025,23.8979,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Biomass,2030,18.4779,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Biomass,2035,11.0866,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Biomass,2040,3.69561,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Biomass,2045,1.84784,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Direct_Electric,2018,4.9726,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Direct_Electric,2025,4.59389,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Direct_Electric,2030,3.55192,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Direct_Electric,2035,2.13121,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Direct_Electric,2040,0.710518,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Direct_Electric,2045,0.355318,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Gas_Boiler,2018,138.905,,GW,Calibrated from model run - Assumption; scaled from DE row,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Gas_Boiler,2025,128.322,,GW,Calibrated from model run - Assumption; scaled from DE row,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Gas_Boiler,2030,99.2178,,GW,Calibrated from model run - Assumption; scaled from DE row,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Gas_Boiler,2035,59.5307,,GW,Calibrated from model run - Assumption; scaled from DE row,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Gas_Boiler,2040,19.8436,,GW,Calibrated from model run - Assumption; scaled from DE row,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Gas_Boiler,2045,9.9218,,GW,Calibrated from model run - Assumption; scaled from DE row,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Hardcoal,2018,14.5004,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Hardcoal,2025,13.3955,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Hardcoal,2030,10.3574,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Hardcoal,2035,6.21444,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Hardcoal,2040,2.07157,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Hardcoal,2045,1.03582,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Aerial,2018,4.59002,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Aerial,2025,4.59002,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Aerial,2030,4.59002,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Aerial,2035,4.59002,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Aerial,2040,4.44754,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Aerial,2045,2.6766,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Ground,2018,0.628,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Ground,2025,0.628,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Ground,2030,0.5024,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Ground,2035,0.3768,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Ground,2040,0.2512,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Ground,2045,0.1256,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Oil_Boiler,2018,171.054,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Oil_Boiler,2025,158.021,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Oil_Boiler,2030,122.181,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Oil_Boiler,2035,73.3088,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Oil_Boiler,2040,24.4364,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Oil_Boiler,2045,12.2183,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Gas_Boiler,2018,12.3325,,GW,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Gas_Boiler,2020,12.3325,,GW,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Gas_Boiler,2025,12.3325,,GW,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Gas_Boiler,2030,9.86596,,GW,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Gas_Boiler,2035,7.39947,,GW,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Gas_Boiler,2040,4.93298,,GW,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Gas_Boiler,2045,2.46649,,GW,Assumption - calculated using total German DistricHeatDemand data; BDEW district-heating map; AGFW Hauptbericht 2019,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2018,0.318619,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2025,0.318619,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2030,0.318619,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2035,0.318619,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2040,0.159422,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2045,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Geothermal,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_Air,2018,16.3281,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_Air,2025,16.3281,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_Air,2030,16.3281,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_Air,2035,16.3281,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_Air,2040,8.15417,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_Air,2045,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_Air,2050,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_Air,2055,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_Air,2060,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2018,0.803534,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2025,0.803534,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2030,0.803534,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2035,0.803534,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2040,0.402,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2045,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Heatpump_ExcessHeat,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HD_Solar_Thermal,2018,0.0319075,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_BF_BOF,2018,14.5793,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_BF_BOF,2025,12.2145,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_BF_BOF,2030,6.10159,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_BF_BOF,2035,3.05082,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_BF_BOF,2040,1.22037,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_BF_BOF,2045,0.24411,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_BF_BOF,2050,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_BF_BOF,2055,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_BF_BOF,2060,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Bio_BF_BOF,2018,0.495179,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Bio_BF_BOF,2025,0.527473,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,2018,13.4235,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,2025,11.3019,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,2030,5.51937,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,2035,2.76008,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,2040,1.10424,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,2045,0.22106,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_DRI_EAF,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Scrap_EAF,2018,3.59113,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Scrap_EAF,2025,2.84105,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Scrap_EAF,2030,1.49483,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Scrap_EAF,2035,0.747438,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Scrap_EAF,2040,0.299155,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Scrap_EAF,2045,0.0601171,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Scrap_EAF,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Scrap_EAF,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HHI_Scrap_EAF,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Biomass,2018,3.10791,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Biomass,2025,3.3106,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Biomass,2030,1.30125,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Biomass,2035,0.650728,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Biomass,2040,0.26034,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Biomass,2045,0.0523629,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Biomass,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Biomass,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Biomass,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Direct_Electric,2018,1.37811,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Direct_Electric,2025,1.09026,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Direct_Electric,2030,0.23407,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Direct_Electric,2035,0.11721,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Direct_Electric,2040,0.0469622,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Direct_Electric,2045,0.00959761,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Direct_Electric,2050,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Direct_Electric,2055,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Direct_Electric,2060,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Gas_Boiler,2018,16.5839,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Gas_Boiler,2025,13.9627,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Gas_Boiler,2030,6.94059,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Gas_Boiler,2035,3.47054,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Gas_Boiler,2040,1.38838,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Gas_Boiler,2045,0.277998,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Gas_Boiler,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Gas_Boiler,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Gas_Boiler,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Hardcoal,2018,17.9058,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Hardcoal,2025,15.0013,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Hardcoal,2030,7.49483,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Hardcoal,2035,3.75004,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Hardcoal,2040,1.50148,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Hardcoal,2045,0.30216,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Hardcoal,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Hardcoal,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Hardcoal,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Oil_Boiler,2018,3.395,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Oil_Boiler,2025,5.29007,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Oil_Boiler,2030,1.42126,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Oil_Boiler,2035,0.710672,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Oil_Boiler,2040,0.284343,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Oil_Boiler,2045,0.0569731,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Oil_Boiler,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Oil_Boiler,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HLI_Oil_Boiler,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,2018,2.58825,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,2025,2.75704,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,2030,1.08333,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,2035,0.541687,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,2040,0.216939,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,2045,0.04361,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Biomass,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,2018,33.6511,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,2025,28.3322,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,2030,12.1244,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,2035,6.0623,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,2040,2.42491,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,2045,0.48503,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,2050,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,2055,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Gas,2060,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,2018,13.6574,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,2025,11.4421,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,2030,5.71605,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,2035,2.85794,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,2040,1.14352,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,2045,0.229194,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_HardCoal,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,2018,16.5506,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,2025,25.7889,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,2030,6.92678,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,2035,3.46338,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,2040,1.38552,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,2045,0.277304,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,2050,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,2055,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Oil,2060,0,,GW,Calibrated from model run - Assumption; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,2018,2.67703,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,2025,2.11788,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,2030,1.12096,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,2035,0.56053,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,2040,0.22424,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,2045,0.04504,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,2050,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,2055,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMHI_Steam_Electric,2060,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMLI_Heatpump,2018,0.612291,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMLI_Heatpump,2025,0.612291,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMLI_Heatpump,2030,0.612291,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMLI_Heatpump,2035,0.612291,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMLI_Heatpump,2040,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMLI_Heatpump,2045,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMLI_Heatpump,2050,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMLI_Heatpump,2055,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HMLI_Heatpump,2060,0,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Air_Conv,2018,566.077,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Air_Conv,2025,517.557,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Air_Conv,2030,350.43,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Air_Conv,2035,188.694,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Air_Conv,2040,80.8685,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Rail_Conv,2018,343.166,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Rail_Conv,2025,313.752,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Rail_Conv,2030,212.436,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Rail_Conv,2035,114.389,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Rail_Conv,2040,49.0238,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Rail_Electric,2018,374.774,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Rail_Electric,2025,342.65,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Rail_Electric,2030,232.003,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Rail_Electric,2035,124.925,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Rail_Electric,2040,53.5393,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_BEV,2018,263.48,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_BEV,2025,240.896,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_BEV,2030,163.107,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_BEV,2035,87.8266,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_BEV,2040,37.6401,,GW,Calibrated from model run - Assumption,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_ICE,2018,3456.11,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_ICE,2025,3159.86,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_ICE,2030,2139.49,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_ICE,2035,1152.04,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,PSNG_Road_ICE,2040,493.73,,GW,Calibrated from model run - Assumption; fitted to 2018 modal split,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Biomass,2018,8.68833,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Biomass,2020,8.58099,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Biomass,2025,8.66332,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Biomass,2030,7.9646,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Biomass,2035,5.38297,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Biomass,2040,2.68981,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Biomass,2045,0,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Biomass,2050,0,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2018,16.5856,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2020,14.1591,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2025,9.87978,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2030,6.46626,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2035,3.24819,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Lignite,2018,21.5874,,GW,"LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Lignite,2020,21.3827,,GW,"LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Lignite,2025,15.1418,,GW,"LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Lignite,2030,6.22702,,GW,"LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Coal_Lignite,2035,1.70765,,GW,"LAK Energiebilanzen, KWK share; fitted to 2018 production",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_CCGT,2018,3.89275,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_CCGT,2020,2.68168,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_CCGT,2025,3.89275,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_CCGT,2030,3.49589,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_CCGT,2035,2.34629,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_CCGT,2040,0.871419,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_CCGT,2045,0.467819,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_CCGT,2050,0.0963405,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_OCGT,2018,13.4646,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_OCGT,2020,13.3225,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_OCGT,2025,13.4646,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_OCGT,2030,7.21497,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_OCGT,2035,6.66571,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_OCGT,2040,5.36861,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_OCGT,2045,3.10086,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Gas_OCGT,2050,1.24968,,GW,"LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2018,0.0416,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2020,0.0416,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2025,0.03844,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2030,0.03779,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2035,0.03388,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2040,0.02822,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2045,0.02258,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2050,0.01694,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2055,0.01694,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2060,0.00564,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2018,1.44,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type; Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2020,1.44,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type; Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2025,1.44,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type; Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2030,1.44,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type; Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2035,1.44,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type; Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2040,1.44,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type; Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2045,1.44,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type; Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2050,1.44,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type; Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2055,1.44,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type; Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2060,1.44,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type; Energy-Charts (net generation 2018 by federal state),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2018,2.77507,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2020,2.75719,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2025,2.75719,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2030,2.75719,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2035,2.75719,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2040,2.75719,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2045,2.75719,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2050,2.75719,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2055,2.75719,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2060,2.75719,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Nuclear,2018,9.79438,,GW,Liste der Kernreaktoren in Deutschland - Wikipedia,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Nuclear,2020,8.39238,,GW,Liste der Kernreaktoren in Deutschland - Wikipedia,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Oil,2018,3.16099,,GW,"SMARD | Nettonennleistung je Bundesland; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Oil,2020,3.06868,,GW,"SMARD | Nettonennleistung je Bundesland; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Oil,2025,3.16099,,GW,"SMARD | Nettonennleistung je Bundesland; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Oil,2030,2.31628,,GW,"SMARD | Nettonennleistung je Bundesland; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Oil,2035,1.47128,,GW,"SMARD | Nettonennleistung je Bundesland; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Oil,2040,0.607697,,GW,"SMARD | Nettonennleistung je Bundesland; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Oil,2045,0.390306,,GW,"SMARD | Nettonennleistung je Bundesland; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Oil,2050,0.186743,,GW,"SMARD | Nettonennleistung je Bundesland; LAK Energiebilanzen, KWK share",11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Rooftop_Residential,2018,33.972,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Rooftop_Residential,2025,33.972,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Rooftop_Residential,2030,33.972,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Rooftop_Residential,2035,33.972,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Rooftop_Residential,2040,29.9881,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Rooftop_Residential,2045,15.3525,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Rooftop_residential,2020,0,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Avg,2018,11.817,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Avg,2020,11.817,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Avg,2025,11.817,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Avg,2030,11.817,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Avg,2035,11.761,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Avg,2040,11.3302,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Avg,2045,8.85495,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Avg,2050,1.59872,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,2018,0.131,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,2020,0.130667,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,2025,0.131,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,2030,0.131,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,2035,0.131,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,2040,0.13076,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,2045,0.112224,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,2050,0.018704,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2018,6.4,,GW,https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.wind-energie.de/fileadmin/redaktion/dokumente/dokumente-englisch/statistics/Status_of_Offshore_Wind_Energy_Development_Year_2024.pdf),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2020,6.40001,,GW,https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.wind-energie.de/fileadmin/redaktion/dokumente/dokumente-englisch/statistics/Status_of_Offshore_Wind_Energy_Development_Year_2024.pdf),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2025,6.40001,,GW,https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.wind-energie.de/fileadmin/redaktion/dokumente/dokumente-englisch/statistics/Status_of_Offshore_Wind_Energy_Development_Year_2024.pdf),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2030,6.40001,,GW,https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.wind-energie.de/fileadmin/redaktion/dokumente/dokumente-englisch/statistics/Status_of_Offshore_Wind_Energy_Development_Year_2024.pdf),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2035,6.40001,,GW,https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (distribution across federal states from: https://www.wind-energie.de/fileadmin/redaktion/dokumente/dokumente-englisch/statistics/Status_of_Offshore_Wind_Energy_Development_Year_2024.pdf),11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2018,41.5155,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2020,41.5155,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2025,41.5155,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2030,40.3754,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2035,32.1452,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2040,21.435,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2045,10.7202,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2018,13.2904,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2020,13.2904,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2025,13.2904,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2030,12.6805,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2035,9.75019,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2040,6.49734,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2045,3.25287,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production,11.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,CHP_Biomass_Solid,2020,3.1381,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,CHP_Biomass_Solid,2018,3.1381,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,CHP_Biomass_Solid,2025,1.5691,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -10378,15 +10457,6 @@ UK,HB_Oil_Boiler,2035,8.6802,,GW,Assumptions based on model run,09.04.2025,Nikit
 UK,HB_Oil_Boiler,2040,2.8934,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HB_Oil_Boiler,2045,1.4467,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_Bio_BF_BOF,2018,0.0732,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,2018,57.8452,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,2025,57.8452,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,2030,57.8452,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,2035,28.9226,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,2040,14.4613,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,2045,7.2307,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_WasteToEnergy,2018,46.2039,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_WasteToEnergy,2025,46.2039,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,CHP_WasteToEnergy,2030,46.2039,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10513,15 +10583,6 @@ SE,HD_Heatpump_Air,2045,0,,GW,Assumption | Calculated endogenously via model,25.
 SE,HD_Heatpump_Air,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HD_Heatpump_Air,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HD_Heatpump_Air,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Heatpump_ExcessHeat,2018,8.3897,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Heatpump_ExcessHeat,2025,8.3897,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Heatpump_ExcessHeat,2030,8.3897,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Heatpump_ExcessHeat,2035,8.3897,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Heatpump_ExcessHeat,2040,4.1949,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Heatpump_ExcessHeat,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Heatpump_ExcessHeat,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Heatpump_ExcessHeat,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Heatpump_ExcessHeat,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HD_Heatpump_ExcessHeat,2018,0.5472,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HD_Heatpump_ExcessHeat,2025,0.5472,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HD_Heatpump_ExcessHeat,2030,0.5472,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10549,15 +10610,6 @@ FR,HD_Geothermal,2045,0,,GW,Assumption | Calculated endogenously via model,25.07
 FR,HD_Geothermal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HD_Geothermal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HD_Geothermal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Geothermal,2018,3.3267,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Geothermal,2025,3.3267,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Geothermal,2030,3.3267,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Geothermal,2035,3.3267,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Geothermal,2040,1.6634,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Geothermal,2045,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Geothermal,2050,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Geothermal,2055,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HD_Geothermal,2060,0,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HD_Geothermal,2018,2.3227,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HD_Geothermal,2025,2.3227,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HD_Geothermal,2030,2.3227,,GW,Assumption | Calculated endogenously via model,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10765,15 +10817,6 @@ CZ,X_Convert_HD,2045,111.2693,,GW,Assumptions based on model run,24.04.2025,Niki
 CZ,X_Convert_HD,2050,111.2693,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,X_Convert_HD,2055,111.2693,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,X_Convert_HD,2060,111.2693,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,X_Convert_HD,2018,657.8178,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,X_Convert_HD,2025,657.8178,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,X_Convert_HD,2030,657.8178,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,X_Convert_HD,2035,657.8178,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,X_Convert_HD,2040,657.8178,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,X_Convert_HD,2045,657.8178,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,X_Convert_HD,2050,657.8178,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,X_Convert_HD,2055,657.8178,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,X_Convert_HD,2060,657.8178,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,X_Convert_HD,2018,192.196,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,X_Convert_HD,2025,192.196,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,X_Convert_HD,2030,192.196,,GW,Assumptions based on model run,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11080,109 +11123,6 @@ CZ,HLI_Hardcoal,2045,0.0074,,GW,Assumptions based on model run,09.04.2026,Nikita
 CZ,HLI_Hardcoal,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HLI_Hardcoal,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HLI_Hardcoal,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Biomass,2018,3.7235,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Biomass,2025,2.5972,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Biomass,2030,1.5588,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Biomass,2035,0.7794,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Biomass,2040,0.3116,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Biomass,2045,0.0629,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Biomass,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Biomass,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Biomass,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Hardcoal,2018,1.6798,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Hardcoal,2025,1.1716,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Hardcoal,2030,0.7031,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Hardcoal,2035,0.352,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Hardcoal,2040,0.1408,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Hardcoal,2045,0.0284,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Hardcoal,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Hardcoal,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HLI_Hardcoal,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,FRT_Rail_Conv,2018,69.376,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Rail_Conv,2025,63.4295,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Rail_Conv,2030,42.947,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Rail_Conv,2035,23.1253,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Rail_Conv,2040,9.9109,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Rail_Electric,2018,277.5039,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Rail_Electric,2025,253.7178,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Rail_Electric,2030,171.7881,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Rail_Electric,2035,92.5013,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Rail_Electric,2040,39.6434,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_BEV,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_BEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_BEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_BEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_BEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_H2,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_H2,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_H2,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_H2,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_H2,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_ICE,2018,1362.5037,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_ICE,2025,1245.7177,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_ICE,2030,843.4547,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_ICE,2035,454.1679,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_ICE,2040,194.6434,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_PHEV,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Ship_Bio,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Ship_Bio,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Ship_Bio,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Ship_Bio,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Ship_Bio,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Ship_Conv,2018,147.8428,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Ship_Conv,2025,135.1705,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Ship_Conv,2030,91.5217,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Ship_Conv,2035,49.2809,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,FRT_Ship_Conv,2040,21.1204,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_Bio,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_Bio,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_Bio,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_Bio,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_Bio,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_Conv,2018,338.3082,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_Conv,2025,309.3104,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_Conv,2030,209.4289,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_Conv,2035,112.7694,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_Conv,2040,48.3298,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_H2,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_H2,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_H2,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_H2,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Air_H2,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Rail_Conv,2018,57.4849,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Rail_Conv,2025,52.5576,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Rail_Conv,2030,35.5859,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Rail_Conv,2035,19.1616,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Rail_Conv,2040,8.2121,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Rail_Electric,2018,229.9395,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Rail_Electric,2025,210.2304,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Rail_Electric,2030,142.3435,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Rail_Electric,2035,76.6465,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Rail_Electric,2040,32.8485,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_BEV,2018,30.7896,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_BEV,2025,28.1505,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_BEV,2030,19.0603,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_BEV,2035,10.2632,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_BEV,2040,4.3985,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_H2,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_H2,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_H2,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_H2,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_H2,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_ICE,2018,2317.6491,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_ICE,2025,2118.9934,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_ICE,2030,1434.7351,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_ICE,2035,772.5497,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_ICE,2040,331.0927,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_PHEV,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,HLI_Biomass,2018,0.0777,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HLI_Biomass,2025,0.0437,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HLI_Biomass,2030,0.026,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
