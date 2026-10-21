@@ -179,7 +179,7 @@ DE,H2,2045,209.979,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip
 DE,H2,2050,209.979,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,H2,2055,209.979,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,H2,2060,209.979,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_Buildings,2025,2346.3274,,PJ,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Heat_Buildings,2025,2478.80211734,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info; AGEB Anwendungsbilanzen zur Energiebilanz Deutschland 2014-2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Buildings,2030,2315.8251,,PJ,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Heat_Buildings,2035,2288.0352,,PJ,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Heat_Buildings,2040,2262.8668,,PJ,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -187,7 +187,7 @@ DE,Heat_Buildings,2045,2237.9753,,PJ,EU-EnVis-2060 Trinity Scenario,05.09.2024,K
 DE,Heat_Buildings,2050,2217.8335,,PJ,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Heat_Buildings,2055,2217.8335,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Buildings,2060,2217.8335,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Mobility_Freight,2025,686.1419,,gtkm,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Mobility_Freight,2025,686.141899982,,gtkm,EU-EnVis-2060 Trinity Scenario,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Mobility_Freight,2030,706.7262,,gtkm,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Freight,2035,724.3943,,gtkm,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Freight,2040,742.5042,,gtkm,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -195,7 +195,7 @@ DE,Mobility_Freight,2045,760.3243,,gtkm,EU-EnVis-2060 Trinity Scenario,05.09.202
 DE,Mobility_Freight,2050,775.5308,,gtkm,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Freight,2055,775.5308,,gtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Mobility_Freight,2060,775.5308,,gtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Mobility_Passenger,2025,1230.208,,gpkm,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Mobility_Passenger,2025,1220.00406176,,gpkm,EU-EnVis-2060 Trinity Scenario; sum of the 16 federal states,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Mobility_Passenger,2030,1316.3226,,gpkm,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Passenger,2035,1401.8835,,gpkm,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Passenger,2040,1471.9777,,gpkm,EU-EnVis-2060 Trinity Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -1039,7 +1039,7 @@ CZ,Power,2045,229.934,,PJ,EU-EnVis-2060 Trinity Scenario,09.04.2025,Nikita Moska
 CZ,Power,2050,229.704,,PJ,EU-EnVis-2060 Trinity Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Power,2055,229.474,,PJ,EU-EnVis-2060 Trinity Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Power,2060,229.245,,PJ,EU-EnVis-2060 Trinity Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Power,2025,1897.87,,PJ,EU-EnVis-2060 Trinity Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Power,2025,1491.92963768,,PJ,"Energy-Charts (net generation 2018 and 2025); BDEW, Stromerzeugung und -verbrauch in Deutschland",12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Power,2030,1890.28,,PJ,EU-EnVis-2060 Trinity Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Power,2035,1884.61,,PJ,EU-EnVis-2060 Trinity Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Power,2040,1880.84,,PJ,EU-EnVis-2060 Trinity Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1399,7 +1399,7 @@ CZ,Heat_MediumLow_Industrial,2045,23.825,,PJ,EU-EnVis-2060 Trinity Scenario,09.0
 CZ,Heat_MediumLow_Industrial,2050,22.872,,PJ,EU-EnVis-2060 Trinity Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_MediumLow_Industrial,2055,21.9572,,PJ,EU-EnVis-2060 Trinity Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_MediumLow_Industrial,2060,21.0789,,PJ,EU-EnVis-2060 Trinity Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_High_Industrial,2025,261.5340327,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_High_Industrial,2025,230.77583035,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2030,248.4571045,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2035,237.2769597,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2040,227.7851108,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1407,7 +1407,7 @@ DE,Heat_High_Industrial,2045,218.6739783,,PJ,EU-EnVis-2060 Trinity Scenario; AGE
 DE,Heat_High_Industrial,2050,209.927699,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2055,201.5304098,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2060,193.4685135,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_Low_Industrial,2025,263.3511985,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_Low_Industrial,2025,284.176230432,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2030,250.1839978,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2035,238.9256157,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2040,229.3682595,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1415,7 +1415,7 @@ DE,Heat_Low_Industrial,2045,220.1938828,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB
 DE,Heat_Low_Industrial,2050,211.3859064,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2055,202.9305144,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2060,194.813338,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_MediumHigh_Industrial,2025,556.4668363,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_MediumHigh_Industrial,2025,518.7632249,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2030,528.6433527,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2035,504.8540522,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2040,484.6604571,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1423,7 +1423,7 @@ DE,Heat_MediumHigh_Industrial,2045,465.2738876,,PJ,EU-EnVis-2060 Trinity Scenari
 DE,Heat_MediumHigh_Industrial,2050,446.6631589,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2055,428.7961412,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2060,411.6444845,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_MediumLow_Industrial,2025,170.3966246,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_MediumLow_Industrial,2025,158.7432554,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumLow_Industrial,2030,161.876991,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumLow_Industrial,2035,154.5928886,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumLow_Industrial,2040,148.4086462,,PJ,EU-EnVis-2060 Trinity Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>

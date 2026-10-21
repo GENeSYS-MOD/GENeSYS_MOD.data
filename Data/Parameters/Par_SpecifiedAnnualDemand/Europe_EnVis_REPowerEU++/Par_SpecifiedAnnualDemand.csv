@@ -179,7 +179,7 @@ DE,H2,2045,480.8113,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wi
 DE,H2,2050,739.6036,,PJ,see assumptions.txt,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,H2,2055,739.6036,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,H2,2060,739.6036,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_Buildings,2025,2304.2075,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Heat_Buildings,2025,2478.80211734,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info; AGEB Anwendungsbilanzen zur Energiebilanz Deutschland 2014-2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Buildings,2030,2177.4761,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Heat_Buildings,2035,2062.0698,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Heat_Buildings,2040,1958.9663,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -187,7 +187,7 @@ DE,Heat_Buildings,2045,1864.9359,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,05.09.20
 DE,Heat_Buildings,2050,1781.0138,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Heat_Buildings,2055,1781.0138,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Buildings,2060,1781.0138,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Mobility_Freight,2025,686.1419,,gtkm,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Mobility_Freight,2025,686.141899982,,gtkm,EU-EnVis-2060 REPowerEU++ Scenario,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Mobility_Freight,2030,696.4341,,gtkm,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Freight,2035,706.8806,,gtkm,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Freight,2040,713.9494,,gtkm,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -195,7 +195,7 @@ DE,Mobility_Freight,2045,721.0889,,gtkm,EU-EnVis-2060 REPowerEU++ Scenario,05.09
 DE,Mobility_Freight,2050,724.6943,,gtkm,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Freight,2055,724.6943,,gtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Mobility_Freight,2060,724.6943,,gtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Mobility_Passenger,2025,1230.208,,gpkm,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Mobility_Passenger,2025,1220.00406176,,gpkm,EU-EnVis-2060 REPowerEU++ Scenario; sum of the 16 federal states,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Mobility_Passenger,2030,1230.208,,gpkm,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Passenger,2035,1217.9059,,gpkm,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Passenger,2040,1205.7269,,gpkm,EU-EnVis-2060 REPowerEU++ Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -1039,7 +1039,7 @@ CZ,Power,2045,204.188,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,09.04.2025,Nikita M
 CZ,Power,2050,198.573,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Power,2055,193.112,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Power,2060,187.802,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Power,2025,1859.72,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Power,2025,1491.92963768,,PJ,"Energy-Charts (net generation 2018 and 2025); BDEW, Stromerzeugung und -verbrauch in Deutschland",12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Power,2030,1808.58,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Power,2035,1760.65,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Power,2040,1715.75,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1399,7 +1399,7 @@ CZ,Heat_MediumLow_Industrial,2045,26.7269,,PJ,EU-EnVis-2060 REPowerEU++ Scenario
 CZ,Heat_MediumLow_Industrial,2050,26.2459,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_MediumLow_Industrial,2055,25.7734,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_MediumLow_Industrial,2060,25.3095,,PJ,EU-EnVis-2060 REPowerEU++ Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_High_Industrial,2025,265.6856543,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_High_Industrial,2025,230.77583035,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2030,259.8400714,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2035,254.7729175,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2040,249.9323805,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1407,7 +1407,7 @@ DE,Heat_High_Industrial,2045,245.3093957,,PJ,EU-EnVis-2060 REPowerEU++ Scenario;
 DE,Heat_High_Industrial,2050,240.8937654,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2055,236.557451,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2060,232.2993194,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_Low_Industrial,2025,267.5313675,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_Low_Industrial,2025,284.176230432,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2030,261.6457515,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2035,256.543779,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2040,251.6694941,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1415,7 +1415,7 @@ DE,Heat_Low_Industrial,2045,247.0135021,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; 
 DE,Heat_Low_Industrial,2050,242.5669606,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2055,238.2011046,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2060,233.9131708,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_MediumHigh_Industrial,2025,565.2997032,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_MediumHigh_Industrial,2025,518.7632249,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2030,552.8626259,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2035,542.0821246,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2040,531.7826256,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1423,7 +1423,7 @@ DE,Heat_MediumHigh_Industrial,2045,521.9442842,,PJ,EU-EnVis-2060 REPowerEU++ Sce
 DE,Heat_MediumHigh_Industrial,2050,512.5500903,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2055,503.3241055,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2060,494.2634948,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_MediumLow_Industrial,2025,173.1014897,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_MediumLow_Industrial,2025,158.7432554,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumLow_Industrial,2030,169.2934717,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumLow_Industrial,2035,165.9919161,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumLow_Industrial,2040,162.8385452,,PJ,EU-EnVis-2060 REPowerEU++ Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>

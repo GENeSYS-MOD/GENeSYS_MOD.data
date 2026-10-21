@@ -319,7 +319,7 @@ CZ,Heat_Buildings,2045,226.6193,,PJ,EU-EnVis-2060 EU Green Scenario,05.09.2024,K
 CZ,Heat_Buildings,2050,213.702,,PJ,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,Heat_Buildings,2055,213.702,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_Buildings,2060,213.702,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_Buildings,2025,2304.2075,,PJ,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Heat_Buildings,2025,2478.80211734,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info; AGEB Anwendungsbilanzen zur Energiebilanz Deutschland 2014-2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Buildings,2030,2147.5214,,PJ,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Heat_Buildings,2035,2010.08,,PJ,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Heat_Buildings,2040,1889.4752,,PJ,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -559,7 +559,7 @@ CZ,Mobility_Freight,2045,59.7132,,gtkm,EU-EnVis-2060 EU Green Scenario,05.09.202
 CZ,Mobility_Freight,2050,58.3996,,gtkm,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,Mobility_Freight,2055,58.3996,,gtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Mobility_Freight,2060,58.3996,,gtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Mobility_Freight,2025,686.1419,,gtkm,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Mobility_Freight,2025,686.141899982,,gtkm,EU-EnVis-2060 EU Green Scenario,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Mobility_Freight,2030,668.9884,,gtkm,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Freight,2035,652.2637,,gtkm,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Freight,2040,636.6093,,gtkm,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -799,7 +799,7 @@ CZ,Mobility_Passenger,2045,114.2489,,gpkm,EU-EnVis-2060 EU Green Scenario,05.09.
 CZ,Mobility_Passenger,2050,108.5365,,gpkm,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,Mobility_Passenger,2055,108.5365,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Mobility_Passenger,2060,108.5365,,gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Mobility_Passenger,2025,1230.208,,gpkm,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Mobility_Passenger,2025,1220.00406176,,gpkm,EU-EnVis-2060 EU Green Scenario; sum of the 16 federal states,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Mobility_Passenger,2030,1205.6038,,gpkm,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Passenger,2035,1169.4357,,gpkm,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Passenger,2040,1122.6583,,gpkm,EU-EnVis-2060 EU Green Scenario,05.09.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -1039,7 +1039,7 @@ CZ,Power,2045,198.896,,PJ,EU-EnVis-2060 EU Green Scenario,09.04.2025,Nikita Mosk
 CZ,Power,2050,192.929,,PJ,EU-EnVis-2060 EU Green Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Power,2055,187.141,,PJ,EU-EnVis-2060 EU Green Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Power,2060,181.527,,PJ,EU-EnVis-2060 EU Green Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Power,2025,1850.18,,PJ,EU-EnVis-2060 EU Green Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Power,2025,1491.92963768,,PJ,"Energy-Charts (net generation 2018 and 2025); BDEW, Stromerzeugung und -verbrauch in Deutschland",12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Power,2030,1790.05,,PJ,EU-EnVis-2060 EU Green Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Power,2035,1731.88,,PJ,EU-EnVis-2060 EU Green Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Power,2040,1675.59,,PJ,EU-EnVis-2060 EU Green Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1399,7 +1399,7 @@ CZ,Heat_MediumLow_Industrial,2045,27.3802,,PJ,EU-EnVis-2060 EU Green Scenario,09
 CZ,Heat_MediumLow_Industrial,2050,27.0517,,PJ,EU-EnVis-2060 EU Green Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_MediumLow_Industrial,2055,26.727,,PJ,EU-EnVis-2060 EU Green Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_MediumLow_Industrial,2060,26.4063,,PJ,EU-EnVis-2060 EU Green Scenario,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_High_Industrial,2025,269.8361429,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_High_Industrial,2025,230.77583035,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2030,264.0347502,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2035,258.7545764,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2040,254.8726289,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1407,7 +1407,7 @@ DE,Heat_High_Industrial,2045,251.3045458,,PJ,EU-EnVis-2060 EU Green Scenario; AG
 DE,Heat_High_Industrial,2050,248.2894079,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2055,245.3093957,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_High_Industrial,2060,242.3656422,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_Low_Industrial,2025,271.7115365,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_Low_Industrial,2025,284.176230432,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2030,265.869579,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2035,260.5526295,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2040,256.6443594,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1415,7 +1415,7 @@ DE,Heat_Low_Industrial,2045,253.0510941,,PJ,EU-EnVis-2060 EU Green Scenario; AGE
 DE,Heat_Low_Industrial,2050,250.0143373,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2055,247.0146074,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Low_Industrial,2060,244.0502464,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_MediumHigh_Industrial,2025,574.1325701,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_MediumHigh_Industrial,2025,518.7632249,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2030,561.7881023,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2035,550.5530585,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2040,542.2947484,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1423,7 +1423,7 @@ DE,Heat_MediumHigh_Industrial,2045,534.7026597,,PJ,EU-EnVis-2060 EU Green Scenar
 DE,Heat_MediumHigh_Industrial,2050,528.2861447,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2055,521.9461742,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumHigh_Industrial,2060,515.6827483,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Heat_MediumLow_Industrial,2025,175.8063549,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Heat_MediumLow_Industrial,2025,158.7432554,,PJ,Statistik Berlin Brandenburg: Energieverwendung der Betriebe des Verarbeitenden Gewerbes 2024; AGEB Anwendungsbilanzen Industrie 2018 and 2024,12.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumLow_Industrial,2030,172.0266566,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumLow_Industrial,2035,168.5861366,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_MediumLow_Industrial,2040,166.0571173,,PJ,EU-EnVis-2060 EU Green Scenario; AGEB Anwendungsbilanzen Industrie 2018,05.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
