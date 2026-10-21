@@ -963,39 +963,102 @@ DK,P_Wind_Onshore_Avg,All,14.12666667,,GW,,,
 DK,P_Wind_Onshore_Avg,2025,4.86,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 DK,P_Wind_Onshore_Inf,All,14.12666667,,GW,,,
 DK,P_Wind_Onshore_Opt,All,14.12666667,,GW,,,
-DE,A_Rooftop_Commercial,All,340.5760523,,GW,,,
-DE,A_Rooftop_Residential,All,366.9148539,,GW,,,
-DE,D_PHS,All,9.4491,,GW,,,
-DE,D_PHS,2025,9.449,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_CSP,All,43.42,,GW,,,
-DE,P_Hydro_Reservoir,2018,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2020,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2025,1.381,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2030,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2035,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2040,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2045,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2050,1.44,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2055,1.44,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_Reservoir,2060,1.44,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2018,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2020,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2025,3.731,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_Hydro_RoR,2030,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2035,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2040,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2045,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2050,3.86,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2055,3.86,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Hydro_RoR,2060,3.86,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Wind_Offshore_Deep,All,36.22666667,,GW,,,
-DE,P_Wind_Offshore_Shallow,All,36.22666667,,GW,,,
-DE,P_Wind_Offshore_Transitional,All,36.22666667,,GW,,,
-DE,P_Wind_Offshore_Transitional,2025,8.456,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_Wind_Onshore_Avg,All,96.46,,GW,,,
-DE,P_Wind_Onshore_Avg,2025,59.841,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_Wind_Onshore_Inf,All,96.46,,GW,,,
-DE,P_Wind_Onshore_Opt,All,96.46,,GW,,,
+DE,P_PV_Utility_Avg,All,140.133,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Inf,All,140.133,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,All,140.194,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Rooftop_Commercial,All,224.51,,GW,https://www.agora-energiewende.de/publikationen/solarstrom-vom-dach#downloads ,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_PV_Rooftop_Residential,All,284.55,,GW,https://www.agora-energiewende.de/publikationen/solarstrom-vom-dach#downloads ,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2018,1.3906,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2025,1.3881,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2030,1.38428,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2035,0.777796,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2040,0.565597,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2045,0.530555,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2050,0.504813,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2055,0.482884,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,CHP_WasteToEnergy,2060,0.462031,,GW,placeholder: 2018 residual capacity -1 %/a (open data item),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2018,2.78925,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2025,2.78868,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2030,2.78868,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2035,2.78868,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2040,2.78868,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2045,2.78868,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2050,2.78868,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2055,2.78868,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2060,2.78868,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2018,1.44,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2025,1.44,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2030,1.44,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2035,1.44,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2040,1.44,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2045,1.44,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2050,1.44,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2055,1.44,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2060,1.44,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2018,0.05572,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2025,0.05546,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2030,0.05542,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2035,0.05538,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2040,0.05533,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2045,0.05529,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2050,0.05525,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2055,0.05525,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Geothermal,2060,0.05516,,GW,Energy-Charts (net generation 2025 by federal state),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2018,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2025,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2030,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2035,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2040,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2045,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2050,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2055,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Opt,2060,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2018,130.585,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2025,130.585,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2030,130.585,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2035,130.585,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2040,130.585,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2045,130.585,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2050,130.585,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2055,130.585,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2060,130.585,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Inf,2018,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Inf,2025,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Inf,2030,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Inf,2035,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Inf,2040,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Inf,2045,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Inf,2050,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Inf,2055,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Inf,2060,115.749,,GW,assumption based on BMWK area analysis post-2030 (2022),14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Shallow,2018,7.7655,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Shallow,2025,7.7655,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Shallow,2030,7.7655,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Shallow,2035,7.7655,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Shallow,2040,7.7655,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Shallow,2045,7.7655,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Shallow,2050,7.7655,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Shallow,2055,7.7655,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Shallow,2060,7.7655,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2018,9.535,,GW,Status des Offshore-Windenergieausbaus in Deutschland,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2025,9.535,,GW,Status des Offshore-Windenergieausbaus in Deutschland,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2030,9.535,,GW,Status des Offshore-Windenergieausbaus in Deutschland,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2035,9.535,,GW,Status des Offshore-Windenergieausbaus in Deutschland,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2040,9.535,,GW,Status des Offshore-Windenergieausbaus in Deutschland,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2045,9.535,,GW,Status des Offshore-Windenergieausbaus in Deutschland,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2050,9.535,,GW,Status des Offshore-Windenergieausbaus in Deutschland,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2055,9.535,,GW,Status des Offshore-Windenergieausbaus in Deutschland,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2060,9.535,,GW,Status des Offshore-Windenergieausbaus in Deutschland,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Deep,2018,70,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Deep,2025,70,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Deep,2030,70,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Deep,2035,70,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Deep,2040,70,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Deep,2045,70,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Deep,2050,70,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Deep,2055,70,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Deep,2060,70,,GW,sum of the federal states,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,P_CSP,All,0,,GW,assumption based on the direct irradiation in Germany,14.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,A_Rooftop_Commercial,All,65.09013375,,GW,,,
 CZ,A_Rooftop_Residential,All,70.12394662,,GW,,,
 CZ,D_PHS,All,0.625,,GW,,,
@@ -1207,7 +1270,6 @@ AL,P_Wind_Onshore_Opt,All,5.421458599,,GW,,,
 World,R_Waste,All,999999,,GW,"no source needed, unlimited",20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,CHP_WasteToEnergy,All,0.1144,,GW,endogenous from model run to fit actual production,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,CHP_WasteToEnergy,All,5.7451,,GW,endogenous from model run to fit actual production,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,CHP_WasteToEnergy,All,57.8452,,GW,endogenous from model run to fit actual production,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,CHP_WasteToEnergy,All,12.8652,,GW,endogenous from model run to fit actual production,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,CHP_WasteToEnergy,All,2.6067,,GW,endogenous from model run to fit actual production,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,CHP_WasteToEnergy,All,5.8174,,GW,endogenous from model run to fit actual production,25.07.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1239,11 +1301,6 @@ CZ,P_PV_Utility_Avg,2025,3.548,,GW,set to 2024 installed capacities by entso-e,0
 CZ,P_PV_Utility_Inf,All,13.3312,,GW,,,
 CZ,P_PV_Utility_Opt,All,13.3312,,GW,,,
 CZ,P_PV_Utility_Tracking,All,9.3812,,GW,,,
-DE,P_PV_Utility_Avg,All,69.5572,,GW,,,
-DE,P_PV_Utility_Avg,2025,76.601,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_PV_Utility_Inf,All,69.5572,,GW,,,
-DE,P_PV_Utility_Opt,All,69.5572,,GW,,,
-DE,P_PV_Utility_Tracking,All,48.9477,,GW,,,
 DK,P_PV_Utility_Avg,All,6.1162,,GW,,,
 DK,P_PV_Utility_Avg,2025,3.73,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 DK,P_PV_Utility_Inf,All,6.1162,,GW,,,
@@ -1664,13 +1721,6 @@ CZ,P_Coal_Lignite,2025,7.2,,GW,set to 2024 installed capacities by entso-e,03.02
 CZ,P_Gas_CCGT,2025,1.24,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 CZ,P_Nuclear,2025,4.04,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 CZ,Waste,2025,0.1,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,Fossil Coal-derived gas,2025,1.257,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_Biomass,2025,8.577,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_Coal_Hardcoal,2025,12.966,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_Coal_Lignite,2025,18.363,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_Gas_CCGT,2025,36.255,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_Oil,2025,4.118,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,Waste,2025,1.808,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 EE,Fossil Coal-derived gas,2025,0.078,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 EE,P_Biomass,2025,0.15,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 EE,P_Gas_CCGT,2025,0.015,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
@@ -1767,7 +1817,6 @@ UK,P_Coal_Hardcoal,2025,5.755,,GW,set to 2024 installed capacities by entso-e,03
 UK,P_Gas_CCGT,2025,41.371,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 UK,P_Nuclear,2025,8.256,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 UK,P_Oil,2025,0.316,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-DE,P_Geothermal,2025,0.054,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FR,P_Geothermal,2025,0.002,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 FR,P_Ocean,2025,0.243,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
 HR,P_Geothermal,2025,0.01,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
