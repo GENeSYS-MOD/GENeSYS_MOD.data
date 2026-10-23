@@ -807,16 +807,16 @@ NO,P_Coal_Hardcoal_CCS,2045,0,,Fraction,https://beyondfossilfuels.org/europes-co
 NO,P_Coal_Hardcoal_CCS,2050,0,,Fraction,https://beyondfossilfuels.org/europes-coal-exit/,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 NO,P_Coal_Hardcoal_CCS,2055,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Coal_Hardcoal_CCS,2060,0,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2018,0.55,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,03.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2020,0.55,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,03.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2025,0.55,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,03.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2030,0.55,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,03.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2035,0.55,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,03.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2040,0.55,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,03.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2045,0.55,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,03.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2050,0.55,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,03.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2055,0.55,,Fraction,same as 2050 for now,03.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2060,0.55,,Fraction,same as 2050 for now,03.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2018,0.459,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2020,0.459,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2025,0.459,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2030,0.459,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2035,0.459,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2040,0.459,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2045,0.459,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2050,0.459,,Fraction,Own calcuations based on entsoe; AvailabilityFactor = Electricity Output/Installed Capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2055,0.459,,Fraction,same as 2050 for now,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2060,0.459,,Fraction,same as 2050 for now,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
 HR,Z_Import_Gas,All,0,,Fraction,no pipeline connection to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_Reservoir,All,0.4671,,Fraction,Own calcuations based on IEA; AvailabilityFactor = Electricity Output/Installed Capacity,24.07.2024,"Herpich, Philipp <phe@wip.tu-berlin.de>"
 IE,Z_Import_Gas,All,0,,Fraction,no pipeline connection to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
