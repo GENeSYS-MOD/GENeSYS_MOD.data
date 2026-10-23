@@ -563,8 +563,8 @@ NO,HB_Oil_Boiler,Heat_Buildings,2018,2.5987,,PJ,,,
 NO,CHP_Biomass_Solid,Power,2018,1.6333,,PJ,,,
 NO,CHP_Gas_CCGT_Natural,Power,2018,8.375,,PJ,,,
 NO,P_Gas_OCGT,Power,2018,3.395,,PJ,,,
-NO,P_Hydro_Reservoir,Power,2018,461.239,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,01.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_RoR,Power,2018,36.0448,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,01.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,Power,2018,395.43,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type recalculated with new classification of RoR,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_RoR,Power,2018,101.85,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type recalculated with new classification of RoR,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
 NONEU_Balkan,HB_Biomass,Heat_Buildings,2018,112.78,,PJ,Eurostat Database: Disaggregated Final Consumption in Households,08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HB_Direct_Electric,Heat_Buildings,2018,58.591,,PJ,Eurostat Database: Disaggregated Final Consumption in Households,08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HB_Hardcoal,Heat_Buildings,2018,15.563,,PJ,Eurostat Database: Disaggregated Final Consumption in Households,08.11.2023,Nikita Moskalenko <nim@wip.tu-berlin.de>

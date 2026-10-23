@@ -426,16 +426,16 @@ NO,A_Rooftop_Commercial,All,20.39377559,,GW,,,
 NO,A_Rooftop_Residential,All,21.97094933,,GW,,,
 NO,D_PHS,All,5.75,,GW,,,
 NO,P_CSP,All,2.6,,GW,,,
-NO,P_Hydro_Reservoir,2018,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2020,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2018,26.66,,GW,same as ResidualCapacity (2024 installed capacity) - no new reservoir capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2020,26.66,,GW,same as ResidualCapacity (2024 installed capacity) - no new reservoir capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
 NO,P_Hydro_Reservoir,2025,26.66,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2030,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2035,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2040,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2045,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2050,26.661,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2055,26.661,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,P_Hydro_Reservoir,2060,26.661,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2030,26.66,,GW,same as ResidualCapacity (2024 installed capacity) - no new reservoir capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2035,26.66,,GW,same as ResidualCapacity (2024 installed capacity) - no new reservoir capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2040,26.66,,GW,same as ResidualCapacity (2024 installed capacity) - no new reservoir capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2045,26.66,,GW,same as ResidualCapacity (2024 installed capacity) - no new reservoir capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2050,26.66,,GW,same as ResidualCapacity (2024 installed capacity) - no new reservoir capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2055,26.66,,GW,same as ResidualCapacity (2024 installed capacity) - no new reservoir capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
+NO,P_Hydro_Reservoir,2060,26.66,,GW,same as ResidualCapacity (2024 installed capacity) - no new reservoir capacity,23.10.2026,Dimitri Pinel <dimitri.pinel@sintef.no>
 NO,P_Hydro_RoR,2018,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_RoR,2020,8.473811519,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,P_Hydro_RoR,2025,6.875,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@rwip.tu-berlin.de>
