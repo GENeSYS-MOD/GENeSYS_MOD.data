@@ -47,28 +47,28 @@ World,HB_Hardcoal,1,CO2,All,1,,Fraction,no source needed - all emissions go into
 World,HB_Lignite,1,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HB_Oil_Boiler,1,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_BF_BOF,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_BF_BOF_CCS,All,CO2,2018,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_BF_BOF_CCS,All,CO2,2020,0.093,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_BF_BOF_CCS,All,CO2,2025,0.084,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_BF_BOF_CCS,All,CO2,2030,0.082,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_BF_BOF_CCS,All,CO2,2035,0.081,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_BF_BOF_CCS,All,CO2,2040,0.081,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_BF_BOF_CCS,All,CO2,2045,0.08,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_BF_BOF_CCS,All,CO2,2050,0.08,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_BF_BOF_CCS,All,CO2,2055,0.08,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HHI_BF_BOF_CCS,All,CO2,2060,0.08,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,All,CO2,2018,0.5000,,Fraction,"Residual direct CO2 of an integrated BF-BOF mill with post-combustion capture: 1045.73 / 2094.14 kg CO2 per t HRC = 0.499 (IEAGHG (2013): Iron and Steel CCS Study, Report 2013/04, Table 5, Case 2A; consistent with the Case 2A capex add-on)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,All,CO2,2020,0.5000,,Fraction,"Residual direct CO2 of an integrated BF-BOF mill with post-combustion capture: 1045.73 / 2094.14 kg CO2 per t HRC = 0.499 (IEAGHG (2013): Iron and Steel CCS Study, Report 2013/04, Table 5, Case 2A; consistent with the Case 2A capex add-on)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,All,CO2,2025,0.5000,,Fraction,"Residual direct CO2 of an integrated BF-BOF mill with post-combustion capture: 1045.73 / 2094.14 kg CO2 per t HRC = 0.499 (IEAGHG (2013): Iron and Steel CCS Study, Report 2013/04, Table 5, Case 2A; consistent with the Case 2A capex add-on)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,All,CO2,2030,0.5000,,Fraction,"Residual direct CO2 of an integrated BF-BOF mill with post-combustion capture: 1045.73 / 2094.14 kg CO2 per t HRC = 0.499 (IEAGHG (2013): Iron and Steel CCS Study, Report 2013/04, Table 5, Case 2A; consistent with the Case 2A capex add-on)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,All,CO2,2035,0.5000,,Fraction,"Residual direct CO2 of an integrated BF-BOF mill with post-combustion capture: 1045.73 / 2094.14 kg CO2 per t HRC = 0.499 (IEAGHG (2013): Iron and Steel CCS Study, Report 2013/04, Table 5, Case 2A; consistent with the Case 2A capex add-on)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,All,CO2,2040,0.5000,,Fraction,"Residual direct CO2 of an integrated BF-BOF mill with post-combustion capture: 1045.73 / 2094.14 kg CO2 per t HRC = 0.499 (IEAGHG (2013): Iron and Steel CCS Study, Report 2013/04, Table 5, Case 2A; consistent with the Case 2A capex add-on)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,All,CO2,2045,0.5000,,Fraction,"Residual direct CO2 of an integrated BF-BOF mill with post-combustion capture: 1045.73 / 2094.14 kg CO2 per t HRC = 0.499 (IEAGHG (2013): Iron and Steel CCS Study, Report 2013/04, Table 5, Case 2A; consistent with the Case 2A capex add-on)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,All,CO2,2050,0.5000,,Fraction,"Residual direct CO2 of an integrated BF-BOF mill with post-combustion capture: 1045.73 / 2094.14 kg CO2 per t HRC = 0.499 (IEAGHG (2013): Iron and Steel CCS Study, Report 2013/04, Table 5, Case 2A; consistent with the Case 2A capex add-on)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,All,CO2,2055,0.5000,,Fraction,"Residual direct CO2 of an integrated BF-BOF mill with post-combustion capture: 1045.73 / 2094.14 kg CO2 per t HRC = 0.499 (IEAGHG (2013): Iron and Steel CCS Study, Report 2013/04, Table 5, Case 2A; consistent with the Case 2A capex add-on)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,All,CO2,2060,0.5000,,Fraction,"Residual direct CO2 of an integrated BF-BOF mill with post-combustion capture: 1045.73 / 2094.14 kg CO2 per t HRC = 0.499 (IEAGHG (2013): Iron and Steel CCS Study, Report 2013/04, Table 5, Case 2A; consistent with the Case 2A capex add-on)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_Bio_BF_BOF,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_DRI_EAF,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_DRI_EAF_CCS,All,CO2,2018,0.12,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_DRI_EAF_CCS,All,CO2,2020,0.093,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_DRI_EAF_CCS,All,CO2,2025,0.084,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_DRI_EAF_CCS,All,CO2,2030,0.082,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_DRI_EAF_CCS,All,CO2,2035,0.081,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_DRI_EAF_CCS,All,CO2,2040,0.081,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_DRI_EAF_CCS,All,CO2,2045,0.08,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_DRI_EAF_CCS,All,CO2,2050,0.08,,Fraction,,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HHI_DRI_EAF_CCS,All,CO2,2055,0.08,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HHI_DRI_EAF_CCS,All,CO2,2060,0.08,,Fraction,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HHI_DRI_EAF_CCS,All,CO2,2018,0.5000,,Fraction,"Model assumption: same residual as HHI_BF_BOF_CCS (IEAGHG 2013/04, Case 2A, 0.50); no source for DRI-EAF CCS capture rates",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF_CCS,All,CO2,2020,0.5000,,Fraction,"Model assumption: same residual as HHI_BF_BOF_CCS (IEAGHG 2013/04, Case 2A, 0.50); no source for DRI-EAF CCS capture rates",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF_CCS,All,CO2,2025,0.5000,,Fraction,"Model assumption: same residual as HHI_BF_BOF_CCS (IEAGHG 2013/04, Case 2A, 0.50); no source for DRI-EAF CCS capture rates",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF_CCS,All,CO2,2030,0.5000,,Fraction,"Model assumption: same residual as HHI_BF_BOF_CCS (IEAGHG 2013/04, Case 2A, 0.50); no source for DRI-EAF CCS capture rates",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF_CCS,All,CO2,2035,0.5000,,Fraction,"Model assumption: same residual as HHI_BF_BOF_CCS (IEAGHG 2013/04, Case 2A, 0.50); no source for DRI-EAF CCS capture rates",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF_CCS,All,CO2,2040,0.5000,,Fraction,"Model assumption: same residual as HHI_BF_BOF_CCS (IEAGHG 2013/04, Case 2A, 0.50); no source for DRI-EAF CCS capture rates",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF_CCS,All,CO2,2045,0.5000,,Fraction,"Model assumption: same residual as HHI_BF_BOF_CCS (IEAGHG 2013/04, Case 2A, 0.50); no source for DRI-EAF CCS capture rates",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF_CCS,All,CO2,2050,0.5000,,Fraction,"Model assumption: same residual as HHI_BF_BOF_CCS (IEAGHG 2013/04, Case 2A, 0.50); no source for DRI-EAF CCS capture rates",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF_CCS,All,CO2,2055,0.5000,,Fraction,"Model assumption: same residual as HHI_BF_BOF_CCS (IEAGHG 2013/04, Case 2A, 0.50); no source for DRI-EAF CCS capture rates",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF_CCS,All,CO2,2060,0.5000,,Fraction,"Model assumption: same residual as HHI_BF_BOF_CCS (IEAGHG 2013/04, Case 2A, 0.50); no source for DRI-EAF CCS capture rates",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HLI_Gas_Boiler,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HLI_Hardcoal,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HLI_Lignite,All,CO2,All,1,,Fraction,no source needed - all emissions go into athmosphere,22.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
