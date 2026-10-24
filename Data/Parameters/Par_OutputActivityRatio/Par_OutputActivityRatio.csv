@@ -196,74 +196,74 @@ World,HB_Heatpump_Aerial,Heat_Buildings,1,All,1,,PJ,Energy Agency Denmark (2023)
 World,HB_Heatpump_Ground,Heat_Buildings,1,All,1,,PJ,Energy Agency Denmark (2023): HP ground-water (average),20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Lignite,Heat_Buildings,1,All,1,,PJ,Vakkilainen (2017): Chapter 3,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Oil_Boiler,Heat_Buildings,1,All,1,,PJ,Energy Agency Denmark (2023): Oil Boiler,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HB_Solar_Thermal,Heat_Buildings,1,All,1,,PJ,,,
+World,HB_Solar_Thermal,Heat_Buildings,1,All,1,,PJ,"Model convention: activity is measured in units of useful output (OutputActivityRatio = 1); the only input is the rooftop-area dummy fuel, so there is no conversion efficiency",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HD_Electric_Boiler,Heat_District,1,All,1,,PJ,DEA Technology data for El and DH - Electric boiler - assumed 99%,11.10.2024,Stian Backe <stian.backe@sintef.no>
 World,HD_Geothermal,Heat_District,1,All,1,,PJ,DEA Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - Assumed SCOP=5,11.10.2024,Stian Backe <stian.backe@sintef.no>
 World,HD_Heatpump_Air,Heat_District,1,All,1,,PJ,"DEA Technology data for El and DH - Comp. hp, airsource 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
 World,HD_Heatpump_ExcessHeat,Heat_District,1,All,1,,PJ,"DEA Technology data for El and DH - Comp. hp, excess heat 10MW - need time series",11.10.2024,Stian Backe <stian.backe@sintef.no>
 World,HD_Solar_Thermal,Heat_District,1,All,1,,PJ,DEA Technology data for El and DH - Solar district heating ,11.10.2024,Stian Backe <stian.backe@sintef.no>
-World,HHI_BF_BOF,Heat_High_Industrial,1,All,1,,PJ,,,
+World,HHI_BF_BOF,Heat_High_Industrial,1,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_BF_BOF,Heat_High_Industrial,2,2018,0,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,2,2020,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,2,2025,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,2,2030,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,2,2035,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,2,2040,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,2,2045,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,2,2050,1,,PJ,,,
+World,HHI_BF_BOF,Heat_High_Industrial,2,2020,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,2,2025,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,2,2030,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,2,2035,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,2,2040,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,2,2045,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,2,2050,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_BF_BOF,Heat_High_Industrial,2,2055,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HHI_BF_BOF,Heat_High_Industrial,2,2060,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HHI_BF_BOF,Heat_High_Industrial,3,2018,0,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,3,2020,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,3,2025,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,3,2030,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,3,2035,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,3,2040,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,3,2045,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,3,2050,1,,PJ,,,
+World,HHI_BF_BOF,Heat_High_Industrial,3,2020,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,3,2025,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,3,2030,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,3,2035,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,3,2040,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,3,2045,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,3,2050,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_BF_BOF,Heat_High_Industrial,3,2055,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HHI_BF_BOF,Heat_High_Industrial,3,2060,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HHI_BF_BOF,Heat_High_Industrial,4,2018,0,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,4,2020,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,4,2025,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,4,2030,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,4,2035,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,4,2040,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,4,2045,1,,PJ,,,
-World,HHI_BF_BOF,Heat_High_Industrial,4,2050,1,,PJ,,,
+World,HHI_BF_BOF,Heat_High_Industrial,4,2020,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,4,2025,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,4,2030,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,4,2035,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,4,2040,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,4,2045,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF,Heat_High_Industrial,4,2050,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_BF_BOF,Heat_High_Industrial,4,2055,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HHI_BF_BOF,Heat_High_Industrial,4,2060,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HHI_BF_BOF_CCS,Heat_High_Industrial,1,All,1,,PJ,,,
-World,HHI_BF_BOF_CCS,Heat_High_Industrial,2,All,1,,PJ,,,
-World,HHI_BF_BOF_CCS,Heat_High_Industrial,3,All,1,,PJ,,,
-World,HHI_BF_BOF_CCS,Heat_High_Industrial,4,All,1,,PJ,,,
-World,HHI_Bio_BF_BOF,Heat_High_Industrial,1,All,1,,PJ,,,
-World,HHI_Bio_BF_BOF,Heat_High_Industrial,2,All,1,,PJ,,,
-World,HHI_Bio_BF_BOF,Heat_High_Industrial,3,All,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,1,All,1,,PJ,,,
+World,HHI_BF_BOF_CCS,Heat_High_Industrial,1,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,Heat_High_Industrial,2,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,Heat_High_Industrial,3,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_BF_BOF_CCS,Heat_High_Industrial,4,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_Bio_BF_BOF,Heat_High_Industrial,1,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_Bio_BF_BOF,Heat_High_Industrial,2,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_Bio_BF_BOF,Heat_High_Industrial,3,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,1,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_DRI_EAF,Heat_High_Industrial,2,2018,0,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,2,2020,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,2,2025,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,2,2030,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,2,2035,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,2,2040,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,2,2045,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,2,2050,1,,PJ,,,
+World,HHI_DRI_EAF,Heat_High_Industrial,2,2020,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,2,2025,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,2,2030,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,2,2035,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,2,2040,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,2,2045,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,2,2050,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_DRI_EAF,Heat_High_Industrial,2,2055,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HHI_DRI_EAF,Heat_High_Industrial,2,2060,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HHI_DRI_EAF,Heat_High_Industrial,3,2018,0,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,3,2020,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,3,2025,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,3,2030,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,3,2035,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,3,2040,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,3,2045,1,,PJ,,,
-World,HHI_DRI_EAF,Heat_High_Industrial,3,2050,1,,PJ,,,
+World,HHI_DRI_EAF,Heat_High_Industrial,3,2020,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,3,2025,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,3,2030,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,3,2035,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,3,2040,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,3,2045,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_DRI_EAF,Heat_High_Industrial,3,2050,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_DRI_EAF,Heat_High_Industrial,3,2055,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HHI_DRI_EAF,Heat_High_Industrial,3,2060,1,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HHI_DRI_EAF_CCS,Heat_High_Industrial,1,All,1,,PJ,,,
-World,HHI_H2DRI_EAF,Heat_High_Industrial,1,All,1,,PJ,,,
-World,HHI_Molten_Electrolysis,Heat_High_Industrial,1,All,1,,PJ,,,
+World,HHI_DRI_EAF_CCS,Heat_High_Industrial,1,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_H2DRI_EAF,Heat_High_Industrial,1,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HHI_Molten_Electrolysis,Heat_High_Industrial,1,All,1,,PJ,Model convention: steel routes are modelled as suppliers of Heat_High_Industrial; activity is normalised to 1 PJ of output and all input ratios are expressed per PJ of output,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HHI_Scrap_EAF,Heat_High_Industrial,1,All,1,,PJ,Fraunhofer et al. (2016): Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables),04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Biomass,Heat_Low_Industrial,1,All,1,,PJ,Energy Agency Denmark (2022): Hot water boiler wood,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Convert_HD,Heat_Low_Industrial,2,All,1,,PJ,Not relevant: Only conversion,20.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -277,7 +277,7 @@ World,HLI_Hardcoal,Heat_Low_Industrial,1,All,1,,PJ,Energy Agency Denmark (2022):
 World,HLI_Heatpump,Heat_Low_Industrial,1,All,1,,PJ,DEA Technology data for industrial process heat - heat pump 60 to 80 C - needs timeseries,11.10.2024,Stian Backe <stian.backe@sintef.no>
 World,HLI_Lignite,Heat_Low_Industrial,1,All,1,,PJ,Energy Agency Denmark (2022): Hot water boiler coal,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Oil_Boiler,Heat_Low_Industrial,1,All,1,,PJ,Energy Agency Denmark (2022): Hot water boiler oil,21.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_Solar_Thermal,Heat_Low_Industrial,1,All,1,,PJ,,,
+World,HLI_Solar_Thermal,Heat_Low_Industrial,1,All,1,,PJ,"Model convention: activity is measured in units of useful output (OutputActivityRatio = 1); the only input is the rooftop-area dummy fuel, so there is no conversion efficiency",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HMHI_Biomass,Heat_MediumHigh_Industrial,1,All,1,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_Biomass,Heat_MediumLow_Industrial,2,All,1,,PJ,Energy Agency Denmark (2022): Steam boiler wood,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMHI_Gas,Heat_MediumHigh_Industrial,1,All,1,,PJ,Energy Agency Denmark (2022): Steam boiler gas,22.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -340,8 +340,8 @@ World,P_Hydro_RoR,Power,1,All,1,,PJ,irrelevant - no input fuel,05.09.2024,Nikita
 World,P_Nuclear,Power,1,All,1,,PJ,Göke et al. (2023): http://dx.doi.org/10.48550/arXiv.2302.14515 (LWR),04.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Ocean,Power,1,All,1,,PJ,irrelevant - no input fuel,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Oil,Power,1,All,1,,PJ,Energy Agency Denmark (2024): Diesel engine farm,26.08.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_PV_Rooftop_Commercial,Power,1,All,1,,PJ,,,
-World,P_PV_Rooftop_Residential,Power,1,All,1,,PJ,,,
+World,P_PV_Rooftop_Commercial,Power,1,All,1,,PJ,"Model convention: activity is measured in units of useful output (OutputActivityRatio = 1); the only input is the rooftop-area dummy fuel, so there is no conversion efficiency",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,P_PV_Rooftop_Residential,Power,1,All,1,,PJ,"Model convention: activity is measured in units of useful output (OutputActivityRatio = 1); the only input is the rooftop-area dummy fuel, so there is no conversion efficiency",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_PV_Utility_Avg,Power,1,All,1,,PJ,irrelevant - no input fuel,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_PV_Utility_Inf,Power,1,All,1,,PJ,irrelevant - no input fuel,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_PV_Utility_Opt,Power,1,All,1,,PJ,irrelevant - no input fuel,05.09.2024,Nikita Moskalenko <nim@wip.tu-berlin.de>

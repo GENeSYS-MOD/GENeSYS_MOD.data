@@ -703,7 +703,7 @@ World,HLI_Geothermal,2045,2560,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/
 World,HLI_Geothermal,2050,2530,,MEUR/GW,"Geothermal DH, 1200m, E-https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating",20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_Geothermal,2055,2530,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HLI_Geothermal,2060,2530,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HLI_H2_Boiler,2018,650,,MEUR/GW,,,
+World,HLI_H2_Boiler,2018,56.72727273,,MEUR/GW,same as 2021 (130% of HLI_Gas_Boiler - Ricardo-AEA (2012)),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HLI_H2_Boiler,2020,56.72727273,,MEUR/GW,same as 2021 (130% of HLI_Gas_Boiler - Ricardo-AEA (2012)),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HLI_H2_Boiler,2021,56.72727273,,MEUR/GW,130% of HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HLI_H2_Boiler,2025,52,,MEUR/GW,130% of HLI_Gas_Boiler - Ricardo-AEA (2012),30.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
