@@ -131,25 +131,25 @@ UK,P_Hydro_RoR,2045,1.9191,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 UK,P_Hydro_RoR,2050,1.9191,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Hydro_RoR,2055,1.9191,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,P_Hydro_RoR,2060,1.9191,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,P_Wind_Offshore_Deep,All,42.9,,GW,,,
-UK,P_Wind_Offshore_Shallow,All,42.9,,GW,,,
-UK,P_Wind_Offshore_Transitional,All,42.9,,GW,,,
+UK,P_Wind_Offshore_Deep,All,42.9,,GW,"Wind offshore potential UK 128.7 GW (scenario ""EU-Wide low restrictions"", CF > 25%, water depth 30-60 m), split evenly across Shallow/Transitional/Deep - JRC ENSPRESO Wind onshore & offshore, sheet ""Wind Potential Pivot Countries"" - https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/ENSPRESO/ENSPRESO_WIND_ONSHORE_OFFSHORE.XLSX",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_Wind_Offshore_Shallow,All,42.9,,GW,"Wind offshore potential UK 128.7 GW (scenario ""EU-Wide low restrictions"", CF > 25%, water depth 30-60 m), split evenly across Shallow/Transitional/Deep - JRC ENSPRESO Wind onshore & offshore, sheet ""Wind Potential Pivot Countries"" - https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/ENSPRESO/ENSPRESO_WIND_ONSHORE_OFFSHORE.XLSX",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_Wind_Offshore_Transitional,All,42.9,,GW,"Wind offshore potential UK 128.7 GW (scenario ""EU-Wide low restrictions"", CF > 25%, water depth 30-60 m), split evenly across Shallow/Transitional/Deep - JRC ENSPRESO Wind onshore & offshore, sheet ""Wind Potential Pivot Countries"" - https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/ENSPRESO/ENSPRESO_WIND_ONSHORE_OFFSHORE.XLSX",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_Wind_Onshore_Avg,All,92.08333333,,GW,,,
 UK,P_Wind_Onshore_Inf,All,92.08333333,,GW,,,
 UK,P_Wind_Onshore_Opt,All,92.08333333,,GW,,,
-UA,A_Rooftop_Commercial,All,0,,GW,,,
-UA,A_Rooftop_Residential,All,0,,GW,,,
-UA,D_PHS,All,0,,GW,,,
-UA,P_CSP,All,0,,GW,,,
-UA,P_PV_Utility_Avg,All,0,,GW,,,
-UA,P_PV_Utility_Inf,All,0,,GW,,,
-UA,P_PV_Utility_Opt,All,0,,GW,,,
-UA,P_Wind_Offshore_Deep,All,0,,GW,,,
-UA,P_Wind_Offshore_Shallow,All,0,,GW,,,
-UA,P_Wind_Offshore_Transitional,All,0,,GW,,,
-UA,P_Wind_Onshore_Avg,All,0,,GW,,,
-UA,P_Wind_Onshore_Inf,All,0,,GW,,,
-UA,P_Wind_Onshore_Opt,All,0,,GW,,,
+UA,A_Rooftop_Commercial,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,A_Rooftop_Residential,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,D_PHS,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,P_CSP,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,P_PV_Utility_Avg,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,P_PV_Utility_Inf,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,P_PV_Utility_Opt,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,P_Wind_Offshore_Deep,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,P_Wind_Offshore_Shallow,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,P_Wind_Offshore_Transitional,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,P_Wind_Onshore_Avg,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,P_Wind_Onshore_Inf,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UA,P_Wind_Onshore_Opt,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,A_Rooftop_Commercial,All,70.63930282,,GW,,,
 TR,A_Rooftop_Residential,All,100.1888111,,GW,,,
 TR,D_PHS,All,0,,GW,,,
@@ -208,9 +208,9 @@ SK,P_Hydro_RoR,2045,1.2121,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 SK,P_Hydro_RoR,2050,1.2121,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,P_Hydro_RoR,2055,1.2121,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,P_Hydro_RoR,2060,1.2121,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,P_Wind_Offshore_Deep,All,0,,GW,,,
-SK,P_Wind_Offshore_Shallow,All,0,,GW,,,
-SK,P_Wind_Offshore_Transitional,All,0,,GW,,,
+SK,P_Wind_Offshore_Deep,All,0,,GW,"Wind offshore potential SK = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_Wind_Offshore_Shallow,All,0,,GW,"Wind offshore potential SK = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_Wind_Offshore_Transitional,All,0,,GW,"Wind offshore potential SK = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,P_Wind_Onshore_Avg,All,11.78666667,,GW,,,
 SK,P_Wind_Onshore_Inf,All,11.78666667,,GW,,,
 SK,P_Wind_Onshore_Opt,All,11.78666667,,GW,,,
@@ -274,19 +274,19 @@ SE,P_Wind_Offshore_Transitional,All,72.67,,GW,,,
 SE,P_Wind_Onshore_Avg,All,40.47333333,,GW,,,
 SE,P_Wind_Onshore_Inf,All,40.47333333,,GW,,,
 SE,P_Wind_Onshore_Opt,All,40.47333333,,GW,,,
-RU,A_Rooftop_Commercial,All,0,,GW,,,
-RU,A_Rooftop_Residential,All,0,,GW,,,
-RU,D_PHS,All,0,,GW,,,
-RU,P_CSP,All,0,,GW,,,
-RU,P_PV_Utility_Avg,All,0,,GW,,,
-RU,P_PV_Utility_Inf,All,0,,GW,,,
-RU,P_PV_Utility_Opt,All,0,,GW,,,
-RU,P_Wind_Offshore_Deep,All,0,,GW,,,
-RU,P_Wind_Offshore_Shallow,All,0,,GW,,,
-RU,P_Wind_Offshore_Transitional,All,0,,GW,,,
-RU,P_Wind_Onshore_Avg,All,0,,GW,,,
-RU,P_Wind_Onshore_Inf,All,0,,GW,,,
-RU,P_Wind_Onshore_Opt,All,0,,GW,,,
+RU,A_Rooftop_Commercial,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,A_Rooftop_Residential,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,D_PHS,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,P_CSP,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,P_PV_Utility_Avg,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,P_PV_Utility_Inf,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,P_PV_Utility_Opt,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,P_Wind_Offshore_Deep,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,P_Wind_Offshore_Shallow,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,P_Wind_Offshore_Transitional,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,P_Wind_Onshore_Avg,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,P_Wind_Onshore_Inf,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RU,P_Wind_Onshore_Opt,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RS,A_Rooftop_Commercial,All,79.0874764,,GW,,,
 RS,A_Rooftop_Residential,All,85.20378825,,GW,,,
 RS,D_PHS,All,0.125,,GW,,,
@@ -589,9 +589,9 @@ LU,P_Hydro_RoR,2045,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 LU,P_Hydro_RoR,2050,0.025,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Hydro_RoR,2055,0.025,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,P_Hydro_RoR,2060,0.025,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,P_Wind_Offshore_Deep,All,0,,GW,,,
-LU,P_Wind_Offshore_Shallow,All,0,,GW,,,
-LU,P_Wind_Offshore_Transitional,All,0,,GW,,,
+LU,P_Wind_Offshore_Deep,All,0,,GW,"Wind offshore potential LU = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,P_Wind_Offshore_Shallow,All,0,,GW,"Wind offshore potential LU = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,P_Wind_Offshore_Transitional,All,0,,GW,"Wind offshore potential LU = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,P_Wind_Onshore_Avg,All,0.736666667,,GW,,,
 LU,P_Wind_Onshore_Inf,All,0.736666667,,GW,,,
 LU,P_Wind_Onshore_Opt,All,0.736666667,,GW,,,
@@ -709,9 +709,9 @@ HU,P_Hydro_RoR,2045,0.0331,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 HU,P_Hydro_RoR,2050,0.0331,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,P_Hydro_RoR,2055,0.0331,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,P_Hydro_RoR,2060,0.0331,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,P_Wind_Offshore_Deep,All,0,,GW,,,
-HU,P_Wind_Offshore_Shallow,All,0,,GW,,,
-HU,P_Wind_Offshore_Transitional,All,0,,GW,,,
+HU,P_Wind_Offshore_Deep,All,0,,GW,"Wind offshore potential HU = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_Wind_Offshore_Shallow,All,0,,GW,"Wind offshore potential HU = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_Wind_Offshore_Transitional,All,0,,GW,"Wind offshore potential HU = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,P_Wind_Onshore_Avg,All,29.55333333,,GW,,,
 HU,P_Wind_Onshore_Inf,All,29.55333333,,GW,,,
 HU,P_Wind_Onshore_Opt,All,29.55333333,,GW,,,
@@ -2356,9 +2356,9 @@ CZ,P_Hydro_RoR,2045,0.341,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskale
 CZ,P_Hydro_RoR,2050,0.341,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Hydro_RoR,2055,0.341,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Hydro_RoR,2060,0.341,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,P_Wind_Offshore_Deep,All,0,,GW,,,
-CZ,P_Wind_Offshore_Shallow,All,0,,GW,,,
-CZ,P_Wind_Offshore_Transitional,All,0,,GW,,,
+CZ,P_Wind_Offshore_Deep,All,0,,GW,"Wind offshore potential CZ = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_Wind_Offshore_Shallow,All,0,,GW,"Wind offshore potential CZ = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_Wind_Offshore_Transitional,All,0,,GW,"Wind offshore potential CZ = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,P_Wind_Onshore_Avg,All,24.31,,GW,,,
 CZ,P_Wind_Onshore_Inf,All,24.31,,GW,,,
 CZ,P_Wind_Onshore_Opt,All,24.31,,GW,,,
@@ -2386,25 +2386,25 @@ CH,P_Hydro_RoR,2045,0.6351,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 CH,P_Hydro_RoR,2050,0.6351,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Hydro_RoR,2055,0.6351,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,P_Hydro_RoR,2060,0.6351,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,P_Wind_Offshore_Deep,All,0,,GW,,,
-CH,P_Wind_Offshore_Shallow,All,0,,GW,,,
-CH,P_Wind_Offshore_Transitional,All,0,,GW,,,
+CH,P_Wind_Offshore_Deep,All,0,,GW,"Wind offshore potential CH = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,P_Wind_Offshore_Shallow,All,0,,GW,"Wind offshore potential CH = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,P_Wind_Offshore_Transitional,All,0,,GW,"Wind offshore potential CH = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,P_Wind_Onshore_Avg,All,9.013333333,,GW,,,
 CH,P_Wind_Onshore_Inf,All,9.013333333,,GW,,,
 CH,P_Wind_Onshore_Opt,All,9.013333333,,GW,,,
-BY,A_Rooftop_Commercial,All,0,,GW,,,
-BY,A_Rooftop_Residential,All,0,,GW,,,
-BY,D_PHS,All,0,,GW,,,
-BY,P_CSP,All,0,,GW,,,
-BY,P_PV_Utility_Avg,All,0,,GW,,,
-BY,P_PV_Utility_Inf,All,0,,GW,,,
-BY,P_PV_Utility_Opt,All,0,,GW,,,
-BY,P_Wind_Offshore_Deep,All,0,,GW,,,
-BY,P_Wind_Offshore_Shallow,All,0,,GW,,,
-BY,P_Wind_Offshore_Transitional,All,0,,GW,,,
-BY,P_Wind_Onshore_Avg,All,0,,GW,,,
-BY,P_Wind_Onshore_Inf,All,0,,GW,,,
-BY,P_Wind_Onshore_Opt,All,0,,GW,,,
+BY,A_Rooftop_Commercial,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,A_Rooftop_Residential,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,D_PHS,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,P_CSP,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,P_PV_Utility_Avg,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,P_PV_Utility_Inf,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,P_PV_Utility_Opt,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,P_Wind_Offshore_Deep,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,P_Wind_Offshore_Shallow,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,P_Wind_Offshore_Transitional,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,P_Wind_Onshore_Avg,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,P_Wind_Onshore_Inf,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BY,P_Wind_Onshore_Opt,All,0,,GW,"Model convention: UA/RU/BY are trade-only nodes in the Europe data set (no SpecifiedAnnualDemand, no ResidualCapacity rows), so no generation/storage investment is allowed there",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,A_Rooftop_Commercial,All,67.29945944,,GW,,,
 BG,A_Rooftop_Residential,All,72.5041328,,GW,,,
 BG,D_PHS,All,0,,GW,,,
@@ -2502,9 +2502,9 @@ AT,P_Hydro_RoR,2045,5.8171,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskal
 AT,P_Hydro_RoR,2050,5.8171,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Hydro_RoR,2055,5.8171,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,P_Hydro_RoR,2060,5.8171,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,P_Wind_Offshore_Deep,All,0,,GW,,,
-AT,P_Wind_Offshore_Shallow,All,0,,GW,,,
-AT,P_Wind_Offshore_Transitional,All,0,,GW,,,
+AT,P_Wind_Offshore_Deep,All,0,,GW,"Wind offshore potential AT = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_Wind_Offshore_Shallow,All,0,,GW,"Wind offshore potential AT = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_Wind_Offshore_Transitional,All,0,,GW,"Wind offshore potential AT = 0 GW (landlocked) - Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 11 ""Installable capacities of wind and solar power plants per region"" - https://www.pik-potsdam.de/en/institute/departments/transformation-pathways/models/limes/DocumentationLIMESEU_2014.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,P_Wind_Onshore_Avg,All,19.84666667,,GW,,,
 AT,P_Wind_Onshore_Inf,All,19.84666667,,GW,,,
 AT,P_Wind_Onshore_Opt,All,19.84666667,,GW,,,
