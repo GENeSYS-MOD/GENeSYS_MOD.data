@@ -463,8 +463,8 @@ World,PSNG_Road_ICE,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita
 World,PSNG_Road_PHEV,1,All,0.001,,MEUR/PJ,"dummy value, fuel costs come from upstream generation cost numbers",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,PSNG_Road_PHEV,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,PSNG_Road_PHEV,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Biomass,1,2018,0.98968,,MEUR/PJ,,,
-World,P_Biomass,1,2020,0.98968,,MEUR/PJ,,,
+World,P_Biomass,1,2018,0.98968,,MEUR/PJ,same as 2021 (Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,P_Biomass,1,2020,0.98968,,MEUR/PJ,same as 2021 (Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Biomass,1,2021,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Biomass,1,2025,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Biomass,1,2030,0.98968,,MEUR/PJ,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -485,8 +485,8 @@ World,P_CSP,1,2045,0.3324,,MEUR/PJ,partner feedback CIEMAT (data from SOLATOM),2
 World,P_CSP,1,2050,0.2967,,MEUR/PJ,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_CSP,1,2055,0.2967,,MEUR/PJ,same as 2050 for now,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_CSP,1,2060,0.2967,,MEUR/PJ,same as 2050 for now,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Coal_Hardcoal,1,2018,0.6672,,MEUR/PJ,,,
-World,P_Coal_Hardcoal,1,2020,0.6672,,MEUR/PJ,,,
+World,P_Coal_Hardcoal,1,2018,0.6672,,MEUR/PJ,same as 2021 (Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,P_Coal_Hardcoal,1,2020,0.6672,,MEUR/PJ,same as 2021 (Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Coal_Hardcoal,1,2021,0.6672,,MEUR/PJ,Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Hardcoal,1,2025,0.6672,,MEUR/PJ,Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Hardcoal,1,2030,0.6672,,MEUR/PJ,Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -496,8 +496,8 @@ World,P_Coal_Hardcoal,1,2045,0.6672,,MEUR/PJ,Steam turbine coal supercritical--h
 World,P_Coal_Hardcoal,1,2050,0.6672,,MEUR/PJ,Steam turbine coal supercritical--https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Hardcoal,1,2055,0.6672,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Coal_Hardcoal,1,2060,0.6672,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Coal_Lignite,1,2018,0.834,,MEUR/PJ,,,
-World,P_Coal_Lignite,1,2020,0.834,,MEUR/PJ,,,
+World,P_Coal_Lignite,1,2018,0.834,,MEUR/PJ,same as 2021 (Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,P_Coal_Lignite,1,2020,0.834,,MEUR/PJ,same as 2021 (Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Coal_Lignite,1,2021,0.834,,MEUR/PJ,Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Lignite,1,2025,0.834,,MEUR/PJ,Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Lignite,1,2030,0.834,,MEUR/PJ,Steam turbine lignite supercritical-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -576,8 +576,8 @@ World,P_Hydro_RoR,1,2045,0.001,,MEUR/PJ,Run of River - https://energy.ec.europa.
 World,P_Hydro_RoR,1,2050,0.001,,MEUR/PJ,Run of River - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Hydro_RoR,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Hydro_RoR,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_Nuclear,1,2018,1.777777778,,MEUR/PJ,,,
-World,P_Nuclear,1,2020,1.777777778,,MEUR/PJ,,,
+World,P_Nuclear,1,2018,1.777777778,,MEUR/PJ,same as 2021 (Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,P_Nuclear,1,2020,1.777777778,,MEUR/PJ,same as 2021 (Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Nuclear,1,2021,1.777777778,,MEUR/PJ,Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Nuclear,1,2025,1.916666667,,MEUR/PJ,Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Nuclear,1,2030,2.055555556,,MEUR/PJ,Nuclear III gen. (no economies of scale)- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -846,8 +846,8 @@ World,X_DAC_LT,1,2045,1.152,,MEUR/PJ,,,
 World,X_DAC_LT,1,2050,1.152,,MEUR/PJ,,,
 World,X_DAC_LT,1,2055,1.152,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_LT,1,2060,1.152,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Electrolysis,1,2018,0.001,,MEUR/PJ,,,
-World,X_Electrolysis,1,2020,0.001,,MEUR/PJ,,,
+World,X_Electrolysis,1,2018,0.001,,MEUR/PJ,same as 2021 (Hydrogen production via Alkaline electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Electrolysis,1,2020,0.001,,MEUR/PJ,same as 2021 (Hydrogen production via Alkaline electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,X_Electrolysis,1,2021,0.001,,MEUR/PJ,Hydrogen production via Alkaline electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Electrolysis,1,2025,0.001,,MEUR/PJ,Hydrogen production via Alkaline electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Electrolysis,1,2030,0.001,,MEUR/PJ,Hydrogen production via Alkaline electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -857,8 +857,8 @@ World,X_Electrolysis,1,2045,0.001,,MEUR/PJ,Hydrogen production via Alkaline elec
 World,X_Electrolysis,1,2050,0.001,,MEUR/PJ,Hydrogen production via Alkaline electrolysis for 100 MW plant - https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Electrolysis,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Electrolysis,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Fuel_Cell,1,2018,0.288888889,,MEUR/PJ,,,
-World,X_Fuel_Cell,1,2020,0.288888889,,MEUR/PJ,,,
+World,X_Fuel_Cell,1,2018,0.288888889,,MEUR/PJ,same as 2021 (Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Fuel_Cell,1,2020,0.288888889,,MEUR/PJ,same as 2021 (Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,X_Fuel_Cell,1,2021,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Fuel_Cell,1,2025,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Fuel_Cell,1,2030,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -868,8 +868,8 @@ World,X_Fuel_Cell,1,2045,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.e
 World,X_Fuel_Cell,1,2050,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Fuel_Cell,1,2055,0.288888889,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Fuel_Cell,1,2060,0.288888889,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Fuel_Cell,2,2018,0.288888889,,MEUR/PJ,,,
-World,X_Fuel_Cell,2,2020,0.288888889,,MEUR/PJ,,,
+World,X_Fuel_Cell,2,2018,0.288888889,,MEUR/PJ,same as 2021 (Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Fuel_Cell,2,2020,0.288888889,,MEUR/PJ,same as 2021 (Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,X_Fuel_Cell,2,2021,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Fuel_Cell,2,2025,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Fuel_Cell,2,2030,0.288888889,,MEUR/PJ,Fuel cell gas- https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -897,8 +897,8 @@ World,X_Liquifier,1,2045,0.001,,MEUR/PJ,Gas Liquefaction plant  - https://energy
 World,X_Liquifier,1,2050,0.001,,MEUR/PJ,Gas Liquefaction plant  - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Liquifier,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Liquifier,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Methanation,1,2018,0.001,,MEUR/PJ,,,
-World,X_Methanation,1,2020,0.001,,MEUR/PJ,,,
+World,X_Methanation,1,2018,0.001,,MEUR/PJ,same as 2021 (Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Methanation,1,2020,0.001,,MEUR/PJ,same as 2021 (Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,X_Methanation,1,2021,0.001,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Methanation,1,2025,0.001,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Methanation,1,2030,0.001,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -908,8 +908,8 @@ World,X_Methanation,1,2045,0.001,,MEUR/PJ,Methanol from hydrogen and carbon diox
 World,X_Methanation,1,2050,0.001,,MEUR/PJ,Methanol from hydrogen and carbon dioxide- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,02.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Methanation,1,2055,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Methanation,1,2060,0.001,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Methanation,2,2018,6.027777778,,MEUR/PJ,,,
-World,X_Methanation,2,2020,6.027777778,,MEUR/PJ,,,
+World,X_Methanation,2,2018,6.027777778,,MEUR/PJ,same as 2021 (Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Methanation,2,2020,6.027777778,,MEUR/PJ,same as 2021 (Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,X_Methanation,2,2021,6.027777778,,MEUR/PJ,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Methanation,2,2025,5.027777778,,MEUR/PJ,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Methanation,2,2030,4.027777778,,MEUR/PJ,Bio Methanol- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
