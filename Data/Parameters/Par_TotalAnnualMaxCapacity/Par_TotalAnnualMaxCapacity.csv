@@ -155,7 +155,7 @@ TR,A_Rooftop_Residential,All,100.1888111,,GW,,,
 TR,D_PHS,All,0,,GW,,,
 TR,HB_Solar_Thermal,All,91.83109367,,GW,,,
 TR,HLI_Solar_Thermal,All,130.2454544,,GW,,,
-TR,P_CSP,All,2962.008,,GW,"CSP potential TR = 7052.4 GWth solar-field upper limit (Kilickaplan 2017, LUT master thesis ""100% Renewable Energy System for Turkey and the Special Role of Solar Photovoltaics and Battery Storage"", Table 2-7) x 42% steam-turbine efficiency (same thesis, Appendix Table 1 ""Technical and financial assumptions"", Steam turbine (CSP) efficiency 2015) = 2962.008 GWel - https://lutpub.lut.fi/bitstream/10024/134131/2/anil_kilickaplan_thesis.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,P_CSP,All,78.0240,,GW,"CSP potential TR 78.02 GW: LIMES-EU method (Nahmmacher, Schmid & Knopf (2014): Documentation of LIMES-EU, PIK Potsdam, Table 10/11 - CSP on 2 % of agricultural area at 10 MW/km2) applied to Turkiye's agricultural land 2010 of 390,120 km2 (FAO, via World Bank indicator AG.LND.AGRI.K2); the same 2010 FAO vintage reproduces the LIMES values for ES (55.1 GW) and UK (34.4 GW) - https://data.worldbank.org/indicator/AG.LND.AGRI.K2?locations=TR",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,P_Geothermal,All,0,,GW,,,
 TR,P_Hydro_Reservoir,2018,19.1,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,P_Hydro_Reservoir,2020,19.1,,GW,same as ResidualCapacity,21.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
