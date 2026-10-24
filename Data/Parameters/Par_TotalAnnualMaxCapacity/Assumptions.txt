@@ -1,0 +1,7 @@
+
+
+Utility PV (Oct 2026):
+	- The utility PV potential of a region is split evenly across the resource classes: P_PV_Utility_Inf = Avg = Opt = total / 3.
+	- P_PV_Utility_Tracking gets the same value as Opt, and the group limit PV_Opt_Tracking (Par_GroupTotalAnnualMaxCapacity,
+	  subset in Par_TagTechnologyToSubsets) caps Opt + Tracking at total / 3, so tracking shares the Opt third instead of adding
+	  potential on top. The same applies to the scenario rows in Europe_EnVis_NECPEssentials.
