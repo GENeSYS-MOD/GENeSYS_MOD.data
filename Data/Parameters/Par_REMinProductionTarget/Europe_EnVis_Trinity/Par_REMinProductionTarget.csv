@@ -1,3 +1,2 @@
 Region,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
-Dummy,Power,All,0,,Fraction,"Model convention: 0 = no renewable production target; the RE target constraints are only generated where REMinProductionTarget > 0 (GENeSYS_MOD.jl genesysmod_equ.jl, RE1-RE3)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,Power,2030,0,,Fraction,"Model convention: 0 = no renewable production target; the RE target constraints are only generated where REMinProductionTarget > 0 (GENeSYS_MOD.jl genesysmod_equ.jl, RE1-RE3)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
