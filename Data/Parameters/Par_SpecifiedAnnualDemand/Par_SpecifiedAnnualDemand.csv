@@ -55,7 +55,7 @@ AT,Mobility_Freight,2045,135.5017,,Mtkm,EU Reference Scenario 2020- same growth 
 AT,Mobility_Freight,2050,145.4983,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 AT,Mobility_Freight,2055,145.4983,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,Mobility_Freight,2060,145.4983,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,Mobility_Passenger,2018,109.2025,,Mpkm,,,
+AT,Mobility_Passenger,2018,109.2025,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,Mobility_Passenger,2019,141.97,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 AT,Mobility_Passenger,2020,108.8749,,Mpkm,,,
 AT,Mobility_Passenger,2025,120.0191,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -131,7 +131,7 @@ BE,Mobility_Freight,2045,99.6194,,Mtkm,EU Reference Scenario 2020- same growth r
 BE,Mobility_Freight,2050,104.0265,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 BE,Mobility_Freight,2055,104.0265,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,Mobility_Freight,2060,104.0265,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,Mobility_Passenger,2018,132.9487,,Mpkm,,,
+BE,Mobility_Passenger,2018,132.9487,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,Mobility_Passenger,2019,152.1703,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 BE,Mobility_Passenger,2020,132.5499,,Mpkm,,,
 BE,Mobility_Passenger,2025,142.5316,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -207,7 +207,7 @@ BG,Mobility_Freight,2045,33.6114,,Mtkm,EU Reference Scenario 2020- same growth r
 BG,Mobility_Freight,2050,35.8582,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 BG,Mobility_Freight,2055,35.8582,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Mobility_Freight,2060,35.8582,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,Mobility_Passenger,2018,69.6953,,Mpkm,,,
+BG,Mobility_Passenger,2018,69.6953,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,Mobility_Passenger,2019,94.5331,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 BG,Mobility_Passenger,2020,69.4862,,Mpkm,,,
 BG,Mobility_Passenger,2025,74.6248,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -283,7 +283,7 @@ CH,Mobility_Freight,2045,37.1432,,Mtkm,No development from 2020,08.09.2023,Stian
 CH,Mobility_Freight,2050,37.1432,,Mtkm,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
 CH,Mobility_Freight,2055,37.1432,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,Mobility_Freight,2060,37.1432,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Mobility_Passenger,2018,124.922,,Mpkm,,,
+CH,Mobility_Passenger,2018,124.922,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,Mobility_Passenger,2019,144.777,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 CH,Mobility_Passenger,2020,124.5472,,Mpkm,,,
 CH,Mobility_Passenger,2025,124.5472,,Mpkm,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -359,7 +359,7 @@ CZ,Mobility_Freight,2045,100.6501,,Mtkm,EU Reference Scenario 2020- same growth 
 CZ,Mobility_Freight,2050,107.21,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 CZ,Mobility_Freight,2055,107.21,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Mobility_Freight,2060,107.21,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,Mobility_Passenger,2018,117.0474,,Mpkm,,,
+CZ,Mobility_Passenger,2018,117.0474,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,Mobility_Passenger,2019,141.8042,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 CZ,Mobility_Passenger,2020,116.6963,,Mpkm,,,
 CZ,Mobility_Passenger,2025,131.067,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -435,7 +435,7 @@ DE,Mobility_Freight,2045,988.9565,,Mtkm,EU Reference Scenario 2020- same growth 
 DE,Mobility_Freight,2050,1045.4026,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 DE,Mobility_Freight,2055,1045.4026,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Mobility_Freight,2060,1045.4026,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Mobility_Passenger,2018,1098.4,,Mpkm,,,
+DE,Mobility_Passenger,2018,1098.4,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Passenger,2019,1220.59,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 DE,Mobility_Passenger,2020,1095.1048,,Mpkm,,,
 DE,Mobility_Passenger,2025,1152.7668,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3039,7 +3039,7 @@ DK,Mobility_Freight,2045,35.735,,Mtkm,EU Reference Scenario 2020- same growth ra
 DK,Mobility_Freight,2050,37.6637,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 DK,Mobility_Freight,2055,37.6637,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,Mobility_Freight,2060,37.6637,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,Mobility_Passenger,2018,74.388,,Mpkm,,,
+DK,Mobility_Passenger,2018,74.388,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,Mobility_Passenger,2019,87.461,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 DK,Mobility_Passenger,2020,74.1648,,Mpkm,,,
 DK,Mobility_Passenger,2025,80.03,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3115,7 +3115,7 @@ EE,Mobility_Freight,2045,11.902,,Mtkm,EU Reference Scenario 2020- same growth ra
 EE,Mobility_Freight,2050,13.0591,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 EE,Mobility_Freight,2055,13.0591,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,Mobility_Freight,2060,13.0591,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Mobility_Passenger,2018,16.6811,,Mpkm,,,
+EE,Mobility_Passenger,2018,16.6811,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,Mobility_Passenger,2019,21.9055,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 EE,Mobility_Passenger,2020,16.6311,,Mpkm,,,
 EE,Mobility_Passenger,2025,18.1096,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3268,7 +3268,7 @@ FI,Mobility_Freight,2045,56.6544,,Mtkm,EU Reference Scenario 2020- same growth r
 FI,Mobility_Freight,2050,59.5677,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FI,Mobility_Freight,2055,59.5677,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,Mobility_Freight,2060,59.5677,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,Mobility_Passenger,2018,79.9897,,Mpkm,,,
+FI,Mobility_Passenger,2018,79.9897,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,Mobility_Passenger,2019,87.6505,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 FI,Mobility_Passenger,2020,79.7498,,Mpkm,,,
 FI,Mobility_Passenger,2025,83.6336,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3344,7 +3344,7 @@ FR,Mobility_Freight,2045,470.621,,Mtkm,EU Reference Scenario 2020- same growth r
 FR,Mobility_Freight,2050,491.5639,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 FR,Mobility_Freight,2055,491.5639,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Mobility_Freight,2060,491.5639,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,Mobility_Passenger,2018,922.5434,,Mpkm,,,
+FR,Mobility_Passenger,2018,922.5434,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,Mobility_Passenger,2019,1164.1575,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 FR,Mobility_Passenger,2020,919.7758,,Mpkm,,,
 FR,Mobility_Passenger,2025,1033.9338,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3420,7 +3420,7 @@ GR,Mobility_Freight,2045,28.1175,,Mtkm,EU Reference Scenario 2020- same growth r
 GR,Mobility_Freight,2050,29.4144,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 GR,Mobility_Freight,2055,29.4144,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Mobility_Freight,2060,29.4144,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,Mobility_Passenger,2018,126.7367,,Mpkm,,,
+GR,Mobility_Passenger,2018,126.7367,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,Mobility_Passenger,2019,165.2045,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 GR,Mobility_Passenger,2020,126.3565,,Mpkm,,,
 GR,Mobility_Passenger,2025,138.4323,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3496,7 +3496,7 @@ HR,Mobility_Freight,2045,25.869,,Mtkm,EU Reference Scenario 2020- same growth ra
 HR,Mobility_Freight,2050,27.7833,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HR,Mobility_Freight,2055,27.7833,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Mobility_Freight,2060,27.7833,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Mobility_Passenger,2018,30.7602,,Mpkm,,,
+HR,Mobility_Passenger,2018,30.7602,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,Mobility_Passenger,2019,51.2644,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 HR,Mobility_Passenger,2020,30.6679,,Mpkm,,,
 HR,Mobility_Passenger,2025,34.3416,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3572,7 +3572,7 @@ HU,Mobility_Freight,2045,75.3145,,Mtkm,EU Reference Scenario 2020- same growth r
 HU,Mobility_Freight,2050,81.2752,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 HU,Mobility_Freight,2055,81.2752,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Mobility_Freight,2060,81.2752,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,Mobility_Passenger,2018,93.2922,,Mpkm,,,
+HU,Mobility_Passenger,2018,93.2922,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,Mobility_Passenger,2019,118.9556,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 HU,Mobility_Passenger,2020,93.0123,,Mpkm,,,
 HU,Mobility_Passenger,2025,106.0399,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3648,7 +3648,7 @@ IE,Mobility_Freight,2045,20.3993,,Mtkm,EU Reference Scenario 2020- same growth r
 IE,Mobility_Freight,2050,22.0964,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 IE,Mobility_Freight,2055,22.0964,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,Mobility_Freight,2060,22.0964,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,Mobility_Passenger,2018,70.2603,,Mpkm,,,
+IE,Mobility_Passenger,2018,70.2603,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,Mobility_Passenger,2019,82.7118,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 IE,Mobility_Passenger,2020,70.0495,,Mpkm,,,
 IE,Mobility_Passenger,2025,80.0401,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3724,7 +3724,7 @@ IT,Mobility_Freight,2045,272.6088,,Mtkm,EU Reference Scenario 2020- same growth 
 IT,Mobility_Freight,2050,288.143,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 IT,Mobility_Freight,2055,288.143,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Mobility_Freight,2060,288.143,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,Mobility_Passenger,2018,888.217,,Mpkm,,,
+IT,Mobility_Passenger,2018,888.217,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,Mobility_Passenger,2019,982.801,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 IT,Mobility_Passenger,2020,885.5523,,Mpkm,,,
 IT,Mobility_Passenger,2025,993.101,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3800,7 +3800,7 @@ LT,Mobility_Freight,2045,44.2091,,Mtkm,EU Reference Scenario 2020- same growth r
 LT,Mobility_Freight,2050,47.5506,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 LT,Mobility_Freight,2055,47.5506,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Mobility_Freight,2060,47.5506,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Mobility_Passenger,2018,33.312,,Mpkm,,,
+LT,Mobility_Passenger,2018,33.312,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,Mobility_Passenger,2019,39.4189,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 LT,Mobility_Passenger,2020,33.2121,,Mpkm,,,
 LT,Mobility_Passenger,2025,35.0901,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3876,7 +3876,7 @@ LU,Mobility_Freight,2045,4.9342,,Mtkm,EU Reference Scenario 2020- same growth ra
 LU,Mobility_Freight,2050,5.3244,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 LU,Mobility_Freight,2055,5.3244,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,Mobility_Freight,2060,5.3244,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Mobility_Passenger,2018,9.6391,,Mpkm,,,
+LU,Mobility_Passenger,2018,9.6391,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,Mobility_Passenger,2019,10.8589,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 LU,Mobility_Passenger,2020,9.6102,,Mpkm,,,
 LU,Mobility_Passenger,2025,10.7901,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -3952,7 +3952,7 @@ LV,Mobility_Freight,2045,47.5727,,Mtkm,EU Reference Scenario 2020- same growth r
 LV,Mobility_Freight,2050,51.7035,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 LV,Mobility_Freight,2055,51.7035,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Mobility_Freight,2060,51.7035,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Mobility_Passenger,2018,18.1627,,Mpkm,,,
+LV,Mobility_Passenger,2018,18.1627,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,Mobility_Passenger,2019,23.1203,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 LV,Mobility_Passenger,2020,18.1083,,Mpkm,,,
 LV,Mobility_Passenger,2025,19.06,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -4029,7 +4029,7 @@ NL,Mobility_Freight,2045,166.9493,,Mtkm,EU Reference Scenario 2020- same growth 
 NL,Mobility_Freight,2050,175.2475,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NL,Mobility_Freight,2055,175.2475,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,Mobility_Freight,2060,175.2475,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,Mobility_Passenger,2018,169.894,,Mpkm,,,
+NL,Mobility_Passenger,2018,169.894,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,Mobility_Passenger,2019,190.9628,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 NL,Mobility_Passenger,2020,169.3843,,Mpkm,,,
 NL,Mobility_Passenger,2025,181.7476,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -4105,7 +4105,7 @@ NO,Mobility_Freight,2045,32.642,,Mtkm,No development from 2020,08.09.2023,Stian 
 NO,Mobility_Freight,2050,32.642,,Mtkm,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NO,Mobility_Freight,2055,32.642,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,Mobility_Freight,2060,32.642,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,Mobility_Passenger,2018,75.955,,Mpkm,,,
+NO,Mobility_Passenger,2018,75.955,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,Mobility_Passenger,2019,88.93,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 NO,Mobility_Passenger,2020,75.7271,,Mpkm,,,
 NO,Mobility_Passenger,2025,75.7271,,Mpkm,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -4257,7 +4257,7 @@ PL,Mobility_Freight,2045,434.0875,,Mtkm,EU Reference Scenario 2020- same growth 
 PL,Mobility_Freight,2050,467.8983,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 PL,Mobility_Freight,2055,467.8983,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Mobility_Freight,2060,467.8983,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,Mobility_Passenger,2018,272.3552,,Mpkm,,,
+PL,Mobility_Passenger,2018,272.3552,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,Mobility_Passenger,2019,348.4048,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 PL,Mobility_Passenger,2020,271.5382,,Mpkm,,,
 PL,Mobility_Passenger,2025,314.6114,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -4333,7 +4333,7 @@ PT,Mobility_Freight,2045,28.9999,,Mtkm,EU Reference Scenario 2020- same growth r
 PT,Mobility_Freight,2050,30.4608,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 PT,Mobility_Freight,2055,30.4608,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,Mobility_Freight,2060,30.4608,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,Mobility_Passenger,2018,109.1325,,Mpkm,,,
+PT,Mobility_Passenger,2018,109.1325,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,Mobility_Passenger,2019,132.5507,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 PT,Mobility_Passenger,2020,108.8051,,Mpkm,,,
 PT,Mobility_Passenger,2025,122.9399,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -4409,7 +4409,7 @@ RO,Mobility_Freight,2045,94.8318,,Mtkm,EU Reference Scenario 2020- same growth r
 RO,Mobility_Freight,2050,103.6739,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 RO,Mobility_Freight,2055,103.6739,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,Mobility_Freight,2060,103.6739,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,Mobility_Passenger,2018,138.0222,,Mpkm,,,
+RO,Mobility_Passenger,2018,138.0222,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,Mobility_Passenger,2019,180.5853,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 RO,Mobility_Passenger,2020,137.6081,,Mpkm,,,
 RO,Mobility_Passenger,2025,166.4955,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -4485,7 +4485,7 @@ SE,Mobility_Freight,2045,116.1892,,Mtkm,EU Reference Scenario 2020- same growth 
 SE,Mobility_Freight,2050,122.7866,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SE,Mobility_Freight,2055,122.7866,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,Mobility_Freight,2060,122.7866,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,Mobility_Passenger,2018,142.268,,Mpkm,,,
+SE,Mobility_Passenger,2018,142.268,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,Mobility_Passenger,2019,167.161,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 SE,Mobility_Passenger,2020,141.8412,,Mpkm,,,
 SE,Mobility_Passenger,2025,151.931,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -4561,7 +4561,7 @@ SI,Mobility_Freight,2045,31.9384,,Mtkm,EU Reference Scenario 2020- same growth r
 SI,Mobility_Freight,2050,35.1356,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SI,Mobility_Freight,2055,35.1356,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Mobility_Freight,2060,35.1356,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Mobility_Passenger,2018,31.8339,,Mpkm,,,
+SI,Mobility_Passenger,2018,31.8339,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,Mobility_Passenger,2019,38.3176,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 SI,Mobility_Passenger,2020,31.7384,,Mpkm,,,
 SI,Mobility_Passenger,2025,34.1697,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -4637,7 +4637,7 @@ SK,Mobility_Freight,2045,49.182,,Mtkm,EU Reference Scenario 2020- same growth ra
 SK,Mobility_Freight,2050,52.367,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 SK,Mobility_Freight,2055,52.367,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,Mobility_Freight,2060,52.367,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Mobility_Passenger,2018,38.7717,,Mpkm,,,
+SK,Mobility_Passenger,2018,38.7717,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,Mobility_Passenger,2019,47.4624,,billion passenger kilometer,"Statistical Pocketbook 2021, https://ec.europa.eu/eurostat/databrowser/view/avia_tppa/default/table?lang=en&category=avia.avia_tp",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 SK,Mobility_Passenger,2020,38.6554,,Mpkm,,,
 SK,Mobility_Passenger,2025,43.6895,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -4713,7 +4713,7 @@ TR,Mobility_Freight,2045,210.2498,,Mtkm,No development from 2020,08.09.2023,Stia
 TR,Mobility_Freight,2050,210.2498,,Mtkm,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
 TR,Mobility_Freight,2055,210.2498,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,Mobility_Freight,2060,210.2498,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Mobility_Passenger,2018,793.2389,,Mpkm,,,
+TR,Mobility_Passenger,2018,323.2506,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,Mobility_Passenger,2019,396.6348,,billion passenger kilometer,"Statistical Pocketbook 2021, assumption of air demand based on same share as EU",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 TR,Mobility_Passenger,2020,790.8592,,Mpkm,,,
 TR,Mobility_Passenger,2025,790.8592,,Mpkm,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -4790,7 +4790,7 @@ UK,Mobility_Freight,2045,338.9178,,Mtkm,EU Reference Scenario 2020- same growth 
 UK,Mobility_Freight,2050,351.1288,,Mtkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
 UK,Mobility_Freight,2055,351.1288,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Mobility_Freight,2060,351.1288,,Mtkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,Mobility_Passenger,2018,295.5,,Mpkm,,,
+UK,Mobility_Passenger,2018,793.2389,,Mpkm,"EU Transport in Figures - Statistical Pocketbook 2020, Table 2.3.3 (land passenger transport 2018: passenger cars + buses & coaches + railways + tram & metro, billion pkm) - https://transport.ec.europa.eu/facts-funding/studies-data/eu-transport-figures-statistical-pocketbook/statistical-pocketbook-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,Mobility_Passenger,2019,1003.7371,,billion passenger kilometer,"Statistical Pocketbook 2021, assumption of air demand based on same share as EU",08.08.2024,Karlo Hainsch <k.hainsch@tu-berlin.de>
 UK,Mobility_Passenger,2020,294.6135,,Mpkm,,,
 UK,Mobility_Passenger,2025,306.9406,,Mpkm,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>

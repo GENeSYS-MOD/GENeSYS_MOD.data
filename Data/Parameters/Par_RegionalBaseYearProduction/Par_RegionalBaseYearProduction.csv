@@ -47,7 +47,7 @@ BG,CHP_Oil,Power,2018,0.138,,PJ,,,
 BG,P_Biomass,Power,2018,0.9224856,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,P_Coal_Hardcoal,Power,2018,0.223,,PJ,,,
 BG,P_Coal_Lignite,Power,2018,63.241,,PJ,,,
-BG,P_Nuclear,Power,2018,58.05,,PJ,,,
+BG,P_Nuclear,Power,2018,58.05,,PJ,"Eurostat nrg_bal_peh - Gross electricity production, all plants, nuclear heat (N900H), BG, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HB_Biomass,Heat_Buildings,2018,16.787,,PJ,,,
 CH,HB_Direct_Electric,Heat_Buildings,2018,16.088,,PJ,,,
 CH,HB_Hardcoal,Heat_Buildings,2018,0.356,,PJ,,,
@@ -56,8 +56,8 @@ CH,HB_Heatpump_Ground,Heat_Buildings,2018,0.527,,PJ,,,
 CH,HB_Oil_Boiler,Heat_Buildings,2018,119.826,,PJ,,,
 CH,CHP_Gas_CCGT_Natural,Power,2018,5.251,,PJ,,,
 CH,P_Gas_CCGT,Power,2018,0.01,,PJ,,,
-CH,P_Nuclear,Power,2018,91.847,,PJ,,,
-CH,P_Oil,Power,2018,0.086,,PJ,,,
+CH,P_Nuclear,Power,2018,91.847,,PJ,"IEA World Energy Statistics - Electricity generation, Switzerland, nuclear, 2018 (25,512 GWh x 0.0036) - https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,P_Oil,Power,2018,0.0828,,PJ,"IEA World Energy Statistics - Electricity generation, Switzerland, oil, 2018 (23 GWh x 0.0036) - https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,HB_Biomass,Heat_Buildings,2018,49.501,,PJ,,,
 CZ,HB_Direct_Electric,Heat_Buildings,2018,12.458,,PJ,,,
 CZ,HB_Hardcoal,Heat_Buildings,2018,30.227,,PJ,,,
@@ -370,7 +370,7 @@ ES,CHP_Gas_CCGT_Natural,Power,2018,84.586,,PJ,,,
 ES,CHP_Oil,Power,2018,7.474,,PJ,,,
 ES,P_Biomass,Power,2018,10.6235568,,PJ,Entsoe Transparency Platform - Actual Generation per Production Type,17.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,P_Coal_Hardcoal,Power,2018,136.983,,PJ,,,
-ES,P_Coal_Lignite,Power,2018,0,,PJ,,,
+ES,P_Coal_Lignite,Power,2018,0,,PJ,"Eurostat nrg_bal_peh - Gross electricity production, all plants, lignite (C0220), ES, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,P_Gas_CCGT,Power,2018,123.952,,PJ,,,
 ES,P_Gas_OCGT,Power,2018,0.262,,PJ,,,
 ES,P_Nuclear,Power,2018,190.191,,PJ,,,
