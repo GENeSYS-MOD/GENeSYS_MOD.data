@@ -374,8 +374,8 @@ BE,P_Biomass,2045,0.1802,,GW,Entsoe Transparency Platform - Installed Capacity p
 BE,P_Biomass,2050,0.0638,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,02.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,P_Biomass,2055,0.0638,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,P_Biomass,2060,0.0638,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,P_Coal_Hardcoal,2018,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,02.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,P_Coal_Hardcoal,2020,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,02.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+BE,P_Coal_Hardcoal,2018,0.3114,,GW,"Assumption: minimum capacity for the 2018 base-year production (7.8564 PJ / (AF 0.8 x 31.536 PJ/GW) = 0.3114 GW); statistic: Eurostat nrg_inf_epc 2018, net maximum electrical capacity, coal and manufactured gases (C0000) + peat (P1000), all operators, BE: 0.0 MW (incl. lignite) - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc; minus the model ResidualCapacity 2018 of CHP_Coal_Hardcoal 0.0681 GW, P_Coal_Lignite 0.0000 GW, CHP_Coal_Lignite 0.0000 GW = -0.0681 GW",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,P_Coal_Hardcoal,2020,0.3114,,GW,Assumption: 2018 value carried to 2020 (plants still in operation in 2020; no technology-specific statistic),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,P_Coal_Hardcoal,2025,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,02.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,P_Coal_Hardcoal,2030,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,02.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,P_Coal_Hardcoal,2035,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,02.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -553,8 +553,8 @@ BG,D_PHS,2045,0.8273,,GW,Entsoe Transparency Platform - Installed Capacity per P
 BG,D_PHS,2050,0.8273,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,04.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,D_PHS,2055,0.8273,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,D_PHS,2060,0.8273,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,P_Biomass,2018,0.074,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,04.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,P_Biomass,2020,0.0512,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,04.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+BG,P_Biomass,2018,0.0996,,GW,"Assumption: minimum capacity for the 2018 base-year production (2.8280 PJ / (AF 0.9 x 31.536 PJ/GW) = 0.0996 GW); statistic: Eurostat nrg_inf_epcrw 2018, net electrical capacity, BG: solid biofuels R5100 33.0 + biogases R5300 36.4 + liquid biofuels 0.0 + 50 % of municipal waste W6200 0.0 (renewable share) = 69.4 MW - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epcrw; minus the model ResidualCapacity 2018 of CHP_Biomass_Solid 0.8054 GW = -0.7360 GW",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_Biomass,2020,0.0996,,GW,Assumption: 2018 value carried to 2020 (plants still in operation in 2020; no technology-specific statistic),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,P_Biomass,2025,0.0512,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,04.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,P_Biomass,2030,0.0512,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,04.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,P_Biomass,2035,0.0512,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,04.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -702,8 +702,8 @@ CH,D_PHS,2045,6.594,,GW,Entsoe Transparency Platform - Installed Capacity per Pr
 CH,D_PHS,2050,6.594,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 CH,D_PHS,2055,6.594,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,D_PHS,2060,6.594,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,P_Biomass,2018,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-CH,P_Biomass,2020,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+CH,P_Biomass,2018,0.1844,,GW,"BFE Thermische Stromproduktion inkl. WKK 2018, Anhang A.1b: waste incinerators without CHP (T4) 368.8 MWe x 50 % renewable share = 184.4 MW - https://pubdb.bfe.admin.ch/de/publication/download/9831",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,P_Biomass,2020,0.1844,,GW,"BFE Thermische Stromproduktion inkl. WKK 2018, Anhang A.1b: waste incinerators without CHP (T4) 368.8 MWe x 50 % renewable share = 184.4 MW - https://pubdb.bfe.admin.ch/de/publication/download/9831",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,P_Biomass,2025,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 CH,P_Biomass,2030,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 CH,P_Biomass,2035,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -931,8 +931,8 @@ CZ,P_Gas_Engines,2045,0,,GW,Entsoe Transparency Platform - Installed Capacity pe
 CZ,P_Gas_Engines,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_Engines,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,P_Gas_Engines,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,P_Gas_OCGT,2018,0.04,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,P_Gas_OCGT,2020,0.04,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+CZ,P_Gas_OCGT,2018,0.0416,,GW,"Assumption: minimum capacity for the 2018 base-year production (1.0483 PJ / (AF 0.8 x 31.536 PJ/GW) = 0.0416 GW); statistic: Eurostat nrg_inf_epc 2018, net maximum electrical capacity, natural gas (G3000), all operators, CZ: 0.0 MW - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc; minus the model ResidualCapacity 2018 of CHP_Gas_CCGT_Natural 1.0658 GW = -1.0658 GW",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_Gas_OCGT,2020,0.0416,,GW,Assumption: 2018 value carried to 2020 (plants still in operation in 2020; no technology-specific statistic),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,P_Gas_OCGT,2025,0.04,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_OCGT,2030,0.04,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,P_Gas_OCGT,2035,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1109,8 +1109,8 @@ DE,P_Coal_Hardcoal,2045,5.0669,,GW,Entsoe Transparency Platform - Installed Capa
 DE,P_Coal_Hardcoal,2050,5.0669,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Coal_Hardcoal,2055,5.0669,,GW,same as 2050 for now,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,P_Coal_Hardcoal,2060,5.0669,,GW,same as 2050 for now,24.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2018,18.7418,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,P_Coal_Lignite,2020,6.456,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE,P_Coal_Lignite,2018,18.8224,,GW,"Assumption: minimum capacity for the 2018 base-year production (474.8654 PJ / (AF 0.8 x 31.536 PJ/GW) = 18.8224 GW); statistic: Eurostat nrg_inf_epc 2018, coal and manufactured gases (C0000), DE: 56851.0 MW (all coal incl. hard coal) - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc (no lignite-only capacity statistic -> upper bound only)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_Coal_Lignite,2020,18.8224,,GW,Assumption: 2018 value carried to 2020 (plants still in operation in 2020; no technology-specific statistic),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,P_Coal_Lignite,2025,5.865,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,P_Coal_Lignite,2030,4.036,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,P_Coal_Lignite,2035,3.684,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -2767,7 +2767,7 @@ EE,D_PHS,2045,0,,GW,Entsoe Transparency Platform - Installed Capacity per Produc
 EE,D_PHS,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,D_PHS,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,D_PHS,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,P_Biomass,2018,0.101,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+EE,P_Biomass,2018,0.1340,,GW,"Assumption: minimum capacity for the 2018 base-year production (3.8027 PJ / (AF 0.9 x 31.536 PJ/GW) = 0.1340 GW); statistic: Eurostat nrg_inf_epcrw 2018, net electrical capacity, EE: solid biofuels R5100 165.0 + biogases R5300 9.3 + liquid biofuels 0.0 + 50 % of municipal waste W6200 170.0 (renewable share) = 259.4 MW - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epcrw; minus the model ResidualCapacity 2018 of CHP_Biomass_Solid 0.2715 GW = -0.0121 GW",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,P_Biomass,2020,0.101,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,P_Biomass,2025,0.101,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,P_Biomass,2030,0.0505,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -2777,8 +2777,8 @@ EE,P_Biomass,2045,0,,GW,Entsoe Transparency Platform - Installed Capacity per Pr
 EE,P_Biomass,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,P_Biomass,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,P_Biomass,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,P_Coal_Hardcoal,2018,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,P_Coal_Hardcoal,2020,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+EE,P_Coal_Hardcoal,2018,0.0929,,GW,"Assumption: minimum capacity for the 2018 base-year production (2.3431 PJ / (AF 0.8 x 31.536 PJ/GW) = 0.0929 GW); statistic: Eurostat nrg_inf_epc 2018, net maximum electrical capacity, coal and manufactured gases (C0000) + peat (P1000), all operators, EE: 0.0 MW (incl. lignite) - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc; minus the model ResidualCapacity 2018 of CHP_Coal_Hardcoal 0.0486 GW, P_Coal_Lignite 0.0000 GW, CHP_Coal_Lignite 0.0000 GW = -0.0486 GW",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,P_Coal_Hardcoal,2020,0.0929,,GW,Assumption: 2018 value carried to 2020 (plants still in operation in 2020; no technology-specific statistic),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,P_Coal_Hardcoal,2025,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,P_Coal_Hardcoal,2030,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,P_Coal_Hardcoal,2035,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -2847,8 +2847,8 @@ EE,P_Nuclear,2045,0,,GW,Entsoe Transparency Platform - Installed Capacity per Pr
 EE,P_Nuclear,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,P_Nuclear,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,P_Nuclear,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,P_Oil,2018,1,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,P_Oil,2020,0.08,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+EE,P_Oil,2018,2.1730,,GW,"Eurostat nrg_inf_epc 2018, EE: combustible fuels (CF) 2470.0 MW minus natural gas/oil/coal/peat/renewables+waste/other (297.0 MW) = 2173.0 MW oil-shale capacity (Eurostat has no S2000 capacity code; the remainder is the oil-shale fleet) - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,P_Oil,2020,1.8950,,GW,"Eurostat nrg_inf_epc 2020, EE: combustible fuels (CF) 2205.0 MW minus natural gas/oil/coal/peat/renewables+waste/other (310.0 MW) = 1895.0 MW oil-shale capacity (Eurostat has no S2000 capacity code; the remainder is the oil-shale fleet) - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,P_Oil,2025,0.02,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,P_Oil,2030,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,P_Oil,2035,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -2936,8 +2936,8 @@ ES,CHP_Gas_CCGT_Natural,2045,3.8011,,GW,eurostat - Combined Heat and Power (CHP)
 ES,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,CHP_Oil,2018,0.34,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,CHP_Oil,2020,0.34,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+ES,CHP_Oil,2018,0.4086,,GW,"Assumption: minimum capacity for the 2018 base-year production (10.3082 PJ / (AF 0.8 x 31.536 PJ/GW) = 0.4086 GW); statistic: Eurostat nrg_inf_epc 2018, net maximum electrical capacity, oil and petroleum products (O4000), all operators, ES: 3409.3 MW - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc (fuel-group total incl. electricity-only plants; Eurostat has no CHP capacity by fuel -> upper bound only)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,CHP_Oil,2020,0.4086,,GW,Assumption: 2018 value carried to 2020 (plants still in operation in 2020; no technology-specific statistic),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,CHP_Oil,2025,0.17,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -3488,8 +3488,8 @@ FR,X_Gasifier,2045,34.3,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto
 FR,X_Gasifier,2050,34.3,,GW,Assumptions based on model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 FR,X_Gasifier,2055,34.3,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,X_Gasifier,2060,34.3,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,CHP_Biomass_Solid,2018,0.0024,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-GR,CHP_Biomass_Solid,2020,0.0024,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+GR,CHP_Biomass_Solid,2018,0.0076,,GW,"Assumption: minimum capacity for the 2018 base-year production (0.2145 PJ / (AF 0.9 x 31.536 PJ/GW) = 0.0076 GW); statistic: Eurostat nrg_inf_epcrw 2018, net electrical capacity, GR: solid biofuels R5100 11.9 + biogases R5300 70.2 + liquid biofuels 0.0 + 50 % of municipal waste W6200 0.0 (renewable share) = 82.0 MW - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epcrw (fuel-group total incl. electricity-only plants; Eurostat has no CHP capacity by fuel -> upper bound only)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,CHP_Biomass_Solid,2020,0.0076,,GW,Assumption: 2018 value carried to 2020 (plants still in operation in 2020; no technology-specific statistic),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,CHP_Biomass_Solid,2025,0.0021,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,CHP_Biomass_Solid,2030,0.0018,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,CHP_Biomass_Solid,2035,0.0009,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -3618,8 +3618,8 @@ GR,P_Nuclear,2045,0,,GW,Entsoe Transparency Platform - Installed Capacity per Pr
 GR,P_Nuclear,2050,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,P_Nuclear,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,P_Nuclear,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,P_Oil,2018,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-GR,P_Oil,2020,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+GR,P_Oil,2018,1.1599,,GW,"Eurostat nrg_inf_epc 2018, net maximum electrical capacity, oil and petroleum products (O4000), all operators, GR: 1449.3 MW - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc; minus the model ResidualCapacity 2018 of CHP_Oil 0.2894 GW = 1.1599 GW",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,P_Oil,2020,1.1599,,GW,"Eurostat nrg_inf_epc 2020, net maximum electrical capacity, oil and petroleum products (O4000), all operators, GR: 1449.3 MW - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc; minus the model ResidualCapacity 2020 of CHP_Oil 0.2894 GW = 1.1599 GW",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,P_Oil,2025,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,P_Oil,2030,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,P_Oil,2035,0,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,05.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -5183,8 +5183,8 @@ NL,CHP_Biomass_Solid,2045,0,,GW,eurostat - Combined Heat and Power (CHP) data | 
 NL,CHP_Biomass_Solid,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 NL,CHP_Biomass_Solid,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,CHP_Biomass_Solid,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,CHP_Coal_Hardcoal,2018,0.2531,,GW,eurostat - Combined Heat and Power (CHP) data,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,CHP_Coal_Hardcoal,2020,0.2531,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+NL,CHP_Coal_Hardcoal,2018,0.9951,,GW,"Assumption: minimum capacity for the 2018 base-year production (25.1051 PJ / (AF 0.8 x 31.536 PJ/GW) = 0.9951 GW); statistic: Eurostat nrg_inf_epc 2018, net maximum electrical capacity, coal and manufactured gases (C0000) + peat (P1000), all operators, NL: 3356.0 MW (incl. lignite) - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc (fuel-group total incl. electricity-only plants; Eurostat has no CHP capacity by fuel -> upper bound only)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,CHP_Coal_Hardcoal,2020,0.9951,,GW,Assumption: 2018 value carried to 2020 (plants still in operation in 2020; no technology-specific statistic),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,CHP_Coal_Hardcoal,2025,0.1497,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 NL,CHP_Coal_Hardcoal,2030,0.0463,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 NL,CHP_Coal_Hardcoal,2035,0.0232,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -5807,7 +5807,7 @@ PL,P_Coal_Lignite,2045,1.1811,,GW,Entsoe Transparency Platform - Installed Capac
 PL,P_Coal_Lignite,2050,0.7637,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,P_Coal_Lignite,2055,0.7637,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,P_Coal_Lignite,2060,0.7637,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,P_Gas_CCGT,2018,0.7413,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+PL,P_Gas_CCGT,2018,1.3222,,GW,"Assumption: minimum capacity for the 2018 base-year production (33.3570 PJ / (AF 0.8 x 31.536 PJ/GW) = 1.3222 GW); statistic: Eurostat nrg_inf_epc 2018, net maximum electrical capacity, natural gas (G3000), all operators, PL: 2376.3 MW - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc; minus the model ResidualCapacity 2018 of CHP_Gas_CCGT_Natural 3.0893 GW = -0.7130 GW",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,P_Gas_CCGT,2020,0.7413,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,P_Gas_CCGT,2025,0.6576,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,P_Gas_CCGT,2030,0.5739,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -6135,8 +6135,8 @@ RO,CHP_Gas_CCGT_Natural,2045,0.348,,GW,eurostat - Combined Heat and Power (CHP) 
 RO,CHP_Gas_CCGT_Natural,2050,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,CHP_Gas_CCGT_Natural,2055,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,CHP_Gas_CCGT_Natural,2060,0,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,CHP_Oil,2018,0.0493,,GW,eurostat - Combined Heat and Power (CHP) data,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,CHP_Oil,2020,0.0493,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+RO,CHP_Oil,2018,0.0542,,GW,"Assumption: minimum capacity for the 2018 base-year production (1.3667 PJ / (AF 0.8 x 31.536 PJ/GW) = 0.0542 GW); statistic: Eurostat nrg_inf_epc 2018, net maximum electrical capacity, oil and petroleum products (O4000), all operators, RO: 110.8 MW - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc (fuel-group total incl. electricity-only plants; Eurostat has no CHP capacity by fuel -> upper bound only)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,CHP_Oil,2020,0.0542,,GW,Assumption: 2018 value carried to 2020 (plants still in operation in 2020; no technology-specific statistic),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,CHP_Oil,2025,0.0247,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants (reduction previous year x 0.5),03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,CHP_Oil,2030,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,CHP_Oil,2035,0,,GW,eurostat - Combined Heat and Power (CHP) data | Assumption based on lifetime of powerplants,03.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -6521,7 +6521,7 @@ SE,P_Hydro_RoR,2045,11.22,,GW,Assumption based on Entsoe Transparency Platform -
 SE,P_Hydro_RoR,2050,11.22,,GW,Assumption based on Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,P_Hydro_RoR,2055,11.22,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,P_Hydro_RoR,2060,11.22,,GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,P_Nuclear,2018,8.603,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+SE,P_Nuclear,2018,8.7141,,GW,"Assumption: minimum capacity for the 2018 base-year production (236.8836 PJ / (AF 0.862 x 31.536 PJ/GW) = 8.7141 GW); statistic: Eurostat nrg_inf_epc 2018, net maximum electrical capacity, nuclear (N9000), all operators: 8656.0 MW - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epc",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,P_Nuclear,2020,8.603,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,P_Nuclear,2025,7.008,,GW,Partner Feedback Man0EUvRE - Sandrine Charousset,03.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,P_Nuclear,2030,5.9585,,GW,Entsoe Transparency Platform - Installed Capacity per Production Type | Assumption based on operational life of technology,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -12937,6 +12937,7 @@ CH,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 CH,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,CHP_Biomass_Solid,2018,0.1035,,GW,"Assumption: minimum capacity for the 2018 base-year production (2.9385 PJ / (AF 0.9 x 31.536 PJ/GW) = 0.1035 GW); statistic: BFE Thermische Stromproduktion inkl. WKK 2018, Anhang A.1b: waste incinerators with CHP (W1) 53.7 MWe x 50 % + sewage-gas CHP (W4.ARA) 29.7 + biogas CHP (W4.BIO) 40.5 = 97.1 MW; wood-fired CHP inside W2/W3 (district-heating CHP 173.8 MWe incl. gas) not separable - https://pubdb.bfe.admin.ch/de/publication/download/9831",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,FRT_Rail_Conv,2018,9.3276,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,FRT_Rail_Conv,2025,8.5281,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,FRT_Rail_Conv,2030,5.7743,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -15423,3 +15424,4 @@ SE,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,23.07.2026,Nikita Mos
 
 TR,P_Nuclear,2018,0,,GW,Partner Feedback Man0EUvRE - Sandrine Charousset,03.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,P_Nuclear,2025,0,,GW,Partner Feedback Man0EUvRE - Sandrine Charousset,03.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,CHP_Biomass_Solid,2018,0.1228,,GW,"Assumption: minimum capacity for the 2018 base-year production (3.4842 PJ / (AF 0.9 x 31.536 PJ/GW) = 0.1228 GW); statistic: Eurostat nrg_inf_epcrw 2018, net electrical capacity, TR: solid biofuels R5100 128.9 + biogases R5300 438.5 + liquid biofuels 18.8 + 50 % of municipal waste W6200 2.5 (renewable share) = 587.5 MW - https://ec.europa.eu/eurostat/databrowser/view/nrg_inf_epcrw (fuel-group total incl. electricity-only plants; Eurostat has no CHP capacity by fuel -> upper bound only)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
