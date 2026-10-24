@@ -410,7 +410,7 @@ FR,P_Coal_Hardcoal,Power,2018,35.413,,PJ,,,
 FR,P_Gas_CCGT,Power,2018,77,,PJ,,,
 FR,P_Gas_Engines,Power,2018,0.265,,PJ,,,
 FR,P_Gas_OCGT,Power,2018,1.007,,PJ,,,
-FR,P_Nuclear,Power,2018,1486.591,,PJ,,,
+FR,P_Nuclear,Power,2018,1486.591,,PJ,"Eurostat nrg_bal_peh - Gross electricity production, all plants, nuclear heat (N900H), FR, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,P_Oil,Power,2018,17.821,,PJ,,,
 GR,HB_Biomass,Heat_Buildings,2018,36.741,,PJ,,,
 GR,HB_Direct_Electric,Heat_Buildings,2018,2.734,,PJ,,,
@@ -506,7 +506,7 @@ LT,HB_Heatpump_Ground,Heat_Buildings,2018,0,,PJ,,,
 LT,HB_Oil_Boiler,Heat_Buildings,2018,0.923,,PJ,,,
 LT,PSNG_Road_BEV,Mobility_Passenger,2025,0.24624204,,Gpkm,Share from European Commission: European Alternative Fuels Observatory (Country Comparison) multiplied with SpecifiedAnnualDemand,27.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,PSNG_Road_PHEV,Mobility_Passenger,2025,0.15669948,,Gpkm,Share from European Commission: European Alternative Fuels Observatory (Country Comparison) multiplied with SpecifiedAnnualDemand,27.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,CHP_Coal_Hardcoal,Power,2018,0,,PJ,,,
+LT,CHP_Coal_Hardcoal,Power,2018,0,,PJ,"Eurostat nrg_bal_peh - CHP electricity production (main activity + autoproducer CHP plants) = 0 GWh, hard coal and derived solid fuels (C0000X0350-0370 minus brown coal C0210/C0220), LT, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,CHP_Gas_CCGT_Natural,Power,2018,0.713,,PJ,,,
 LT,CHP_Oil,Power,2018,0.496,,PJ,,,
 LT,P_Gas_CCGT,Power,2018,0.3986,,PJ,,,
@@ -521,7 +521,7 @@ LU,HB_Oil_Boiler,Heat_Buildings,2018,11.416,,PJ,,,
 LU,PSNG_Road_BEV,Mobility_Passenger,2025,0.57865488,,Gpkm,Share from European Commission: European Alternative Fuels Observatory (Country Comparison) multiplied with SpecifiedAnnualDemand,27.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,PSNG_Road_PHEV,Mobility_Passenger,2025,0.37569384,,Gpkm,Share from European Commission: European Alternative Fuels Observatory (Country Comparison) multiplied with SpecifiedAnnualDemand,27.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,CHP_Biomass_Solid,Power,2018,0.686,,PJ,,,
-LU,CHP_Coal_Hardcoal,Power,2018,0,,PJ,,,
+LU,CHP_Coal_Hardcoal,Power,2018,0,,PJ,"Eurostat nrg_bal_peh - CHP electricity production (main activity + autoproducer CHP plants) = 0 GWh, hard coal and derived solid fuels (C0000X0350-0370 minus brown coal C0210/C0220), LU, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,CHP_Gas_CCGT_Natural,Power,2018,0.631,,PJ,,,
 LU,CHP_Oil,Power,2018,0,,PJ,,,
 LU,P_Biomass,Power,2018,0.818,,PJ,,,
@@ -584,7 +584,7 @@ PL,CHP_Gas_CCGT_Natural,Power,2018,12.769,,PJ,,,
 PL,CHP_Oil,Power,2018,7.267,,PJ,,,
 PL,P_Biomass,Power,2018,18.262,,PJ,,,
 PL,P_Coal_Hardcoal,Power,2018,218.844,,PJ,,,
-PL,P_Coal_Lignite,Power,2018,177.114,,PJ,,,
+PL,P_Coal_Lignite,Power,2018,177.5860,,PJ,"Eurostat nrg_bal_peh - Gross electricity production, all plants, lignite (C0220), PL, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PO,PSNG_Road_BEV,Mobility_Passenger,2025,1.91898588,,Gpkm,Share from European Commission: European Alternative Fuels Observatory (Country Comparison) multiplied with SpecifiedAnnualDemand,27.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PO,PSNG_Road_PHEV,Mobility_Passenger,2025,1.5889692,,Gpkm,Share from European Commission: European Alternative Fuels Observatory (Country Comparison) multiplied with SpecifiedAnnualDemand,27.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HB_Biomass,Heat_Buildings,2018,31.817786,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
@@ -594,7 +594,7 @@ PT,HB_Heatpump_Aerial,Heat_Buildings,2018,9.659,,PJ,Eurostat Disaggregated final
 PT,HB_Heatpump_Ground,Heat_Buildings,2018,0,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 PT,HB_Oil_Boiler,Heat_Buildings,2018,19.964657,,PJ,Eurostat Disaggregated final energy consumption in households,09.11.2023,Julian Bornemann
 PT,CHP_Biomass_Solid,Power,2018,10.234,,PJ,,,
-PT,CHP_Coal_Hardcoal,Power,2018,0,,PJ,,,
+PT,CHP_Coal_Hardcoal,Power,2018,0,,PJ,"Eurostat nrg_bal_peh - CHP electricity production (main activity + autoproducer CHP plants) = 0 GWh, hard coal and derived solid fuels (C0000X0350-0370 minus brown coal C0210/C0220), PT, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,CHP_Gas_CCGT_Natural,Power,2018,10.197,,PJ,,,
 PT,CHP_Oil,Power,2018,1.56,,PJ,,,
 PT,P_Biomass,Power,2018,9.493,,PJ,,,
@@ -646,7 +646,7 @@ SI,CHP_Coal_Hardcoal,Power,2018,2.254,,PJ,,,
 SI,CHP_Gas_CCGT_Natural,Power,2018,1.391,,PJ,,,
 SI,CHP_Oil,Power,2018,0.015,,PJ,,,
 SI,P_Biomass,Power,2018,0.772,,PJ,,,
-SI,P_Coal_Lignite,Power,2018,15.19,,PJ,,,
+SI,P_Coal_Lignite,Power,2018,15.1691,,PJ,"Eurostat nrg_bal_peh - Gross electricity production, all plants, lignite (C0220), SI, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,P_Gas_OCGT,Power,2018,0.916,,PJ,,,
 SI,P_Nuclear,Power,2018,19.701,,PJ,,,
 SK,HB_Biomass,Heat_Buildings,2018,1.931,,PJ,,,
@@ -672,9 +672,9 @@ TR,HB_Gas_Boiler,Heat_Buildings,2018,980.6895132,,PJ,Share from: SHURA: Electrif
 TR,HB_Hardcoal,Heat_Buildings,2018,555.7240575,,PJ,Share from: SHURA: Electrificationof Turkiye's Residential and Industrial Process Heat (2023),31.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HB_Heatpump_Aerial,Heat_Buildings,2018,16.34482522,,PJ,Share from: SHURA: Electrificationof Turkiye's Residential and Industrial Process Heat (2023),31.03.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,P_Coal_Hardcoal,Power,2018,244.08,,PJ,,,
-TR,P_Coal_Lignite,Power,2018,162.36,,PJ,,,
-TR,P_Gas_CCGT,Power,2018,332.939,,PJ,,,
-TR,P_Oil,Power,2018,1.184,,PJ,,,
+TR,P_Coal_Lignite,Power,2018,162.36,,PJ,"Eurostat nrg_bal_peh - Gross electricity production, all plants, lignite (C0220), TR, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,P_Gas_CCGT,Power,2018,332.939,,PJ,"Eurostat nrg_bal_peh - Gross electricity production, all plants, natural gas (G3000), TR, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,P_Oil,Power,2018,1.184,,PJ,"Eurostat nrg_bal_peh - Gross electricity production, all plants, oil and petroleum products excl. biofuel portion (O4000XBIO), TR, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,HB_Biomass,Heat_Buildings,2018,17.008,,PJ,,,
 UK,HB_Direct_Electric,Heat_Buildings,2018,100.793,,PJ,,,
 UK,HB_Hardcoal,Heat_Buildings,2018,35.349,,PJ,,,
@@ -690,7 +690,7 @@ UK,P_Coal_Hardcoal,Power,2018,53.071,,PJ,,,
 UK,P_Gas_CCGT,Power,2018,378.688,,PJ,,,
 UK,P_Gas_Engines,Power,2018,3.541,,PJ,,,
 UK,P_Gas_OCGT,Power,2018,11.715,,PJ,,,
-UK,P_Nuclear,Power,2018,234.23,,PJ,,,
+UK,P_Nuclear,Power,2018,234.23,,PJ,"Eurostat nrg_bal_peh - Gross electricity production, all plants, nuclear heat (N900H), UK, 2018 (GWh x 0.0036) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_Oil,Power,2018,2.933,,PJ,,,
 ,,,,,,,,,
 ,,,,,,,,,
