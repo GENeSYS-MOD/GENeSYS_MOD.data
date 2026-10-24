@@ -1,6 +1,10 @@
 For EU countries, assumed to keep the same ratio between 2020 and 2050 demand as EU Reference Scenario 2020. Linear growth between.
 Calculation is as follows:
-Demand_y = Demand_2020 + (Demand_2020*(Demand_EU_2050/Demand_EU_2020) - Demand_EU_2020)*((y - 2020) / (2050 - 2020))
+Demand_y = Demand_2020 + (Demand_2020*(Demand_REF2020_2050/Demand_REF2020_2020) - Demand_2020)*((y - 2020) / (2050 - 2020))
+Mobility (country level, Oct 2026): Demand_2018/2019/2020 = EU Transport in Figures, Statistical Pocketbook 2020/2021/2022,
+Tables 2.2.3 (land freight: road + rail + inland waterways + oil pipelines, Gtkm) and 2.3.3 (land passenger: cars + buses/coaches
++ rail + tram/metro, Gpkm); growth ratio = country-specific total transport activity 2050/2020 of the EU Reference Scenario 2020
+(ref2020_energy-transport-ghg.xlsx, sheet <CC>_B); UK: EU Reference Scenario 2016 appendix; TR road tkm from KGM statistics.
 where y = year for which the demand is specified 
 
 
