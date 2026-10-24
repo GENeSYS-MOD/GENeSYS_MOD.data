@@ -1,13 +1,13 @@
 Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
-World,A_Air,2018,0.5,,MEUR/GW,,,
-World,A_Air,2020,0.5,,MEUR/GW,,,
-World,A_Air,2021,0.5,,MEUR/GW,,,
-World,A_Air,2025,0.5,,MEUR/GW,,,
-World,A_Air,2030,0.5,,MEUR/GW,,,
-World,A_Air,2035,0.5,,MEUR/GW,,,
-World,A_Air,2040,0.5,,MEUR/GW,,,
-World,A_Air,2045,0.5,,MEUR/GW,,,
-World,A_Air,2050,0.5,,MEUR/GW,,,
+World,A_Air,2018,0.5,,MEUR/GW,Model placeholder: nominal cost of the dummy technology that supplies the Air resource to direct air capture; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,A_Air,2020,0.5,,MEUR/GW,Model placeholder: nominal cost of the dummy technology that supplies the Air resource to direct air capture; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,A_Air,2021,0.5,,MEUR/GW,Model placeholder: nominal cost of the dummy technology that supplies the Air resource to direct air capture; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,A_Air,2025,0.5,,MEUR/GW,Model placeholder: nominal cost of the dummy technology that supplies the Air resource to direct air capture; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,A_Air,2030,0.5,,MEUR/GW,Model placeholder: nominal cost of the dummy technology that supplies the Air resource to direct air capture; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,A_Air,2035,0.5,,MEUR/GW,Model placeholder: nominal cost of the dummy technology that supplies the Air resource to direct air capture; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,A_Air,2040,0.5,,MEUR/GW,Model placeholder: nominal cost of the dummy technology that supplies the Air resource to direct air capture; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,A_Air,2045,0.5,,MEUR/GW,Model placeholder: nominal cost of the dummy technology that supplies the Air resource to direct air capture; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,A_Air,2050,0.5,,MEUR/GW,Model placeholder: nominal cost of the dummy technology that supplies the Air resource to direct air capture; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,A_Air,2055,0.5,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,A_Air,2060,0.5,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,CHP_Biomass_Solid,2018,3300,,MEUR/GW,same as 2021 (Biomass CHP - Energy Technology Reference Indicator (ETRI) projections for 2010-2050 - Publications Office of the EU (europa.eu)),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -197,26 +197,26 @@ World,D_CAES,2045,964.5454545,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/si
 World,D_CAES,2050,964.5454545,,MEUR/GW,PNNL Storage Data https://www.pnnl.gov/sites/default/files/media/file/ESGC%20Cost%20Performance%20Report%202022%20PNNL-33283.pdf,22.07.2024,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_CAES,2055,964.5454545,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,D_CAES,2060,964.5454545,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,D_Gas_H2,2018,1,,MEUR/GW,,,
-World,D_Gas_H2,2020,1,,MEUR/GW,,,
+World,D_Gas_H2,2018,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_H2,2020,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Gas_H2,2021,,,MEUR/GW,,,
-World,D_Gas_H2,2025,1,,MEUR/GW,,,
-World,D_Gas_H2,2030,1,,MEUR/GW,,,
-World,D_Gas_H2,2035,1,,MEUR/GW,,,
-World,D_Gas_H2,2040,1,,MEUR/GW,,,
-World,D_Gas_H2,2045,1,,MEUR/GW,,,
-World,D_Gas_H2,2050,1,,MEUR/GW,,,
+World,D_Gas_H2,2025,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_H2,2030,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_H2,2035,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_H2,2040,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_H2,2045,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_H2,2050,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Gas_H2,2055,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,D_Gas_H2,2060,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,D_Gas_Methane,2018,1,,MEUR/GW,,,
-World,D_Gas_Methane,2020,1,,MEUR/GW,,,
+World,D_Gas_Methane,2018,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_Methane,2020,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Gas_Methane,2021,,,MEUR/GW,,,
-World,D_Gas_Methane,2025,1,,MEUR/GW,,,
-World,D_Gas_Methane,2030,1,,MEUR/GW,,,
-World,D_Gas_Methane,2035,1,,MEUR/GW,,,
-World,D_Gas_Methane,2040,1,,MEUR/GW,,,
-World,D_Gas_Methane,2045,1,,MEUR/GW,,,
-World,D_Gas_Methane,2050,1,,MEUR/GW,,,
+World,D_Gas_Methane,2025,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_Methane,2030,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_Methane,2035,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_Methane,2040,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_Methane,2045,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,D_Gas_Methane,2050,1,,MEUR/GW,Model placeholder: nominal power-side capital cost; the storage energy capacity cost is carried by the S_ storage in Par_CapitalCostStorage,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,D_Gas_Methane,2055,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,D_Gas_Methane,2060,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,D_HB_Tank_Small,2018,420,,MEUR/GW,Danish Energy Agency Storage Data https://ens.dk/en/our-services/technology-catalogues/technology-data-energy-storage,26.11.2024,Stian Backe <stian.backe@sintef.no>
@@ -395,15 +395,15 @@ World,HB_Biomass,2045,371.578125,,MEUR/GW,biomass auto - https://ens.dk/en/our-s
 World,HB_Biomass,2050,375.75,,MEUR/GW,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Biomass,2055,375.75,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,2060,375.75,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Convert_HD,2018,1,,MEUR/GW,,,
-World,X_Convert_HD,2020,1,,MEUR/GW,,,
-World,X_Convert_HD,2021,1,,MEUR/GW,,,
-World,X_Convert_HD,2025,1,,MEUR/GW,,,
-World,X_Convert_HD,2030,1,,MEUR/GW,,,
-World,X_Convert_HD,2035,1,,MEUR/GW,,,
-World,X_Convert_HD,2040,1,,MEUR/GW,,,
-World,X_Convert_HD,2045,1,,MEUR/GW,,,
-World,X_Convert_HD,2050,1,,MEUR/GW,,,
+World,X_Convert_HD,2018,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2020,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2021,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2025,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2030,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2035,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2040,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2045,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2050,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,X_Convert_HD,2055,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Convert_HD,2060,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Direct_Electric,2018,685.6875,,MEUR/GW,same as 2021 (electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
