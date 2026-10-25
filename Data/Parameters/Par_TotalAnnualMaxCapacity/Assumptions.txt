@@ -5,3 +5,10 @@ Utility PV (Oct 2026):
 	- P_PV_Utility_Tracking gets the same value as Opt, and the group limit PV_Opt_Tracking (Par_GroupTotalAnnualMaxCapacity,
 	  subset in Par_TagTechnologyToSubsets) caps Opt + Tracking at total / 3, so tracking shares the Opt third instead of adding
 	  potential on top. The same applies to the scenario rows in Europe_EnVis_NECPEssentials.
+
+Rooftop area (Oct 2026):
+	- A_Rooftop_Commercial / A_Rooftop_Residential hold the roof-top & facade PV potential in GW (LIMES-EU Table 11 PV minus the
+	  ground-mounted part 3 x CSP; TR: 1.2 kW/capita), split 45.03 % commercial / 54.97 % residential as in FfE (2015) for Germany.
+	- CapacityToActivityUnit of A_Rooftop_* = 31.536; InputActivityRatio of P_PV_Rooftop_* = 1; solar thermal uses
+	  0.2789 (residential) / 0.2662 (commercial) GW of PV-equivalent area per GW_th (PV module density / 700 W_th/m2).
+	- The area balance holds per timeslice, so rooftop PV can exceed the area value by 1 / (peak capacity factor).
