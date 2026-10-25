@@ -1,6 +1,10 @@
 For EU countries, assumed to keep the same ratio between 2020 and 2050 demand as EU Reference Scenario 2020. Linear growth between.
 Calculation is as follows:
-Demand_y = Demand_2020 + (Demand_2020*(Demand_EU_2050/Demand_EU_2020) - Demand_EU_2020)*((y - 2020) / (2050 - 2020))
+Demand_y = Demand_2020 + (Demand_2020*(Demand_REF2020_2050/Demand_REF2020_2020) - Demand_2020)*((y - 2020) / (2050 - 2020))
+Mobility (country level, Oct 2026): Demand_2018/2019/2020 = EU Transport in Figures, Statistical Pocketbook 2020/2021/2022,
+Tables 2.2.3 (land freight: road + rail + inland waterways + oil pipelines, Gtkm) and 2.3.3 (land passenger: cars + buses/coaches
++ rail + tram/metro, Gpkm); growth ratio = country-specific total transport activity 2050/2020 of the EU Reference Scenario 2020
+(ref2020_energy-transport-ghg.xlsx, sheet <CC>_B); UK: EU Reference Scenario 2016 appendix; TR road tkm from KGM statistics.
 where y = year for which the demand is specified 
 
 
@@ -11,7 +15,9 @@ Sources:
 		- H2 non-energy demands for 2030+
 	- SINTEF: Potential in Norwegian Industry
 		- Heat_Industrial
-	- Eurostat Database: Final Consumption Industry Sector
+	- Eurostat Database: Final Consumption Industry Sector (nrg_bal_c 2018)
+		- Heat_Industrial
+	- JRC-IDEES 2021 / 2015: industry end-use shares (heat vs. non-heat electricity)
 		- Heat_Industrial
 	- EU Comission: District Heating and Cooling in the European Union
 		- Heat_District
@@ -29,24 +35,86 @@ Parameters:
 	TYNDP 2022 Scenario Report: OUTPUT_ALL -> Scenario: Distributed Energy -> Sector: Residential + Tertiary -> Subsector: Space_heating + Water_heating -> 
 	Energy_carrier: All -> Output_type: Energy_demand.
 	
-	Heat_Buildings = Heat_Buildings_TYNDP22 - Heat_District
+	Heat_Buildings = Heat_Buildings_TYNDP22 (all carriers incl. district heat; Heat_District left SpecifiedAnnualDemand in Sep 2025, district heat is set in Par_DistrictHeatDemand). CH, NO, TR, NONEU_Balkan: national statistics, see the row sources.
 	
-	- Heat_Industrial: 
-	
-	TYNDP 2022 Scenario Report: OUTPUT_ALL -> Scenario: Distributed Energy -> Sector: Industry -> Subsector: Low_enthalpy_heat + Steam_processes + Other_processes -> 
-	Energy_carrier: All -> Output_type: Energy_demand
-	
-	The total industrial heat demand from TYNDP22 are divided in Low_Industrial (<100 degrees), MediumLow_Industrial (100-150 degrees), MediumHigh_Industrial (150-1000 degrees) 
-	and High_Industrial (>1000 degrees) based on temperature ranges for different energy sectors from "Potential for steam regeneration in Norwegian industry" 
-	and Eurostat data for "Final consumption industry sector*".
-	Assumed the same temperature range per industry sectors for all countries and no develompent from 2018 to 2050.
-	Assumed equal percetage of Low, MediumLow, MediumHigh and High in CH and DE.
-	
-	Heat_Low_Industrial = Heat_Low_Industrial_estimated - DistrictHeat_Industrial
-	
-	* The sector "Not elsewhere specified" is divided 50/50 into the sectors "Wood and wood products" and "Textiles and leather" because the sector includes products of both 
-	  wood and textiles (e.g. Manufacture of furniture and Manufacture of musical instruments) and we assume therefore same temperature ranges.
-	
+	- Heat_Industrial (Heat_High_Industrial, Heat_MediumHigh_Industrial, Heat_MediumLow_Industrial, Heat_Low_Industrial):
+
+	Definition: TRUE industrial heat = final energy used for heat in industry (process heat incl. furnaces, kilns, electric arc,
+	melting, drying, heat treatment, steam; plus space heating and hot water), all carriers incl. district heat (distributed steam),
+	ambient heat and solar heat. Electricity used for non-heat purposes (motor drives, compressors, fans and pumps, machinery,
+	lighting, ICT, cooling and refrigeration, electrolysis / generic electrochemical processes) and non-energy use (feedstocks) are
+	NOT industrial heat; this electricity belongs to Power (see below).
+
+	1) Base year 2018, total true heat per region (PJ):
+	   EU countries:  Heat_2018 = sum over industry sectors s of [ (FC_s - EL_s) x hN(c,s) + EL_s x hE(c,s) ]
+	       FC_s, EL_s = Eurostat nrg_bal_c 2018, FC_IND_<s>_E, siec TOTAL resp. E7000 (energy use, excl. non-energy use)
+	       sectors: IS, NFM, CPC, NMM, PPP, FBT, TE, MAC, TL, WP and "other" = MQ + CON + NSP
+	       hN, hE = heat share of the non-electric resp. electric final energy of sector s, from JRC-IDEES-2021 (country c,
+	       year 2018), Industry workbook, sheets <sector>_fec: heat = all fuels in thermal processes (excl. process cooling,
+	       thermal cooling, diesel motors) + electricity in "Low-enthalpy heat" and in electric thermal processes (electric arc,
+	       furnaces / refining and rolling, kilns, melting tanks, annealing, foundries, heat treatment, direct/process heat,
+	       microwave and electric drying, electric connection, aluminium/metal processing and re-melting).
+	       Non-heat electricity: lighting, air compressors, motor drives, fans and pumps, machinery, mechanical processes,
+	       grinding/mixing/forming, paper machine, pulping, printing, cooling, freeze drying, product/metal finishing,
+	       aluminium electrolysis, generic electric chemical processes, other-NFM metal production, sinter-plant and alumina-
+	       refinery electricity. (Items whose JRC function is mixed are listed in work package 13, computations.txt; their
+	       effect is +-3 to 5 % of the total.)
+	       https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/JRC-IDEES/JRC-IDEES-2021_v1/
+	   UK:            same formula, hN/hE from JRC-IDEES-2015 UK (year 2015; JRC-IDEES-2021 has no UK data), Eurostat 2018 UK.
+	   NO, TR, NONEU_Balkan (= AL+BA+ME+MK+RS+XK): same formula, Eurostat 2018 of the country/countries, hN/hE of the
+	       JRC-IDEES-2021 EU27 aggregate 2018 (no JRC-IDEES data for these countries).
+	   CH:            BFE (2019) Analyse des schweizerischen Energieverbrauchs 2000-2018 nach Verwendungszwecken, industry 2018
+	       (Tab. 28): Raumwaerme 14.6 + Warmwasser 2.5 + Prozesswaerme 86.8 = 103.9 PJ. (Check: the JRC-EU27 method applied to
+	       BFE fuels 91.4 / electricity 63.2 PJ gives 104.4 PJ.)
+
+	2) Temperature bands (one split for ALL years 2018-2060):
+	   share(band) = sum_s w_s x SINTEF_s(band)
+	       SINTEF_s(band) = Data/Sources/SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry.xlsx, sheet Calculations,
+	       rows 26-34 (from Wolf et al. 2014, German industry): Low <100 C, MediumLow 100-150 C, MediumHigh 150-1000 C, High >1000 C
+	         Iron/Steel/Non-ferrous .01703 .05010 .29158 .64128 | Chemical .09744 .08205 .73846 .08205 | Non-metallic .01639 .13115 .37705 .47541
+	         Paper .25919 .14120 .59961 0 | Food .41981 .46462 .11557 0 | Machinery .44762 .16190 .24762 .14286 | Wood .79675 .08130 .12195 0
+	         Transport equipment .47727 .11364 .25000 .15909 | Textile/Leather .61538 .38462 0 0
+	       w_s = Eurostat nrg_bal_c 2018 FC_IND_<s>_E TOTAL: IS+NFM, CPC, NMM, PPP, FBT, MAC, WP + NSP/2, TE, TL + NSP/2
+	       (MQ and CON not allocated). The sector "Not elsewhere specified" is split 50/50 into "Wood and wood products" and
+	       "Textiles and leather" (it contains products of both, e.g. furniture, musical instruments). CH: weights = BFE (2019)
+	       Tab. 31 branch shares of industrial energy use 2018 ("Uebrige" split 50/50 WP/TL).
+	   Heat_<band>_2018 = Heat_2018 x share(band). No district heat is subtracted from Heat_Low_Industrial: industrial
+	   district heat is part of the demand and is allocated via Par_DistrictHeatDemand / Par_DistrictHeatSplit.
+
+	3) Development 2020-2050 (2055 and 2060 = 2050):
+	   Heat_<band>_y = Heat_<band>_2018 x P(y)
+	   EU countries and UK: P(y) = TYNDP 2022 Scenario Report (OUTPUT_ALL, Distributed Energy, Industry, Low_enthalpy_heat +
+	       Steam_processes + Other_processes, all carriers, Energy_demand) of the same country, value of year y / value 2015
+	       (2015 taken as 2018); 2020 = 2015 + (2030-2015)/3, 2025 = 2015 + 2(2030-2015)/3, 2035 = mean(2030, 2040),
+	       2045 = mean(2040, 2050).
+	   CH: same with the TYNDP 2022 path of Austria; NO: Sweden (TYNDP covers EU27+UK only).
+	   TR: EU Reference Scenario 2020, EU27 "Final Energy Consumption - Industry"; NONEU_Balkan: EU Reference Scenario 2020,
+	       Croatia "Final Energy Consumption - Industry"; P(y) = value of year y / 2018 value interpolated 2015-2020.
+	   Note: the path is the relative development of the TYNDP aggregate, which still contains non-heat electricity; it is
+	   applied to the true-heat base as the documented scenario trend.
+
+	Base-year production (Par_RegionalBaseYearProduction, 2018, HHI_* / HMHI_* / HMLI_* / HLI_*): within each band the
+	country's technology shares are kept and scaled so that the band sum equals the 2018 demand of that band (Low: demand minus
+	industrial district heat = Par_DistrictHeatDemand 2018 x Par_DistrictHeatSplit "Industry" 2018).
+
+	Power: Power (fuel "Power") is the final electricity demand of appliances, lighting and industrial operations (readthedocs
+	SpecifiedAnnualDemand). Industrial non-heat electricity (drives, lighting, compressors, electrolysis ...) is part of Power and
+	is therefore excluded from Heat_Industrial (no double counting).
+
+Sources (replace the "Heat_Industrial" entries):
+	- Eurostat nrg_bal_c (complete energy balances), 2018: final energy consumption industry by sector and carrier
+		- Heat_Industrial (base year totals, band weights)
+	- European Commission JRC: JRC-IDEES-2021 (2018) and JRC-IDEES-2015 (UK), Industry final energy by end use
+		- Heat_Industrial (heat / non-heat split per sector and carrier)
+	- BFE (2019): Analyse des schweizerischen Energieverbrauchs 2000-2018 nach Verwendungszwecken
+		- Heat_Industrial CH
+	- SINTEF: Potential for steam regeneration in Norwegian industry (Data/Sources/..., from Wolf et al. 2014)
+		- Heat_Industrial temperature bands
+	- ENTSOE: TYNDP 2022 Scenario Report (Distributed Energy)
+		- Heat_Industrial development 2020-2050 (EU, UK; AT for CH, SE for NO)
+	- EU Reference Scenario 2020
+		- Heat_Industrial development 2020-2050 (TR: EU27, NONEU_Balkan: Croatia)
+
 	- Heat_District:
 	
 	EU Comission: District Heating and Cooling in the European Union -> 1 DH Consumption 

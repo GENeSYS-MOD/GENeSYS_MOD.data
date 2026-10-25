@@ -25,4 +25,4 @@ RO,Power,2030,0.558,,Fraction,https://commission.europa.eu/document/download/324
 SE,Power,2030,0.88,,Fraction,https://commission.europa.eu/document/download/5c97f5af-6a80-4919-ab14-31b790c5da7b_en?filename=SWD_Assessment_draft_updated_NECP_Sweden_2023.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SI,Power,2030,0.523,,Fraction,https://commission.europa.eu/document/download/e2f0866b-994b-433b-8b13-3ffeec57f923_en?filename=SWD_Assessment_draft_updated_NECP_Slovenia_2023.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
 SK,Power,2030,0.295,,Fraction,https://commission.europa.eu/document/download/70a86797-719b-472a-bb4c-88dbc4aaca28_en?filename=SWD_Assessment_draft_updated_NECP_Slovakia_2023.pdf,04.09.2024,Julian Bornemann <jb@wip.tu-berlin.de>
-World,Power,All,0,,Fraction,,,
+World,Power,All,0,,Fraction,"Model convention: 0 = no renewable production target; the RE target constraints are only generated where REMinProductionTarget > 0 (GENeSYS_MOD.jl genesysmod_equ.jl, RE1-RE3)",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>

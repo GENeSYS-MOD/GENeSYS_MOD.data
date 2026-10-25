@@ -1,18 +1,466 @@
 Region,Technology,Year,Value,,Unit,Source,Updated at,Updated by
-World,Z_Import_H2,2018,0,,GW,dummy,23.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,D_Battery_Li-Ion,2025,0.008,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,D_PHS,2025,3.485,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_Biomass,2025,0.549,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_Gas_CCGT,2025,4.225,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_Hydro_Reservoir,2025,2.519,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_Hydro_RoR,2025,5.817,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_Oil,2025,0.125,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_PV_Utility_Avg,2025,2.4313,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 7.2940 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_PV_Utility_Inf,2025,2.4313,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 7.2940 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_PV_Utility_Opt,2025,2.4313,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 7.2940 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_Wind_Onshore_Avg,2025,4.021,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,Waste,2025,0.08,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,D_Battery_Li-Ion,2025,0.2561,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,D_PHS,2025,1.308,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,P_Biomass,2025,0.731,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,P_Gas_CCGT,2025,6.995,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,P_Hydro_RoR,2025,0.186,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,P_Oil,2025,0.452,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,P_PV_Utility_Avg,2025,2.9297,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 8.7890 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,P_PV_Utility_Inf,2025,2.9297,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 8.7890 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,P_PV_Utility_Opt,2025,2.9297,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 8.7890 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,P_Wind_Offshore_Transitional,2025,2.262,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,P_Wind_Onshore_Avg,2025,3.053,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,Waste,2025,0.384,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,D_PHS,2025,0.864,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_Biomass,2025,0.074,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_Coal_Hardcoal,2025,0.356,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_Coal_Lignite,2025,4.119,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_Gas_CCGT,2025,0.699,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_Hydro_Reservoir,2025,1.807,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_Hydro_RoR,2025,0.542,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_PV_Utility_Avg,2025,1.3517,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 4.0550 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_PV_Utility_Inf,2025,1.3517,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 4.0550 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_PV_Utility_Opt,2025,1.3517,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 4.0550 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_Wind_Onshore_Avg,2025,0.705,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,Waste,2025,0.006,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,D_PHS,2025,6.697,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,P_Hydro_Reservoir,2025,5.772,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,P_Hydro_RoR,2025,0.635,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,D_Battery_Li-Ion,2025,0.0411,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,D_PHS,2025,1.172,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,Fossil Coal-derived gas,2025,0.38,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_Biomass,2025,0.41,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_Coal_Hardcoal,2025,1.2,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_Coal_Lignite,2025,7.2,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_Gas_CCGT,2025,1.24,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_Hydro_Reservoir,2025,0.766,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_Hydro_RoR,2025,0.34,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_PV_Utility_Avg,2025,1.1827,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.5480 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_PV_Utility_Inf,2025,1.1827,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.5480 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_PV_Utility_Opt,2025,1.1827,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.5480 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_Wind_Onshore_Avg,2025,0.342,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,Waste,2025,0.1,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,D_Battery_Li-Ion,2025,0.755,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,D_PHS,2025,9.449,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Fossil Coal-derived gas,2025,1.257,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_Biomass,2025,8.577,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_Coal_Hardcoal,2025,12.966,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_Coal_Lignite,2025,18.363,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_Gas_CCGT,2025,36.255,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_Geothermal,2025,0.054,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_Hydro_Reservoir,2025,1.381,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_Hydro_RoR,2025,3.731,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_Oil,2025,4.118,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_PV_Utility_Avg,2025,25.5337,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 76.6010 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_PV_Utility_Inf,2025,25.5337,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 76.6010 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_PV_Utility_Opt,2025,25.5337,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 76.6010 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_Wind_Offshore_Transitional,2025,8.456,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_Wind_Onshore_Avg,2025,59.841,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Waste,2025,1.808,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BB,CHP_Coal_Lignite,2025,0.275533,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_Gas_CCGT_Biogas,2025,0.3,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_Gas_CCGT_Natural,2025,0.578814,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,HB_Heatpump_Aerial,2025,0.45849,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BB,HB_Heatpump_Ground,2025,0.046,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BB,P_Biomass,2025,0.687999,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_Gas_OCGT,2025,0.811926,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_PV_Rooftop_Residential,2025,2.7534,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_PV_Utility_Opt,2025,5.6497,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_Wind_Onshore_Opt,2025,9.43,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,CHP_Gas_CCGT_Natural,2025,0.957482,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,HB_Heatpump_Aerial,2025,0.23424,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BE,HB_Heatpump_Ground,2025,0.006,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BE,P_Gas_CCGT,2025,0.633605,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,P_PV_Rooftop_Residential,2025,0.4207,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,P_PV_Utility_Opt,2025,0.0025,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,P_Wind_Onshore_Opt,2025,0.0293077,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_Biomass_Solid,2025,0.186928,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_Gas_CCGT_Biogas,2025,0.555,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_Gas_CCGT_Natural,2025,0.757003,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,HB_Heatpump_Aerial,2025,2.30087,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BW,HB_Heatpump_Ground,2025,0.076,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BW,P_Biomass,2025,1.13083,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_Gas_OCGT,2025,1.51175,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_PV_Rooftop_Residential,2025,11.6049,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_PV_Utility_Opt,2025,1.92555,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_Wind_Onshore_Opt,2025,2.74631,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_Biomass_Solid,2025,0.374355,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_Gas_CCGT_Biogas,2025,1.483,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_Gas_CCGT_Natural,2025,6.09817,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,HB_Heatpump_Aerial,2025,2.03874,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) x 2.3281 (same factor as the production-fitted 2018 residual capacity) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BY,HB_Heatpump_Ground,2025,0.197,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BY,P_Biomass,2025,2.11105,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Coal_Hardcoal,2025,0.0597813,,GW,fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Gas_OCGT,2025,0.771661,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Geothermal,2025,0.03992,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_PV_Rooftop_Residential,2025,17.7779,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_PV_Utility_Opt,2025,11.3317,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Wind_Onshore_Opt,2025,3.98434,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,CHP_Gas_CCGT_Natural,2025,0.0210348,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,HB_Heatpump_Aerial,2025,0.11695,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_HB,P_Biomass,2025,0.0428583,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,P_Gas_CCGT,2025,0.48062,,GW,"BNetzA Kraftwerksliste (bundesweit, alle Netz- und Umspannebenen; Quelle Marktstammdatenregister, Datenstand 26.06.2026), DE_HB, Energietraeger Erdgas, Waermeauskopplung_KWK = Nein, net capacity end of 2025 - https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_HB,P_PV_Rooftop_Residential,2025,0.1575,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,P_PV_Utility_Opt,2025,0.00135,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_Gas_CCGT_Biogas,2025,0.143,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_Gas_CCGT_Natural,2025,2.06505,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,HB_Heatpump_Aerial,2025,1.13691,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_HE,HB_Heatpump_Ground,2025,0.023,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_HE,P_Biomass,2025,0.437769,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Gas_CCGT,2025,1.07846,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Gas_OCGT,2025,0.862765,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Geothermal,2025,0.0004,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_PV_Rooftop_Residential,2025,4.1402,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_PV_Utility_Opt,2025,0.8692,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Wind_Onshore_Opt,2025,3.24434,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,CHP_Gas_CCGT_Natural,2025,0.268438,,GW,"BNetzA Kraftwerksliste (bundesweit, alle Netz- und Umspannebenen; Quelle Marktstammdatenregister, Datenstand 26.06.2026), DE_HH, Energietraeger Erdgas + steam turbines of gas CCGT (Energietraeger Waerme), Waermeauskopplung_KWK = Ja, net capacity end of 2025 - https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_HH,HB_Heatpump_Aerial,2025,0.32784,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_HH,HB_Heatpump_Ground,2025,0.004,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_HH,P_Biomass,2025,0.02783,,GW,"BNetzA Kraftwerksliste (bundesweit, alle Netz- und Umspannebenen; Quelle Marktstammdatenregister, Datenstand 26.06.2026), DE_HH, Energietraeger Biomasse, Waermeauskopplung_KWK = Nein, net capacity end of 2025 - https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_HH,P_Gas_CCGT,2025,0.0730587,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,P_Gas_OCGT,2025,0.159717,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,P_PV_Rooftop_Residential,2025,0.2125,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,P_PV_Utility_Opt,2025,0.00115,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_Biomass_Solid,2025,0.0611174,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_Gas_CCGT_Biogas,2025,0.337,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_Gas_CCGT_Natural,2025,0.154637,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,HB_Heatpump_Aerial,2025,0.23063,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_MV,HB_Heatpump_Ground,2025,0.016,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_MV,P_Biomass,2025,0.490518,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Gas_CCGT,2025,0.0968228,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Gas_OCGT,2025,0.211669,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Hydro_RoR,2025,0.000564615,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_PV_Rooftop_Residential,2025,1.8288,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_PV_Utility_Opt,2025,2.86915,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Wind_Offshore_Transitional,2025,1.83,,GW,Status des Offshore-Windenergieausbaus in Deutschland,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Wind_Onshore_Opt,2025,3.93,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_Biomass_Solid,2025,0.165418,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_Gas_CCGT_Biogas,2025,1.522,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_Gas_CCGT_Natural,2025,2.20549,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,HB_Heatpump_Aerial,2025,1.64526,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_NI,HB_Heatpump_Ground,2025,0.079,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_NI,P_Biomass,2025,2.04639,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Gas_CCGT,2025,0.537583,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Gas_OCGT,2025,1.17523,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_PV_Rooftop_Residential,2025,8.0832,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_PV_Utility_Opt,2025,1.4351,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Wind_Offshore_Transitional,2025,5.26,,GW,Status des Offshore-Windenergieausbaus in Deutschland,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Wind_Onshore_Opt,2025,13.82,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_Biomass_Solid,2025,0.521385,,GW,"BNetzA Kraftwerksliste (bundesweit, alle Netz- und Umspannebenen; Quelle Marktstammdatenregister, Datenstand 26.06.2026), DE_NRW, Energietraeger Biomasse, Waermeauskopplung_KWK = Ja, net capacity end of 2025 - https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_NRW,CHP_Coal_Lignite,2025,0.195914,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_Gas_CCGT_Biogas,2025,0.518,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_Gas_CCGT_Natural,2025,3.38524,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,HB_Heatpump_Aerial,2025,2.29677,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_NRW,HB_Heatpump_Ground,2025,0.185,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_NRW,P_Biomass,2025,1.8059,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_Gas_OCGT,2025,8.17086,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_Hydro_RoR,2025,0.0879042,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_PV_Rooftop_Residential,2025,12.1291,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_PV_Utility_Opt,2025,0.93825,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_Wind_Onshore_Opt,2025,8.8,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_Biomass_Solid,2025,0.140057,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_Gas_CCGT_Biogas,2025,0.1,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_Gas_CCGT_Natural,2025,1.78763,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2025,0.0609,,GW,"BNetzA Kraftwerksliste (bundesweit, alle Netz- und Umspannebenen; Quelle Marktstammdatenregister, Datenstand 26.06.2026), DE_RP, Energietraeger Abfall (all units, KWK and non-KWK), net capacity end of 2025 - https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_RP,HB_Heatpump_Aerial,2025,0.99473,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_RP,HB_Heatpump_Ground,2025,0.039,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_RP,P_Biomass,2025,0.185541,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Gas_CCGT,2025,0.0752844,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Gas_OCGT,2025,0.164582,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Hydro_Reservoir,2025,0.00143977,,GW,SMARD | Nettonennleistung je Bundesland; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_PV_Rooftop_Residential,2025,3.797,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_PV_Utility_Opt,2025,1.6856,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Wind_Onshore_Opt,2025,4.33,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_Gas_CCGT_Biogas,2025,0.524,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_Gas_CCGT_Natural,2025,0.6046,,GW,https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,HB_Heatpump_Aerial,2025,0.57532,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_SH,HB_Heatpump_Ground,2025,0.035,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_SH,P_Biomass,2025,0.267422,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Coal_Hardcoal,2025,0.123919,,GW,fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Geothermal,2025,0.007,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_PV_Rooftop_Residential,2025,2.2942,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_PV_Utility_Opt,2025,1.84195,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Wind_Offshore_Transitional,2025,2.14,,GW,Status des Offshore-Windenergieausbaus in Deutschland,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Wind_Onshore_Opt,2025,9.51,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_Biomass_Solid,2025,0.00907901,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_Gas_CCGT_Biogas,2025,0.006,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_Gas_CCGT_Natural,2025,0.129176,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_Oil,2025,0.00420572,,GW,"BNetzA Kraftwerksliste (bundesweit, alle Netz- und Umspannebenen; Quelle Marktstammdatenregister, Datenstand 26.06.2026), DE_SL, Energietraeger Mineraloelprodukte, Waermeauskopplung_KWK = Ja, net capacity end of 2025 - https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2025,0.0386,,GW,"BNetzA Kraftwerksliste (bundesweit, alle Netz- und Umspannebenen; Quelle Marktstammdatenregister, Datenstand 26.06.2026), DE_SL, Energietraeger Abfall (all units, KWK and non-KWK), net capacity end of 2025 - https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_SL,HB_Heatpump_Aerial,2025,0.0573341,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) x 1.4280 (same factor as the production-fitted 2018 residual capacity) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_SL,HB_Heatpump_Ground,2025,0.004,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_SL,P_Gas_CCGT,2025,0.0696153,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_Gas_OCGT,2025,0.152189,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_PV_Rooftop_Residential,2025,0.672,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_PV_Utility_Opt,2025,0.4253,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_Wind_Onshore_Opt,2025,0.654375,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_Biomass_Solid,2025,0.13518,,GW,"BNetzA Kraftwerksliste (bundesweit, alle Netz- und Umspannebenen; Quelle Marktstammdatenregister, Datenstand 26.06.2026), DE_SN, Energietraeger Biomasse, Waermeauskopplung_KWK = Ja, net capacity end of 2025 - https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_SN,CHP_Gas_CCGT_Biogas,2025,0.154,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_Gas_CCGT_Natural,2025,0.428474,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,HB_Heatpump_Aerial,2025,0.49953,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_SN,HB_Heatpump_Ground,2025,0.061,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_SN,P_Biomass,2025,0.435499,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_Gas_CCGT,2025,0.294874,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_Gas_OCGT,2025,0.644638,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_PV_Rooftop_Residential,2025,2.6281,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_PV_Utility_Opt,2025,2.3862,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_Wind_Onshore_Opt,2025,1.42,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_Gas_CCGT_Biogas,2025,0.27,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_Gas_CCGT_Natural,2025,0.669838,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,HB_Heatpump_Aerial,2025,0.28076,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_ST,HB_Heatpump_Ground,2025,0.018,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_ST,P_Biomass,2025,0.658152,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Gas_CCGT,2025,0.228449,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Gas_OCGT,2025,0.499421,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Hydro_RoR,2025,0.0207026,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_PV_Rooftop_Residential,2025,2.5303,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_PV_Utility_Opt,2025,2.7558,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Wind_Onshore_Opt,2025,5.75,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_Biomass_Solid,2025,0.0777387,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_Gas_CCGT_Biogas,2025,0.152,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_Gas_CCGT_Natural,2025,0.5901,,GW,https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,HB_Heatpump_Aerial,2025,0.24289,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_TH,HB_Heatpump_Ground,2025,0.018,,GW,"Derived: 2025 capacity of the GENeSYS-MOD Germany calibration run of J. Bornemann (data commit ca5dda4, 01.06.2026) (the run's 2025 stock moved from ResidualCapacity to TotalAnnualMinCapacity in commit 67227b4) - calibration, no statistical counterpart",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_TH,P_Biomass,2025,0.317982,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,P_PV_Rooftop_Residential,2025,1.9265,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,P_PV_Utility_Opt,2025,1.0713,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,P_Wind_Onshore_Opt,2025,2.05808,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,P_PV_Utility_Avg,2025,1.2433,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.7300 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,P_PV_Utility_Inf,2025,1.2433,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.7300 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,P_PV_Utility_Opt,2025,1.2433,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.7300 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,P_Wind_Offshore_Transitional,2025,2.646,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,P_Wind_Onshore_Avg,2025,4.86,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,Fossil Coal-derived gas,2025,0.078,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,P_Biomass,2025,0.15,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,P_Gas_CCGT,2025,0.015,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,P_Hydro_RoR,2025,0.008,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,P_Oil,2025,1.33,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,P_PV_Utility_Avg,2025,0.2707,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.8120 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,P_PV_Utility_Inf,2025,0.2707,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.8120 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,P_PV_Utility_Opt,2025,0.2707,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.8120 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,P_Wind_Onshore_Avg,2025,0.447,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,Waste,2025,0.017,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,D_Battery_Li-Ion,2025,0.0252,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,D_PHS,2025,3.418,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,P_Biomass,2025,0.708,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,P_Coal_Hardcoal,2025,3.223,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,P_Gas_CCGT,2025,29.873,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,P_Oil,2025,0.704,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,Waste,2025,0.546,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,D_Battery_Li-Ion,2025,0.095,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Fossil Peat,2025,1.044,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,P_Biomass,2025,1.695,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,P_Coal_Hardcoal,2025,1.41,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,P_Gas_CCGT,2025,1.742,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,P_Hydro_RoR,2025,3.173,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,P_Oil,2025,1.051,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,P_PV_Utility_Avg,2025,0.0090,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.0270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,P_PV_Utility_Inf,2025,0.0090,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.0270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,P_PV_Utility_Opt,2025,0.0090,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.0270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,P_Wind_Onshore_Avg,2025,6.618,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,Waste,2025,0.087,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,D_Battery_Li-Ion,2025,1.0891,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,D_PHS,2025,5.065,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,P_Biomass,2025,1.403,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,P_Coal_Hardcoal,2025,1.812,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,P_Gas_CCGT,2025,13.133,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,P_Geothermal,2025,0.002,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,P_Hydro_Reservoir,2025,8.787,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,P_Hydro_RoR,2025,11.598,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,P_Ocean,2025,0.243,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,P_Oil,2025,3.042,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,P_Wind_Offshore_Transitional,2025,1.483,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,P_Wind_Onshore_Avg,2025,22.134,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,Waste,2025,0.968,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,P_Gas_CCGT,2025,6.03,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,D_PHS,2025,0.281,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_Biomass,2025,0.114,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_Coal_Hardcoal,2025,0.217,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_Gas_CCGT,2025,0.886,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_Geothermal,2025,0.01,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_Hydro_Reservoir,2025,1.446,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_Hydro_RoR,2025,0.428,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_Oil,2025,0.045,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_PV_Utility_Avg,2025,0.0973,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.2920 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_PV_Utility_Inf,2025,0.0973,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.2920 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_PV_Utility_Opt,2025,0.0973,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.2920 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_Wind_Onshore_Avg,2025,1.209,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,Waste,2025,0.006,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,D_Battery_Li-Ion,2025,0.0718,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,P_Biomass,2025,0.214,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_Coal_Hardcoal,2025,0.042,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_Coal_Lignite,2025,0.787,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_Gas_CCGT,2025,3.161,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_Geothermal,2025,0.003,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_Hydro_Reservoir,2025,0.028,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_Hydro_RoR,2025,0.033,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_Oil,2025,0.425,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_PV_Utility_Avg,2025,1.2960,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.8880 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_PV_Utility_Inf,2025,1.2960,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.8880 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_PV_Utility_Opt,2025,1.2960,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.8880 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_Wind_Onshore_Avg,2025,0.325,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,Waste,2025,0.049,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,D_Battery_Li-Ion,2025,0.7539,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,D_PHS,2025,0.292,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,Fossil Peat,2025,0.344,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,P_Coal_Hardcoal,2025,0.855,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,P_Gas_CCGT,2025,4.265,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,P_Geothermal,2025,0.017,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,P_Hydro_RoR,2025,0.216,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,P_Oil,2025,1.272,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,P_Wind_Onshore_Avg,2025,1.919,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,D_Battery_Li-Ion,2025,5.6136,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,D_PHS,2025,7.256,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,Fossil Coal-derived gas,2025,2.071,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_Biomass,2025,1.543,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_Coal_Hardcoal,2025,5.583,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_Gas_CCGT,2025,45.157,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_Geothermal,2025,0.868,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_Hydro_Reservoir,2025,4.542,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_Hydro_RoR,2025,10.291,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_Oil,2025,1.564,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_PV_Utility_Avg,2025,1.9757,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 5.9270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_PV_Utility_Inf,2025,1.9757,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 5.9270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_PV_Utility_Opt,2025,1.9757,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 5.9270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_Wind_Offshore_Transitional,2025,0.03,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_Wind_Onshore_Avg,2025,11.651,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,Waste,2025,0.67,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,D_PHS,2025,0.9,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,P_Biomass,2025,0.196,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,P_Gas_CCGT,2025,1.503,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,P_Hydro_RoR,2025,0.129,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,P_PV_Utility_Avg,2025,0.3883,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 1.1650 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,P_PV_Utility_Inf,2025,0.3883,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 1.1650 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,P_PV_Utility_Opt,2025,0.3883,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 1.1650 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,P_Wind_Onshore_Avg,2025,1.288,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,Waste,2025,0.07,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,P_Biomass,2025,0.083,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,P_Gas_CCGT,2025,0.072,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,P_Hydro_Reservoir,2025,0.011,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,P_Hydro_RoR,2025,0.022,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,P_PV_Utility_Avg,2025,0.1383,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.4150 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,P_PV_Utility_Inf,2025,0.1383,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.4150 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,P_PV_Utility_Opt,2025,0.1383,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.4150 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,P_Wind_Onshore_Avg,2025,0.208,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,Waste,2025,0.024,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,P_Biomass,2025,0.166,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,P_Gas_CCGT,2025,1.112,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,P_Hydro_RoR,2025,1.588,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,P_PV_Utility_Avg,2025,0.1010,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.3030 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,P_PV_Utility_Inf,2025,0.1010,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.3030 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,P_PV_Utility_Opt,2025,0.1010,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.3030 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,P_Wind_Onshore_Avg,2025,0.136,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,D_Battery_Li-Ion,2025,0.35,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,P_Biomass,2025,0.415,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,P_Coal_Hardcoal,2025,4.006,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,P_Gas_CCGT,2025,18.351,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,P_Hydro_RoR,2025,0.038,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,P_PV_Utility_Avg,2025,8.0870,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 24.2610 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,P_PV_Utility_Inf,2025,8.0870,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 24.2610 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,P_PV_Utility_Opt,2025,8.0870,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 24.2610 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,P_Wind_Offshore_Transitional,2025,3.978,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,P_Wind_Onshore_Avg,2025,6.812,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,Waste,2025,0.786,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,D_PHS,2025,1.065,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,P_Biomass,2025,0.014,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,P_Gas_CCGT,2025,0.473,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,P_Hydro_Reservoir,2025,26.66,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,P_Hydro_RoR,2025,6.875,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,P_PV_Utility_Avg,2025,0.0030,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.0090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,P_PV_Utility_Inf,2025,0.0030,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.0090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,P_PV_Utility_Opt,2025,0.0030,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.0090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,P_Wind_Onshore_Opt,2025,5.133,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,Waste,2025,0.092,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,D_PHS,2025,1.082,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,P_Biomass,2025,0.009,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,P_Coal_Lignite,2025,10.216,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,P_Gas_CCGT,2025,0.858,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_Reservoir,2025,2.962676,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,P_Hydro_RoR,2025,2.645527,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,P_Oil,2025,0.165097,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,P_PV_Utility_Avg,2025,0.0197,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.0592 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,P_PV_Utility_Inf,2025,0.0197,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.0592 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,P_PV_Utility_Opt,2025,0.0197,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.0592 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,P_Wind_Onshore_Avg,2025,1.072,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,D_Battery_Li-Ion,2025,1.9718,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,D_PHS,2025,1.589,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,Fossil Coal-derived gas,2025,0.274,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_Biomass,2025,0.662,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_Coal_Hardcoal,2025,18.831,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_Coal_Lignite,2025,7.557,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_Gas_CCGT,2025,5.162,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_Hydro_Reservoir,2025,0.468,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_Hydro_RoR,2025,0.321,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_Oil,2025,0.393,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_PV_Utility_Avg,2025,4.8697,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 14.6090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_PV_Utility_Inf,2025,4.8697,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 14.6090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_PV_Utility_Opt,2025,4.8697,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 14.6090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_Wind_Onshore_Avg,2025,9.583,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,P_Biomass,2025,0.681,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,P_Hydro_RoR,2025,2.856,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,P_Wind_Offshore_Deep,2025,0.025,,GW,Entso-e installed capacity per production type,15.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,P_Wind_Offshore_Deep,2030,2,,GW,Feedback from Man0EUvRE Partner - LNEG,15.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,D_Battery_Li-Ion,2025,0.2561,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,D_Battery_Li-Ion,2025,0.0411,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,D_Battery_Li-Ion,2025,0.755,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,D_Battery_Li-Ion,2025,0.7539,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,D_Battery_Li-Ion,2025,0.0252,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,D_Battery_Li-Ion,2025,1.0891,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,D_Battery_Li-Ion,2025,5.6136,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,D_Battery_Li-Ion,2025,0.0718,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,D_Battery_Li-Ion,2025,0.35,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,D_Battery_Li-Ion,2025,0.008,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,D_Battery_Li-Ion,2025,1.9718,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,D_Battery_Li-Ion,2025,0.0369,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,D_Battery_Li-Ion,2025,0.095,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,P_Biomass,2025,0.118,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,P_Coal_Hardcoal,2025,0.176,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,P_Coal_Lignite,2025,1.733,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,P_Gas_CCGT,2025,2.238,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,P_Hydro_Reservoir,2025,3.359,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,P_Hydro_RoR,2025,2.78,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,P_PV_Utility_Avg,2025,0.4310,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 1.2930 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,P_PV_Utility_Inf,2025,0.4310,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 1.2930 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,P_PV_Utility_Opt,2025,0.4310,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 1.2930 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,P_Wind_Onshore_Avg,2025,2.958,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,D_Battery_Li-Ion,2025,0.552,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,P_PV_Utility_Avg,2025,1.0667,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.2000 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,P_PV_Utility_Inf,2025,1.0667,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.2000 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,P_PV_Utility_Opt,2025,1.0667,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 3.2000 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,P_Wind_Onshore_Avg,2025,16.7,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,D_Battery_Li-Ion,2025,0.0369,,GW,eurostat statistics: energy - infrastructure - batteries,03.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,D_PHS,2025,0.18,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,P_Biomass,2025,0.043,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,P_Coal_Lignite,2025,1.191,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,P_Gas_CCGT,2025,0.756,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,P_Hydro_RoR,2025,1.125,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,P_Oil,2025,0.058,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,P_PV_Utility_Avg,2025,0.3700,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 1.1100 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,P_PV_Utility_Inf,2025,0.3700,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 1.1100 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,P_PV_Utility_Opt,2025,0.3700,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 1.1100 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,P_Wind_Onshore_Avg,2025,0.003,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,Waste,2025,0.006,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,D_PHS,2025,0.916,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_Biomass,2025,0.234,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_Coal_Hardcoal,2025,0.001,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_Coal_Lignite,2025,0.276,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_Gas_CCGT,2025,1.183,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_Hydro_Reservoir,2025,0.418,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_Hydro_RoR,2025,1.212,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_Oil,2025,0.259,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_PV_Utility_Avg,2025,0.1773,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.5320 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_PV_Utility_Inf,2025,0.1773,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.5320 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_PV_Utility_Opt,2025,0.1773,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 0.5320 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_Wind_Onshore_Avg,2025,0.003,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,X_Electrolysis,2025,0.1,,GW,partner feedback KHAS,20.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,D_PHS,2025,4.309,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_Biomass,2025,4.528,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_Coal_Hardcoal,2025,5.755,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_Gas_CCGT,2025,41.371,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_Hydro_RoR,2025,1.919,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_Oil,2025,0.316,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_PV_Utility_Avg,2025,4.4900,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 13.4700 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_PV_Utility_Inf,2025,4.4900,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 13.4700 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_PV_Utility_Opt,2025,4.4900,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 13.4700 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_Wind_Offshore_Transitional,2025,12.16,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_Wind_Onshore_Avg,2025,13.932,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,Z_Import_H2,2018,0,,GW,dummy,23.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
