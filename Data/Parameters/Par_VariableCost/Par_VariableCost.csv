@@ -745,14 +745,14 @@ World,R_Biogas,1,2045,6.088514289,,MEUR/PJ,"Atlas of EU biomass potentials, Deli
 World,R_Biogas,1,2050,6.369868924,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,R_Biogas,1,2055,6.369868924,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Biogas,1,2060,6.369868924,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Coal_Lignite,1,2018,2.324665638,,MEUR/PJ,,,
-World,R_Coal_Lignite,1,2020,1.413396708,,MEUR/PJ,,,
-World,R_Coal_Lignite,1,2025,1.342726872,,MEUR/PJ,,,
-World,R_Coal_Lignite,1,2030,1.275590529,,MEUR/PJ,,,
-World,R_Coal_Lignite,1,2035,1.211811002,,MEUR/PJ,,,
-World,R_Coal_Lignite,1,2040,1.151220452,,MEUR/PJ,,,
-World,R_Coal_Lignite,1,2045,1.09365943,,MEUR/PJ,,,
-World,R_Coal_Lignite,1,2050,1.038976458,,MEUR/PJ,,,
+World,R_Coal_Lignite,1,2018,1.4017,,MEUR/PJ,"Lignite fuel price 5.05 EUR2013/MWh_th (2018 interpolated between 2015 4.80 and 2020 5.21) (Gerbaulet & Lorenz (2017): dynELMOD, DIW Data Documentation 88, p. 26, Table 4 'Fuel prices in dynELMOD', after EC (2016) EU Reference Scenario 2016) / 3.6 = MEUR/PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Coal_Lignite,1,2020,1.4472,,MEUR/PJ,"Lignite fuel price 5.21 EUR2013/MWh_th (Gerbaulet & Lorenz (2017): dynELMOD, DIW Data Documentation 88, p. 26, Table 4 'Fuel prices in dynELMOD', after EC (2016) EU Reference Scenario 2016) / 3.6 = MEUR/PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Coal_Lignite,1,2025,1.5611,,MEUR/PJ,"Lignite fuel price 5.62 EUR2013/MWh_th (Gerbaulet & Lorenz (2017): dynELMOD, DIW Data Documentation 88, p. 26, Table 4 'Fuel prices in dynELMOD', after EC (2016) EU Reference Scenario 2016) / 3.6 = MEUR/PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Coal_Lignite,1,2030,1.6750,,MEUR/PJ,"Lignite fuel price 6.03 EUR2013/MWh_th (Gerbaulet & Lorenz (2017): dynELMOD, DIW Data Documentation 88, p. 26, Table 4 'Fuel prices in dynELMOD', after EC (2016) EU Reference Scenario 2016) / 3.6 = MEUR/PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Coal_Lignite,1,2035,1.7889,,MEUR/PJ,"Lignite fuel price 6.44 EUR2013/MWh_th (Gerbaulet & Lorenz (2017): dynELMOD, DIW Data Documentation 88, p. 26, Table 4 'Fuel prices in dynELMOD', after EC (2016) EU Reference Scenario 2016) / 3.6 = MEUR/PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Coal_Lignite,1,2040,1.9028,,MEUR/PJ,"Lignite fuel price 6.85 EUR2013/MWh_th (Gerbaulet & Lorenz (2017): dynELMOD, DIW Data Documentation 88, p. 26, Table 4 'Fuel prices in dynELMOD', after EC (2016) EU Reference Scenario 2016) / 3.6 = MEUR/PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Coal_Lignite,1,2045,2.0167,,MEUR/PJ,"Lignite fuel price 7.26 EUR2013/MWh_th (Gerbaulet & Lorenz (2017): dynELMOD, DIW Data Documentation 88, p. 26, Table 4 'Fuel prices in dynELMOD', after EC (2016) EU Reference Scenario 2016) / 3.6 = MEUR/PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,R_Coal_Lignite,1,2050,2.1306,,MEUR/PJ,"Lignite fuel price 7.67 EUR2013/MWh_th (Gerbaulet & Lorenz (2017): dynELMOD, DIW Data Documentation 88, p. 26, Table 4 'Fuel prices in dynELMOD', after EC (2016) EU Reference Scenario 2016) / 3.6 = MEUR/PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,R_Coal_Lignite,1,2055,1.038976458,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Coal_Lignite,1,2060,1.038976458,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Grass,1,2018,3.384912679,,MEUR/PJ,"Atlas of EU biomass potentials, Deliverable 3.3, Biomass Futures Project",03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
