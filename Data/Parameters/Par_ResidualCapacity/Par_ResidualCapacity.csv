@@ -1354,6 +1354,8 @@ DE_NI,PSNG_Road_ICE,2025,222.394,,GW,needs update,06.09.2024,Jonathan Hanto <joh
 DE_NI,PSNG_Road_ICE,2030,136.858,,GW,needs update,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,PSNG_Road_ICE,2035,51.3218,,GW,needs update,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NI,PSNG_Road_ICE,2040,3.4215,,GW,needs update,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,HHI_BF_BOF,2018,1.2416,,GW,Assumption: minimum capacity to produce the 2018 base-year output (38.3519 PJ / (AF 0.98 x 31.536) = 1.2409 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_NI,HLI_Hardcoal,2018,0.0539,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.6641 PJ / (AF 0.98 x 31.536) = 0.0538 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_NRW,CHP_Coal_Hardcoal,2018,7.355,,GW,needs update,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,CHP_Coal_Hardcoal,2020,7.355,,GW,needs update,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,CHP_Coal_Hardcoal,2025,7.355,,GW,needs update,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1434,7 +1436,7 @@ DE_NRW,HB_Oil_Boiler,2018,23.6512,,GW,Assumption | Calculated endogenously via m
 DE_NRW,HB_Oil_Boiler,2020,20.2724,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,HB_Oil_Boiler,2025,15.2043,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,HB_Oil_Boiler,2030,11.4032,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,HHI_BF_BOF,2018,2.6707,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,HHI_BF_BOF,2018,3.6578,,GW,Assumption: minimum capacity to produce the 2018 base-year output (112.9880 PJ / (AF 0.98 x 31.536) = 3.6559 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_NRW,HHI_BF_BOF,2020,2.2891,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,HHI_BF_BOF,2025,1.7169,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,HHI_BF_BOF,2030,1.2876,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1464,7 +1466,7 @@ DE_NRW,HMHI_Gas,2018,39.3921,,GW,Assumption | Calculated endogenously via model,
 DE_NRW,HMHI_Gas,2020,33.7647,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,HMHI_Gas,2025,25.3235,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,HMHI_Gas,2030,18.9926,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,HMHI_HardCoal,2018,0.1072,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,HMHI_HardCoal,2018,0.1073,,GW,Assumption: minimum capacity to produce the 2018 base-year output (3.3140 PJ / (AF 0.98 x 31.536) = 0.1072 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_NRW,HMHI_HardCoal,2020,0.0815,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,HMHI_HardCoal,2025,0.0611,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_NRW,HMHI_HardCoal,2030,0.0458,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1627,7 +1629,7 @@ DE_RP,HB_Oil_Boiler,2018,5.661,,GW,Assumption | Calculated endogenously via mode
 DE_RP,HB_Oil_Boiler,2020,4.8523,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_RP,HB_Oil_Boiler,2025,3.6392,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_RP,HB_Oil_Boiler,2030,2.7294,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,HHI_BF_BOF,2018,0.5097,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_RP,HHI_BF_BOF,2018,0.6980,,GW,Assumption: minimum capacity to produce the 2018 base-year output (21.5623 PJ / (AF 0.98 x 31.536) = 0.6977 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_RP,HHI_BF_BOF,2020,0.4369,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_RP,HHI_BF_BOF,2025,0.3276,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_RP,HHI_BF_BOF,2030,0.2457,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1785,7 +1787,7 @@ DE_SH,HB_Oil_Boiler,2018,4.2451,,GW,Assumption | Calculated endogenously via mod
 DE_SH,HB_Oil_Boiler,2020,3.6387,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,HB_Oil_Boiler,2025,2.729,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,HB_Oil_Boiler,2030,2.0468,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,HHI_BF_BOF,2018,0.1569,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SH,HHI_BF_BOF,2018,0.2149,,GW,Assumption: minimum capacity to produce the 2018 base-year output (6.6386 PJ / (AF 0.98 x 31.536) = 0.2148 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_SH,HHI_BF_BOF,2020,0.1345,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,HHI_BF_BOF,2025,0.1009,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SH,HHI_BF_BOF,2030,0.0757,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1945,7 +1947,7 @@ DE_SL,HB_Oil_Boiler,2018,2.4993,,GW,Assumption | Calculated endogenously via mod
 DE_SL,HB_Oil_Boiler,2020,2.1423,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SL,HB_Oil_Boiler,2025,1.6067,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SL,HB_Oil_Boiler,2030,1.205,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SL,HHI_BF_BOF,2018,0.2252,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SL,HHI_BF_BOF,2018,0.3085,,GW,Assumption: minimum capacity to produce the 2018 base-year output (9.5288 PJ / (AF 0.98 x 31.536) = 0.3083 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_SL,HHI_BF_BOF,2020,0.1931,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SL,HHI_BF_BOF,2025,0.1448,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SL,HHI_BF_BOF,2030,0.1086,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -2102,7 +2104,7 @@ DE_SN,HB_Oil_Boiler,2018,5.1008,,GW,Assumption | Calculated endogenously via mod
 DE_SN,HB_Oil_Boiler,2020,4.3721,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SN,HB_Oil_Boiler,2025,3.2791,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SN,HB_Oil_Boiler,2030,2.4593,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SN,HHI_BF_BOF,2018,0.2857,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SN,HHI_BF_BOF,2018,0.3913,,GW,Assumption: minimum capacity to produce the 2018 base-year output (12.0882 PJ / (AF 0.98 x 31.536) = 0.3911 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_SN,HHI_BF_BOF,2020,0.2449,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SN,HHI_BF_BOF,2025,0.1837,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_SN,HHI_BF_BOF,2030,0.1378,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -2273,7 +2275,7 @@ DE_ST,HB_Oil_Boiler,2018,3.4312,,GW,Assumption | Calculated endogenously via mod
 DE_ST,HB_Oil_Boiler,2020,2.941,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_ST,HB_Oil_Boiler,2025,2.2058,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_ST,HB_Oil_Boiler,2030,1.6543,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_ST,HHI_BF_BOF,2018,0.467,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_ST,HHI_BF_BOF,2018,0.6397,,GW,Assumption: minimum capacity to produce the 2018 base-year output (19.7593 PJ / (AF 0.98 x 31.536) = 0.6394 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_ST,HHI_BF_BOF,2020,0.4003,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_ST,HHI_BF_BOF,2025,0.3002,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_ST,HHI_BF_BOF,2030,0.2252,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -2440,7 +2442,7 @@ DE_TH,HB_Oil_Boiler,2018,3.1212,,GW,Assumption | Calculated endogenously via mod
 DE_TH,HB_Oil_Boiler,2020,2.6753,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_TH,HB_Oil_Boiler,2025,2.0065,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_TH,HB_Oil_Boiler,2030,1.5049,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,HHI_BF_BOF,2018,0.1888,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_TH,HHI_BF_BOF,2018,0.2586,,GW,Assumption: minimum capacity to produce the 2018 base-year output (7.9870 PJ / (AF 0.98 x 31.536) = 0.2584 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_TH,HHI_BF_BOF,2020,0.1618,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_TH,HHI_BF_BOF,2025,0.1214,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE_TH,HHI_BF_BOF,2030,0.091,,GW,Assumption | Calculated endogenously via model,06.09.2024,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -9101,7 +9103,7 @@ BE,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 BE,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,HHI_BF_BOF,2018,0.0704,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,HHI_BF_BOF,2018,0.1050,,GW,Assumption: minimum capacity to produce the 2018 base-year output (3.2425 PJ / (AF 0.98 x 31.536) = 0.1049 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,HHI_BF_BOF,2025,0.0491,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HHI_BF_BOF,2030,0.0294,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HHI_BF_BOF,2035,0.0148,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9110,8 +9112,8 @@ BG,HHI_BF_BOF,2045,0.0012,,GW,Assumptions based on model run,09.04.2026,Nikita M
 BG,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,HHI_Bio_BF_BOF,2018,0.0149,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,HHI_DRI_EAF,2018,0.233,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,HHI_Bio_BF_BOF,2018,0.0225,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.6948 PJ / (AF 0.98 x 31.536) = 0.0225 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,HHI_DRI_EAF,2018,0.4453,,GW,Assumption: minimum capacity to produce the 2018 base-year output (13.7560 PJ / (AF 0.98 x 31.536) = 0.4451 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,HHI_DRI_EAF,2025,0.0159,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HHI_DRI_EAF,2030,0.0095,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HHI_DRI_EAF,2035,0.0049,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9228,7 +9230,7 @@ BG,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 BG,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HHI_BF_BOF,2018,0.1181,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HHI_BF_BOF,2018,0.1573,,GW,Assumption: minimum capacity to produce the 2018 base-year output (4.8599 PJ / (AF 0.98 x 31.536) = 0.1573 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HHI_BF_BOF,2025,0.0824,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_BF_BOF,2030,0.0495,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_BF_BOF,2035,0.0244,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9237,8 +9239,8 @@ CH,HHI_BF_BOF,2045,0.0017,,GW,Assumptions based on model run,09.04.2026,Nikita M
 CH,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HHI_Bio_BF_BOF,2018,0.0123,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HHI_DRI_EAF,2018,0.1031,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HHI_Bio_BF_BOF,2018,0.0254,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.7842 PJ / (AF 0.98 x 31.536) = 0.0254 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,HHI_DRI_EAF,2018,0.2811,,GW,Assumption: minimum capacity to produce the 2018 base-year output (8.6842 PJ / (AF 0.98 x 31.536) = 0.2810 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HHI_DRI_EAF,2025,0.0638,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_DRI_EAF,2030,0.0387,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_DRI_EAF,2035,0.019,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9256,7 +9258,7 @@ CH,HHI_Scrap_EAF,2045,0.0009,,GW,Assumptions based on model run,09.04.2026,Nikit
 CH,HHI_Scrap_EAF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_Scrap_EAF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HHI_Scrap_EAF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HLI_Biomass,2018,0.2088,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HLI_Biomass,2018,0.2561,,GW,Assumption: minimum capacity to produce the 2018 base-year output (7.9110 PJ / (AF 0.98 x 31.536) = 0.2560 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HLI_Biomass,2025,0.1462,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HLI_Biomass,2030,0.0881,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HLI_Biomass,2035,0.0436,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9283,7 +9285,7 @@ CH,HLI_Gas_Boiler,2045,0.014,,GW,Assumptions based on model run,09.04.2026,Nikit
 CH,HLI_Gas_Boiler,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HLI_Gas_Boiler,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HLI_Gas_Boiler,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HLI_Hardcoal,2018,0.0104,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HLI_Hardcoal,2018,0.0127,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.3933 PJ / (AF 0.98 x 31.536) = 0.0127 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HLI_Hardcoal,2025,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HLI_Hardcoal,2030,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HLI_Hardcoal,2035,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9301,7 +9303,7 @@ CH,HLI_Oil_Boiler,2045,0.0026,,GW,Assumptions based on model run,09.04.2026,Niki
 CH,HLI_Oil_Boiler,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HLI_Oil_Boiler,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HLI_Oil_Boiler,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HMHI_Biomass,2018,0.3707,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HMHI_Biomass,2018,0.5068,,GW,Assumption: minimum capacity to produce the 2018 base-year output (15.6546 PJ / (AF 0.98 x 31.536) = 0.5065 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HMHI_Biomass,2025,0.2583,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_Biomass,2030,0.1551,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_Biomass,2035,0.0769,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9319,7 +9321,7 @@ CH,HMHI_Gas,2045,0.021,,GW,Assumptions based on model run,09.04.2026,Nikita Mosk
 CH,HMHI_Gas,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_Gas,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_Gas,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HMHI_HardCoal,2018,0.0469,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HMHI_HardCoal,2018,0.0637,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.9686 PJ / (AF 0.98 x 31.536) = 0.0637 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HMHI_HardCoal,2025,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_HardCoal,2030,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_HardCoal,2035,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9346,7 +9348,7 @@ CH,HMHI_Steam_Electric,2045,0.0017,,GW,Assumptions based on model run,09.04.2026
 CH,HMHI_Steam_Electric,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_Steam_Electric,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMHI_Steam_Electric,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HMLI_Heatpump,2018,0.0376,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HMLI_Heatpump,2018,0.0493,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.5238 PJ / (AF 0.98 x 31.536) = 0.0493 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HMLI_Heatpump,2025,0.0376,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMLI_Heatpump,2030,0.0376,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HMLI_Heatpump,2035,0.0376,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9473,7 +9475,7 @@ CZ,HMHI_Steam_Electric,2045,0.0133,,GW,Assumptions based on model run,09.04.2026
 CZ,HMHI_Steam_Electric,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HMHI_Steam_Electric,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HMHI_Steam_Electric,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,HMLI_Heatpump,2018,0.0976,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HMLI_Heatpump,2018,0.1097,,GW,Assumption: minimum capacity to produce the 2018 base-year output (3.3882 PJ / (AF 0.98 x 31.536) = 0.1096 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,HMLI_Heatpump,2025,0.0976,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HMLI_Heatpump,2030,0.0976,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HMLI_Heatpump,2035,0.0976,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9609,7 +9611,7 @@ DE,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 DE,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,HHI_BF_BOF,2018,0.025,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HHI_BF_BOF,2018,0.0467,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.4425 PJ / (AF 0.98 x 31.536) = 0.0467 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,HHI_BF_BOF,2020,0.1976,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HHI_BF_BOF,2025,0.0176,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HHI_BF_BOF,2030,0.0106,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9619,8 +9621,8 @@ DK,HHI_BF_BOF,2045,0.0004,,GW,Assumptions based on model run,09.04.2026,Nikita M
 DK,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,HHI_Bio_BF_BOF,2018,0.0239,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,HHI_DRI_EAF,2018,0.1171,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HHI_Bio_BF_BOF,2018,0.0416,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.2853 PJ / (AF 0.98 x 31.536) = 0.0416 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,HHI_DRI_EAF,2018,0.2910,,GW,Assumption: minimum capacity to produce the 2018 base-year output (8.9874 PJ / (AF 0.98 x 31.536) = 0.2908 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,HHI_DRI_EAF,2020,0.0441,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HHI_DRI_EAF,2025,0.0441,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HHI_DRI_EAF,2030,0.0265,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9747,9 +9749,9 @@ DK,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 DK,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,HHI_BF_BOF,2018,0.008,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,HHI_Bio_BF_BOF,2018,0.0016,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,HHI_DRI_EAF,2018,0.0085,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,HHI_BF_BOF,2018,0.0213,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.6594 PJ / (AF 0.98 x 31.536) = 0.0213 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,HHI_Bio_BF_BOF,2018,0.0039,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.1203 PJ / (AF 0.98 x 31.536) = 0.0039 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,HHI_DRI_EAF,2018,0.0300,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.9271 PJ / (AF 0.98 x 31.536) = 0.0300 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,HHI_DRI_EAF,2020,0.0003,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HHI_DRI_EAF,2025,0.0004,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HHI_DRI_EAF,2030,0.0003,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9759,7 +9761,7 @@ EE,HHI_DRI_EAF,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moska
 EE,HHI_DRI_EAF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HHI_DRI_EAF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HHI_DRI_EAF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,HHI_Scrap_EAF,2018,0.005,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,HHI_Scrap_EAF,2018,0.0054,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.1670 PJ / (AF 0.98 x 31.536) = 0.0054 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,HHI_Scrap_EAF,2020,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HHI_Scrap_EAF,2025,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HHI_Scrap_EAF,2030,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9817,7 +9819,7 @@ EE,HLI_Oil_Boiler,2045,0.0042,,GW,Assumptions based on model run,09.04.2026,Niki
 EE,HLI_Oil_Boiler,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HLI_Oil_Boiler,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HLI_Oil_Boiler,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,HMHI_Biomass,2018,0.0082,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,HMHI_Biomass,2018,0.0092,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.2842 PJ / (AF 0.98 x 31.536) = 0.0092 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,HMHI_Biomass,2020,0.0072,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_Biomass,2025,0.0058,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_Biomass,2030,0.0034,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -9836,7 +9838,7 @@ EE,HMHI_Gas,2045,0.0014,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 EE,HMHI_Gas,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_Gas,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_Gas,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,HMHI_HardCoal,2018,0.0139,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,HMHI_HardCoal,2018,0.0153,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.4711 PJ / (AF 0.98 x 31.536) = 0.0152 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,HMHI_HardCoal,2025,0.0098,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_HardCoal,2030,0.0061,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HMHI_HardCoal,2035,0.0028,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10012,7 +10014,7 @@ ES,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 ES,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,HHI_BF_BOF,2018,0.4593,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,HHI_BF_BOF,2018,0.5855,,GW,Assumption: minimum capacity to produce the 2018 base-year output (18.0858 PJ / (AF 0.98 x 31.536) = 0.5852 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,HHI_BF_BOF,2020,3.2592,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HHI_BF_BOF,2025,0.3201,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HHI_BF_BOF,2030,0.1922,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10141,7 +10143,7 @@ FI,HMHI_Steam_Electric,2045,0.0198,,GW,Assumptions based on model run,09.04.2026
 FI,HMHI_Steam_Electric,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HMHI_Steam_Electric,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HMHI_Steam_Electric,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,HMLI_Heatpump,2018,0.074,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,HMLI_Heatpump,2018,0.0844,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.6073 PJ / (AF 0.98 x 31.536) = 0.0844 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,HMLI_Heatpump,2025,0.074,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HMLI_Heatpump,2030,0.074,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HMLI_Heatpump,2035,0.074,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10288,7 +10290,7 @@ FR,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 FR,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,HHI_BF_BOF,2018,0.0559,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,HHI_BF_BOF,2018,0.1359,,GW,Assumption: minimum capacity to produce the 2018 base-year output (4.1973 PJ / (AF 0.98 x 31.536) = 0.1358 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,HHI_BF_BOF,2020,1.7537,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HHI_BF_BOF,2025,0.0392,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HHI_BF_BOF,2030,0.0236,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10298,8 +10300,8 @@ GR,HHI_BF_BOF,2045,0.0007,,GW,Assumptions based on model run,09.04.2026,Nikita M
 GR,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,HHI_Bio_BF_BOF,2018,0.0064,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,HHI_DRI_EAF,2018,0.2011,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,HHI_Bio_BF_BOF,2018,0.0140,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.4331 PJ / (AF 0.98 x 31.536) = 0.0140 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,HHI_DRI_EAF,2018,0.5837,,GW,Assumption: minimum capacity to produce the 2018 base-year output (18.0307 PJ / (AF 0.98 x 31.536) = 0.5834 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,HHI_DRI_EAF,2020,0.122,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HHI_DRI_EAF,2025,0.0859,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HHI_DRI_EAF,2030,0.0515,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10427,7 +10429,7 @@ HR,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskal
 HR,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HHI_Bio_BF_BOF,2018,0.0061,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,HHI_DRI_EAF,2018,0.1701,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HHI_DRI_EAF,2018,0.2076,,GW,Assumption: minimum capacity to produce the 2018 base-year output (6.4119 PJ / (AF 0.98 x 31.536) = 0.2075 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,HHI_DRI_EAF,2020,0.0469,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HHI_DRI_EAF,2025,0.0911,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HHI_DRI_EAF,2030,0.0548,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10692,7 +10694,7 @@ HU,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 HU,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,HHI_BF_BOF,2018,0.0278,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,HHI_BF_BOF,2018,0.0841,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.5979 PJ / (AF 0.98 x 31.536) = 0.0841 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,HHI_BF_BOF,2020,0.9592,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HHI_BF_BOF,2025,0.0193,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HHI_BF_BOF,2030,0.0114,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10702,8 +10704,8 @@ IE,HHI_BF_BOF,2045,0.0004,,GW,Assumptions based on model run,09.04.2026,Nikita M
 IE,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,HHI_Bio_BF_BOF,2018,0.0286,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,HHI_DRI_EAF,2018,0.0979,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,HHI_Bio_BF_BOF,2018,0.0875,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.7043 PJ / (AF 0.98 x 31.536) = 0.0875 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,HHI_DRI_EAF,2018,0.4116,,GW,Assumption: minimum capacity to produce the 2018 base-year output (12.7136 PJ / (AF 0.98 x 31.536) = 0.4114 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,HHI_DRI_EAF,2020,0.0549,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HHI_DRI_EAF,2025,0.0612,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HHI_DRI_EAF,2030,0.0365,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10841,7 +10843,7 @@ IT,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskal
 IT,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HHI_Bio_BF_BOF,2018,0.0928,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,HHI_DRI_EAF,2018,3.8539,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HHI_DRI_EAF,2018,3.8992,,GW,Assumption: minimum capacity to produce the 2018 base-year output (120.4468 PJ / (AF 0.98 x 31.536) = 3.8973 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,HHI_DRI_EAF,2020,1.67,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HHI_DRI_EAF,2025,2.5767,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HHI_DRI_EAF,2030,1.5459,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -10959,7 +10961,7 @@ IT,HMHI_Steam_Electric,2045,0.0105,,GW,Assumptions based on model run,09.04.2026
 IT,HMHI_Steam_Electric,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HMHI_Steam_Electric,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HMHI_Steam_Electric,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,HMLI_Heatpump,2018,0.3314,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HMLI_Heatpump,2018,0.3828,,GW,Assumption: minimum capacity to produce the 2018 base-year output (11.8246 PJ / (AF 0.98 x 31.536) = 0.3826 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,HMLI_Heatpump,2025,0.3314,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HMLI_Heatpump,2030,0.3314,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HMLI_Heatpump,2035,0.3314,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11097,7 +11099,7 @@ LT,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 LT,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,HHI_BF_BOF,2018,0.0222,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,HHI_BF_BOF,2018,0.0224,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.6918 PJ / (AF 0.98 x 31.536) = 0.0224 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,HHI_BF_BOF,2020,0.5708,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HHI_BF_BOF,2025,0.0155,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HHI_BF_BOF,2030,0.0094,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11107,8 +11109,8 @@ LU,HHI_BF_BOF,2045,0.0003,,GW,Assumptions based on model run,09.04.2026,Nikita M
 LU,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,HHI_Bio_BF_BOF,2018,0.002,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,HHI_DRI_EAF,2018,0.2495,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,HHI_Bio_BF_BOF,2018,0.0021,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.0636 PJ / (AF 0.98 x 31.536) = 0.0021 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,HHI_DRI_EAF,2018,0.2910,,GW,Assumption: minimum capacity to produce the 2018 base-year output (8.9888 PJ / (AF 0.98 x 31.536) = 0.2908 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,HHI_DRI_EAF,2020,0.0809,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HHI_DRI_EAF,2025,0.1301,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HHI_DRI_EAF,2030,0.0783,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11176,7 +11178,7 @@ LU,HLI_Oil_Boiler,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mo
 LU,HLI_Oil_Boiler,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HLI_Oil_Boiler,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HLI_Oil_Boiler,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,HMHI_Biomass,2018,0.0042,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,HMHI_Biomass,2018,0.0056,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.1726 PJ / (AF 0.98 x 31.536) = 0.0056 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,HMHI_Biomass,2025,0.0029,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_Biomass,2030,0.0019,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_Biomass,2035,0.0007,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11194,7 +11196,7 @@ LU,HMHI_Gas,2045,0.0051,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 LU,HMHI_Gas,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_Gas,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_Gas,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,HMHI_HardCoal,2018,0.0216,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,HMHI_HardCoal,2018,0.0294,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.9085 PJ / (AF 0.98 x 31.536) = 0.0294 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,HMHI_HardCoal,2025,0.0149,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_HardCoal,2030,0.009,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_HardCoal,2035,0.0045,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11203,7 +11205,7 @@ LU,HMHI_HardCoal,2045,0.0003,,GW,Assumptions based on model run,09.04.2026,Nikit
 LU,HMHI_HardCoal,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_HardCoal,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_HardCoal,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,HMHI_Oil,2018,0.0224,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,HMHI_Oil,2018,0.0325,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.0029 PJ / (AF 0.98 x 31.536) = 0.0325 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,HMHI_Oil,2020,0.0228,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_Oil,2025,0.0156,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_Oil,2030,0.0094,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11223,7 +11225,7 @@ LU,HMHI_Steam_Electric,2045,0,,GW,Assumptions based on model run,09.04.2026,Niki
 LU,HMHI_Steam_Electric,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_Steam_Electric,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMHI_Steam_Electric,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,HMLI_Heatpump,2018,0.0079,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,HMLI_Heatpump,2018,0.0102,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.3148 PJ / (AF 0.98 x 31.536) = 0.0102 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,HMLI_Heatpump,2025,0.0079,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMLI_Heatpump,2030,0.0079,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMLI_Heatpump,2035,0.0079,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11233,8 +11235,8 @@ LU,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 LU,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HHI_BF_BOF,2018,0.0101,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,HHI_Bio_BF_BOF,2018,0.0602,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,HHI_DRI_EAF,2018,0.0075,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,HHI_Bio_BF_BOF,2018,0.0793,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.4504 PJ / (AF 0.98 x 31.536) = 0.0793 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,HHI_DRI_EAF,2018,0.0121,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.3734 PJ / (AF 0.98 x 31.536) = 0.0121 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,HHI_DRI_EAF,2020,0.0006,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HHI_DRI_EAF,2025,0.0004,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HHI_DRI_EAF,2030,0.0002,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11283,7 +11285,7 @@ LV,HLI_Gas_Boiler,2045,0.004,,GW,Assumptions based on model run,09.04.2026,Nikit
 LV,HLI_Gas_Boiler,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HLI_Gas_Boiler,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HLI_Gas_Boiler,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,HLI_Hardcoal,2018,0.0217,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,HLI_Hardcoal,2018,0.0243,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.7496 PJ / (AF 0.98 x 31.536) = 0.0243 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,HLI_Hardcoal,2025,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HLI_Hardcoal,2030,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HLI_Hardcoal,2035,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11499,7 +11501,7 @@ NL,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 NL,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,HHI_BF_BOF,2018,0.132,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,HHI_BF_BOF,2018,0.7862,,GW,Assumption: minimum capacity to produce the 2018 base-year output (24.2863 PJ / (AF 0.98 x 31.536) = 0.7858 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,HHI_BF_BOF,2020,1.1951,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_BF_BOF,2025,0.0922,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_BF_BOF,2030,0.0549,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11509,8 +11511,8 @@ NONEU_Balkan,HHI_BF_BOF,2045,0.0019,,GW,Assumptions based on model run,09.04.202
 NONEU_Balkan,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,HHI_Bio_BF_BOF,2018,0.0054,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,HHI_DRI_EAF,2018,0.0654,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,HHI_Bio_BF_BOF,2018,0.0423,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.3077 PJ / (AF 0.98 x 31.536) = 0.0423 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,HHI_DRI_EAF,2018,0.6194,,GW,Assumption: minimum capacity to produce the 2018 base-year output (19.1338 PJ / (AF 0.98 x 31.536) = 0.6191 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,HHI_DRI_EAF,2020,0.0811,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_DRI_EAF,2025,0.0317,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_DRI_EAF,2030,0.0192,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11520,7 +11522,7 @@ NONEU_Balkan,HHI_DRI_EAF,2045,0.0007,,GW,Assumptions based on model run,09.04.20
 NONEU_Balkan,HHI_DRI_EAF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_DRI_EAF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_DRI_EAF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,HHI_Scrap_EAF,2018,0.0342,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,HHI_Scrap_EAF,2018,0.0867,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.6793 PJ / (AF 0.98 x 31.536) = 0.0867 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,HHI_Scrap_EAF,2020,0.001,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_Scrap_EAF,2025,0.0138,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HHI_Scrap_EAF,2030,0.0088,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11775,7 +11777,7 @@ PL,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 PL,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,HHI_BF_BOF,2018,0.0212,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,HHI_BF_BOF,2018,0.0283,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.8744 PJ / (AF 0.98 x 31.536) = 0.0283 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,HHI_BF_BOF,2020,0.3719,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HHI_BF_BOF,2025,0.0148,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HHI_BF_BOF,2030,0.0088,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11785,8 +11787,8 @@ PT,HHI_BF_BOF,2045,0.0004,,GW,Assumptions based on model run,09.04.2026,Nikita M
 PT,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,HHI_Bio_BF_BOF,2018,0.0479,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,HHI_DRI_EAF,2018,0.3266,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,HHI_Bio_BF_BOF,2018,0.0659,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.0352 PJ / (AF 0.98 x 31.536) = 0.0659 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,HHI_DRI_EAF,2018,0.6377,,GW,Assumption: minimum capacity to produce the 2018 base-year output (19.6988 PJ / (AF 0.98 x 31.536) = 0.6374 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,HHI_DRI_EAF,2020,0.1402,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HHI_DRI_EAF,2025,0.1711,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HHI_DRI_EAF,2030,0.1028,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -11903,7 +11905,7 @@ PT,HMHI_Steam_Electric,2045,0.0017,,GW,Assumptions based on model run,09.04.2026
 PT,HMHI_Steam_Electric,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HMHI_Steam_Electric,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HMHI_Steam_Electric,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,HMLI_Heatpump,2018,0.0677,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,HMLI_Heatpump,2018,0.0679,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.0975 PJ / (AF 0.98 x 31.536) = 0.0679 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,HMLI_Heatpump,2025,0.0677,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HMLI_Heatpump,2030,0.0677,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HMLI_Heatpump,2035,0.0677,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12050,7 +12052,7 @@ RO,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 RO,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HHI_BF_BOF,2018,0.0236,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HHI_BF_BOF,2018,0.0284,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.8783 PJ / (AF 0.98 x 31.536) = 0.0284 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,HHI_BF_BOF,2020,0.822,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HHI_BF_BOF,2025,0.0163,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HHI_BF_BOF,2030,0.0098,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12060,8 +12062,8 @@ SI,HHI_BF_BOF,2045,0.0003,,GW,Assumptions based on model run,09.04.2026,Nikita M
 SI,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HHI_Bio_BF_BOF,2018,0.0147,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HHI_DRI_EAF,2018,0.1723,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HHI_Bio_BF_BOF,2018,0.0178,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.5499 PJ / (AF 0.98 x 31.536) = 0.0178 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,HHI_DRI_EAF,2018,0.2510,,GW,Assumption: minimum capacity to produce the 2018 base-year output (7.7540 PJ / (AF 0.98 x 31.536) = 0.2509 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,HHI_DRI_EAF,2020,0.0961,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HHI_DRI_EAF,2025,0.093,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HHI_DRI_EAF,2030,0.056,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12129,7 +12131,7 @@ SI,HLI_Oil_Boiler,2045,0.0012,,GW,Assumptions based on model run,09.04.2026,Niki
 SI,HLI_Oil_Boiler,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HLI_Oil_Boiler,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HLI_Oil_Boiler,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HMHI_Biomass,2018,0.0545,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HMHI_Biomass,2018,0.0661,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.0412 PJ / (AF 0.98 x 31.536) = 0.0660 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,HMHI_Biomass,2020,0.0491,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_Biomass,2025,0.038,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_Biomass,2030,0.0227,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12148,7 +12150,7 @@ SI,HMHI_Gas,2045,0.0087,,GW,Assumptions based on model run,09.04.2026,Nikita Mos
 SI,HMHI_Gas,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_Gas,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_Gas,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HMHI_HardCoal,2018,0.038,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HMHI_HardCoal,2018,0.0458,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.4154 PJ / (AF 0.98 x 31.536) = 0.0458 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,HMHI_HardCoal,2025,0.0267,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_HardCoal,2030,0.016,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_HardCoal,2035,0.0081,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12157,7 +12159,7 @@ SI,HMHI_HardCoal,2045,0.0006,,GW,Assumptions based on model run,09.04.2026,Nikit
 SI,HMHI_HardCoal,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_HardCoal,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_HardCoal,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HMHI_Oil,2018,0.0626,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HMHI_Oil,2018,0.0766,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.3665 PJ / (AF 0.98 x 31.536) = 0.0766 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,HMHI_Oil,2020,0.0127,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_Oil,2025,0.0439,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_Oil,2030,0.0265,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12177,7 +12179,7 @@ SI,HMHI_Steam_Electric,2045,0,,GW,Assumptions based on model run,09.04.2026,Niki
 SI,HMHI_Steam_Electric,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_Steam_Electric,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMHI_Steam_Electric,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HMLI_Heatpump,2018,0.0155,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HMLI_Heatpump,2018,0.0171,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.5284 PJ / (AF 0.98 x 31.536) = 0.0171 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,HMLI_Heatpump,2025,0.0155,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMLI_Heatpump,2030,0.0155,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HMLI_Heatpump,2035,0.0155,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12335,7 +12337,7 @@ TR,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskal
 TR,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HHI_Bio_BF_BOF,2018,0.1122,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,HHI_DRI_EAF,2018,3.1757,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,HHI_DRI_EAF,2018,3.3027,,GW,Assumption: minimum capacity to produce the 2018 base-year output (102.0191 PJ / (AF 0.98 x 31.536) = 3.3010 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,HHI_DRI_EAF,2020,0.8507,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HHI_DRI_EAF,2025,2.2058,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HHI_DRI_EAF,2030,1.3238,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12443,7 +12445,7 @@ TR,HMHI_Steam_Electric,2045,0.0093,,GW,Assumptions based on model run,09.04.2026
 TR,HMHI_Steam_Electric,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HMHI_Steam_Electric,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HMHI_Steam_Electric,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,HMLI_Heatpump,2018,0.5179,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,HMLI_Heatpump,2018,0.6335,,GW,Assumption: minimum capacity to produce the 2018 base-year output (19.5681 PJ / (AF 0.98 x 31.536) = 0.6332 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,HMLI_Heatpump,2025,0.5179,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HMLI_Heatpump,2030,0.5179,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HMLI_Heatpump,2035,0.5179,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12462,8 +12464,8 @@ UK,HHI_BF_BOF,2045,0.0195,,GW,Assumptions based on model run,09.04.2026,Nikita M
 UK,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HHI_Bio_BF_BOF,2018,0.0732,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HHI_DRI_EAF,2018,0.7372,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HHI_Bio_BF_BOF,2018,0.0981,,GW,Assumption: minimum capacity to produce the 2018 base-year output (3.0290 PJ / (AF 0.98 x 31.536) = 0.0980 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,HHI_DRI_EAF,2018,1.3462,,GW,Assumption: minimum capacity to produce the 2018 base-year output (41.5853 PJ / (AF 0.98 x 31.536) = 1.3456 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,HHI_DRI_EAF,2020,0.8095,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_DRI_EAF,2025,0.463,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HHI_DRI_EAF,2030,0.2779,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12492,7 +12494,7 @@ UK,HLI_Biomass,2045,0.0196,,GW,Assumptions based on model run,09.04.2026,Nikita 
 UK,HLI_Biomass,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Biomass,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Biomass,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HLI_Direct_Electric,2018,0.2699,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HLI_Direct_Electric,2018,0.2954,,GW,Assumption: minimum capacity to produce the 2018 base-year output (9.1257 PJ / (AF 0.98 x 31.536) = 0.2953 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,HLI_Direct_Electric,2020,0.2965,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Direct_Electric,2025,0.0316,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Direct_Electric,2030,0.0191,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12512,7 +12514,7 @@ UK,HLI_Gas_Boiler,2045,0.1574,,GW,Assumptions based on model run,09.04.2026,Niki
 UK,HLI_Gas_Boiler,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Gas_Boiler,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Gas_Boiler,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HLI_Hardcoal,2018,0.5439,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HLI_Hardcoal,2018,0.5611,,GW,Assumption: minimum capacity to produce the 2018 base-year output (17.3337 PJ / (AF 0.98 x 31.536) = 0.5609 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,HLI_Hardcoal,2025,0.3798,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Hardcoal,2030,0.2279,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Hardcoal,2035,0.1141,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12521,7 +12523,7 @@ UK,HLI_Hardcoal,2045,0.0093,,GW,Assumptions based on model run,09.04.2026,Nikita
 UK,HLI_Hardcoal,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Hardcoal,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Hardcoal,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HLI_Oil_Boiler,2018,0.7646,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HLI_Oil_Boiler,2018,0.8412,,GW,Assumption: minimum capacity to produce the 2018 base-year output (25.9838 PJ / (AF 0.98 x 31.536) = 0.8408 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,HLI_Oil_Boiler,2020,0.1707,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Oil_Boiler,2025,0.5334,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HLI_Oil_Boiler,2030,0.3201,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12581,7 +12583,7 @@ UK,HMHI_Steam_Electric,2045,0.0014,,GW,Assumptions based on model run,09.04.2026
 UK,HMHI_Steam_Electric,2050,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HMHI_Steam_Electric,2055,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HMHI_Steam_Electric,2060,0,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HMLI_Heatpump,2018,0.2727,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HMLI_Heatpump,2018,0.3820,,GW,Assumption: minimum capacity to produce the 2018 base-year output (11.8008 PJ / (AF 0.98 x 31.536) = 0.3818 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,HMLI_Heatpump,2025,0.2727,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HMLI_Heatpump,2030,0.2727,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HMLI_Heatpump,2035,0.2727,,GW,Assumptions based on model run,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -15152,7 +15154,7 @@ NO,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,23.07.2026,Nikita Moskal
 NO,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HHI_Bio_BF_BOF,2018,0.0059,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,HHI_DRI_EAF,2018,0.2028,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HHI_DRI_EAF,2018,0.3649,,GW,Assumption: minimum capacity to produce the 2018 base-year output (11.2720 PJ / (AF 0.98 x 31.536) = 0.3647 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,HHI_DRI_EAF,2020,0.2161,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HHI_DRI_EAF,2025,0.0716,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HHI_DRI_EAF,2030,0.0429,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -15289,7 +15291,7 @@ SE,HHI_BF_BOF,2050,0,,GW,Assumptions based on model run,23.07.2026,Nikita Moskal
 SE,HHI_BF_BOF,2055,0,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HHI_BF_BOF,2060,0,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HHI_Bio_BF_BOF,2018,0.1259,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,HHI_DRI_EAF,2018,0.2154,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,HHI_DRI_EAF,2018,0.2926,,GW,Assumption: minimum capacity to produce the 2018 base-year output (9.0378 PJ / (AF 0.98 x 31.536) = 0.2924 GW) after the true-heat rebuild of industrial heat demand (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HHI_DRI_EAF,2020,0.144,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HHI_DRI_EAF,2025,0.0809,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HHI_DRI_EAF,2030,0.0486,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
