@@ -66,15 +66,15 @@ AT,Mobility_Passenger,2045,133.3293,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 AT,Mobility_Passenger,2050,142.3566,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet AT_B, Passenger transport activity (Gpkm) 2020 = 95.022 and 2050 = 153.380 (ratio 1.6141); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,Mobility_Passenger,2055,142.3566,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,Mobility_Passenger,2060,142.3566,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-AT,Power,2020,197.5183,,PJ,,,
-AT,Power,2025,191.6323,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-AT,Power,2030,185.8442,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-AT,Power,2035,180.1527,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-AT,Power,2040,174.5565,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-AT,Power,2045,169.0541,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-AT,Power,2050,163.6444,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-AT,Power,2055,163.6444,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,Power,2060,163.6444,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,Power,2020,163.8193,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 23.7 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9751 (2020 path) = 23.11 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,Power,2025,158.9375,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,Power,2030,154.1370,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,Power,2035,149.4165,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,Power,2040,144.7750,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,Power,2045,140.2115,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,Power,2050,135.7246,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,Power,2055,135.7246,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,Power,2060,135.7246,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,Heat_Buildings,2018,408.3082,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,Heat_Buildings,2020,362.0240389,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,Heat_Buildings,2025,326.1803347,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -142,15 +142,15 @@ BE,Mobility_Passenger,2045,151.9550,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 BE,Mobility_Passenger,2050,160.2680,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet BE_B, Passenger transport activity (Gpkm) 2020 = 109.703 and 2050 = 159.270 (ratio 1.4518); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,Mobility_Passenger,2055,160.2680,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,Mobility_Passenger,2060,160.2680,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-BE,Power,2020,205.6228,,PJ,,,
-BE,Power,2025,199.4952,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BE,Power,2030,193.4696,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BE,Power,2035,187.5446,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BE,Power,2040,181.7188,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BE,Power,2045,175.9907,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BE,Power,2050,170.359,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BE,Power,2055,170.359,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,Power,2060,170.359,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,Power,2020,219.3683,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 28.3 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9616 (2020 path) = 27.21 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,Power,2025,212.8311,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,Power,2030,206.4028,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,Power,2035,200.0817,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,Power,2040,193.8663,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,Power,2045,187.7554,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,Power,2050,181.7471,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,Power,2055,181.7471,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,Power,2060,181.7471,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,Heat_Buildings,2018,93.0537,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_Buildings,2020,74.62571014,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,Heat_Buildings,2025,65.36283757,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -218,15 +218,15 @@ BG,Mobility_Passenger,2045,79.2607,,Gpkm,"EU Reference Scenario 2020, ref2020_en
 BG,Mobility_Passenger,2050,83.5399,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet BG_B, Passenger transport activity (Gpkm) 2020 = 65.960 and 2050 = 95.228 (ratio 1.4437); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,Mobility_Passenger,2055,83.5399,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,Mobility_Passenger,2060,83.5399,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-BG,Power,2020,132.3212,,PJ,,,
-BG,Power,2025,128.3781,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BG,Power,2030,124.5005,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BG,Power,2035,120.6877,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BG,Power,2040,116.9387,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BG,Power,2045,113.2526,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BG,Power,2050,109.6285,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-BG,Power,2055,109.6285,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,Power,2060,109.6285,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,Power,2020,77.2614,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 9.8 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9995 (2020 path) = 9.80 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,Power,2025,74.9591,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.970201),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,Power,2030,72.6949,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,Power,2035,70.4687,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,Power,2040,68.2797,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883749),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,Power,2045,66.1274,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855892),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,Power,2050,64.0113,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,Power,2055,64.0113,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,Power,2060,64.0113,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,Heat_Buildings,2018,247.2000,,PJ,"BFE (2019): Analyse des schweizerischen Energieverbrauchs 2000-2018 nach Verwendungszwecken (Prognos/TEP Energy/Infras), 2018: Haushalte Raumwaerme 145.2 + Warmwasser 32.0 PJ (Tab. 15) + Dienstleistungen inkl. Landwirtschaft Raumwaerme 59.0 + Warmwasser 11.0 PJ (Tab. 24) = 247.2 PJ (final energy incl. district, ambient and solar heat) - https://pubdb.bfe.admin.ch/de/publication/download/9853",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,Heat_Buildings,2020,237.3716,,PJ,"Derived: 247.200 PJ (CH Heat_Buildings 2018, see 2018 row) x TYNDP 2022 Distributed Energy, Austria, Residential+Tertiary Space_heating+Water_heating all carriers (TWh: 2015 80.108, 2030 70.553, 2040 63.827, 2050 56.524), relative to 2015 (=2018); proxy: TYNDP 2022 OUTPUT_ALL covers EU27+UK only, Austria chosen as the neighbouring alpine country with comparable building stock, heating structure and industry (TYNDP 2022 DE is the scenario used for all EU rows) - https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,Heat_Buildings,2025,227.5432,,PJ,"Derived: 247.200 PJ (CH Heat_Buildings 2018, see 2018 row) x TYNDP 2022 Distributed Energy, Austria, Residential+Tertiary Space_heating+Water_heating all carriers (TWh: 2015 80.108, 2030 70.553, 2040 63.827, 2050 56.524), relative to 2015 (=2018); proxy: TYNDP 2022 OUTPUT_ALL covers EU27+UK only, Austria chosen as the neighbouring alpine country with comparable building stock, heating structure and industry (TYNDP 2022 DE is the scenario used for all EU rows) - https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -294,15 +294,15 @@ CH,Mobility_Passenger,2045,99.6850,,Gpkm,No development from 2020,24.10.2026,Kon
 CH,Mobility_Passenger,2050,99.6850,,Gpkm,No development from 2020,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,Mobility_Passenger,2055,99.6850,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,Mobility_Passenger,2060,99.6850,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-CH,Power,2020,187.4318,,PJ,,,
-CH,Power,2025,181.8463,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CH,Power,2030,176.3538,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CH,Power,2035,170.953,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CH,Power,2040,165.6425,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CH,Power,2045,160.4212,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CH,Power,2050,155.2877,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CH,Power,2055,155.2877,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,Power,2060,155.2877,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,Power,2020,155.2603,,PJ,"BFE (2021) Analyse des schweizerischen Energieverbrauchs 2000-2020 nach Verwendungszwecken, Tab. 15 Elektrizitaetsverbrauch 2020: total 201.1 PJ minus Mobilitaet Inland 11.4 minus Raumwaerme 18.0 minus Warmwasser 10.4 PJ; plus transmission and distribution losses 4.2 TWh (BFE Schweizerische Elektrizitaetsstatistik 2020, p. 3) - https://pubdb.bfe.admin.ch/de/publication/download/10693 ; https://pubdb.bfe.admin.ch/de/publication/download/10520 | minus industrial electricity used for heat (now in the industrial heat demand): 21.7 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9751 (2020 path) = 21.16 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,Power,2025,150.6336,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,Power,2030,146.0838,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,Power,2035,141.6100,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,Power,2040,137.2110,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,Power,2045,132.8859,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,Power,2050,128.6335,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,Power,2055,128.6335,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,Power,2060,128.6335,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,Heat_Buildings,2018,340.9502,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_Buildings,2020,284.6172171,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,Heat_Buildings,2025,268.908501,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -370,15 +370,15 @@ CZ,Mobility_Passenger,2045,143.2868,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 CZ,Mobility_Passenger,2050,154.2077,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet CZ_B, Passenger transport activity (Gpkm) 2020 = 104.866 and 2050 = 182.350 (ratio 1.7389); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,Mobility_Passenger,2055,154.2077,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,Mobility_Passenger,2060,154.2077,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-CZ,Power,2020,264.873,,PJ,,,
-CZ,Power,2025,256.9798,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CZ,Power,2030,249.2179,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CZ,Power,2035,241.5856,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CZ,Power,2040,234.0811,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CZ,Power,2045,226.7024,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CZ,Power,2050,219.4479,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-CZ,Power,2055,219.4479,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,Power,2060,219.4479,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,Power,2020,144.9963,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 25.7 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9823 (2020 path) = 25.25 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,Power,2025,140.6754,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,Power,2030,136.4264,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,Power,2035,132.2484,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,Power,2040,128.1402,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,Power,2045,124.1010,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,Power,2050,120.1297,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,Power,2055,120.1297,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,Power,2060,120.1297,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Heat_Buildings,2018,2630.3511,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Buildings,2020,2301.626053,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,Heat_Buildings,2025,2063.801262,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -446,15 +446,15 @@ DE,Mobility_Passenger,2045,1152.9714,,Gpkm,"EU Reference Scenario 2020, ref2020_
 DE,Mobility_Passenger,2050,1201.0283,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet DE_B, Passenger transport activity (Gpkm) 2020 = 1058.408 and 2050 = 1392.786 (ratio 1.3159); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Passenger,2055,1201.0283,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Mobility_Passenger,2060,1201.0283,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,Power,2020,1765.4819,,PJ,,,
-DE,Power,2025,1708.7939,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,Power,2030,1653.0494,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,Power,2035,1598.2353,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,Power,2040,1544.3384,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,Power,2045,1491.346,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,Power,2050,1439.2453,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DE,Power,2055,1439.2453,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Power,2060,1439.2453,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Power,2020,1431.2670,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 206.0 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9809 (2020 path) = 202.07 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Power,2025,1385.3104,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.967891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Power,2030,1340.1182,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.936316),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Power,2035,1295.6816,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.905269),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Power,2040,1251.9865,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.87474),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Power,2045,1209.0270,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.844725),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Power,2050,1166.7889,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.815214),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Power,2055,1166.7889,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.815214),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,Power,2060,1166.7889,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.815214),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_BB,H2,2018,3.8946,,PJ,,,
 DE_BB,H2,2020,4.2689,,PJ,,,
 DE_BB,H2,2025,5.1498,,PJ,,,
@@ -3050,15 +3050,15 @@ DK,Mobility_Passenger,2045,93.8486,,Gpkm,"EU Reference Scenario 2020, ref2020_en
 DK,Mobility_Passenger,2050,99.1673,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet DK_B, Passenger transport activity (Gpkm) 2020 = 80.406 and 2050 = 118.558 (ratio 1.4745); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,Mobility_Passenger,2055,99.1673,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,Mobility_Passenger,2060,99.1673,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-DK,Power,2020,84.1167,,PJ,,,
-DK,Power,2025,81.6101,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DK,Power,2030,79.1451,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DK,Power,2035,76.7213,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DK,Power,2040,74.338,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DK,Power,2045,71.9948,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DK,Power,2050,69.6909,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-DK,Power,2055,69.6909,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,Power,2060,69.6909,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,Power,2020,97.6436,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 7.7 PJ (2018, Eurostat x JRC-IDEES heat share) x 1.0032 (2020 path) = 7.72 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,Power,2025,94.7339,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.970201),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,Power,2030,91.8724,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,Power,2035,89.0589,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912082),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,Power,2040,86.2923,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,Power,2045,83.5723,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855892),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,Power,2050,80.8980,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,Power,2055,80.8980,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,Power,2060,80.8980,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,Heat_Buildings,2018,47.4687,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,Heat_Buildings,2020,41.52573012,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,Heat_Buildings,2025,36.80111505,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3126,15 +3126,15 @@ EE,Mobility_Passenger,2045,20.6952,,Gpkm,"EU Reference Scenario 2020, ref2020_en
 EE,Mobility_Passenger,2050,21.9689,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet EE_B, Passenger transport activity (Gpkm) 2020 = 16.835 and 2050 = 25.815 (ratio 1.5334); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,Mobility_Passenger,2055,21.9689,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,Mobility_Passenger,2060,21.9689,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-EE,Power,2020,38.4011,,PJ,,,
-EE,Power,2025,37.2568,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-EE,Power,2030,36.1315,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-EE,Power,2035,35.0249,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-EE,Power,2040,33.9369,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-EE,Power,2045,32.8672,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-EE,Power,2050,31.8154,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-EE,Power,2055,31.8154,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Power,2060,31.8154,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Power,2020,20.8284,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 1.8 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9423 (2020 path) = 1.70 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,Power,2025,20.2077,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.970201),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,Power,2030,19.5974,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940898),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,Power,2035,18.9972,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,Power,2040,18.4070,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,Power,2045,17.8268,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855892),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,Power,2050,17.2563,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,Power,2055,17.2563,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,Power,2060,17.2563,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,Heat_Buildings,2018,615.2072,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Heat_Buildings,2020,594.5618551,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Heat_Buildings,2025,537.518074,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3202,15 +3202,15 @@ ES,Mobility_Passenger,2045,483.77,,Gpkm,partner feedback CIEMAT,09.04.2026,Nikit
 ES,Mobility_Passenger,2050,486.63,,Gpkm,partner feedback CIEMAT,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Mobility_Passenger,2055,489.51,,Gpkm,partner feedback CIEMAT,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Mobility_Passenger,2060,492.4,,Gpkm,partner feedback CIEMAT,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,Power,2020,710.1386,,PJ,,,
-ES,Power,2025,688.9765,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-ES,Power,2030,668.1666,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-ES,Power,2035,647.704,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-ES,Power,2040,627.5838,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-ES,Power,2045,607.8013,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-ES,Power,2050,588.3516,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-ES,Power,2055,588.3516,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,Power,2060,588.3516,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Power,2020,720.4071,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 77.1 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9807 (2020 path) = 75.61 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,Power,2025,698.9390,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,Power,2030,677.8282,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,Power,2035,657.0697,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,Power,2040,636.6584,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,Power,2045,616.5900,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,Power,2050,596.8587,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,Power,2055,596.8587,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,Power,2060,596.8587,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,Heat_Buildings,2018,292.4246,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,Heat_Buildings,2020,262.1612597,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,Heat_Buildings,2025,233.4447611,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3279,15 +3279,15 @@ FI,Mobility_Passenger,2045,92.3694,,Gpkm,"EU Reference Scenario 2020, ref2020_en
 FI,Mobility_Passenger,2050,95.9870,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet FI_B, Passenger transport activity (Gpkm) 2020 = 81.252 and 2050 = 104.994 (ratio 1.2922); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,Mobility_Passenger,2055,95.9870,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,Mobility_Passenger,2060,95.9870,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-FI,Power,2020,145.2219,,PJ,,,
-FI,Power,2025,140.8942,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Power,2030,136.6387,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Power,2035,132.4541,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Power,2040,128.3396,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Power,2045,124.2941,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Power,2050,120.3167,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FI,Power,2055,120.3167,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,Power,2060,120.3167,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Power,2020,184.4765,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 23.5 PJ (2018, Eurostat x JRC-IDEES heat share) x 1.0218 (2020 path) = 24.01 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,Power,2025,178.9789,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.970199),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,Power,2030,173.5732,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,Power,2035,168.2575,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,Power,2040,163.0307,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,Power,2045,157.8918,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,Power,2050,152.8391,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,Power,2055,152.8391,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,Power,2060,152.8391,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,Heat_Buildings,2018,1619.2769,,PJ,TYNDP 2024 Scenario Report,25.02.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Heat_Buildings,2020,1619.2769,,PJ,TYNDP 2024 Scenario Report,25.02.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,Heat_Buildings,2025,1896.4231,,PJ,TYNDP 2024 Scenario Report,25.02.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3355,15 +3355,15 @@ FR,Mobility_Passenger,2045,1187.3102,,Gpkm,"EU Reference Scenario 2020, ref2020_
 FR,Mobility_Passenger,2050,1278.2428,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet FR_B, Passenger transport activity (Gpkm) 2020 = 685.603 and 2050 = 1196.164 (ratio 1.7447); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,Mobility_Passenger,2055,1278.2428,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,Mobility_Passenger,2060,1278.2428,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-FR,Power,2020,1563.6925,,PJ,,,
-FR,Power,2025,1517.0945,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FR,Power,2030,1471.272,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FR,Power,2035,1426.2143,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FR,Power,2040,1381.9106,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FR,Power,2045,1338.3504,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FR,Power,2050,1295.5232,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-FR,Power,2055,1295.5232,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,Power,2060,1295.5232,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,Power,2020,1033.9119,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 105.7 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9678 (2020 path) = 102.30 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,Power,2025,1003.1014,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,Power,2030,972.8036,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,Power,2035,943.0114,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,Power,2040,913.7176,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,Power,2045,884.9159,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,Power,2050,856.5991,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,Power,2055,856.5991,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,Power,2060,856.5991,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,Heat_Buildings,2018,156.6577,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,Heat_Buildings,2020,145.5882,,PJ,"TYNDP 2022 Scenario Report, Distributed Energy scenario, demand data file 220228_Updated_Energy_Demand.xlsx, sheet OUTPUT_ALL: Sector Residential+Tertiary, Subsector Space_heating+Water_heating, Energy_carrier=All (incl. district heat), Output_type Energy_demand, TWh x 3.6 = PJ; 2015 taken as 2018, linear interpolation 2015-2030 (2020, 2025) and 2030-2040-2050 (2035, 2045) - https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,Heat_Buildings,2025,134.5188,,PJ,"TYNDP 2022 Scenario Report, Distributed Energy scenario, demand data file 220228_Updated_Energy_Demand.xlsx, sheet OUTPUT_ALL: Sector Residential+Tertiary, Subsector Space_heating+Water_heating, Energy_carrier=All (incl. district heat), Output_type Energy_demand, TWh x 3.6 = PJ; 2015 taken as 2018, linear interpolation 2015-2030 (2020, 2025) and 2030-2040-2050 (2035, 2045) - https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -3431,15 +3431,15 @@ GR,Mobility_Passenger,2045,159.1920,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 GR,Mobility_Passenger,2050,169.4867,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet EL_B, Passenger transport activity (Gpkm) 2020 = 136.076 and 2050 = 214.104 (ratio 1.5734); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,Mobility_Passenger,2055,169.4867,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,Mobility_Passenger,2060,169.4867,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,Power,2020,162.7888,,PJ,,,
-GR,Power,2025,157.9376,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-GR,Power,2030,153.1673,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-GR,Power,2035,148.4765,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-GR,Power,2040,143.8643,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-GR,Power,2045,139.3294,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-GR,Power,2050,134.8709,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-GR,Power,2055,134.8709,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,Power,2060,134.8709,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,Power,2020,151.9756,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 10.4 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9829 (2020 path) = 10.22 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,Power,2025,147.4466,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.970199),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,Power,2030,142.9933,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,Power,2035,138.6141,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,Power,2040,134.3082,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,Power,2045,130.0746,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,Power,2050,125.9121,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,Power,2055,125.9121,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,Power,2060,125.9121,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,Heat_Buildings,2018,93.7425,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Heat_Buildings,2020,86.25799524,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,Heat_Buildings,2025,78.40816582,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3507,15 +3507,15 @@ HR,Mobility_Passenger,2045,36.9891,,Gpkm,"EU Reference Scenario 2020, ref2020_en
 HR,Mobility_Passenger,2050,39.7603,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet HR_B, Passenger transport activity (Gpkm) 2020 = 28.642 and 2050 = 49.229 (ratio 1.7187); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,Mobility_Passenger,2055,39.7603,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,Mobility_Passenger,2060,39.7603,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-HR,Power,2020,29.3508,,PJ,,,
-HR,Power,2025,28.4761,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HR,Power,2030,27.616,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HR,Power,2035,26.7703,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HR,Power,2040,25.9387,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HR,Power,2045,25.1211,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HR,Power,2050,24.3172,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HR,Power,2055,24.3172,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,Power,2060,24.3172,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,Power,2020,47.2542,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 3.3 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9966 (2020 path) = 3.29 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,Power,2025,45.8459,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.970198),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,Power,2030,44.4612,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940894),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,Power,2035,43.0997,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,Power,2040,41.7608,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,Power,2045,40.4445,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,Power,2050,39.1502,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,Power,2055,39.1502,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,Power,2060,39.1502,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,Heat_Buildings,2018,256.0865,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Heat_Buildings,2020,231.4890775,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Heat_Buildings,2025,213.0019264,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3583,15 +3583,15 @@ HU,Mobility_Passenger,2045,141.2009,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 HU,Mobility_Passenger,2050,152.8322,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet HU_B, Passenger transport activity (Gpkm) 2020 = 79.929 and 2050 = 147.099 (ratio 1.8404); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,Mobility_Passenger,2055,152.8322,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,Mobility_Passenger,2060,152.8322,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-HU,Power,2020,85.3923,,PJ,,,
-HU,Power,2025,82.8476,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HU,Power,2030,80.3453,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HU,Power,2035,77.8847,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HU,Power,2040,75.4653,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HU,Power,2045,73.0865,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HU,Power,2050,70.7477,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-HU,Power,2055,70.7477,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,Power,2060,70.7477,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,Power,2020,110.8026,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 15.4 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9963 (2020 path) = 15.34 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,Power,2025,107.5007,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,Power,2030,104.2537,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,Power,2035,101.0609,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,Power,2040,97.9216,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,Power,2045,94.8349,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,Power,2050,91.8002,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,Power,2055,91.8002,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,Power,2060,91.8002,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,Heat_Buildings,2018,128.1215,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,Heat_Buildings,2020,117.5122,,PJ,"TYNDP 2022 Scenario Report, Distributed Energy scenario, demand data file 220228_Updated_Energy_Demand.xlsx, sheet OUTPUT_ALL: Sector Residential+Tertiary, Subsector Space_heating+Water_heating, Energy_carrier=All (incl. district heat), Output_type Energy_demand, TWh x 3.6 = PJ; 2015 taken as 2018, linear interpolation 2015-2030 (2020, 2025) and 2030-2040-2050 (2035, 2045) - https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,Heat_Buildings,2025,106.9029,,PJ,"TYNDP 2022 Scenario Report, Distributed Energy scenario, demand data file 220228_Updated_Energy_Demand.xlsx, sheet OUTPUT_ALL: Sector Residential+Tertiary, Subsector Space_heating+Water_heating, Energy_carrier=All (incl. district heat), Output_type Energy_demand, TWh x 3.6 = PJ; 2015 taken as 2018, linear interpolation 2015-2030 (2020, 2025) and 2030-2040-2050 (2035, 2045) - https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -3659,15 +3659,15 @@ IE,Mobility_Passenger,2045,102.9185,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 IE,Mobility_Passenger,2050,111.4868,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet IE_B, Passenger transport activity (Gpkm) 2020 = 58.326 and 2050 = 108.238 (ratio 1.8557); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,Mobility_Passenger,2055,111.4868,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,Mobility_Passenger,2060,111.4868,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-IE,Power,2020,86.0592,,PJ,,,
-IE,Power,2025,83.4946,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IE,Power,2030,80.9727,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IE,Power,2035,78.493,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IE,Power,2040,76.0547,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IE,Power,2045,73.6573,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IE,Power,2050,71.3003,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IE,Power,2055,71.3003,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,Power,2060,71.3003,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,Power,2020,90.2738,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 4.4 PJ (2018, Eurostat x JRC-IDEES heat share) x 1.0025 (2020 path) = 4.41 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,Power,2025,87.5836,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,Power,2030,84.9382,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940895),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,Power,2035,82.3370,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,Power,2040,79.7794,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883749),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,Power,2045,77.2645,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,Power,2050,74.7921,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,Power,2055,74.7921,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,Power,2060,74.7921,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,Heat_Buildings,2018,1455.195,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Heat_Buildings,2020,1280.340404,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,Heat_Buildings,2025,1142.518657,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3735,15 +3735,15 @@ IT,Mobility_Passenger,2045,920.1757,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 IT,Mobility_Passenger,2050,989.7070,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet IT_B, Passenger transport activity (Gpkm) 2020 = 688.032 and 2050 = 1189.392 (ratio 1.7287); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,Mobility_Passenger,2055,989.7070,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,Mobility_Passenger,2060,989.7070,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-IT,Power,2020,682.0071,,PJ,,,
-IT,Power,2025,661.6832,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IT,Power,2030,641.6977,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IT,Power,2035,622.0457,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IT,Power,2040,602.7226,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IT,Power,2045,583.7237,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IT,Power,2050,565.0446,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-IT,Power,2055,565.0446,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,Power,2060,565.0446,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Power,2020,829.4037,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 141.6 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9600 (2020 path) = 135.94 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,Power,2025,804.6875,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,Power,2030,780.3826,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,Power,2035,756.4834,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,Power,2040,732.9839,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,Power,2045,709.8792,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,Power,2050,687.1635,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,Power,2055,687.1635,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,Power,2060,687.1635,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,Heat_Buildings,2018,68.103,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_Buildings,2020,52.72012306,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,Heat_Buildings,2025,44.52262364,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3811,15 +3811,15 @@ LT,Mobility_Passenger,2045,38.8736,,Gpkm,"EU Reference Scenario 2020, ref2020_en
 LT,Mobility_Passenger,2050,40.5873,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet LT_B, Passenger transport activity (Gpkm) 2020 = 37.513 and 2050 = 50.241 (ratio 1.3393); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,Mobility_Passenger,2055,40.5873,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,Mobility_Passenger,2060,40.5873,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-LT,Power,2020,7.9398,,PJ,,,
-LT,Power,2025,7.7032,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LT,Power,2030,7.4705,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LT,Power,2035,7.2418,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LT,Power,2040,7.0168,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LT,Power,2045,6.7956,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LT,Power,2050,6.5782,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LT,Power,2055,6.5782,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Power,2060,6.5782,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Power,2020,36.2108,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 1.9 PJ (2018, Eurostat x JRC-IDEES heat share) x 1.0011 (2020 path) = 1.90 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,Power,2025,35.1318,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.970201),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,Power,2030,34.0705,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940893),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,Power,2035,33.0274,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912088),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,Power,2040,32.0013,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.88375),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,Power,2045,30.9925,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,Power,2050,30.0010,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.82851),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,Power,2055,30.0010,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.82851),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,Power,2060,30.0010,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.82851),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,Heat_Buildings,2018,31.154,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,Heat_Buildings,2020,28.85425993,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,Heat_Buildings,2025,27.35900728,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3887,15 +3887,15 @@ LU,Mobility_Passenger,2045,13.2464,,Gpkm,"EU Reference Scenario 2020, ref2020_en
 LU,Mobility_Passenger,2050,14.2541,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet LU_B, Passenger transport activity (Gpkm) 2020 = 7.752 and 2050 = 13.464 (ratio 1.7367); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,Mobility_Passenger,2055,14.2541,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,Mobility_Passenger,2060,14.2541,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-LU,Power,2020,2.8927,,PJ,,,
-LU,Power,2025,2.8065,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LU,Power,2030,2.7217,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LU,Power,2035,2.6383,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LU,Power,2040,2.5564,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LU,Power,2045,2.4758,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LU,Power,2050,2.3966,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LU,Power,2055,2.3966,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,Power,2060,2.3966,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,Power,2020,11.0973,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 7.4 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9478 (2020 path) = 7.01 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,Power,2025,10.7666,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.970201),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,Power,2030,10.4413,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940886),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,Power,2035,10.1213,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912054),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,Power,2040,9.8071,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883742),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,Power,2045,9.4979,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855879),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,Power,2050,9.1941,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828499),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,Power,2055,9.1941,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828499),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,Power,2060,9.1941,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828499),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,Heat_Buildings,2018,60.9671,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_Buildings,2020,50.01589938,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,Heat_Buildings,2025,41.53838566,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -3963,15 +3963,15 @@ LV,Mobility_Passenger,2045,21.0116,,Gpkm,"EU Reference Scenario 2020, ref2020_en
 LV,Mobility_Passenger,2050,21.8861,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet LV_B, Passenger transport activity (Gpkm) 2020 = 18.882 and 2050 = 24.836 (ratio 1.3154); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,Mobility_Passenger,2055,21.8861,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,Mobility_Passenger,2060,21.8861,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-LV,Power,2020,16.6147,,PJ,,,
-LV,Power,2025,16.1196,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LV,Power,2030,15.6327,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LV,Power,2035,15.154,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LV,Power,2040,14.6833,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LV,Power,2045,14.2204,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LV,Power,2050,13.7654,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-LV,Power,2055,13.7654,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Power,2060,13.7654,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Power,2020,19.6130,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 1.1 PJ (2018, Eurostat x JRC-IDEES heat share) x 1.0057 (2020 path) = 1.11 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,Power,2025,19.0286,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.970201),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,Power,2030,18.4538,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,Power,2035,17.8887,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912084),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,Power,2040,17.3331,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883754),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,Power,2045,16.7867,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855893),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,Power,2050,16.2495,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828507),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,Power,2055,16.2495,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828507),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,Power,2060,16.2495,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828507),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,Heat_Buildings,2018,477.2805,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,Heat_Buildings,2020,426.7550885,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,Heat_Buildings,2025,386.486645,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4040,15 +4040,15 @@ NL,Mobility_Passenger,2045,160.0606,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 NL,Mobility_Passenger,2050,168.6197,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet NL_B, Passenger transport activity (Gpkm) 2020 = 162.270 and 2050 = 233.334 (ratio 1.4379); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,Mobility_Passenger,2055,168.6197,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,Mobility_Passenger,2060,168.6197,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-NL,Power,2020,321.1596,,PJ,,,
-NL,Power,2025,311.589,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NL,Power,2030,302.1778,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NL,Power,2035,292.9236,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NL,Power,2040,283.8242,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NL,Power,2045,274.8776,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NL,Power,2050,266.0815,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NL,Power,2055,266.0815,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,Power,2060,266.0815,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,Power,2020,343.9717,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 21.6 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9902 (2020 path) = 21.39 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,Power,2025,333.7213,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,Power,2030,323.6416,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,Power,2035,313.7300,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,Power,2040,303.9843,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,Power,2045,294.4023,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,Power,2050,284.9812,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,Power,2055,284.9812,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,Power,2060,284.9812,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,Heat_Buildings,2018,259.2000,,PJ,"Eurostat nrg_d_hhq 2018 NO: households space heating (FC_OTH_HH_E_SH) 126.023 + water heating (FC_OTH_HH_E_WH) 25.205 PJ (TOTAL, TJ/1000) = 151.228 PJ; plus services: Eurostat nrg_bal_c 2018 NO FC_OTH_CP_E TOTAL 134.350 PJ (electricity E7000 95.219), heating share by carrier group taken from the NO household end-use structure of nrg_d_hhq (non-electric 0.9957, electricity 0.7247) = 107.972 PJ; total 259.200 PJ (incl. district-heat supplied heat) - https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq/default/table ; https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c/default/table",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,Heat_Buildings,2020,255.5930,,PJ,"Derived: 259.200 PJ (NO Heat_Buildings 2018, see 2018 row) x TYNDP 2022 Distributed Energy, Sweden, Residential+Tertiary Space_heating+Water_heating all carriers (TWh: 2015 98.768, 2030 94.645, 2040 90.798, 2050 84.985), relative to 2015 (=2018); proxy: TYNDP 2022 OUTPUT_ALL covers EU27+UK only, Sweden chosen as the Nordic neighbour with comparable climate, electrified heating and energy-intensive industry (TYNDP 2022 DE is the scenario used for all EU rows) - https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,Heat_Buildings,2025,251.9859,,PJ,"Derived: 259.200 PJ (NO Heat_Buildings 2018, see 2018 row) x TYNDP 2022 Distributed Energy, Sweden, Residential+Tertiary Space_heating+Water_heating all carriers (TWh: 2015 98.768, 2030 94.645, 2040 90.798, 2050 84.985), relative to 2015 (=2018); proxy: TYNDP 2022 OUTPUT_ALL covers EU27+UK only, Sweden chosen as the Nordic neighbour with comparable climate, electrified heating and energy-intensive industry (TYNDP 2022 DE is the scenario used for all EU rows) - https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -4116,15 +4116,15 @@ NO,Mobility_Passenger,2045,67.9300,,Gpkm,No development from 2020,24.10.2026,Kon
 NO,Mobility_Passenger,2050,67.9300,,Gpkm,No development from 2020,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,Mobility_Passenger,2055,67.9300,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,Mobility_Passenger,2060,67.9300,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-NO,Power,2020,374.3898,,PJ,,,
-NO,Power,2025,363.233,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NO,Power,2030,352.2619,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NO,Power,2035,341.4738,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NO,Power,2040,330.8663,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NO,Power,2045,320.4369,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NO,Power,2050,310.1829,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NO,Power,2055,310.1829,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,Power,2060,310.1829,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,Power,2020,229.8204,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 35.8 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9864 (2020 path) = 35.31 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,Power,2025,222.9717,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,Power,2030,216.2371,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,Power,2035,209.6148,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,Power,2040,203.1033,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,Power,2045,196.7012,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,Power,2050,190.4069,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,Power,2055,190.4069,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,Power,2060,190.4069,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,Heat_Buildings,2018,253.4199,,PJ,"Eurostat nrg_d_hhq 2018, sum AL+BA+ME+MK+RS+XK: households space heating (FC_OTH_HH_E_SH) + water heating (FC_OTH_HH_E_WH), TOTAL = 200.838 PJ; plus services: Eurostat nrg_bal_c 2018 FC_OTH_CP_E TOTAL per country, heating share by carrier group from each country's household end-use structure (nrg_d_hhq) = 52.582 PJ; total 253.420 PJ. NONEU_Balkan = AL+BA+ME+MK+RS+XK (membership established by elimination from Sets_Region.csv, work package 10; not defined elsewhere in the repo) - https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq/default/table ; https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c/default/table",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,Heat_Buildings,2020,247.3913,,PJ,"Derived: 253.420 PJ (NONEU_Balkan Heat_Buildings 2018, see 2018 row) x EU Reference Scenario 2020, Croatia, 'Final Energy Consumption - Residential' (ktoe, sheet HR_A: 2015 2429.802, 2020 2290.275, 2030 2437.413, 2040 2315.893, 2050 2104.550), relative to 2018 interpolated linearly 2015-2020 (2346.086); same development as Croatia (REF2020), the convention already used for the committed NONEU_Balkan Heat_Buildings rows - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,Heat_Buildings,2025,255.0866,,PJ,"Derived: 253.420 PJ (NONEU_Balkan Heat_Buildings 2018, see 2018 row) x EU Reference Scenario 2020, Croatia, 'Final Energy Consumption - Residential' (ktoe, sheet HR_A: 2015 2429.802, 2020 2290.275, 2030 2437.413, 2040 2315.893, 2050 2104.550), relative to 2018 interpolated linearly 2015-2020 (2346.086); same development as Croatia (REF2020), the convention already used for the committed NONEU_Balkan Heat_Buildings rows - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -4192,15 +4192,15 @@ NONEU_Balkan,Mobility_Passenger,2045,50.4809,,Gpkm,No development from 2020,08.0
 NONEU_Balkan,Mobility_Passenger,2050,50.4809,,Gpkm,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
 NONEU_Balkan,Mobility_Passenger,2055,50.4809,,Gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,Mobility_Passenger,2060,50.4809,,Gpkm,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,Power,2020,175.9292,,PJ,,,
-NONEU_Balkan,Power,2025,174.5735,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Power,2030,164.394,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Power,2035,162.1578,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Power,2040,160.8223,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Power,2045,158.3317,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Power,2050,155.9912,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-NONEU_Balkan,Power,2055,155.9912,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NONEU_Balkan,Power,2060,155.9912,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NONEU_Balkan,Power,2020,153.1102,,PJ,"Eurostat nrg_bal_c 2020 (sum AL+BA+ME+MK+RS+XK), electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 18.5 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9765 (2020 path) = 18.07 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,Power,2025,151.9303,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.992294),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,Power,2030,143.0712,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.934433),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,Power,2035,141.1250,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.921722),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,Power,2040,139.9627,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.914131),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,Power,2045,137.7952,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.899974),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,Power,2050,135.7582,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 0.88667),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,Power,2055,135.7582,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.88667),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,Power,2060,135.7582,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.88667),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,Heat_Buildings,2018,888.0789,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Buildings,2020,795.8971689,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,Heat_Buildings,2025,730.5912377,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4268,15 +4268,15 @@ PL,Mobility_Passenger,2045,463.7000,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 PL,Mobility_Passenger,2050,504.7205,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet PL_B, Passenger transport activity (Gpkm) 2020 = 232.819 and 2050 = 454.408 (ratio 1.9518); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,Mobility_Passenger,2055,504.7205,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,Mobility_Passenger,2060,504.7205,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,Power,2020,491.829,,PJ,,,
-PL,Power,2025,477.1725,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PL,Power,2030,462.7599,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PL,Power,2035,448.5879,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PL,Power,2040,434.653,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PL,Power,2045,420.952,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PL,Power,2050,407.4816,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PL,Power,2055,407.4816,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,Power,2060,407.4816,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Power,2020,434.8216,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 50.8 PJ (2018, Eurostat x JRC-IDEES heat share) x 1.0157 (2020 path) = 51.60 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,Power,2025,421.8640,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,Power,2030,409.1219,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,Power,2035,396.5926,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,Power,2040,384.2728,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,Power,2045,372.1599,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,Power,2050,360.2510,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,Power,2055,360.2510,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,Power,2060,360.2510,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,Heat_Buildings,2018,97.1054,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,Heat_Buildings,2020,88.25729485,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,Heat_Buildings,2025,81.98339334,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4344,15 +4344,15 @@ PT,Mobility_Passenger,2045,154.8411,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 PT,Mobility_Passenger,2050,167.0355,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet PT_B, Passenger transport activity (Gpkm) 2020 = 89.335 and 2050 = 158.967 (ratio 1.7795); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,Mobility_Passenger,2055,167.0355,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,Mobility_Passenger,2060,167.0355,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,Power,2020,155.5153,,PJ,,,
-PT,Power,2025,150.8809,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Power,2030,146.3237,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Power,2035,141.8426,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Power,2040,137.4364,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Power,2045,133.1041,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Power,2050,128.8448,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-PT,Power,2055,128.8448,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,Power,2060,128.8448,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,Power,2020,160.0448,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 16.0 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9718 (2020 path) = 15.55 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,Power,2025,155.2755,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,Power,2030,150.5855,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,Power,2035,145.9738,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,Power,2040,141.4393,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,Power,2045,136.9809,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,Power,2050,132.5974,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,Power,2055,132.5974,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,Power,2060,132.5974,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,Heat_Buildings,2018,304.7618,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,Heat_Buildings,2020,281.3432412,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,Heat_Buildings,2025,257.9629519,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4420,15 +4420,15 @@ RO,Mobility_Passenger,2045,259.8022,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 RO,Mobility_Passenger,2050,286.4114,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet RO_B, Passenger transport activity (Gpkm) 2020 = 104.386 and 2050 = 235.865 (ratio 2.2595); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,Mobility_Passenger,2055,286.4114,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,Mobility_Passenger,2060,286.4114,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-RO,Power,2020,202.4202,,PJ,,,
-RO,Power,2025,196.3881,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-RO,Power,2030,190.4564,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-RO,Power,2035,184.6236,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-RO,Power,2040,178.8885,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-RO,Power,2045,173.2496,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-RO,Power,2050,167.7056,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-RO,Power,2055,167.7056,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,Power,2060,167.7056,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,Power,2020,156.1796,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 19.2 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9638 (2020 path) = 18.50 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,Power,2025,151.5255,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,Power,2030,146.9488,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,Power,2035,142.4485,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,Power,2040,138.0234,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,Power,2045,133.6727,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,Power,2050,129.3951,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,Power,2055,129.3951,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,Power,2060,129.3951,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,Heat_Buildings,2018,355.5649,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,Heat_Buildings,2020,349.4423009,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,Heat_Buildings,2025,353.7898068,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4496,15 +4496,15 @@ SE,Mobility_Passenger,2045,147.7858,,Gpkm,"EU Reference Scenario 2020, ref2020_e
 SE,Mobility_Passenger,2050,155.5404,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet SE_B, Passenger transport activity (Gpkm) 2020 = 152.790 and 2050 = 218.002 (ratio 1.4268); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,Mobility_Passenger,2055,155.5404,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,Mobility_Passenger,2060,155.5404,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,Power,2020,478.6901,,PJ,,,
-SE,Power,2025,464.4251,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SE,Power,2030,450.3976,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SE,Power,2035,436.6042,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SE,Power,2040,423.0416,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SE,Power,2045,409.7066,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SE,Power,2050,396.596,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SE,Power,2055,396.596,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,Power,2060,396.596,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,Power,2020,324.7290,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 34.5 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9864 (2020 path) = 34.03 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,Power,2025,315.0521,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,Power,2030,305.5362,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,Power,2035,296.1792,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,Power,2040,286.9786,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,Power,2045,277.9326,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,Power,2050,269.0390,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,Power,2055,269.0390,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,Power,2060,269.0390,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,Heat_Buildings,2018,45.4865,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Heat_Buildings,2020,43.08161224,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,Heat_Buildings,2025,40.17811685,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4572,15 +4572,15 @@ SI,Mobility_Passenger,2045,36.8239,,Gpkm,"EU Reference Scenario 2020, ref2020_en
 SI,Mobility_Passenger,2050,38.8635,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet SI_B, Passenger transport activity (Gpkm) 2020 = 27.417 and 2050 = 40.018 (ratio 1.4596); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,Mobility_Passenger,2055,38.8635,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,Mobility_Passenger,2060,38.8635,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-SI,Power,2020,46.7712,,PJ,,,
-SI,Power,2025,45.3774,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SI,Power,2030,44.0069,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SI,Power,2035,42.6591,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SI,Power,2040,41.334,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SI,Power,2045,40.0311,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SI,Power,2050,38.7501,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SI,Power,2055,38.7501,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,Power,2060,38.7501,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,Power,2020,33.8919,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 6.6 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9981 (2020 path) = 6.59 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,Power,2025,32.8820,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,Power,2030,31.8888,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940897),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,Power,2035,30.9122,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,Power,2040,29.9520,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883749),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,Power,2045,29.0078,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855892),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,Power,2050,28.0796,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,Power,2055,28.0796,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,Power,2060,28.0796,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,Heat_Buildings,2018,103.5726,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,Heat_Buildings,2020,92.369443,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,Heat_Buildings,2025,88.86448136,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -4648,15 +4648,15 @@ SK,Mobility_Passenger,2045,51.7070,,Gpkm,"EU Reference Scenario 2020, ref2020_en
 SK,Mobility_Passenger,2050,55.7852,,Gpkm,"EU Reference Scenario 2020, ref2020_energy-transport-ghg.xlsx sheet SK_B, Passenger transport activity (Gpkm) 2020 = 34.211 and 2050 = 60.943 (ratio 1.7814); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,Mobility_Passenger,2055,55.7852,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,Mobility_Passenger,2060,55.7852,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-SK,Power,2020,78.1462,,PJ,,,
-SK,Power,2025,75.8174,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SK,Power,2030,73.5274,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SK,Power,2035,71.2756,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SK,Power,2040,69.0616,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SK,Power,2045,66.8846,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SK,Power,2050,64.7443,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-SK,Power,2055,64.7443,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Power,2060,64.7443,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Power,2020,60.1824,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2020) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 12.7 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9671 (2020 path) = 12.28 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,Power,2025,58.3889,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.970199),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,Power,2030,56.6253,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940895),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,Power,2035,54.8912,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.91208),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,Power,2040,53.1862,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883749),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,Power,2045,51.5096,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,Power,2050,49.8613,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,Power,2055,49.8613,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,Power,2060,49.8613,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828502),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,Heat_Buildings,2018,913.5682,,PJ,"Eurostat nrg_d_hhq / nrg_bal_c 2018 TR: households FC_OTH_HH_E TOTAL 908.012 PJ x share of space + water heating (FC_OTH_HH_E_SH+FC_OTH_HH_E_WH)/FC_OTH_HH_E of 2022 = 0.7726 (TR end-use split only reported from 2022) = 701.560 PJ; plus services: FC_OTH_CP_E TOTAL 477.938 PJ (E7000 271.085), heating share by carrier group from the TR household end-use structure 2022 (non-electric 0.9147, electricity 0.0841) = 212.008 PJ; total 913.568 PJ - https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq/default/table ; https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c/default/table",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,Heat_Buildings,2020,919.6929,,PJ,"Derived: 913.568 PJ (TR Heat_Buildings 2018, see 2018 row) x EU Reference Scenario 2020, EU27, 'Final Energy Consumption - Residential' (ktoe, sheet EU_A: 2015 246920.9, 2020 251101.3, 2030 223387.4, 2040 211630.4, 2050 201882.0), relative to 2018 interpolated linearly 2015-2020 (249429.2); REF2020 has no Turkey sheet; EU27 aggregate path used as the least country-specific REF2020 path (owner's choice) - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,Heat_Buildings,2025,860.3955,,PJ,"Derived: 913.568 PJ (TR Heat_Buildings 2018, see 2018 row) x EU Reference Scenario 2020, EU27, 'Final Energy Consumption - Residential' (ktoe, sheet EU_A: 2015 246920.9, 2020 251101.3, 2030 223387.4, 2040 211630.4, 2050 201882.0), relative to 2018 interpolated linearly 2015-2020 (249429.2); REF2020 has no Turkey sheet; EU27 aggregate path used as the least country-specific REF2020 path (owner's choice) - https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -4724,15 +4724,15 @@ TR,Mobility_Passenger,2045,295.0740,,Gpkm,No development from 2020,24.10.2026,Ko
 TR,Mobility_Passenger,2050,295.0740,,Gpkm,No development from 2020,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,Mobility_Passenger,2055,295.0740,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,Mobility_Passenger,2060,295.0740,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,Power,2020,1032.6152,,PJ,,,
-TR,Power,2025,1072.6806,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-TR,Power,2030,1113.8366,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-TR,Power,2035,1156.0695,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-TR,Power,2040,1199.3606,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-TR,Power,2045,1243.6848,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-TR,Power,2050,1289.0102,,PJ,No development from 2020,08.09.2023,Stian Backe <stian.backe@sintef.no>
-TR,Power,2055,1289.0102,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Power,2060,1289.0102,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Power,2020,857.4633,,PJ,"Eurostat nrg_bal_c 2020, electricity (E7000, GWh x 0.0036): final consumption FC_E minus transport FC_TRA_E minus electricity for space + water heating (households FC_OTH_HH_E and services FC_OTH_CP_E x household heating share (FC_OTH_HH_E_SH + FC_OTH_HH_E_WH) / FC_OTH_HH_E from Eurostat nrg_d_hhq 2022 = 0.08410, the first year with a TR end-use split) plus distribution losses DL - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c ; https://ec.europa.eu/eurostat/databrowser/view/nrg_d_hhq | minus industrial electricity used for heat (now in the industrial heat demand): 137.2 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9857 (2020 path) = 135.24 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,Power,2025,890.7328,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 1.0388),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,Power,2030,924.9079,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 1.078656),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,Power,2035,959.9773,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 1.119555),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,Power,2040,995.9256,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 1.161479),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,Power,2045,1032.7313,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 1.204403),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,Power,2050,1070.3688,,PJ,No development from 2020 | rescaled to the new 2020 value (ratio to 2020 kept: 1.248297),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,Power,2055,1070.3688,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 1.248297),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,Power,2060,1070.3688,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 1.248297),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,Heat_Buildings,2018,1727.2138,,PJ,TYNDP 2022 Scenario Report - see asumption file for more info,10.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,Heat_Buildings,2020,1655.5631,,PJ,"TYNDP 2022 Scenario Report, Distributed Energy scenario, demand data file 220228_Updated_Energy_Demand.xlsx, sheet OUTPUT_ALL: Sector Residential+Tertiary, Subsector Space_heating+Water_heating, Energy_carrier=All (incl. district heat), Output_type Energy_demand, TWh x 3.6 = PJ; 2015 taken as 2018, linear interpolation 2015-2030 (2020, 2025) and 2030-2040-2050 (2035, 2045) - https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,Heat_Buildings,2025,1583.9124,,PJ,"TYNDP 2022 Scenario Report, Distributed Energy scenario, demand data file 220228_Updated_Energy_Demand.xlsx, sheet OUTPUT_ALL: Sector Residential+Tertiary, Subsector Space_heating+Water_heating, Energy_carrier=All (incl. district heat), Output_type Energy_demand, TWh x 3.6 = PJ; 2015 taken as 2018, linear interpolation 2015-2030 (2020, 2025) and 2030-2040-2050 (2035, 2045) - https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -4801,15 +4801,15 @@ UK,Mobility_Passenger,2045,1036.0628,,Gpkm,"EU Reference Scenario 2016, Appendix
 UK,Mobility_Passenger,2050,1071.8524,,Gpkm,"EU Reference Scenario 2016, Appendix 2 United Kingdom table, Passenger transport activity (Gpkm) 2020 = 934 and 2050 = 1168 (ratio 1.2505); linear growth 2020-2050 applied to the 2020 Pocketbook value - see Assumptions.txt - https://climate.ec.europa.eu/system/files/2016-11/full_referencescenario2016report_en.pdf",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,Mobility_Passenger,2055,1071.8524,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,Mobility_Passenger,2060,1071.8524,,Gpkm,same as 2050 for now,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,Power,2020,790.416,,PJ,,,
-UK,Power,2025,766.8616,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-UK,Power,2030,743.6993,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-UK,Power,2035,720.9235,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-UK,Power,2040,698.5288,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-UK,Power,2045,676.51,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-UK,Power,2050,654.8617,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt,08.09.2023,Stian Backe <stian.backe@sintef.no>
-UK,Power,2055,654.8617,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,Power,2060,654.8617,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,Power,2020,870.6204,,PJ,"DESNZ DUKES Table 5.1 electricity commodity balance (2026 edition), 2020: final consumption 279735.9 GWh minus transport 5766.2 minus space+water heating electricity ((domestic 106614.3 + public administration 13247.1 + commercial 66266.8) x Eurostat nrg_d_hhq UK 2019 household (SH+WH)/total share 0.20197) plus losses 27100.7 GWh (x 0.0036) - https://www.gov.uk/government/statistics/electricity-chapter-5-digest-of-united-kingdom-energy-statistics-dukes | minus industrial electricity used for heat (now in the industrial heat demand): 81.4 PJ (2018, Eurostat x JRC-IDEES heat share) x 0.9570 (2020 path) = 77.90 PJ",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,Power,2025,844.6759,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.9702),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,Power,2030,819.1633,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.940896),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,Power,2035,794.0763,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.912081),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,Power,2040,769.4090,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.883748),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,Power,2045,745.1562,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.855891),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,Power,2050,721.3116,,PJ,EU Reference Scenario 2020- same growth rate- see Assumptions.txt | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,Power,2055,721.3116,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,Power,2060,721.3116,,PJ,same as 2050 for now | rescaled to the new 2020 value (ratio to 2020 kept: 0.828503),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,Heat_Low_Industrial,2020,21.1438,,PJ,"Derived: Eurostat nrg_bal_c 2018 SK FC_IND_E (energy use) 153.343 PJ, of which electricity 46.058 PJ; true-heat share per industry sector and carrier group (non-electric / electricity) from JRC-IDEES-2021 SK industry final energy by end use, year 2018: heat = fuels in thermal uses + electricity in thermal uses (low-enthalpy heat, furnaces, kilns, electric arc, melting, drying, heat treatment, foundries); excluded: lighting, motor drives, compressors, fans/pumps, machinery, cooling, electrolysis, generic electric processes; industrial heat total = 118.482 PJ (non-electric 105.817 + electricity 12.665); split into temperature bands with the per-industry shares of Data/Sources/SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry.xlsx (sheet Calculations rows 26-34, <100/100-150/150-1000/>1000 C, derived from Wolf et al. 2014), weighted with Eurostat nrg_bal_c 2018 FC_IND_<s>_E TOTAL (IS+NFM, CPC, NMM, PPP, FBT, MAC, WP+NSP/2, TE, TL+NSP/2; MQ, CON not allocated): <100 C share 0.18452 (same split for all years 2018-2060); development x TYNDP 2022 Distributed Energy, SK, Industry Low_enthalpy_heat+Steam_processes+Other_processes, all carriers (TWh 2015 48.269, 2030 43.508, 2040 41.411, 2050 38.138), relative to 2015 (=2018); 2020 = 2015+(2030-2015)/3, 2025 = 2015+2(2030-2015)/3, 2035/2045 = means; no district-heat subtraction (DH handled by Par_DistrictHeatDemand) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c/default/table ; https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/JRC-IDEES/JRC-IDEES-2021_v1/ ; https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,Heat_Low_Industrial,2025,20.4250,,PJ,"Derived: Eurostat nrg_bal_c 2018 SK FC_IND_E (energy use) 153.343 PJ, of which electricity 46.058 PJ; true-heat share per industry sector and carrier group (non-electric / electricity) from JRC-IDEES-2021 SK industry final energy by end use, year 2018: heat = fuels in thermal uses + electricity in thermal uses (low-enthalpy heat, furnaces, kilns, electric arc, melting, drying, heat treatment, foundries); excluded: lighting, motor drives, compressors, fans/pumps, machinery, cooling, electrolysis, generic electric processes; industrial heat total = 118.482 PJ (non-electric 105.817 + electricity 12.665); split into temperature bands with the per-industry shares of Data/Sources/SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry.xlsx (sheet Calculations rows 26-34, <100/100-150/150-1000/>1000 C, derived from Wolf et al. 2014), weighted with Eurostat nrg_bal_c 2018 FC_IND_<s>_E TOTAL (IS+NFM, CPC, NMM, PPP, FBT, MAC, WP+NSP/2, TE, TL+NSP/2; MQ, CON not allocated): <100 C share 0.18452 (same split for all years 2018-2060); development x TYNDP 2022 Distributed Energy, SK, Industry Low_enthalpy_heat+Steam_processes+Other_processes, all carriers (TWh 2015 48.269, 2030 43.508, 2040 41.411, 2050 38.138), relative to 2015 (=2018); 2020 = 2015+(2030-2015)/3, 2025 = 2015+2(2030-2015)/3, 2035/2045 = means; no district-heat subtraction (DH handled by Par_DistrictHeatDemand) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c/default/table ; https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/JRC-IDEES/JRC-IDEES-2021_v1/ ; https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,Heat_Low_Industrial,2030,19.7063,,PJ,"Derived: Eurostat nrg_bal_c 2018 SK FC_IND_E (energy use) 153.343 PJ, of which electricity 46.058 PJ; true-heat share per industry sector and carrier group (non-electric / electricity) from JRC-IDEES-2021 SK industry final energy by end use, year 2018: heat = fuels in thermal uses + electricity in thermal uses (low-enthalpy heat, furnaces, kilns, electric arc, melting, drying, heat treatment, foundries); excluded: lighting, motor drives, compressors, fans/pumps, machinery, cooling, electrolysis, generic electric processes; industrial heat total = 118.482 PJ (non-electric 105.817 + electricity 12.665); split into temperature bands with the per-industry shares of Data/Sources/SINTEF_Potential_for_Steam_Regeneration_in_Norwegian_Industry.xlsx (sheet Calculations rows 26-34, <100/100-150/150-1000/>1000 C, derived from Wolf et al. 2014), weighted with Eurostat nrg_bal_c 2018 FC_IND_<s>_E TOTAL (IS+NFM, CPC, NMM, PPP, FBT, MAC, WP+NSP/2, TE, TL+NSP/2; MQ, CON not allocated): <100 C share 0.18452 (same split for all years 2018-2060); development x TYNDP 2022 Distributed Energy, SK, Industry Low_enthalpy_heat+Steam_processes+Other_processes, all carriers (TWh 2015 48.269, 2030 43.508, 2040 41.411, 2050 38.138), relative to 2015 (=2018); 2020 = 2015+(2030-2015)/3, 2025 = 2015+2(2030-2015)/3, 2035/2045 = means; no district-heat subtraction (DH handled by Par_DistrictHeatDemand) - https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_c/default/table ; https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/JRC-IDEES/JRC-IDEES-2021_v1/ ; https://2022-data.entsos-tyndp-scenarios.eu/files/data/220228_Updated_Energy_Demand.xlsx",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>

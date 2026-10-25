@@ -7312,7 +7312,7 @@ AT,HB_Biomass,2030,4.3096,,GW,Assumptions based on model run,09.04.2025,Nikita M
 AT,HB_Biomass,2035,2.5858,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HB_Biomass,2040,0.8619,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HB_Biomass,2045,0.431,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,HB_Direct_Electric,2018,0.8754,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,HB_Direct_Electric,2018,0.8874,,GW,Assumption: minimum capacity to produce the 2018 base-year output (27.4121 PJ / (AF 0.98 x 31.536) = 0.8870 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,HB_Direct_Electric,2025,0.6565,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HB_Direct_Electric,2030,0.4924,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HB_Direct_Electric,2035,0.3693,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7330,7 +7330,7 @@ AT,HB_Heatpump_Aerial,2030,1.4635,,GW,Assumptions based on model run,09.04.2025,
 AT,HB_Heatpump_Aerial,2035,1.0976,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HB_Heatpump_Aerial,2040,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HB_Heatpump_Aerial,2045,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-AT,HB_Heatpump_Ground,2018,0.013,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+AT,HB_Heatpump_Ground,2018,0.1724,,GW,Assumption: minimum capacity to produce the 2018 base-year output (5.3248 PJ / (AF 0.98 x 31.536) = 0.1723 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,HB_Heatpump_Ground,2025,0.012,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HB_Heatpump_Ground,2030,0.0093,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 AT,HB_Heatpump_Ground,2035,0.0056,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7353,7 +7353,7 @@ BE,HB_Biomass,2030,0.6336,,GW,Assumptions based on model run,09.04.2025,Nikita M
 BE,HB_Biomass,2035,0.3802,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HB_Biomass,2040,0.1267,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HB_Biomass,2045,0.0634,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,HB_Direct_Electric,2018,0.4548,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,HB_Direct_Electric,2018,1.3833,,GW,Assumption: minimum capacity to produce the 2018 base-year output (42.7306 PJ / (AF 0.98 x 31.536) = 1.3826 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,HB_Direct_Electric,2025,0.4201,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HB_Direct_Electric,2030,0.3248,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HB_Direct_Electric,2035,0.1949,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7365,7 +7365,7 @@ BE,HB_Gas_Boiler,2030,15.9022,,GW,Assumptions based on model run,09.04.2025,Niki
 BE,HB_Gas_Boiler,2035,9.5413,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HB_Gas_Boiler,2040,3.1804,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HB_Gas_Boiler,2045,1.5902,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BE,HB_Heatpump_Aerial,2018,0.0401,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BE,HB_Heatpump_Aerial,2018,0.1781,,GW,Assumption: minimum capacity to produce the 2018 base-year output (5.5013 PJ / (AF 0.98 x 31.536) = 0.1780 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,HB_Heatpump_Aerial,2025,0.0371,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HB_Heatpump_Aerial,2030,0.0287,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BE,HB_Heatpump_Aerial,2035,0.0172,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7412,7 +7412,7 @@ BG,HB_Heatpump_Aerial,2030,0.2745,,GW,Assumptions based on model run,09.04.2025,
 BG,HB_Heatpump_Aerial,2035,0.1647,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HB_Heatpump_Aerial,2040,0.0549,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HB_Heatpump_Aerial,2045,0.0274,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-BG,HB_Heatpump_Ground,2018,0.0104,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+BG,HB_Heatpump_Ground,2018,0.0263,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.8123 PJ / (AF 0.98 x 31.536) = 0.0263 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,HB_Heatpump_Ground,2025,0.0096,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HB_Heatpump_Ground,2030,0.0074,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 BG,HB_Heatpump_Ground,2035,0.0044,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7429,13 +7429,13 @@ BG,HD_Geothermal,2018,0,,GW,European Comission: Overview of District Heating and
 BG,HD_Heatpump,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 BG,HD_Heatpump_ExcessHeat,2018,0.232,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
 BG,HD_Solar_Thermal,2018,0,,GW,European Comission: Overview of District Heating and Cooling in the European Union - see asumption.txt for more info,21.12.2023,Martha Pedersen <martha.pedersen@sintef.no>
-CH,HB_Biomass,2018,0.6536,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HB_Biomass,2018,0.7816,,GW,Assumption: minimum capacity to produce the 2018 base-year output (24.1433 PJ / (AF 0.98 x 31.536) = 0.7812 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HB_Biomass,2025,0.6038,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Biomass,2030,0.4668,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Biomass,2035,0.2801,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Biomass,2040,0.0934,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Biomass,2045,0.0467,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HB_Direct_Electric,2018,0.6282,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HB_Direct_Electric,2018,0.6449,,GW,Assumption: minimum capacity to produce the 2018 base-year output (19.9198 PJ / (AF 0.98 x 31.536) = 0.6445 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HB_Direct_Electric,2025,0.5803,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Direct_Electric,2030,0.4487,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Direct_Electric,2035,0.2693,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7447,13 +7447,13 @@ CH,HB_Gas_Boiler,2030,8.5835,,GW,Assumptions based on model run,09.04.2025,Nikit
 CH,HB_Gas_Boiler,2035,5.1501,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Gas_Boiler,2040,1.7167,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Gas_Boiler,2045,0.8583,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HB_Heatpump_Aerial,2018,0.374,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HB_Heatpump_Aerial,2018,0.6883,,GW,Assumption: minimum capacity to produce the 2018 base-year output (21.2602 PJ / (AF 0.98 x 31.536) = 0.6879 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HB_Heatpump_Aerial,2025,0.3455,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Heatpump_Aerial,2030,0.2671,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Heatpump_Aerial,2035,0.1603,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Heatpump_Aerial,2040,0.0534,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Heatpump_Aerial,2045,0.0267,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CH,HB_Heatpump_Ground,2018,0.0197,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CH,HB_Heatpump_Ground,2018,0.2589,,GW,Assumption: minimum capacity to produce the 2018 base-year output (7.9979 PJ / (AF 0.98 x 31.536) = 0.2588 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,HB_Heatpump_Ground,2025,0.0182,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Heatpump_Ground,2030,0.0141,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CH,HB_Heatpump_Ground,2035,0.0084,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7471,7 +7471,7 @@ CZ,HB_Biomass,2030,1.7201,,GW,Assumptions based on model run,09.04.2025,Nikita M
 CZ,HB_Biomass,2035,1.032,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Biomass,2040,0.344,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Biomass,2045,0.172,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,HB_Direct_Electric,2018,0.5078,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HB_Direct_Electric,2018,1.4390,,GW,Assumption: minimum capacity to produce the 2018 base-year output (44.4519 PJ / (AF 0.98 x 31.536) = 1.4383 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,HB_Direct_Electric,2025,0.4691,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Direct_Electric,2030,0.3627,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Direct_Electric,2035,0.2176,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7483,13 +7483,13 @@ CZ,HB_Gas_Boiler,2030,12.2066,,GW,Assumptions based on model run,09.04.2025,Niki
 CZ,HB_Gas_Boiler,2035,7.324,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Gas_Boiler,2040,2.4413,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Gas_Boiler,2045,1.2207,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,HB_Heatpump_Aerial,2018,0.1272,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HB_Heatpump_Aerial,2018,0.2513,,GW,Assumption: minimum capacity to produce the 2018 base-year output (7.7618 PJ / (AF 0.98 x 31.536) = 0.2511 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,HB_Heatpump_Aerial,2025,0.1175,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Heatpump_Aerial,2030,0.0909,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Heatpump_Aerial,2035,0.0545,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Heatpump_Aerial,2040,0.0182,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Heatpump_Aerial,2045,0.0091,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-CZ,HB_Heatpump_Ground,2018,0.0067,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+CZ,HB_Heatpump_Ground,2018,0.0772,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.3846 PJ / (AF 0.98 x 31.536) = 0.0772 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,HB_Heatpump_Ground,2025,0.0062,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Heatpump_Ground,2030,0.0048,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 CZ,HB_Heatpump_Ground,2035,0.0029,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7529,7 +7529,7 @@ DE,HB_Biomass,2030,7.7951,,GW,Assumptions based on model run,09.04.2025,Nikita M
 DE,HB_Biomass,2035,4.677,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Biomass,2040,1.559,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Biomass,2045,0.7795,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Direct_Electric,2018,1.9919,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Direct_Electric,2018,4.4334,,GW,Assumption: minimum capacity to produce the 2018 base-year output (136.9473 PJ / (AF 0.98 x 31.536) = 4.4312 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,HB_Direct_Electric,2025,1.8402,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Direct_Electric,2030,1.4228,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Direct_Electric,2035,0.8537,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7541,13 +7541,13 @@ DE,HB_Gas_Boiler,2030,99.2178,,GW,Assumptions based on model run,09.04.2025,Niki
 DE,HB_Gas_Boiler,2035,59.5307,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Gas_Boiler,2040,19.8436,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Gas_Boiler,2045,9.9218,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Aerial,2018,1.199,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Aerial,2018,1.3045,,GW,Assumption: minimum capacity to produce the 2018 base-year output (40.2960 PJ / (AF 0.98 x 31.536) = 1.3039 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,HB_Heatpump_Aerial,2025,1.1076,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Heatpump_Aerial,2030,0.8564,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Heatpump_Aerial,2035,0.5138,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Heatpump_Aerial,2040,0.1713,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Heatpump_Aerial,2045,0.0856,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,HB_Heatpump_Ground,2018,0.0631,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,HB_Heatpump_Ground,2018,0.8844,,GW,Assumption: minimum capacity to produce the 2018 base-year output (27.3188 PJ / (AF 0.98 x 31.536) = 0.8840 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,HB_Heatpump_Ground,2025,0.0583,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Heatpump_Ground,2030,0.0451,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,HB_Heatpump_Ground,2035,0.0271,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7598,13 +7598,13 @@ DK,HB_Gas_Boiler,2030,2.6841,,GW,Assumptions based on model run,09.04.2025,Nikit
 DK,HB_Gas_Boiler,2035,2.0131,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HB_Gas_Boiler,2040,1.5098,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HB_Gas_Boiler,2045,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,HB_Heatpump_Aerial,2018,0.2073,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HB_Heatpump_Aerial,2018,0.2194,,GW,Assumption: minimum capacity to produce the 2018 base-year output (6.7779 PJ / (AF 0.98 x 31.536) = 0.2193 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,HB_Heatpump_Aerial,2025,0.1915,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HB_Heatpump_Aerial,2030,0.148,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HB_Heatpump_Aerial,2035,0.0888,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HB_Heatpump_Aerial,2040,0.0296,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HB_Heatpump_Aerial,2045,0.0148,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DK,HB_Heatpump_Ground,2018,0.0109,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DK,HB_Heatpump_Ground,2018,0.1534,,GW,Assumption: minimum capacity to produce the 2018 base-year output (4.7381 PJ / (AF 0.98 x 31.536) = 0.1533 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,HB_Heatpump_Ground,2025,0.0082,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HB_Heatpump_Ground,2030,0.0061,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,HB_Heatpump_Ground,2035,0.0046,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7644,7 +7644,7 @@ EE,HB_Biomass,2030,0.9568,,GW,Assumptions based on model run,09.04.2025,Nikita M
 EE,HB_Biomass,2035,0.5741,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HB_Biomass,2040,0.1913,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HB_Biomass,2045,0.0957,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,HB_Direct_Electric,2018,0.0973,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,HB_Direct_Electric,2018,0.1673,,GW,Assumption: minimum capacity to produce the 2018 base-year output (5.1673 PJ / (AF 0.98 x 31.536) = 0.1672 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,HB_Direct_Electric,2025,0.073,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HB_Direct_Electric,2030,0.0547,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,HB_Direct_Electric,2035,0.041,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7693,7 +7693,7 @@ ES,HB_Biomass,2030,4.8561,,GW,Assumptions based on model run,09.04.2025,Nikita M
 ES,HB_Biomass,2035,2.9137,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Biomass,2040,0.9712,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Biomass,2045,0.4856,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,HB_Direct_Electric,2018,2.0052,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,HB_Direct_Electric,2018,2.5371,,GW,Assumption: minimum capacity to produce the 2018 base-year output (78.3720 PJ / (AF 0.98 x 31.536) = 2.5359 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,HB_Direct_Electric,2025,1.8524,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Direct_Electric,2030,1.4323,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Direct_Electric,2035,0.8594,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7705,13 +7705,13 @@ ES,HB_Gas_Boiler,2030,18.827,,GW,Assumptions based on model run,09.04.2025,Nikit
 ES,HB_Gas_Boiler,2035,11.2962,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Gas_Boiler,2040,3.7654,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Gas_Boiler,2045,1.8827,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,HB_Heatpump_Aerial,2018,0.1295,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,HB_Heatpump_Aerial,2018,1.1692,,GW,Assumption: minimum capacity to produce the 2018 base-year output (36.1155 PJ / (AF 0.98 x 31.536) = 1.1686 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,HB_Heatpump_Aerial,2025,0.1197,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Heatpump_Aerial,2030,0.0925,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Heatpump_Aerial,2035,0.0555,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Heatpump_Aerial,2040,0.0185,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Heatpump_Aerial,2045,0.0093,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,HB_Heatpump_Ground,2018,0.0068,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,HB_Heatpump_Ground,2018,0.0896,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.7665 PJ / (AF 0.98 x 31.536) = 0.0895 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,HB_Heatpump_Ground,2025,0.0063,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Heatpump_Ground,2030,0.0049,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,HB_Heatpump_Ground,2035,0.0029,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7746,13 +7746,13 @@ FI,HB_Gas_Boiler,2030,0.5598,,GW,Assumptions based on model run,09.04.2025,Nikit
 FI,HB_Gas_Boiler,2035,0.3358,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HB_Gas_Boiler,2040,0.112,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HB_Gas_Boiler,2045,0.056,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,HB_Heatpump_Aerial,2018,0.7177,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,HB_Heatpump_Aerial,2018,0.8497,,GW,Assumption: minimum capacity to produce the 2018 base-year output (26.2470 PJ / (AF 0.98 x 31.536) = 0.8493 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,HB_Heatpump_Aerial,2025,0.663,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HB_Heatpump_Aerial,2030,0.5127,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HB_Heatpump_Aerial,2035,0.3076,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HB_Heatpump_Aerial,2040,0.1025,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HB_Heatpump_Aerial,2045,0.0513,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,HB_Heatpump_Ground,2018,0.1263,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,HB_Heatpump_Ground,2018,0.2803,,GW,Assumption: minimum capacity to produce the 2018 base-year output (8.6582 PJ / (AF 0.98 x 31.536) = 0.2802 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,HB_Heatpump_Ground,2025,0.1167,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HB_Heatpump_Ground,2030,0.0902,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,HB_Heatpump_Ground,2035,0.0541,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7775,7 +7775,7 @@ FR,HB_Biomass,2030,9.6168,,GW,Assumptions based on model run,10.03.2026,Nikita M
 FR,HB_Biomass,2035,5.7701,,GW,Assumptions based on model run,10.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HB_Biomass,2040,1.9233,,GW,Assumptions based on model run,10.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HB_Biomass,2045,0.9617,,GW,Assumptions based on model run,10.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FR,HB_Direct_Electric,2018,8.2271,,GW,Assumptions based on model run,10.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FR,HB_Direct_Electric,2018,12.7205,,GW,Assumption: minimum capacity to produce the 2018 base-year output (392.9331 PJ / (AF 0.98 x 31.536) = 12.7141 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,HB_Direct_Electric,2025,7.6001,,GW,Assumptions based on model run,10.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HB_Direct_Electric,2030,5.8764,,GW,Assumptions based on model run,10.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,HB_Direct_Electric,2035,3.5258,,GW,Assumptions based on model run,10.03.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7821,7 +7821,7 @@ GR,HB_Biomass,2030,1.5027,,GW,Assumptions based on model run,09.04.2025,Nikita M
 GR,HB_Biomass,2035,0.9016,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Biomass,2040,0.3005,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Biomass,2045,0.1503,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,HB_Direct_Electric,2018,0.2082,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,HB_Direct_Electric,2018,0.7861,,GW,Assumption: minimum capacity to produce the 2018 base-year output (24.2827 PJ / (AF 0.98 x 31.536) = 0.7857 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,HB_Direct_Electric,2025,0.1923,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Direct_Electric,2030,0.1487,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Direct_Electric,2035,0.0892,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7833,13 +7833,13 @@ GR,HB_Gas_Boiler,2030,5.4467,,GW,Assumptions based on model run,09.04.2025,Nikit
 GR,HB_Gas_Boiler,2035,3.268,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Gas_Boiler,2040,1.0893,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Gas_Boiler,2045,0.5447,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,HB_Heatpump_Aerial,2018,0.1764,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,HB_Heatpump_Aerial,2018,0.6617,,GW,Assumption: minimum capacity to produce the 2018 base-year output (20.4387 PJ / (AF 0.98 x 31.536) = 0.6613 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,HB_Heatpump_Aerial,2025,0.163,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Heatpump_Aerial,2030,0.126,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Heatpump_Aerial,2035,0.0756,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Heatpump_Aerial,2040,0.0252,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Heatpump_Aerial,2045,0.0126,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,HB_Heatpump_Ground,2018,0.0093,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,HB_Heatpump_Ground,2018,0.0699,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.1597 PJ / (AF 0.98 x 31.536) = 0.0699 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,HB_Heatpump_Ground,2025,0.0086,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Heatpump_Ground,2030,0.0066,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,HB_Heatpump_Ground,2035,0.004,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7862,7 +7862,7 @@ HR,HB_Biomass,2030,1.2689,,GW,Assumptions based on model run,09.04.2025,Nikita M
 HR,HB_Biomass,2035,0.7614,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Biomass,2040,0.2538,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Biomass,2045,0.1269,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,HB_Direct_Electric,2018,0.3171,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HB_Direct_Electric,2018,0.3597,,GW,Assumption: minimum capacity to produce the 2018 base-year output (11.1101 PJ / (AF 0.98 x 31.536) = 0.3595 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,HB_Direct_Electric,2025,0.2929,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Direct_Electric,2030,0.2265,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Direct_Electric,2035,0.1359,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7874,7 +7874,7 @@ HR,HB_Gas_Boiler,2030,4.3197,,GW,Assumptions based on model run,09.04.2025,Nikit
 HR,HB_Gas_Boiler,2035,2.5918,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Gas_Boiler,2040,0.8639,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Gas_Boiler,2045,0.432,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HR,HB_Heatpump_Aerial,2018,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HR,HB_Heatpump_Aerial,2018,0.0301,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.9289 PJ / (AF 0.98 x 31.536) = 0.0301 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,HB_Heatpump_Aerial,2025,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Heatpump_Aerial,2030,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,HB_Heatpump_Aerial,2035,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7911,7 +7911,7 @@ HU,HB_Biomass,2030,1.8426,,GW,Assumptions based on model run,09.04.2025,Nikita M
 HU,HB_Biomass,2035,1.1056,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HB_Biomass,2040,0.3686,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HB_Biomass,2045,0.1842,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,HB_Direct_Electric,2018,0.6913,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HB_Direct_Electric,2018,0.7870,,GW,Assumption: minimum capacity to produce the 2018 base-year output (24.3108 PJ / (AF 0.98 x 31.536) = 0.7866 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,HB_Direct_Electric,2025,0.6387,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HB_Direct_Electric,2030,0.4938,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HB_Direct_Electric,2035,0.2962,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7923,7 +7923,7 @@ HU,HB_Gas_Boiler,2030,14.8908,,GW,Assumptions based on model run,09.04.2025,Niki
 HU,HB_Gas_Boiler,2035,8.9345,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HB_Gas_Boiler,2040,2.9782,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HB_Gas_Boiler,2045,1.4891,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,HB_Heatpump_Aerial,2018,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,HB_Heatpump_Aerial,2018,0.0138,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.4259 PJ / (AF 0.98 x 31.536) = 0.0138 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,HB_Heatpump_Aerial,2025,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HB_Heatpump_Aerial,2030,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,HB_Heatpump_Aerial,2035,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7960,7 +7960,7 @@ IE,HB_Biomass,2030,0.0533,,GW,Assumptions based on model run,09.04.2025,Nikita M
 IE,HB_Biomass,2035,0.032,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Biomass,2040,0.0107,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Biomass,2045,0.0053,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,HB_Direct_Electric,2018,0.2167,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,HB_Direct_Electric,2018,0.4982,,GW,Assumption: minimum capacity to produce the 2018 base-year output (15.3878 PJ / (AF 0.98 x 31.536) = 0.4979 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,HB_Direct_Electric,2025,0.2002,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Direct_Electric,2030,0.1548,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Direct_Electric,2035,0.0929,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -7972,13 +7972,13 @@ IE,HB_Gas_Boiler,2030,2.4585,,GW,Assumptions based on model run,09.04.2025,Nikit
 IE,HB_Gas_Boiler,2035,1.4751,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Gas_Boiler,2040,0.4917,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Gas_Boiler,2045,0.2459,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,HB_Heatpump_Aerial,2018,0.0539,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,HB_Heatpump_Aerial,2018,0.0715,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.2099 PJ / (AF 0.98 x 31.536) = 0.0715 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,HB_Heatpump_Aerial,2025,0.0498,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Heatpump_Aerial,2030,0.0385,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Heatpump_Aerial,2035,0.0231,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Heatpump_Aerial,2040,0.0077,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Heatpump_Aerial,2045,0.0038,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IE,HB_Heatpump_Ground,2018,0.0028,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IE,HB_Heatpump_Ground,2018,0.0055,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.1709 PJ / (AF 0.98 x 31.536) = 0.0055 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,HB_Heatpump_Ground,2025,0.0026,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Heatpump_Ground,2030,0.002,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,HB_Heatpump_Ground,2035,0.0012,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8008,7 +8008,7 @@ IT,HB_Gas_Boiler,2030,75.3586,,GW,Assumptions based on model run,09.04.2025,Niki
 IT,HB_Gas_Boiler,2035,45.2152,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HB_Gas_Boiler,2040,15.0717,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HB_Gas_Boiler,2045,7.5359,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,HB_Heatpump_Aerial,2018,4.2348,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,HB_Heatpump_Aerial,2018,5.5262,,GW,Assumption: minimum capacity to produce the 2018 base-year output (170.7029 PJ / (AF 0.98 x 31.536) = 5.5234 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,HB_Heatpump_Aerial,2025,3.9121,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HB_Heatpump_Aerial,2030,3.0249,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,HB_Heatpump_Aerial,2035,1.8149,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8054,7 +8054,7 @@ LT,HB_Biomass,2030,1.4612,,GW,Assumptions based on model run,09.04.2025,Nikita M
 LT,HB_Biomass,2035,0.8767,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Biomass,2040,0.2922,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Biomass,2045,0.1462,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,HB_Direct_Electric,2018,0.0617,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,HB_Direct_Electric,2018,0.0768,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.3731 PJ / (AF 0.98 x 31.536) = 0.0768 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,HB_Direct_Electric,2025,0.0463,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Direct_Electric,2030,0.0348,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Direct_Electric,2035,0.0261,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8066,7 +8066,7 @@ LT,HB_Gas_Boiler,2030,0.5842,,GW,Assumptions based on model run,09.04.2025,Nikit
 LT,HB_Gas_Boiler,2035,0.3505,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Gas_Boiler,2040,0.1168,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Gas_Boiler,2045,0.0584,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,HB_Heatpump_Aerial,2018,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,HB_Heatpump_Aerial,2018,0.0432,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.3350 PJ / (AF 0.98 x 31.536) = 0.0432 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,HB_Heatpump_Aerial,2025,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Heatpump_Aerial,2030,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,HB_Heatpump_Aerial,2035,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8095,7 +8095,7 @@ LU,HB_Biomass,2030,0.0251,,GW,Assumptions based on model run,09.04.2025,Nikita M
 LU,HB_Biomass,2035,0.0151,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Biomass,2040,0.005,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Biomass,2045,0.0025,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,HB_Direct_Electric,2018,0.0367,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,HB_Direct_Electric,2018,0.0773,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.3891 PJ / (AF 0.98 x 31.536) = 0.0773 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,HB_Direct_Electric,2025,0.0275,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Direct_Electric,2030,0.0206,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Direct_Electric,2035,0.0155,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8107,13 +8107,13 @@ LU,HB_Gas_Boiler,2030,1.2589,,GW,Assumptions based on model run,09.04.2025,Nikit
 LU,HB_Gas_Boiler,2035,0.7553,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Gas_Boiler,2040,0.2518,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Gas_Boiler,2045,0.1259,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,HB_Heatpump_Aerial,2018,0.0024,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,HB_Heatpump_Aerial,2018,0.0052,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.1598 PJ / (AF 0.98 x 31.536) = 0.0052 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,HB_Heatpump_Aerial,2025,0.0022,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Heatpump_Aerial,2030,0.0017,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Heatpump_Aerial,2035,0.001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Heatpump_Aerial,2040,0.0003,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Heatpump_Aerial,2045,0.0002,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LU,HB_Heatpump_Ground,2018,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LU,HB_Heatpump_Ground,2018,0.0018,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.0546 PJ / (AF 0.98 x 31.536) = 0.0018 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,HB_Heatpump_Ground,2025,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Heatpump_Ground,2030,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,HB_Heatpump_Ground,2035,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8136,7 +8136,7 @@ LV,HB_Biomass,2030,1.4708,,GW,Assumptions based on model run,09.04.2025,Nikita M
 LV,HB_Biomass,2035,0.8825,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Biomass,2040,0.2942,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Biomass,2045,0.1471,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,HB_Direct_Electric,2018,0.0718,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,HB_Direct_Electric,2018,0.1416,,GW,Assumption: minimum capacity to produce the 2018 base-year output (4.3733 PJ / (AF 0.98 x 31.536) = 0.1415 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,HB_Direct_Electric,2025,0.0539,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Direct_Electric,2030,0.0404,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Direct_Electric,2035,0.0303,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8148,13 +8148,13 @@ LV,HB_Gas_Boiler,2030,0.6183,,GW,Assumptions based on model run,09.04.2025,Nikit
 LV,HB_Gas_Boiler,2035,0.4638,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Gas_Boiler,2040,0.3478,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Gas_Boiler,2045,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,HB_Heatpump_Aerial,2018,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,HB_Heatpump_Aerial,2018,0.0010,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.0297 PJ / (AF 0.98 x 31.536) = 0.0010 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,HB_Heatpump_Aerial,2025,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Heatpump_Aerial,2030,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Heatpump_Aerial,2035,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Heatpump_Aerial,2040,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Heatpump_Aerial,2045,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,HB_Heatpump_Ground,2018,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,HB_Heatpump_Ground,2018,0.0003,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.0098 PJ / (AF 0.98 x 31.536) = 0.0003 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,HB_Heatpump_Ground,2025,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Heatpump_Ground,2030,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,HB_Heatpump_Ground,2035,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8177,7 +8177,7 @@ NL,HB_Biomass,2030,0.6775,,GW,Assumptions based on model run,09.04.2025,Nikita M
 NL,HB_Biomass,2035,0.4065,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HB_Biomass,2040,0.1355,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HB_Biomass,2045,0.0678,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,HB_Direct_Electric,2018,0.4754,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,HB_Direct_Electric,2018,0.5756,,GW,Assumption: minimum capacity to produce the 2018 base-year output (17.7800 PJ / (AF 0.98 x 31.536) = 0.5753 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,HB_Direct_Electric,2025,0.4392,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HB_Direct_Electric,2030,0.3396,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HB_Direct_Electric,2035,0.2038,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8189,7 +8189,7 @@ NL,HB_Gas_Boiler,2030,24.0991,,GW,Assumptions based on model run,09.04.2025,Niki
 NL,HB_Gas_Boiler,2035,14.4594,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HB_Gas_Boiler,2040,4.8198,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HB_Gas_Boiler,2045,2.4099,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NL,HB_Heatpump_Aerial,2018,0.4189,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NL,HB_Heatpump_Aerial,2018,0.4321,,GW,Assumption: minimum capacity to produce the 2018 base-year output (13.3489 PJ / (AF 0.98 x 31.536) = 0.4319 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,HB_Heatpump_Aerial,2025,0.387,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HB_Heatpump_Aerial,2030,0.2992,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,HB_Heatpump_Aerial,2035,0.1795,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8224,7 +8224,7 @@ NO,HB_Direct_Electric,2030,4.8275,,GW,Assumptions based on model run,09.04.2025,
 NO,HB_Direct_Electric,2035,2.8965,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Direct_Electric,2040,0.9655,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Direct_Electric,2045,0.4828,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,HB_Gas_Boiler,2018,0.001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HB_Gas_Boiler,2018,0.0415,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.2822 PJ / (AF 0.98 x 31.536) = 0.0415 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,HB_Gas_Boiler,2025,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Gas_Boiler,2030,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Gas_Boiler,2035,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8236,7 +8236,7 @@ NO,HB_Heatpump_Aerial,2030,0.9402,,GW,Assumptions based on model run,09.04.2025,
 NO,HB_Heatpump_Aerial,2035,0.5641,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Heatpump_Aerial,2040,0.188,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Heatpump_Aerial,2045,0.094,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,HB_Heatpump_Ground,2018,0.0554,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HB_Heatpump_Ground,2018,0.6610,,GW,Assumption: minimum capacity to produce the 2018 base-year output (20.4173 PJ / (AF 0.98 x 31.536) = 0.6606 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,HB_Heatpump_Ground,2025,0.0512,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Heatpump_Ground,2030,0.0396,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HB_Heatpump_Ground,2035,0.0238,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8312,13 +8312,13 @@ NONEU_Balkan,HB_Oil_Boiler,2030,1.4135,,GW,Assumptions based on model run,09.04.
 NONEU_Balkan,HB_Oil_Boiler,2035,0.8481,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HB_Oil_Boiler,2040,0.2827,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,HB_Oil_Boiler,2045,0.1413,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,HB_Biomass,2018,4.1402,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,HB_Biomass,2018,6.3372,,GW,Assumption: minimum capacity to produce the 2018 base-year output (195.7563 PJ / (AF 0.98 x 31.536) = 6.3341 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,HB_Biomass,2025,3.8248,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Biomass,2030,2.9573,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Biomass,2035,1.7744,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Biomass,2040,0.5915,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Biomass,2045,0.2957,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,HB_Direct_Electric,2018,0.5018,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,HB_Direct_Electric,2018,0.9227,,GW,Assumption: minimum capacity to produce the 2018 base-year output (28.5015 PJ / (AF 0.98 x 31.536) = 0.9222 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,HB_Direct_Electric,2025,0.4636,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Direct_Electric,2030,0.3584,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Direct_Electric,2035,0.2151,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8330,13 +8330,13 @@ PL,HB_Gas_Boiler,2030,17.2348,,GW,Assumptions based on model run,09.04.2025,Niki
 PL,HB_Gas_Boiler,2035,10.3409,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Gas_Boiler,2040,3.447,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Gas_Boiler,2045,1.7235,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,HB_Heatpump_Aerial,2018,0.0153,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,HB_Heatpump_Aerial,2018,0.3014,,GW,Assumption: minimum capacity to produce the 2018 base-year output (9.3106 PJ / (AF 0.98 x 31.536) = 0.3013 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,HB_Heatpump_Aerial,2025,0.0141,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Heatpump_Aerial,2030,0.0109,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Heatpump_Aerial,2035,0.0066,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Heatpump_Aerial,2040,0.0022,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Heatpump_Aerial,2045,0.0011,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,HB_Heatpump_Ground,2018,0.0008,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,HB_Heatpump_Ground,2018,0.1299,,GW,Assumption: minimum capacity to produce the 2018 base-year output (4.0123 PJ / (AF 0.98 x 31.536) = 0.1298 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,HB_Heatpump_Ground,2025,0.0008,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Heatpump_Ground,2030,0.0006,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,HB_Heatpump_Ground,2035,0.0004,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8371,13 +8371,13 @@ PT,HB_Gas_Boiler,2030,0.3843,,GW,Assumptions based on model run,09.04.2025,Nikit
 PT,HB_Gas_Boiler,2035,0.2306,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HB_Gas_Boiler,2040,0.0769,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HB_Gas_Boiler,2045,0.0384,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,HB_Heatpump_Aerial,2018,0.361,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,HB_Heatpump_Aerial,2018,1.2518,,GW,Assumption: minimum capacity to produce the 2018 base-year output (38.6673 PJ / (AF 0.98 x 31.536) = 1.2512 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,HB_Heatpump_Aerial,2025,0.3335,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HB_Heatpump_Aerial,2030,0.2578,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HB_Heatpump_Aerial,2035,0.1547,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HB_Heatpump_Aerial,2040,0.0516,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HB_Heatpump_Aerial,2045,0.0258,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PT,HB_Heatpump_Ground,2018,0.0592,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PT,HB_Heatpump_Ground,2018,0.2010,,GW,Assumption: minimum capacity to produce the 2018 base-year output (6.2090 PJ / (AF 0.98 x 31.536) = 0.2009 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,HB_Heatpump_Ground,2025,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HB_Heatpump_Ground,2030,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,HB_Heatpump_Ground,2035,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8485,7 +8485,7 @@ SI,HB_Biomass,2030,0.9555,,GW,Assumptions based on model run,09.04.2025,Nikita M
 SI,HB_Biomass,2035,0.5733,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Biomass,2040,0.1911,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Biomass,2045,0.0955,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HB_Direct_Electric,2018,0.1205,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HB_Direct_Electric,2018,0.2356,,GW,Assumption: minimum capacity to produce the 2018 base-year output (7.2775 PJ / (AF 0.98 x 31.536) = 0.2355 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,HB_Direct_Electric,2025,0.1113,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Direct_Electric,2030,0.0861,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Direct_Electric,2035,0.0516,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8497,7 +8497,7 @@ SI,HB_Gas_Boiler,2030,1.4199,,GW,Assumptions based on model run,09.04.2025,Nikit
 SI,HB_Gas_Boiler,2035,0.8519,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Gas_Boiler,2040,0.284,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Gas_Boiler,2045,0.142,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SI,HB_Heatpump_Aerial,2018,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SI,HB_Heatpump_Aerial,2018,0.0623,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.9240 PJ / (AF 0.98 x 31.536) = 0.0623 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,HB_Heatpump_Aerial,2025,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Heatpump_Aerial,2030,0.0001,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,HB_Heatpump_Aerial,2035,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8542,7 +8542,7 @@ SK,HB_Biomass,2030,0.105,,GW,Assumptions based on model run,09.04.2025,Nikita Mo
 SK,HB_Biomass,2035,0.063,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HB_Biomass,2040,0.021,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HB_Biomass,2045,0.0105,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,HB_Direct_Electric,2018,0.2667,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,HB_Direct_Electric,2018,0.2914,,GW,Assumption: minimum capacity to produce the 2018 base-year output (9.0012 PJ / (AF 0.98 x 31.536) = 0.2913 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,HB_Direct_Electric,2025,0.2464,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HB_Direct_Electric,2030,0.1905,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,HB_Direct_Electric,2035,0.1143,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8613,7 +8613,7 @@ TR,HB_Oil_Boiler,2030,0,,GW,Assumptions based on model run,09.04.2025,Nikita Mos
 TR,HB_Oil_Boiler,2035,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HB_Oil_Boiler,2040,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,HB_Oil_Boiler,2045,0,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HB_Biomass,2018,0.6134,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HB_Biomass,2018,2.2887,,GW,Assumption: minimum capacity to produce the 2018 base-year output (70.6968 PJ / (AF 0.98 x 31.536) = 2.2875 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,HB_Biomass,2025,0.5666,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HB_Biomass,2030,0.4381,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HB_Biomass,2035,0.2629,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -8631,13 +8631,13 @@ UK,HB_Gas_Boiler,2030,66.0634,,GW,Assumptions based on model run,09.04.2025,Niki
 UK,HB_Gas_Boiler,2035,39.6381,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HB_Gas_Boiler,2040,13.2127,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HB_Gas_Boiler,2045,6.6063,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HB_Heatpump_Aerial,2018,0.1182,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HB_Heatpump_Aerial,2018,1.4860,,GW,Assumption: minimum capacity to produce the 2018 base-year output (45.9019 PJ / (AF 0.98 x 31.536) = 1.4852 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,HB_Heatpump_Aerial,2025,0.1092,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HB_Heatpump_Aerial,2030,0.0844,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HB_Heatpump_Aerial,2035,0.0507,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HB_Heatpump_Aerial,2040,0.0169,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HB_Heatpump_Aerial,2045,0.0084,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-UK,HB_Heatpump_Ground,2018,0.0062,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+UK,HB_Heatpump_Ground,2018,0.6209,,GW,Assumption: minimum capacity to produce the 2018 base-year output (19.1792 PJ / (AF 0.98 x 31.536) = 0.6206 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,HB_Heatpump_Ground,2025,0.0057,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HB_Heatpump_Ground,2030,0.0044,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,HB_Heatpump_Ground,2035,0.0027,,GW,Assumptions based on model run,09.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -12677,6 +12677,7 @@ AT,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 AT,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,HB_Solar_Thermal,2018,0.2304,,GW,Assumption: minimum capacity to produce the 2018 base-year output (7.1167 PJ / (AF 0.98 x 31.536) = 0.2303 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,FRT_Rail_Conv,2018,4.3999,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,FRT_Rail_Conv,2025,4.0228,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,FRT_Rail_Conv,2030,2.7237,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -12762,6 +12763,7 @@ BE,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 BE,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,HB_Solar_Thermal,2018,0.0358,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.1058 PJ / (AF 0.98 x 31.536) = 0.0358 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,FRT_Rail_Conv,2018,2.484,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,FRT_Rail_Conv,2025,2.2711,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,FRT_Rail_Conv,2030,1.5377,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -12847,6 +12849,7 @@ BG,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 BG,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,HB_Solar_Thermal,2018,0.0343,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.0592 PJ / (AF 0.98 x 31.536) = 0.0343 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,FRT_Rail_Conv,2018,0.0004,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,FRT_Rail_Conv,2025,0.0003,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,FRT_Rail_Conv,2030,0.0002,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -13018,6 +13021,7 @@ CZ,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 CZ,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,HB_Solar_Thermal,2018,0.0241,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.7451 PJ / (AF 0.98 x 31.536) = 0.0241 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,FRT_Rail_Conv,2018,69.376,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,FRT_Rail_Conv,2025,63.4295,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,FRT_Rail_Conv,2030,42.947,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -13103,6 +13107,7 @@ DE,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 DE,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,HB_Solar_Thermal,2018,0.9731,,GW,Assumption: minimum capacity to produce the 2018 base-year output (30.0599 PJ / (AF 0.98 x 31.536) = 0.9726 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,FRT_Rail_Conv,2018,1.575,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,FRT_Rail_Conv,2025,1.44,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,FRT_Rail_Conv,2030,0.975,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -13188,6 +13193,7 @@ DK,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 DK,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,HB_Solar_Thermal,2018,0.0203,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.6285 PJ / (AF 0.98 x 31.536) = 0.0203 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,FRT_Rail_Conv,2018,1.3496,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,FRT_Rail_Conv,2025,1.2339,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,FRT_Rail_Conv,2030,0.8354,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -13358,6 +13364,7 @@ ES,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,09.04.2026,N
 ES,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,09.04.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,HB_Solar_Thermal,2018,0.4501,,GW,Assumption: minimum capacity to produce the 2018 base-year output (13.9049 PJ / (AF 0.98 x 31.536) = 0.4499 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,FRT_Rail_Conv,2018,5.9515,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,FRT_Rail_Conv,2025,5.4414,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,FRT_Rail_Conv,2030,3.6843,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -13443,6 +13450,7 @@ FI,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 FI,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,HB_Solar_Thermal,2018,0.0027,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.0829 PJ / (AF 0.98 x 31.536) = 0.0027 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,FRT_Rail_Conv,2018,18.6026,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,FRT_Rail_Conv,2025,17.0081,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,FRT_Rail_Conv,2030,11.5159,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -13528,6 +13536,7 @@ FR,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 FR,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,HB_Solar_Thermal,2018,0.2322,,GW,Assumption: minimum capacity to produce the 2018 base-year output (7.1727 PJ / (AF 0.98 x 31.536) = 0.2321 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,FRT_Rail_Conv,2018,0.2868,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,FRT_Rail_Conv,2025,0.2622,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,FRT_Rail_Conv,2030,0.1775,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -13613,6 +13622,7 @@ GR,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 GR,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,HB_Solar_Thermal,2018,0.4126,,GW,Assumption: minimum capacity to produce the 2018 base-year output (12.7447 PJ / (AF 0.98 x 31.536) = 0.4124 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,FRT_Rail_Conv,2018,1.951,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,FRT_Rail_Conv,2025,1.7838,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,FRT_Rail_Conv,2030,1.2078,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -13698,6 +13708,7 @@ HR,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 HR,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,HB_Solar_Thermal,2018,0.0214,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.6608 PJ / (AF 0.98 x 31.536) = 0.0214 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,FRT_Rail_Conv,2018,6.2849,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,FRT_Rail_Conv,2025,5.7462,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,FRT_Rail_Conv,2030,3.8906,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -13783,6 +13794,7 @@ HU,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 HU,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,HB_Solar_Thermal,2018,0.0173,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.5346 PJ / (AF 0.98 x 31.536) = 0.0173 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,FRT_Rail_Conv,2018,0.0386,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,FRT_Rail_Conv,2025,0.0353,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,FRT_Rail_Conv,2030,0.0239,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -13868,6 +13880,7 @@ IE,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 IE,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,HB_Solar_Thermal,2018,0.0186,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.5736 PJ / (AF 0.98 x 31.536) = 0.0186 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,FRT_Rail_Conv,2018,12.1511,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,FRT_Rail_Conv,2025,11.1096,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,FRT_Rail_Conv,2030,7.5221,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -13953,6 +13966,7 @@ IT,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 IT,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,HB_Solar_Thermal,2018,0.2883,,GW,Assumption: minimum capacity to produce the 2018 base-year output (8.9046 PJ / (AF 0.98 x 31.536) = 0.2881 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,FRT_Rail_Conv,2018,9.7463,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,FRT_Rail_Conv,2025,8.9109,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,FRT_Rail_Conv,2030,6.0334,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -14123,6 +14137,7 @@ LU,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 LU,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,HB_Solar_Thermal,2018,0.0033,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.1015 PJ / (AF 0.98 x 31.536) = 0.0033 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,FRT_Rail_Conv,2018,10.4159,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,FRT_Rail_Conv,2025,9.5231,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,FRT_Rail_Conv,2030,6.448,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -14293,6 +14308,7 @@ NL,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 NL,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,HB_Solar_Thermal,2018,0.0378,,GW,Assumption: minimum capacity to produce the 2018 base-year output (1.1681 PJ / (AF 0.98 x 31.536) = 0.0378 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,FRT_Rail_Conv,2018,2.512,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,FRT_Rail_Conv,2025,2.2967,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,FRT_Rail_Conv,2030,1.555,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -14463,6 +14479,7 @@ NONEU_Balkan,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17
 NONEU_Balkan,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,HB_Solar_Thermal,2018,0.0222,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.6855 PJ / (AF 0.98 x 31.536) = 0.0222 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,FRT_Rail_Conv,2018,33.3866,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,FRT_Rail_Conv,2025,30.5249,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,FRT_Rail_Conv,2030,20.6679,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -14548,6 +14565,7 @@ PL,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 PL,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,HB_Solar_Thermal,2018,0.0767,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.3687 PJ / (AF 0.98 x 31.536) = 0.0766 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,FRT_Rail_Conv,2018,1.4802,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,FRT_Rail_Conv,2025,1.3533,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,FRT_Rail_Conv,2030,0.9163,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -14633,6 +14651,7 @@ PT,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 PT,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,HB_Solar_Thermal,2018,0.1400,,GW,Assumption: minimum capacity to produce the 2018 base-year output (4.3253 PJ / (AF 0.98 x 31.536) = 0.1400 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,FRT_Rail_Conv,2018,7.143,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,FRT_Rail_Conv,2025,6.5307,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,FRT_Rail_Conv,2030,4.4218,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -14718,6 +14737,7 @@ RO,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 RO,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,HB_Solar_Thermal,2018,0.0001,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.0029 PJ / (AF 0.98 x 31.536) = 0.0001 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,FRT_Rail_Conv,2018,13.3744,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,FRT_Rail_Conv,2025,12.2281,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,FRT_Rail_Conv,2030,8.2794,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -14888,6 +14908,7 @@ SI,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 SI,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,HB_Solar_Thermal,2018,0.0145,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.4487 PJ / (AF 0.98 x 31.536) = 0.0145 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,FRT_Rail_Conv,2018,5.4144,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,FRT_Rail_Conv,2025,4.9503,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,FRT_Rail_Conv,2030,3.3518,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -14973,6 +14994,7 @@ SK,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 SK,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,HB_Solar_Thermal,2018,0.0058,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.1780 PJ / (AF 0.98 x 31.536) = 0.0058 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,FRT_Rail_Conv,2018,5.7571,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,FRT_Rail_Conv,2025,5.2636,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,FRT_Rail_Conv,2030,3.5639,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -15143,6 +15165,7 @@ UK,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 UK,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,HB_Solar_Thermal,2018,0.0945,,GW,Assumption: minimum capacity to produce the 2018 base-year output (2.9202 PJ / (AF 0.98 x 31.536) = 0.0945 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,HHI_BF_BOF,2018,0.3906,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HHI_BF_BOF,2020,8.8995,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HHI_BF_BOF,2025,0.272,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -15280,6 +15303,7 @@ NO,HMLI_Heatpump,2045,0,,GW,Assumptions based on model run,23.07.2026,Nikita Mos
 NO,HMLI_Heatpump,2050,0,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HMLI_Heatpump,2055,0,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,HMLI_Heatpump,2060,0,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,HB_Hardcoal,2018,0.0001,,GW,Assumption: minimum capacity to produce the 2018 base-year output (0.0035 PJ / (AF 0.98 x 31.536) = 0.0001 GW) after the rebuild of the 2018 building heat production (Oct 2026),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,HHI_BF_BOF,2018,0.5507,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HHI_BF_BOF,2020,4.0318,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,HHI_BF_BOF,2025,0.3842,,GW,Assumptions based on model run,23.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
