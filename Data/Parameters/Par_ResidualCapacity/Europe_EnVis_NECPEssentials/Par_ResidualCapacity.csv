@@ -1937,26 +1937,26 @@ NONEU_Balkan,PSNG_Air_Bio,2025,0,,GW,Calibrated from model run - Assumption,17.0
 NONEU_Balkan,PSNG_Air_Bio,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Air_Bio,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Air_Bio,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Air_Conv,2018,20.01993,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Air_Conv,2025,18.30394,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Air_Conv,2030,12.39329,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Air_Conv,2035,6.67331,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Air_Conv,2040,2.85999,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Air_Conv,2018,27.4171,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Air_Conv,2025,25.0670,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Air_Conv,2030,16.9725,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Air_Conv,2035,9.1390,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Air_Conv,2040,3.9167,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Air_H2,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Air_H2,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Air_H2,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Air_H2,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Air_H2,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Rail_Conv,2018,0.35528,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Rail_Conv,2025,0.32483,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Rail_Conv,2030,0.21994,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Rail_Conv,2035,0.11843,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Rail_Conv,2040,0.05075,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Rail_Electric,2018,1.42112,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Rail_Electric,2025,1.29931,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Rail_Electric,2030,0.87974,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Rail_Electric,2035,0.47371,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Rail_Electric,2040,0.20302,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Rail_Conv,2018,0.4866,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Rail_Conv,2025,0.4449,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Rail_Conv,2030,0.3012,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Rail_Conv,2035,0.1622,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Rail_Conv,2040,0.0695,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Rail_Electric,2018,1.9462,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Rail_Electric,2025,1.7794,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Rail_Electric,2030,1.2048,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Rail_Electric,2035,0.6487,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Rail_Electric,2040,0.2780,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Road_BEV,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Road_BEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Road_BEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -1967,11 +1967,11 @@ NONEU_Balkan,PSNG_Road_H2,2025,0,,GW,Calibrated from model run - Assumption,17.0
 NONEU_Balkan,PSNG_Road_H2,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Road_H2,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Road_H2,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Road_ICE,2018,115.25478,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Road_ICE,2025,105.3758,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Road_ICE,2030,71.3482,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Road_ICE,2035,38.41826,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,PSNG_Road_ICE,2040,16.46497,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Road_ICE,2018,157.8401,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Road_ICE,2025,144.3110,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Road_ICE,2030,97.7106,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Road_ICE,2035,52.6134,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,PSNG_Road_ICE,2040,22.5486,,GW,Calibrated from model run - Assumption | scaled x1.3695 with the 2018 demand: NONEU_Balkan Mobility_Passenger 2018 50.63 -> 68.65 Gpkm (per capita from TR),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Road_PHEV,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -2532,16 +2532,16 @@ SK,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,K
 SK,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,PSNG_Road_PHEV,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,PSNG_Road_PHEV,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Rail_Conv,2018,5.75707,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Rail_Conv,2025,5.26361,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Rail_Conv,2030,3.5639,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Rail_Conv,2035,1.91902,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Rail_Conv,2040,0.82244,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Rail_Electric,2018,23.02828,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Rail_Electric,2025,21.05443,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Rail_Electric,2030,14.2556,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Rail_Electric,2035,7.67609,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Rail_Electric,2040,3.28975,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Rail_Conv,2018,9.4354,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Rail_Conv,2025,8.6266,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Rail_Conv,2030,5.8410,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Rail_Conv,2035,3.1451,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Rail_Conv,2040,1.3479,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Rail_Electric,2018,37.7416,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Rail_Electric,2025,34.5066,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Rail_Electric,2030,23.3638,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Rail_Electric,2035,12.5805,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Rail_Electric,2040,5.3916,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,FRT_Road_BEV,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,FRT_Road_BEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,FRT_Road_BEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -2552,11 +2552,11 @@ TR,FRT_Road_H2,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Kons
 TR,FRT_Road_H2,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,FRT_Road_H2,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,FRT_Road_H2,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Road_ICE,2018,523.73612,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Road_ICE,2025,478.84446,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Road_ICE,2030,324.2176,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Road_ICE,2035,174.57871,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-TR,FRT_Road_ICE,2040,74.81945,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Road_ICE,2018,858.3628,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Road_ICE,2025,784.7888,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Road_ICE,2030,531.3674,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Road_ICE,2035,286.1209,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,FRT_Road_ICE,2040,122.6233,,GW,Calibrated from model run - Assumption | scaled x1.6389 with the 2018 demand: TR Mobility_Freight 2018 204.13 -> 331.23 Gtkm (KGM road + Pocketbook rail/pipelines),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,FRT_Road_PHEV,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,FRT_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,FRT_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -2680,26 +2680,26 @@ UK,PSNG_Air_Bio,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Kon
 UK,PSNG_Air_Bio,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Air_Bio,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Air_Bio,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Air_Conv,2018,116.83913,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Air_Conv,2025,106.82435,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Air_Conv,2030,72.32899,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Air_Conv,2035,38.94638,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Air_Conv,2040,16.6913,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Air_Conv,2018,316.7789,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Air_Conv,2025,289.6264,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Air_Conv,2030,196.1012,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Air_Conv,2035,105.5930,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Air_Conv,2040,45.2541,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Air_H2,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Air_H2,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Air_H2,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Air_H2,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Air_H2,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Rail_Conv,2018,13.61538,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Rail_Conv,2025,12.44835,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Rail_Conv,2030,8.42857,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Rail_Conv,2035,4.53846,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Rail_Conv,2040,1.94505,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Rail_Electric,2018,54.46152,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Rail_Electric,2025,49.79339,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Rail_Electric,2030,33.71428,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Rail_Electric,2035,18.15384,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Rail_Electric,2040,7.78022,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Rail_Conv,2018,36.9146,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Rail_Conv,2025,33.7505,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Rail_Conv,2030,22.8519,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Rail_Conv,2035,12.3049,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Rail_Conv,2040,5.2735,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Rail_Electric,2018,147.6582,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Rail_Electric,2025,135.0018,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Rail_Electric,2030,91.4075,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Rail_Electric,2035,49.2194,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Rail_Electric,2040,21.0940,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Road_BEV,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Road_BEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Road_BEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -2710,11 +2710,11 @@ UK,PSNG_Road_H2,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Kon
 UK,PSNG_Road_H2,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Road_H2,2035,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Road_H2,2040,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Road_ICE,2018,614.93359,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Road_ICE,2025,562.225,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Road_ICE,2030,380.67317,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Road_ICE,2035,204.97786,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,PSNG_Road_ICE,2040,87.84766,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Road_ICE,2018,1667.2323,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Road_ICE,2025,1524.3267,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Road_ICE,2030,1032.0962,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Road_ICE,2035,555.7441,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,PSNG_Road_ICE,2040,238.1761,,GW,Calibrated from model run - Assumption | scaled x2.7112 with the 2018 demand: UK Mobility_Passenger 2018 corrected 295.5 -> 793.24 Gpkm (Pocketbook 2020; the old value was not a UK figure),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Road_PHEV,2018,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Road_PHEV,2025,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,PSNG_Road_PHEV,2030,0,,GW,Calibrated from model run - Assumption,17.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>

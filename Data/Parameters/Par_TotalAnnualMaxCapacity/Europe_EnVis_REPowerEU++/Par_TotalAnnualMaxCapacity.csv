@@ -23,7 +23,7 @@ BE,P_Wind_Offshore_Transitional,2025,2.262,,GW,set to 2024 installed capacities 
 BE,P_Wind_Onshore_Avg,2025,3.053,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,Waste,2025,0.384,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,D_PHS,2025,0.864,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-BG,P_Biomass,2025,0.074,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_Biomass,2025,0.124797,,GW,Assumption: raised to the 2025 residual capacity (0.124797 GW) needed for the 2018 base-year production under the 2025 phase-in constraint | was: set to 2024 installed capacities by entso-e,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,P_Coal_Hardcoal,2025,0.356,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,P_Coal_Lignite,2025,4.119,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,P_Gas_CCGT,2025,0.699,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -41,7 +41,7 @@ CH,P_Hydro_RoR,2025,0.635,,GW,set to 2024 installed capacities by entso-e,03.02.
 CH,P_Nuclear,2025,2.97,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,D_PHS,2025,1.172,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,Fossil Coal-derived gas,2025,0.38,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-CZ,P_Biomass,2025,0.41,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_Biomass,2025,0.526715,,GW,Assumption: raised to the 2025 residual capacity (0.526715 GW) needed for the 2018 base-year production under the 2025 phase-in constraint | was: set to 2024 installed capacities by entso-e,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,P_Coal_Hardcoal,2025,1.2,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,P_Coal_Lignite,2025,7.2,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,P_Gas_CCGT,2025,1.24,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -172,7 +172,7 @@ IE,P_Oil,2025,1.272,,GW,set to 2024 installed capacities by entso-e,03.02.2026,K
 IE,P_Wind_Onshore_Avg,2025,1.919,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,D_PHS,2025,7.256,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,Fossil Coal-derived gas,2025,2.071,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-IT,P_Biomass,2025,1.543,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_Biomass,2025,2.022281,,GW,Assumption: raised from 1.543 GW to 2.022281 GW so that 80 % of the 2018 base-year production x the 2025/2018 power-demand ratio (+5 %) can be produced under the 2025 phase-in constraint | was: set to 2024 installed capacities by entso-e,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,P_Coal_Hardcoal,2025,5.583,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,P_Gas_CCGT,2025,45.157,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,P_Geothermal,All,0.868,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
