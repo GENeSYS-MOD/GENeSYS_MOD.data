@@ -53,4 +53,4 @@ P_Gas_OCGT,All,0.1833,,M€/PJ,"Ramping cost 0.66 EUR per MW of output change (S
 P_Hydro_Reservoir,All,0,,M€/PJ,Expert assessment: negligible wear and fuel cost of load changes in hydro reservoir plants; 0 = no ramping cost (model convention),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 P_Nuclear,All,0.4167,,M€/PJ,"Expert assessment: steam-turbine plant, at least the hard-coal ramping cost (1.5 EUR per MW of output change, Schroeder et al. (2013), DIW Data Documentation 68, Table 26 (after Kumar et al. 2012)); no published cycling cost for nuclear",25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 P_Oil,All,0.1833,,M€/PJ,"Expert assessment: same ramping cost as gas turbines (0.66 EUR per MW of output change, Schroeder et al. (2013), DIW Data Documentation 68, Table 26 (after Kumar et al. 2012))",25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-HD_Gas_Boiler,All,0.0,,M€,Needs Update,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HD_Gas_Boiler,All,0.0,,M€,"Model convention: 0 = no ramping cost, as for all other boilers",25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>

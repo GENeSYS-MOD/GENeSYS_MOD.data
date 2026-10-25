@@ -1550,7 +1550,7 @@ DE_MV,P_PV_Utility_Avg,All,12.2333333,,GW,Umsetzbarkeit der Stromwende (Ariadne-
 DE_MV,P_PV_Utility_Inf,All,12.2333333,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_MV,P_PV_Utility_Opt,All,12.2333333,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_MV,P_Wind_Offshore_Deep,All,0,,GW,"GENeSYS-MOD RES tool (ERA5 2018): Baltic EEZ within 100 km of shore, no far-shore cells",07.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_MV,P_Wind_Offshore_Shallow,All,1.0675,,GW,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,P_Wind_Offshore_Shallow,All,1.0675,,GW,"Installed Baltic Sea offshore wind end of 2020, 1.07 GW (Deutsche WindGuard (2021): Status des Offshore-Windenergieausbaus in Deutschland, Jahr 2020)",25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_MV,P_Wind_Onshore_Avg,All,29.4,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_MV,P_Wind_Onshore_Inf,All,29.4,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_MV,P_Wind_Onshore_Opt,All,29.4,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
@@ -1559,8 +1559,8 @@ DE_MV,P_PV_Rooftop_Residential,All,7.31,,GW,https://www.agora-energiewende.de/pu
 DE_NI,P_PV_Utility_Avg,All,19.2666667,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_NI,P_PV_Utility_Inf,All,19.2666667,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_NI,P_PV_Utility_Opt,All,19.2666667,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
-DE_NI,P_Wind_Offshore_Deep,All,33.6842,,GW,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,P_Wind_Offshore_Shallow,All,4.253,,GW,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,P_Wind_Offshore_Deep,All,33.6842,,GW,Derived: NI + SH = 70 GW = offshore target 2045 of WindSeeG 2023 (par. 1 (2)); split NI 48.1 % / SH 51.9 % as on the DE branch (split not documented),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_NI,P_Wind_Offshore_Shallow,All,4.253,,GW,"Installed offshore wind connected to Lower Saxony end of 2020; NI + SH = 6.698 GW = North Sea fleet (Deutsche WindGuard (2021): Status des Offshore-Windenergieausbaus in Deutschland, Jahr 2020)",25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_NI,P_Wind_Onshore_Avg,All,60.1,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_NI,P_Wind_Onshore_Inf,All,60.1,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_NI,P_Wind_Onshore_Opt,All,60.1,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
@@ -1585,8 +1585,8 @@ DE_RP,P_PV_Rooftop_Residential,All,13.77,,GW,https://www.agora-energiewende.de/p
 DE_SH,P_PV_Utility_Avg,All,8.7,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_SH,P_PV_Utility_Inf,All,8.7,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_SH,P_PV_Utility_Opt,All,8.7,,GW,Umsetzbarkeit der Stromwende (Ariadne-Kurzdossier),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
-DE_SH,P_Wind_Offshore_Deep,All,36.3158,,GW,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,P_Wind_Offshore_Shallow,All,2.445,,GW,,17.03.2026,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,P_Wind_Offshore_Deep,All,36.3158,,GW,Derived: NI + SH = 70 GW = offshore target 2045 of WindSeeG 2023 (par. 1 (2)); split NI 48.1 % / SH 51.9 % as on the DE branch (split not documented),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_SH,P_Wind_Offshore_Shallow,All,2.445,,GW,"Installed offshore wind connected to Schleswig-Holstein end of 2020; NI + SH = 6.698 GW = North Sea fleet (Deutsche WindGuard (2021): Status des Offshore-Windenergieausbaus in Deutschland, Jahr 2020)",25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE_SH,P_Wind_Onshore_Avg,All,19.9333333,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_SH,P_Wind_Onshore_Inf,All,19.9333333,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
 DE_SH,P_Wind_Onshore_Opt,All,19.9333333,,GW,https://www.umweltbundesamt.de/system/files/medien/378/publikationen/potenzial_der_windenergie.pdf (dissagregiert nach flaeche bundesland),27.03.2026,Alena Diesing <ad@wip.tu-berlin.de>
