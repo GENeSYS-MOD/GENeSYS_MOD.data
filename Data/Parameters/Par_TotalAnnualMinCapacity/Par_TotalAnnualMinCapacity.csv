@@ -296,3 +296,171 @@ UK,P_PV_Utility_Avg,2025,4.4900,,GW,ENTSO-E Transparency Platform - Installed Ca
 UK,P_PV_Utility_Opt,2025,4.4900,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type | installed capacity 13.4700 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_Wind_Offshore_Transitional,2025,12.16,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_Wind_Onshore_Avg,2025,13.932,,GW,ENTSO-E Transparency Platform - Installed Capacity per Production Type,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BB,CHP_Coal_Lignite,2025,0.275533,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_Gas_CCGT_Biogas,2025,0.3,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,CHP_Gas_CCGT_Natural,2025,0.578814,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,HB_Heatpump_Aerial,2025,0.45849,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,HB_Heatpump_Ground,2025,0.046,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_Biomass,2025,0.687999,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_Gas_OCGT,2025,0.811926,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_PV_Rooftop_Residential,2025,2.7534,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_PV_Utility_Opt,2025,5.6497,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,P_Wind_Onshore_Opt,2025,9.43,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,CHP_Gas_CCGT_Natural,2025,0.957482,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,HB_Heatpump_Aerial,2025,0.23424,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,HB_Heatpump_Ground,2025,0.006,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,P_Gas_CCGT,2025,0.633605,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,P_PV_Rooftop_Residential,2025,0.4207,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,P_PV_Utility_Opt,2025,0.0025,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,P_Wind_Onshore_Opt,2025,0.0293077,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_Biomass_Solid,2025,0.186928,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_Gas_CCGT_Biogas,2025,0.555,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,CHP_Gas_CCGT_Natural,2025,0.757003,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,HB_Heatpump_Aerial,2025,2.30087,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,HB_Heatpump_Ground,2025,0.076,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_Biomass,2025,1.13083,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_Gas_OCGT,2025,1.51175,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_PV_Rooftop_Residential,2025,11.6049,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_PV_Utility_Opt,2025,1.92555,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BW,P_Wind_Onshore_Opt,2025,2.74631,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_Biomass_Solid,2025,0.374355,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_Gas_CCGT_Biogas,2025,1.483,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,CHP_Gas_CCGT_Natural,2025,6.09817,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,HB_Heatpump_Aerial,2025,2.03874,,GW,Calibrated from model run - Assumption; fitted to 2018 production,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,HB_Heatpump_Ground,2025,0.197,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Biomass,2025,2.11105,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Coal_Hardcoal,2025,0.0597813,,GW,fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Gas_OCGT,2025,0.771661,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Geothermal,2025,0.03992,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_PV_Rooftop_Residential,2025,17.7779,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_PV_Utility_Opt,2025,11.3317,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BY,P_Wind_Onshore_Opt,2025,3.98434,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,CHP_Gas_CCGT_Natural,2025,0.0210348,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,HB_Heatpump_Aerial,2025,0.11695,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,P_Biomass,2025,0.0428583,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,P_Gas_CCGT,2025,1.28836,,GW,"Calibrated from model run - Assumption; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,P_PV_Rooftop_Residential,2025,0.1575,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HB,P_PV_Utility_Opt,2025,0.00135,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_Gas_CCGT_Biogas,2025,0.143,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,CHP_Gas_CCGT_Natural,2025,2.06505,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,HB_Heatpump_Aerial,2025,1.13691,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,HB_Heatpump_Ground,2025,0.023,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Biomass,2025,0.437769,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Gas_CCGT,2025,1.07846,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Gas_OCGT,2025,0.862765,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Geothermal,2025,0.0004,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_PV_Rooftop_Residential,2025,4.1402,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_PV_Utility_Opt,2025,0.8692,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HE,P_Wind_Onshore_Opt,2025,3.24434,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,CHP_Gas_CCGT_Natural,2025,0.268438,,GW,"Calibrated from model run - Assumption; LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,HB_Heatpump_Aerial,2025,0.32784,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,HB_Heatpump_Ground,2025,0.004,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,P_Biomass,2025,0.11882,,GW,"Calibrated from model run - Assumption; LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,P_Gas_CCGT,2025,0.0730587,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,P_Gas_OCGT,2025,0.159717,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,P_PV_Rooftop_Residential,2025,0.2125,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_HH,P_PV_Utility_Opt,2025,0.00115,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_Biomass_Solid,2025,0.0611174,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_Gas_CCGT_Biogas,2025,0.337,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,CHP_Gas_CCGT_Natural,2025,0.154637,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,HB_Heatpump_Aerial,2025,0.23063,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,HB_Heatpump_Ground,2025,0.016,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Biomass,2025,0.490518,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Gas_CCGT,2025,0.0968228,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Gas_OCGT,2025,0.211669,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Hydro_RoR,2025,0.000564615,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_PV_Rooftop_Residential,2025,1.8288,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_PV_Utility_Opt,2025,2.86915,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Wind_Offshore_Transitional,2025,1.83,,GW,Status des Offshore-Windenergieausbaus in Deutschland,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_MV,P_Wind_Onshore_Opt,2025,3.93,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_Biomass_Solid,2025,0.165418,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_Gas_CCGT_Biogas,2025,1.522,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,CHP_Gas_CCGT_Natural,2025,2.20549,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,HB_Heatpump_Aerial,2025,1.64526,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,HB_Heatpump_Ground,2025,0.079,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Biomass,2025,2.04639,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Gas_CCGT,2025,0.537583,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Gas_OCGT,2025,1.17523,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_PV_Rooftop_Residential,2025,8.0832,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_PV_Utility_Opt,2025,1.4351,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Wind_Offshore_Transitional,2025,5.26,,GW,Status des Offshore-Windenergieausbaus in Deutschland,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NI,P_Wind_Onshore_Opt,2025,13.82,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_Biomass_Solid,2025,0.521385,,GW,"Calibrated from model run - Assumption; LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_Coal_Lignite,2025,0.195914,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_Gas_CCGT_Biogas,2025,0.518,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,CHP_Gas_CCGT_Natural,2025,3.38524,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,HB_Heatpump_Aerial,2025,2.29677,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,HB_Heatpump_Ground,2025,0.185,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_Biomass,2025,1.8059,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_Gas_OCGT,2025,8.17086,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.umweltbundesamt.de/dokument/datenbank-kraftwerke-in-deutschland ); LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_Hydro_RoR,2025,0.0879042,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_PV_Rooftop_Residential,2025,12.1291,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_PV_Utility_Opt,2025,0.93825,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_NRW,P_Wind_Onshore_Opt,2025,8.8,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_Biomass_Solid,2025,0.140057,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_Gas_CCGT_Biogas,2025,0.1,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_Gas_CCGT_Natural,2025,1.78763,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,CHP_WasteToEnergy,2025,0.0350681,,GW,Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,HB_Heatpump_Aerial,2025,0.99473,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,HB_Heatpump_Ground,2025,0.039,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Biomass,2025,0.185541,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Gas_CCGT,2025,0.0752844,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Gas_OCGT,2025,0.164582,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Hydro_Reservoir,2025,0.00143977,,GW,SMARD | Nettonennleistung je Bundesland; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_PV_Rooftop_Residential,2025,3.797,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_PV_Utility_Opt,2025,1.6856,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_RP,P_Wind_Onshore_Opt,2025,4.33,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_Gas_CCGT_Biogas,2025,0.524,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,CHP_Gas_CCGT_Natural,2025,0.6046,,GW,https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,HB_Heatpump_Aerial,2025,0.57532,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,HB_Heatpump_Ground,2025,0.035,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Biomass,2025,0.267422,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Coal_Hardcoal,2025,0.123919,,GW,fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Geothermal,2025,0.007,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_PV_Rooftop_Residential,2025,2.2942,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_PV_Utility_Opt,2025,1.84195,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Wind_Offshore_Transitional,2025,2.14,,GW,Status des Offshore-Windenergieausbaus in Deutschland,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SH,P_Wind_Onshore_Opt,2025,9.51,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_Biomass_Solid,2025,0.00907901,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; fitted to 2018 production; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_Gas_CCGT_Biogas,2025,0.006,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_Gas_CCGT_Natural,2025,0.129176,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_Oil,2025,0.00420572,,GW,"Calibrated from model run - Assumption; LAK Energiebilanzen, KWK share; fitted to 2018 production; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,CHP_WasteToEnergy,2025,0.0223161,,GW,Calibrated from model run - Assumption; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,HB_Heatpump_Aerial,2025,0.0573341,,GW,Calibrated from model run - Assumption; fitted to 2018 production,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,HB_Heatpump_Ground,2025,0.004,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_Gas_CCGT,2025,0.0696153,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_Gas_OCGT,2025,0.152189,,GW,"LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_PV_Rooftop_Residential,2025,0.672,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_PV_Utility_Opt,2025,0.4253,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SL,P_Wind_Onshore_Opt,2025,0.654375,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_Biomass_Solid,2025,0.147212,,GW,"Calibrated from model run - Assumption; LAK Energiebilanzen, KWK share; fitted to 2018 production; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_Gas_CCGT_Biogas,2025,0.154,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,CHP_Gas_CCGT_Natural,2025,0.428474,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,HB_Heatpump_Aerial,2025,0.49953,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,HB_Heatpump_Ground,2025,0.061,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_Biomass,2025,0.435499,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_Gas_CCGT,2025,0.294874,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_Gas_OCGT,2025,0.644638,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_PV_Rooftop_Residential,2025,2.6281,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_PV_Utility_Opt,2025,2.3862,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_SN,P_Wind_Onshore_Opt,2025,1.42,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_Gas_CCGT_Biogas,2025,0.27,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,CHP_Gas_CCGT_Natural,2025,0.669838,,GW,"https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ); LAK Energiebilanzen, KWK share; fitted to 2018 production",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,HB_Heatpump_Aerial,2025,0.28076,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,HB_Heatpump_Ground,2025,0.018,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Biomass,2025,0.658152,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Gas_CCGT,2025,0.228449,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Gas_OCGT,2025,0.499421,,GW,"LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Hydro_RoR,2025,0.0207026,,GW,Liste von Wasserkraftwerken in Deutschland - Wikipedia (LK); Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_PV_Rooftop_Residential,2025,2.5303,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_PV_Utility_Opt,2025,2.7558,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_ST,P_Wind_Onshore_Opt,2025,5.75,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_Biomass_Solid,2025,0.0777387,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_Gas_CCGT_Biogas,2025,0.152,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,CHP_Gas_CCGT_Natural,2025,0.5901,,GW,https://www.bdew.de/service/daten-und-grafiken/stromerzeugung-installierte-leistung/ (Laenderverteilung von: https://www.unendlich-viel-energie.de/mediathek/publikationen/regelbare-kraftwerke-und-speicher-in-den-bundeslaendern ),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,HB_Heatpump_Aerial,2025,0.24289,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,HB_Heatpump_Ground,2025,0.018,,GW,Calibrated from model run - Assumption,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,P_Biomass,2025,0.317982,,GW,"https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; LAK Energiebilanzen, KWK share; Energy-Charts (net generation 2025 by Land)",02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,P_PV_Rooftop_Residential,2025,1.9265,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,P_PV_Utility_Opt,2025,1.0713,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_TH,P_Wind_Onshore_Opt,2025,2.05808,,GW,https://foederale-energiewende.unendlich-viel-energie.de/laenderdaten; fitted to 2018 production; Energy-Charts (net generation 2025 by Land),02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>

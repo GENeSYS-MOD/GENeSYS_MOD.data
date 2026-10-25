@@ -632,6 +632,12 @@ CHP_Gas_CCGT_Natural,PhaseOutSet,1,,Binary,not relevant,02.09.2026,Nikita Moskal
 P_Gas_CCGT,PhaseOutSet,1,,Binary,not relevant,02.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 P_Gas_Engines,PhaseOutSet,1,,Binary,not relevant,02.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 P_Gas_OCGT,PhaseOutSet,1,,Binary,not relevant,02.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-,,,,,,,
 P_PV_Utility_Opt,PV_Opt_Tracking,1,,Binary,not relevant,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 P_PV_Utility_Tracking,PV_Opt_Tracking,1,,Binary,not relevant,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+Z_Import_Biomass,ImportTechnology,1,,Binary,not relevant,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HD_Gas_Boiler,Heat,1,,Binary,not relevant,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HD_Gas_Boiler,DistrictHeat,1,,Binary,not relevant,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HD_Gas_Boiler,Transformation,1,,Binary,not relevant,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HD_Gas_Boiler,PhaseOutSet,1,,Binary,not relevant,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Z_Import_Biomass,BiomassImport,1,,Binary,not relevant,07.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+Z_Import_Biomass,EmergingTechnologies,1,,Binary,not relevant,08.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
