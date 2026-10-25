@@ -395,17 +395,6 @@ World,HB_Biomass,2045,371.578125,,MEUR/GW,biomass auto - https://ens.dk/en/our-s
 World,HB_Biomass,2050,375.75,,MEUR/GW,biomass auto - https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,HB_Biomass,2055,375.75,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Biomass,2060,375.75,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Convert_HD,2018,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,X_Convert_HD,2020,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,X_Convert_HD,2021,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,X_Convert_HD,2025,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,X_Convert_HD,2030,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,X_Convert_HD,2035,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,X_Convert_HD,2040,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,X_Convert_HD,2045,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,X_Convert_HD,2050,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,X_Convert_HD,2055,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,X_Convert_HD,2060,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HB_Direct_Electric,2018,685.6875,,MEUR/GW,same as 2021 (electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HB_Direct_Electric,2020,685.6875,,MEUR/GW,same as 2021 (electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,HB_Direct_Electric,2021,685.6875,,MEUR/GW,electric heating- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,31.01.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -527,6 +516,17 @@ World,HD_Electric_Boiler,2045,101.25,,MEUR/GW,DEA – Technology data for El and
 World,HD_Electric_Boiler,2050,100,,MEUR/GW,DEA – Technology data for El and DH - Electric boiler - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HD_Electric_Boiler,2055,100,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HD_Electric_Boiler,2060,100,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HD_Gas_Boiler,2018,192.4107143,,MEUR/GW,same as 2021 (Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HD_Gas_Boiler,2020,192.4107143,,MEUR/GW,same as 2021 (Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,HD_Gas_Boiler,2021,192.4107143,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HD_Gas_Boiler,2025,186.9017857,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HD_Gas_Boiler,2030,183.3125,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HD_Gas_Boiler,2035,178.9732143,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HD_Gas_Boiler,2040,174.6339286,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HD_Gas_Boiler,2045,170.5044643,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HD_Gas_Boiler,2050,166.375,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HD_Gas_Boiler,2055,166.375,,MEUR/GW,same as 2050 for now,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,HD_Gas_Boiler,2060,166.375,,MEUR/GW,same as 2050 for now,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HD_Geothermal,2018,2642,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HD_Geothermal,2020,2642,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
 World,HD_Geothermal,2021,2642,,MEUR/GW,DEA – Technology data for El and DH - Geoth. DH electric heat pump (not incl. absorption HP) - see Assumption.txt,13.12.2023,Frida Sather <frida.sather@sintef.no>
@@ -868,116 +868,6 @@ World,HMLI_Heatpump,2045,853.33,,MEUR/GW,DEA – Technology data for industrial 
 World,HMLI_Heatpump,2050,823.33,,MEUR/GW,DEA – Technology data for industrial process heat - heat pump up to 125 to 150 C - see Assumption.txt ,,
 World,HMLI_Heatpump,2055,823.33,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,HMLI_Heatpump,2060,823.33,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Air_Bio,2018,395.1802903,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Air_Bio,2020,395.1802903,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Air_Bio,2021,395.1802903,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Bio,2025,379.1987345,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Bio,2030,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Bio,2035,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Bio,2040,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Bio,2045,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Bio,2050,363,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Bio,2055,363,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Air_Bio,2060,363,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Air_Conv,2018,395.1802903,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Air_Conv,2020,395.1802903,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Air_Conv,2021,395.1802903,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Conv,2025,379.1987345,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Conv,2030,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Conv,2035,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Conv,2040,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Conv,2045,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Conv,2050,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_Conv,2055,363.2171786,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Air_Conv,2060,363.2171786,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Air_H2,2018,464.9179886,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Air_H2,2020,464.9179886,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Air_H2,2021,464.9179886,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_H2,2025,464.9179886,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_H2,2030,464.9179886,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_H2,2035,450.3893015,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_H2,2040,435.8606144,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_H2,2045,431.5020082,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_H2,2050,427.1434021,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Air_H2,2055,427.1434021,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Air_H2,2060,427.1434021,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,2018,120.8298612,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,2020,120.8298612,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,2021,120.8298612,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,2025,117.1683502,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,2030,113.5068393,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,2035,113.5068393,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,2040,113.5068393,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,2045,113.5068393,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,2050,113.5068393,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,2055,113.5068393,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Rail_Conv,2060,113.5068393,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,2018,163.5474889,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,2020,163.5474889,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,2021,163.5474889,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,2025,159.2757261,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,2030,155.0039633,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,2035,155.0039633,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,2040,155.0039633,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,2045,155.0039633,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,2050,155.0039633,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,2055,155.0039633,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Rail_Electric,2060,155.0039633,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_BEV,2018,1322.407407,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_BEV,2020,1322.407407,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_BEV,2021,1322.407407,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_BEV,2025,1038.287,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_BEV,2030,754.1667,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_BEV,2035,727.0833,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_BEV,2040,700,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_BEV,2045,672.9167,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_BEV,2050,645.8333,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_BEV,2055,645.8333,,MEUR/Gpkm/year,same as 2050 for now,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_BEV,2060,645.8333,,MEUR/Gpkm/year,same as 2050 for now,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,PSNG_Road_H2,2018,2502.685185,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_H2,2020,2502.685185,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_H2,2021,2502.685185,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_H2,2025,1718.2407,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_H2,2030,933.7963,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_H2,2035,864.5833,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_H2,2040,795.3704,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_H2,2045,726.1574,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_H2,2050,656.9444,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_H2,2055,656.9444,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_H2,2060,656.9444,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_ICE,2018,1016.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_ICE,2020,1016.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_ICE,2021,1016.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_ICE,2025,892.0602,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_ICE,2030,767.5926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_ICE,2035,767.5926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_ICE,2040,767.5926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_ICE,2045,767.5926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_ICE,2050,767.5926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_ICE,2055,767.5926,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_ICE,2060,767.5926,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_LNG,2018,1086.62037,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_LNG,2020,1086.62037,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_LNG,2021,1086.62037,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_LNG,2025,958.3565,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_LNG,2030,830.0926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_LNG,2035,830.0926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_LNG,2040,830.0926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_LNG,2045,830.0926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_LNG,2050,830.0926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_LNG,2055,830.0926,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_LNG,2060,830.0926,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,2018,1376.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,2020,1376.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,2021,1376.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,2025,1068.8194,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,2030,761.1111,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,2035,740.0463,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,2040,718.9815,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,2045,697.9167,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,2050,676.8519,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,2055,676.8519,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,PSNG_Road_PHEV,2060,676.8519,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,P_Biomass,2018,2620,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Biomass,2020,2620,,MEUR/GW,Biomass - New Fluidised Bed Boiler- Table 1.7- High cost of slow energy transitions for emerging countries: On the case of Egypt's pathway options- Appendix A Supplementary data,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Biomass,2021,2000,,MEUR/GW,Steam turbine biomass solid conventional-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -1000,17 +890,6 @@ World,P_Biomass_CCS,2045,3255,,MEUR/GW,Steam turbine biomass solid conventional 
 World,P_Biomass_CCS,2050,3205,,MEUR/GW,Steam turbine biomass solid conventional w.CCS- Power&Heat- EU Reference Scenario 2020,08.09.2023,Luka Garibashvili <lukaga@stud.ntnu.no>
 World,P_Biomass_CCS,2055,3205,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Biomass_CCS,2060,3205,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2018,6220.6088,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2020,6189.4705,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2021,6189.4705,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2025,6049.0487,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2030,5908.627,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2035,5376.4284,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2040,4844.2298,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2045,4374.4057,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2050,3904.5815,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2055,3904.5815,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,P_CSP,2060,3904.5815,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Coal_Hardcoal,2018,1650,,MEUR/GW,Steam turbine coal supercritical- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Coal_Hardcoal,2020,1650,,MEUR/GW,Steam turbine coal supercritical- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Coal_Hardcoal,2021,1650,,MEUR/GW,Steam turbine coal supercritical- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
@@ -1055,6 +934,17 @@ World,P_Coal_Lignite_CCS,2045,3315,,MEUR/GW,Integrated gasification lignitel CCS
 World,P_Coal_Lignite_CCS,2050,3270,,MEUR/GW,Integrated gasification lignitel CCS pre combustion-https://energy.ec.europa.eu/data-and-analysis/energy-modelling/eu-reference-scenario-2020_en,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Coal_Lignite_CCS,2055,3270,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Coal_Lignite_CCS,2060,3270,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2018,6220.6088,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2020,6189.4705,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2021,6189.4705,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2025,6049.0487,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2030,5908.627,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2035,5376.4284,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2040,4844.2298,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2045,4374.4057,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2050,3904.5815,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2055,3904.5815,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,P_CSP,2060,3904.5815,,MEUR/GW,partner feedback CIEMAT (data from SOLATOM),22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Gas_CCGT,2018,600,,MEUR/GW,Gas turbine combined cycle gas advanced- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Gas_CCGT,2020,600,,MEUR/GW,Gas turbine combined cycle gas advanced- Power&Heat- EU Reference Scenario 2020,05.09.2023,Stian Backe <stian.backe@sintef.no>
 World,P_Gas_CCGT,2021,935.7679918,,MEUR/GW,Gas Turbine combined cycle extraction natural gas large - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -1308,6 +1198,116 @@ World,P_Wind_Onshore_Opt,2045,1095,,MEUR/GW,Onshore turbines - https://ens.dk/en
 World,P_Wind_Onshore_Opt,2050,1090,,MEUR/GW,Onshore turbines - https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating,20.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_Wind_Onshore_Opt,2055,1090,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_Wind_Onshore_Opt,2060,1090,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2018,395.1802903,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2020,395.1802903,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2021,395.1802903,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2025,379.1987345,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2030,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2035,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2040,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2045,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2050,363,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2055,363,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_Bio,2060,363,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_Conv,2018,395.1802903,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Air_Conv,2020,395.1802903,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Air_Conv,2021,395.1802903,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Conv,2025,379.1987345,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Conv,2030,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Conv,2035,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Conv,2040,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Conv,2045,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Conv,2050,363.2171786,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_Conv,2055,363.2171786,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_Conv,2060,363.2171786,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_H2,2018,464.9179886,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Air_H2,2020,464.9179886,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Air_H2,2021,464.9179886,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_H2,2025,464.9179886,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_H2,2030,464.9179886,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_H2,2035,450.3893015,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_H2,2040,435.8606144,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_H2,2045,431.5020082,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_H2,2050,427.1434021,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Air_H2,2055,427.1434021,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Air_H2,2060,427.1434021,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,2018,120.8298612,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,2020,120.8298612,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,2021,120.8298612,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,2025,117.1683502,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,2030,113.5068393,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,2035,113.5068393,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,2040,113.5068393,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,2045,113.5068393,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,2050,113.5068393,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,2055,113.5068393,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Conv,2060,113.5068393,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,2018,163.5474889,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,2020,163.5474889,,MEUR/Gpkm/year,same as 2021 (see transport.xlsx),24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,2021,163.5474889,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,2025,159.2757261,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,2030,155.0039633,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,2035,155.0039633,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,2040,155.0039633,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,2045,155.0039633,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,2050,155.0039633,,MEUR/Gpkm/year,see transport.xlsx,26.08.2024,Alena Diesing <ad@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,2055,155.0039633,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Rail_Electric,2060,155.0039633,,MEUR/Gpkm/year,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,2018,1322.407407,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_BEV,2020,1322.407407,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_BEV,2021,1322.407407,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_BEV,2025,1038.287,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,2030,754.1667,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,2035,727.0833,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,2040,700,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,2045,672.9167,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,2050,645.8333,,MEUR/Gpkm/year,see transport.xlsx,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,2055,645.8333,,MEUR/Gpkm/year,same as 2050 for now,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_BEV,2060,645.8333,,MEUR/Gpkm/year,same as 2050 for now,24.04.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,PSNG_Road_H2,2018,2502.685185,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_H2,2020,2502.685185,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_H2,2021,2502.685185,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_H2,2025,1718.2407,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_H2,2030,933.7963,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_H2,2035,864.5833,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_H2,2040,795.3704,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_H2,2045,726.1574,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_H2,2050,656.9444,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_H2,2055,656.9444,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_H2,2060,656.9444,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_ICE,2018,1016.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_ICE,2020,1016.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_ICE,2021,1016.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_ICE,2025,892.0602,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_ICE,2030,767.5926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_ICE,2035,767.5926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_ICE,2040,767.5926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_ICE,2045,767.5926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_ICE,2050,767.5926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_ICE,2055,767.5926,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_ICE,2060,767.5926,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_LNG,2018,1086.62037,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_LNG,2020,1086.62037,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_LNG,2021,1086.62037,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_LNG,2025,958.3565,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_LNG,2030,830.0926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_LNG,2035,830.0926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_LNG,2040,830.0926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_LNG,2045,830.0926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_LNG,2050,830.0926,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_LNG,2055,830.0926,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_LNG,2060,830.0926,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,2018,1376.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,2020,1376.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,2021,1376.527778,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,2025,1068.8194,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,2030,761.1111,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,2035,740.0463,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,2040,718.9815,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,2045,697.9167,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,2050,676.8519,,MEUR/Gpkm/year,see transport.xlsx,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,2055,676.8519,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,PSNG_Road_PHEV,2060,676.8519,,MEUR/Gpkm/year,same as 2050 for now,18.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,R_Biogas,2018,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Biogas,2020,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Biogas,2021,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1363,6 +1363,17 @@ World,R_Roundwood,2045,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,N
 World,R_Roundwood,2050,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Roundwood,2055,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Roundwood,2060,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,2018,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,2020,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,2021,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,2025,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,2030,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,2035,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,2040,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,2045,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,2050,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,2055,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Waste,2060,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Wood,2018,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Wood,2020,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,R_Wood,2021,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -1396,6 +1407,17 @@ World,X_Biofuel,2045,731.25,,MEUR/GW,HVO / renwable diesel (upper)- https://ens.
 World,X_Biofuel,2050,713.7,,MEUR/GW,HVO / renwable diesel (upper)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,28.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Biofuel,2055,713.7,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Biofuel,2060,713.7,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Convert_HD,2018,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2020,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2021,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2025,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2030,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2035,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2040,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2045,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2050,1,,MEUR/GW,Model placeholder: nominal cost of a conversion dummy technology; no real-world cost basis,24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+World,X_Convert_HD,2055,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,X_Convert_HD,2060,1,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_DAC_HT,2018,815,,MEUR/GW,"Fasihi, Efimova & Breyer (2019): Techno-economic assessment of CO2 direct air capture plants, J. Clean. Prod. 224, 957-980, Table 7 (p. 970, 'Long-term specifications of DAC and generic costs (conservative scenario)'; base-case alternative Table 6 p. 969: 815/211/122/93): HT DAC (high-temperature aqueous solution) capex, conservative scenario, 815/378/265/222 EUR/(tCO2 a) for 2020/2030/2040/2050 (= MEUR per Mt CO2/a of capture capacity, CapacityToActivityUnit = 1); 2018 = 2020 value, linear interpolation for 2025/2035/2045 - https://doi.org/10.1016/j.jclepro.2019.03.086",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,X_DAC_HT,2020,815,,MEUR/GW,"Fasihi, Efimova & Breyer (2019): Techno-economic assessment of CO2 direct air capture plants, J. Clean. Prod. 224, 957-980, Table 7 (p. 970, 'Long-term specifications of DAC and generic costs (conservative scenario)'; base-case alternative Table 6 p. 969: 815/211/122/93): HT DAC (high-temperature aqueous solution) capex, conservative scenario, 815/378/265/222 EUR/(tCO2 a) for 2020/2030/2040/2050 (= MEUR per Mt CO2/a of capture capacity, CapacityToActivityUnit = 1); 2018 = 2020 value, linear interpolation for 2025/2035/2045 - https://doi.org/10.1016/j.jclepro.2019.03.086",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 World,X_DAC_HT,2021,222,,MEUR/GW,"Fasihi, Efimova & Breyer (2019): Techno-economic assessment of CO2 direct air capture plants, J. Clean. Prod. 224, 957-980, Table 7 (p. 970, 'Long-term specifications of DAC and generic costs (conservative scenario)'; base-case alternative Table 6 p. 969: 815/211/122/93): HT DAC (high-temperature aqueous solution) capex, conservative scenario, 815/378/265/222 EUR/(tCO2 a) for 2020/2030/2040/2050 (= MEUR per Mt CO2/a of capture capacity, CapacityToActivityUnit = 1); 2018 = 2020 value, linear interpolation for 2025/2035/2045 - https://doi.org/10.1016/j.jclepro.2019.03.086",24.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -1495,25 +1517,3 @@ World,X_SMR,2045,1509,,MEUR/GW,"Hydrogen4EU (2021) 10 Annex E: Data documentatio
 World,X_SMR,2050,1509,,MEUR/GW,"Hydrogen4EU (2021) 10 Annex E: Data documentation Table 21 average of SMR medium size decentralized and SMR large size, centralized",04.09.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_SMR,2055,1509,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_SMR,2060,1509,,MEUR/GW,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Waste,2018,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Waste,2020,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Waste,2021,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Waste,2025,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Waste,2030,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Waste,2035,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Waste,2040,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Waste,2045,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Waste,2050,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Waste,2055,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Waste,2060,0.01,,MEUR/GW,assumption: only varible costs,20.06.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HD_Gas_Boiler,2018,192.4107143,,MEUR/GW,same as 2021 (Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HD_Gas_Boiler,2020,192.4107143,,MEUR/GW,same as 2021 (Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants),25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-World,HD_Gas_Boiler,2021,192.4107143,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HD_Gas_Boiler,2025,186.9017857,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HD_Gas_Boiler,2030,183.3125,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HD_Gas_Boiler,2035,178.9732143,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HD_Gas_Boiler,2040,174.6339286,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HD_Gas_Boiler,2045,170.5044643,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HD_Gas_Boiler,2050,166.375,,MEUR/GW,Natural gas boiler- https://ens.dk/en/our-services/technology-catalogues/technology-data-individual-heating-plants,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HD_Gas_Boiler,2055,166.375,,MEUR/GW,same as 2050 for now,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,HD_Gas_Boiler,2060,166.375,,MEUR/GW,same as 2050 for now,02.10.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>

@@ -5,8 +5,8 @@ AT,P_Gas_CCGT,2025,4.225,,GW,set to 2024 installed capacities by entso-e,03.02.2
 AT,P_Hydro_Reservoir,2025,2.519,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,P_Hydro_RoR,2025,5.817,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,P_Oil,2025,0.125,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-AT,P_PV_Utility_Inf,2025,2.4313,,GW,set to 2024 installed capacities by entso-e | installed capacity 7.2940 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,P_PV_Utility_Avg,2025,2.4313,,GW,set to 2024 installed capacities by entso-e | installed capacity 7.2940 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,P_PV_Utility_Inf,2025,2.4313,,GW,set to 2024 installed capacities by entso-e | installed capacity 7.2940 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,P_PV_Utility_Opt,2025,2.4313,,GW,set to 2024 installed capacities by entso-e | installed capacity 7.2940 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,P_Wind_Onshore_Avg,2025,4.021,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,Waste,2025,0.08,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -16,8 +16,8 @@ BE,P_Gas_CCGT,2025,6.995,,GW,set to 2024 installed capacities by entso-e,03.02.2
 BE,P_Hydro_RoR,2025,0.186,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,P_Nuclear,2025,3.929,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,P_Oil,2025,0.452,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-BE,P_PV_Utility_Inf,2025,2.9297,,GW,set to 2024 installed capacities by entso-e | installed capacity 8.7890 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,P_PV_Utility_Avg,2025,2.9297,,GW,set to 2024 installed capacities by entso-e | installed capacity 8.7890 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,P_PV_Utility_Inf,2025,2.9297,,GW,set to 2024 installed capacities by entso-e | installed capacity 8.7890 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,P_PV_Utility_Opt,2025,2.9297,,GW,set to 2024 installed capacities by entso-e | installed capacity 8.7890 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,P_Wind_Offshore_Transitional,2025,2.262,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,P_Wind_Onshore_Avg,2025,3.053,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -30,8 +30,8 @@ BG,P_Gas_CCGT,2025,0.699,,GW,set to 2024 installed capacities by entso-e,03.02.2
 BG,P_Hydro_Reservoir,2025,1.807,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,P_Hydro_RoR,2025,0.542,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,P_Nuclear,2025,2.08,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-BG,P_PV_Utility_Inf,2025,1.3517,,GW,set to 2024 installed capacities by entso-e | installed capacity 4.0550 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,P_PV_Utility_Avg,2025,1.3517,,GW,set to 2024 installed capacities by entso-e | installed capacity 4.0550 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,P_PV_Utility_Inf,2025,1.3517,,GW,set to 2024 installed capacities by entso-e | installed capacity 4.0550 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,P_PV_Utility_Opt,2025,1.3517,,GW,set to 2024 installed capacities by entso-e | installed capacity 4.0550 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,P_Wind_Onshore_Avg,2025,0.705,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 BG,Waste,2025,0.006,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -48,8 +48,8 @@ CZ,P_Gas_CCGT,2025,1.24,,GW,set to 2024 installed capacities by entso-e,03.02.20
 CZ,P_Hydro_Reservoir,2025,0.766,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,P_Hydro_RoR,2025,0.34,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,P_Nuclear,2025,4.04,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-CZ,P_PV_Utility_Inf,2025,1.1827,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.5480 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,P_PV_Utility_Avg,2025,1.1827,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.5480 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,P_PV_Utility_Inf,2025,1.1827,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.5480 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,P_PV_Utility_Opt,2025,1.1827,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.5480 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,P_Wind_Onshore_Avg,2025,0.342,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,Waste,2025,0.1,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -63,14 +63,14 @@ DE,P_Geothermal,All,0.054,,GW,set to 2024 installed capacities by entso-e,03.02.
 DE,P_Hydro_Reservoir,2025,1.381,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,P_Hydro_RoR,2025,3.731,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,P_Oil,2025,4.118,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-DE,P_PV_Utility_Inf,2025,25.5337,,GW,set to 2024 installed capacities by entso-e | installed capacity 76.6010 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,P_PV_Utility_Avg,2025,25.5337,,GW,set to 2024 installed capacities by entso-e | installed capacity 76.6010 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,P_PV_Utility_Inf,2025,25.5337,,GW,set to 2024 installed capacities by entso-e | installed capacity 76.6010 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,P_PV_Utility_Opt,2025,25.5337,,GW,set to 2024 installed capacities by entso-e | installed capacity 76.6010 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,P_Wind_Offshore_Transitional,2025,8.456,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,P_Wind_Onshore_Avg,2025,59.841,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,Waste,2025,1.808,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-DK,P_PV_Utility_Inf,2025,1.2433,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.7300 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,P_PV_Utility_Avg,2025,1.2433,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.7300 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,P_PV_Utility_Inf,2025,1.2433,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.7300 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,P_PV_Utility_Opt,2025,1.2433,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.7300 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,P_Wind_Offshore_Transitional,2025,2.646,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,P_Wind_Onshore_Avg,2025,4.86,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -79,8 +79,8 @@ EE,P_Biomass,2025,0.15,,GW,set to 2024 installed capacities by entso-e,03.02.202
 EE,P_Gas_CCGT,2025,0.015,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,P_Hydro_RoR,2025,0.008,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,P_Oil,2025,1.33,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-EE,P_PV_Utility_Inf,2025,0.2707,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.8120 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,P_PV_Utility_Avg,2025,0.2707,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.8120 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,P_PV_Utility_Inf,2025,0.2707,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.8120 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,P_PV_Utility_Opt,2025,0.2707,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.8120 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,P_Wind_Onshore_Avg,2025,0.447,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,Waste,2025,0.017,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -91,6 +91,12 @@ ES,P_Gas_CCGT,2025,29.873,,GW,set to 2024 installed capacities by entso-e,03.02.
 ES,P_Nuclear,2025,7.117,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,P_Oil,2025,0.704,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 ES,Waste,2025,0.546,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,X_Electrolysis,2035,5,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2040,7,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2045,17,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2050,28,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2055,28,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2060,28,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,Fossil Peat,2025,1.044,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,P_Biomass,2025,1.695,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,P_Coal_Hardcoal,2025,1.41,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -98,8 +104,8 @@ FI,P_Gas_CCGT,2025,1.742,,GW,set to 2024 installed capacities by entso-e,03.02.2
 FI,P_Hydro_RoR,2025,3.173,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,P_Nuclear,2025,4.364,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,P_Oil,2025,1.051,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-FI,P_PV_Utility_Inf,2025,0.0090,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,P_PV_Utility_Avg,2025,0.0090,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FI,P_PV_Utility_Inf,2025,0.0090,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,P_PV_Utility_Opt,2025,0.0090,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,P_Wind_Onshore_Avg,2025,6.618,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,Waste,2025,0.087,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -113,8 +119,8 @@ FR,P_Hydro_RoR,2025,11.598,,GW,set to 2024 installed capacities by entso-e,03.02
 FR,P_Nuclear,2025,61.37,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,P_Ocean,All,0.243,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,P_Oil,2025,3.042,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-FR,P_PV_Utility_Inf,2025,5.8063,,GW,set to 2024 installed capacities by entso-e | installed capacity 17.4190 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,P_PV_Utility_Avg,2025,5.8063,,GW,set to 2024 installed capacities by entso-e | installed capacity 17.4190 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,P_PV_Utility_Inf,2025,5.8063,,GW,set to 2024 installed capacities by entso-e | installed capacity 17.4190 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,P_PV_Utility_Opt,2025,5.8063,,GW,set to 2024 installed capacities by entso-e | installed capacity 17.4190 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,P_Wind_Offshore_Transitional,2025,1.483,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,P_Wind_Onshore_Avg,2025,22.134,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -125,10 +131,15 @@ GR,P_Coal_Lignite,2025,2.65,,GW,set to 2024 installed capacities by entso-e,03.0
 GR,P_Gas_CCGT,2025,6.03,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,P_Hydro_Reservoir,2025,2.403,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,P_Hydro_RoR,2025,0.327,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-GR,P_PV_Utility_Inf,2025,2.2333,,GW,set to 2024 installed capacities by entso-e | installed capacity 6.7000 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,P_PV_Utility_Avg,2025,2.2333,,GW,set to 2024 installed capacities by entso-e | installed capacity 6.7000 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,P_PV_Utility_Inf,2025,2.2333,,GW,set to 2024 installed capacities by entso-e | installed capacity 6.7000 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,P_PV_Utility_Opt,2025,2.2333,,GW,set to 2024 installed capacities by entso-e | installed capacity 6.7000 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,P_Wind_Onshore_Avg,2025,5.065,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,X_Electrolysis,2030,0.2088,,GW,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2035,0.7014,,GW,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2040,1.2982,,GW,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2045,2.1679,,GW,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2050,3.8254,,GW,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,D_PHS,2025,0.281,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,P_Biomass,2025,0.114,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,P_Coal_Hardcoal,2025,0.217,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -137,8 +148,8 @@ HR,P_Geothermal,All,0.01,,GW,set to 2024 installed capacities by entso-e,03.02.2
 HR,P_Hydro_Reservoir,2025,1.446,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,P_Hydro_RoR,2025,0.428,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,P_Oil,2025,0.045,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-HR,P_PV_Utility_Inf,2025,0.0973,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.2920 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,P_PV_Utility_Avg,2025,0.0973,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.2920 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,P_PV_Utility_Inf,2025,0.0973,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.2920 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,P_PV_Utility_Opt,2025,0.0973,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.2920 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,P_Wind_Onshore_Avg,2025,1.209,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,Waste,2025,0.006,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -151,8 +162,8 @@ HU,P_Hydro_Reservoir,2025,0.028,,GW,set to 2024 installed capacities by entso-e,
 HU,P_Hydro_RoR,2025,0.033,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,P_Nuclear,2025,1.916,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,P_Oil,2025,0.425,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-HU,P_PV_Utility_Inf,2025,1.2960,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.8880 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,P_PV_Utility_Avg,2025,1.2960,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.8880 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,P_PV_Utility_Inf,2025,1.2960,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.8880 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,P_PV_Utility_Opt,2025,1.2960,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.8880 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,P_Wind_Onshore_Avg,2025,0.325,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,Waste,2025,0.049,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -173,8 +184,8 @@ IT,P_Geothermal,All,0.868,,GW,set to 2024 installed capacities by entso-e,03.02.
 IT,P_Hydro_Reservoir,2025,4.542,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,P_Hydro_RoR,2025,10.291,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,P_Oil,2025,1.564,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-IT,P_PV_Utility_Inf,2025,1.9757,,GW,set to 2024 installed capacities by entso-e | installed capacity 5.9270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,P_PV_Utility_Avg,2025,1.9757,,GW,set to 2024 installed capacities by entso-e | installed capacity 5.9270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,P_PV_Utility_Inf,2025,1.9757,,GW,set to 2024 installed capacities by entso-e | installed capacity 5.9270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,P_PV_Utility_Opt,2025,1.9757,,GW,set to 2024 installed capacities by entso-e | installed capacity 5.9270 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,P_Wind_Offshore_Transitional,2025,0.03,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,P_Wind_Onshore_Avg,2025,11.651,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -183,8 +194,8 @@ LT,D_PHS,2025,0.9,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Kon
 LT,P_Biomass,2025,0.196,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,P_Gas_CCGT,2025,1.503,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,P_Hydro_RoR,2025,0.129,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-LT,P_PV_Utility_Inf,2025,0.3883,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.1650 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,P_PV_Utility_Avg,2025,0.3883,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.1650 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,P_PV_Utility_Inf,2025,0.3883,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.1650 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,P_PV_Utility_Opt,2025,0.3883,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.1650 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,P_Wind_Onshore_Avg,2025,1.288,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,Waste,2025,0.07,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -192,16 +203,16 @@ LU,P_Biomass,2025,0.083,,GW,set to 2024 installed capacities by entso-e,03.02.20
 LU,P_Gas_CCGT,2025,0.072,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,P_Hydro_Reservoir,2025,0.011,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,P_Hydro_RoR,2025,0.022,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-LU,P_PV_Utility_Inf,2025,0.1383,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.4150 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,P_PV_Utility_Avg,2025,0.1383,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.4150 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,P_PV_Utility_Inf,2025,0.1383,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.4150 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,P_PV_Utility_Opt,2025,0.1383,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.4150 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,P_Wind_Onshore_Avg,2025,0.208,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,Waste,2025,0.024,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,P_Biomass,2025,0.166,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,P_Gas_CCGT,2025,1.112,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,P_Hydro_RoR,2025,1.588,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-LV,P_PV_Utility_Inf,2025,0.1010,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.3030 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,P_PV_Utility_Avg,2025,0.1010,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.3030 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,P_PV_Utility_Inf,2025,0.1010,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.3030 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,P_PV_Utility_Opt,2025,0.1010,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.3030 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,P_Wind_Onshore_Avg,2025,0.136,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,P_Biomass,2025,0.415,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -209,8 +220,8 @@ NL,P_Coal_Hardcoal,2025,4.006,,GW,set to 2024 installed capacities by entso-e,03
 NL,P_Gas_CCGT,2025,18.351,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,P_Hydro_RoR,2025,0.038,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,P_Nuclear,2025,0.486,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-NL,P_PV_Utility_Inf,2025,8.0870,,GW,set to 2024 installed capacities by entso-e | installed capacity 24.2610 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,P_PV_Utility_Avg,2025,8.0870,,GW,set to 2024 installed capacities by entso-e | installed capacity 24.2610 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,P_PV_Utility_Inf,2025,8.0870,,GW,set to 2024 installed capacities by entso-e | installed capacity 24.2610 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,P_PV_Utility_Opt,2025,8.0870,,GW,set to 2024 installed capacities by entso-e | installed capacity 24.2610 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,P_Wind_Offshore_Transitional,2025,3.978,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,P_Wind_Onshore_Avg,2025,6.812,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -220,8 +231,8 @@ NO,P_Biomass,2025,0.014,,GW,set to 2024 installed capacities by entso-e,03.02.20
 NO,P_Gas_CCGT,2025,0.473,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,P_Hydro_Reservoir,2025,26.66,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,P_Hydro_RoR,2025,6.875,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-NO,P_PV_Utility_Inf,2025,0.0030,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,P_PV_Utility_Avg,2025,0.0030,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,P_PV_Utility_Inf,2025,0.0030,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,P_PV_Utility_Opt,2025,0.0030,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,P_Wind_Onshore_Opt,2025,5.133,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,Waste,2025,0.092,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -232,8 +243,8 @@ NONEU_Balkan,P_Gas_CCGT,2025,0.858,,GW,set to 2024 installed capacities by entso
 NONEU_Balkan,P_Hydro_Reservoir,2025,2.962676,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,P_Hydro_RoR,2025,2.645527,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,P_Oil,2025,0.165097,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-NONEU_Balkan,P_PV_Utility_Inf,2025,0.0197,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0592 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,P_PV_Utility_Avg,2025,0.0197,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0592 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+NONEU_Balkan,P_PV_Utility_Inf,2025,0.0197,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0592 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,P_PV_Utility_Opt,2025,0.0197,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.0592 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,P_Wind_Onshore_Avg,2025,1.072,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,D_PHS,2025,1.589,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -245,8 +256,8 @@ PL,P_Gas_CCGT,2025,5.162,,GW,set to 2024 installed capacities by entso-e,03.02.2
 PL,P_Hydro_Reservoir,2025,0.468,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,P_Hydro_RoR,2025,0.321,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,P_Oil,2025,0.393,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-PL,P_PV_Utility_Inf,2025,4.8697,,GW,set to 2024 installed capacities by entso-e | installed capacity 14.6090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,P_PV_Utility_Avg,2025,4.8697,,GW,set to 2024 installed capacities by entso-e | installed capacity 14.6090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,P_PV_Utility_Inf,2025,4.8697,,GW,set to 2024 installed capacities by entso-e | installed capacity 14.6090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,P_PV_Utility_Opt,2025,4.8697,,GW,set to 2024 installed capacities by entso-e | installed capacity 14.6090 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,P_Wind_Onshore_Avg,2025,9.583,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,D_PHS,2025,3.707,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -254,8 +265,8 @@ PT,P_Biomass,2025,0.681,,GW,set to 2024 installed capacities by entso-e,03.02.20
 PT,P_Gas_CCGT,2025,4.433,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,P_Hydro_Reservoir,2025,1.629,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,P_Hydro_RoR,2025,2.856,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-PT,P_PV_Utility_Inf,2025,0.6037,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.8110 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,P_PV_Utility_Avg,2025,0.6037,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.8110 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,P_PV_Utility_Inf,2025,0.6037,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.8110 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,P_PV_Utility_Opt,2025,0.6037,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.8110 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,P_Wind_Offshore_Transitional,2025,0.025,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 PT,P_Wind_Onshore_Avg,2025,5.333,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -266,14 +277,14 @@ RO,P_Gas_CCGT,2025,2.238,,GW,set to 2024 installed capacities by entso-e,03.02.2
 RO,P_Hydro_Reservoir,2025,3.359,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,P_Hydro_RoR,2025,2.78,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,P_Nuclear,2025,1.3,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-RO,P_PV_Utility_Inf,2025,0.4310,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.2930 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,P_PV_Utility_Avg,2025,0.4310,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.2930 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,P_PV_Utility_Inf,2025,0.4310,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.2930 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,P_PV_Utility_Opt,2025,0.4310,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.2930 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,P_Wind_Onshore_Avg,2025,2.958,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,P_Hydro_Reservoir,2025,16.3,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,P_Nuclear,2025,6.9,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-SE,P_PV_Utility_Inf,2025,1.0667,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.2000 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,P_PV_Utility_Avg,2025,1.0667,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.2000 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SE,P_PV_Utility_Inf,2025,1.0667,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.2000 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,P_PV_Utility_Opt,2025,1.0667,,GW,set to 2024 installed capacities by entso-e | installed capacity 3.2000 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,P_Wind_Onshore_Avg,2025,16.7,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,D_PHS,2025,0.18,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -283,8 +294,8 @@ SI,P_Gas_CCGT,2025,0.756,,GW,set to 2024 installed capacities by entso-e,03.02.2
 SI,P_Hydro_RoR,2025,1.125,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,P_Nuclear,2025,0.696,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,P_Oil,2025,0.058,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-SI,P_PV_Utility_Inf,2025,0.3700,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.1100 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,P_PV_Utility_Avg,2025,0.3700,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.1100 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,P_PV_Utility_Inf,2025,0.3700,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.1100 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,P_PV_Utility_Opt,2025,0.3700,,GW,set to 2024 installed capacities by entso-e | installed capacity 1.1100 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,P_Wind_Onshore_Avg,2025,0.003,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,Waste,2025,0.006,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -297,8 +308,8 @@ SK,P_Hydro_Reservoir,2025,0.418,,GW,set to 2024 installed capacities by entso-e,
 SK,P_Hydro_RoR,2025,1.212,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,P_Nuclear,2025,2.003,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,P_Oil,2025,0.259,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-SK,P_PV_Utility_Inf,2025,0.1773,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.5320 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,P_PV_Utility_Avg,2025,0.1773,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.5320 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,P_PV_Utility_Inf,2025,0.1773,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.5320 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,P_PV_Utility_Opt,2025,0.1773,,GW,set to 2024 installed capacities by entso-e | installed capacity 0.5320 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,P_Wind_Onshore_Avg,2025,0.003,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,D_PHS,2025,4.309,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -308,19 +319,8 @@ UK,P_Gas_CCGT,2025,41.371,,GW,set to 2024 installed capacities by entso-e,03.02.
 UK,P_Hydro_RoR,2025,1.919,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_Nuclear,2025,8.256,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_Oil,2025,0.316,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-UK,P_PV_Utility_Inf,2025,4.4900,,GW,set to 2024 installed capacities by entso-e | installed capacity 13.4700 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_PV_Utility_Avg,2025,4.4900,,GW,set to 2024 installed capacities by entso-e | installed capacity 13.4700 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,P_PV_Utility_Inf,2025,4.4900,,GW,set to 2024 installed capacities by entso-e | installed capacity 13.4700 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_PV_Utility_Opt,2025,4.4900,,GW,set to 2024 installed capacities by entso-e | installed capacity 13.4700 GW split evenly over the Inf/Avg/Opt classes,25.10.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_Wind_Offshore_Transitional,2025,12.16,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,P_Wind_Onshore_Avg,2025,13.932,,GW,set to 2024 installed capacities by entso-e,03.02.2026,Konstantin Loffler <kl@wip.tu-berlin.de>
-ES,X_Electrolysis,2035,5,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,X_Electrolysis,2040,7,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,X_Electrolysis,2045,17,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,X_Electrolysis,2050,28,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,X_Electrolysis,2055,28,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,X_Electrolysis,2060,28,,GW,partner feedback CIEMAT,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2030,0.2088,,GW,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2035,0.7014,,GW,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2040,1.2982,,GW,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2045,2.1679,,GW,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2050,3.8254,,GW,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>

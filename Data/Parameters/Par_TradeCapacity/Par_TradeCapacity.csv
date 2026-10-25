@@ -1,188 +1,226 @@
 Region,Region.1,Fuel,Year,Value,,Unit,Source,Updated at,Updated by
-AT,DE,Gas_Natural,All,568.6889,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,DE_BY,Gas_Natural,All,834.849,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,HU,Gas_Natural,All,185.0579,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,IT,Gas_Natural,All,1633.042,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,SI,Gas_Natural,All,160.5055,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-AT,SK,Gas_Natural,All,353.1407,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,DE,Gas_Natural,All,446.6692,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,DE_NRW,Gas_Natural,All,380.373,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,FR,Gas_Natural,All,1116.81,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,LU,Gas_Natural,All,54.2152,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,NL,Gas_Natural,All,516.361,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-BE,UK,Gas_Natural,All,1146.2235,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,GR,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,NONEU_Balkan,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,RO,Gas_Natural,All,20.5162,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-BG,TR,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CH,DE_BW,Gas_Natural,All,227.041,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CH,FR,Gas_Natural,All,131.389,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CH,IT,Gas_Natural,All,888.2223,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE,Gas_Natural,All,1575.6649,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_BY,Gas_Natural,All,1191.57,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,DE_SN,Gas_Natural,All,260.545,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,PL,Gas_Natural,All,36.7891,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-CZ,SK,Gas_Natural,All,994.1356,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,AT,Gas_Natural,All,517.0418,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,BE,Gas_Natural,All,502.4893,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CH,Gas_Natural,All,830.3343,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,CZ,Gas_Natural,All,2641.1206,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,DK,Gas_Natural,All,144.3334,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,FR,Gas_Natural,All,823.3577,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,LU,Gas_Natural,All,55.2139,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,NL,Gas_Natural,All,1329.4267,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE,PL,Gas_Natural,All,303.919,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_MV,Gas_Natural,All,913.409,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_SN,Gas_Natural,All,2046.42,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,DE_ST,Gas_Natural,All,3261.64,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BB,PL,Gas_Natural,All,306.794,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BW,CH,Gas_Natural,All,429.249,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BW,DE_BY,Gas_Natural,All,291.397,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BW,DE_RP,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BY,AT,Gas_Natural,All,804.104,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BY,DE_BW,Gas_Natural,All,78.1343,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_BY,DE_HE,Gas_Natural,All,1764.63,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BW,Gas_Natural,All,445.461,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_BY,Gas_Natural,All,787.933,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_NRW,Gas_Natural,All,755.143,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_HE,DE_RP,Gas_Natural,All,926.304,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_MV,DE_BB,Gas_Natural,All,1932.72,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_MV,DE_NI,Gas_Natural,All,1899.98,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NI,DE_HB,Gas_Natural,All,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NI,DE_HH,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NI,DE_NRW,Gas_Natural,All,1234.41,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NI,DE_SH,Gas_Natural,All,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NI,DE_ST,Gas_Natural,All,1165.46,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NI,NL,Gas_Natural,All,750.103,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,BE,Gas_Natural,All,525.558,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_HE,Gas_Natural,All,1144.92,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_NI,Gas_Natural,All,1739.25,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,DE_RP,Gas_Natural,All,1771.43,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_NRW,NL,Gas_Natural,All,122.981,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_BW,Gas_Natural,All,1414.45,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_HE,Gas_Natural,All,1714.24,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_NRW,Gas_Natural,All,445.461,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_RP,DE_SL,Gas_Natural,All,727.414,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_HH,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_MV,Gas_Natural,All,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DE_NI,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SH,DK,Gas_Natural,All,218.763,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SL,FR,Gas_Natural,All,795.826,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SN,CZ,Gas_Natural,All,1847.34,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SN,DE_BB,Gas_Natural,All,603.805,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SN,DE_ST,Gas_Natural,All,1399.75,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_SN,DE_TH,Gas_Natural,All,1153.34,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_ST,DE_BB,Gas_Natural,All,2250.25,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_ST,DE_SN,Gas_Natural,All,503.427,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_ST,DE_TH,Gas_Natural,All,1232.57,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_HE,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_SN,Gas_Natural,All,196.188,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DE_TH,DE_ST,Gas_Natural,All,67.1074,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,DE,Gas_Natural,All,129.8711,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,DE_SH,Gas_Natural,All,119.564,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,NL,Gas_Natural,All,564.9794,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-DK,SE,Gas_Natural,All,125.551,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-EE,LV,Gas_Natural,All,285.3432,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,FR,Gas_Natural,All,321.011,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-ES,PT,Gas_Natural,All,205.4471,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,BE,Gas_Natural,All,354.752,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,CH,Gas_Natural,All,342.138,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,DE,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-FR,ES,Gas_Natural,All,235.4081,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-HR,HU,Gas_Natural,All,108.4304,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,HR,Gas_Natural,All,109.4291,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,NONEU_Balkan,Gas_Natural,All,202.6864,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-HU,RO,Gas_Natural,All,73.6185,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-IE,UK,Gas_Natural,All,126.9777,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,AT,Gas_Natural,All,1633.042,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,CH,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-IT,SI,Gas_Natural,All,40.3761,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-LT,LV,Gas_Natural,All,96.1606,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,EE,Gas_Natural,All,261.089,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-LV,LT,Gas_Natural,All,92.7365,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,BE,Gas_Natural,All,1887.85,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE,Gas_Natural,All,2629.8277,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NI,Gas_Natural,All,660.889,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,DE_NRW,Gas_Natural,All,1313.89,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NL,UK,Gas_Natural,All,704.7976,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NO,BE,Gas_Natural,All,616.12,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NO,DE,Gas_Natural,All,2354.98,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NO,FR,Gas_Natural,All,800.08,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NO,NL,Gas_Natural,All,754.7612,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-NO,UK,Gas_Natural,All,2576.82,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-GR,NONEU_Balkan,Gas_Natural,All,20.2594,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE,Gas_Natural,All,1328.3295,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PL,DE_BB,Gas_Natural,All,1223.89,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-PT,ES,Gas_Natural,All,114.1373,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,BG,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-RO,HU,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,AT,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,HR,Gas_Natural,All,76.6146,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SI,IT,Gas_Natural,All,30.5241,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,AT,Gas_Natural,All,2196.0009,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,CZ,Gas_Natural,All,741.8922,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-SK,HU,Gas_Natural,All,181.143,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-TR,GR,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,BE,Gas_Natural,All,898.9736,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,IE,Gas_Natural,All,487.9368,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
-UK,NL,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,CH,Power,All,1.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 AT,CZ,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,DE,Gas_Natural,All,568.6889,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,DE,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,DE_BW,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+AT,DE_BY,Gas_Natural,All,834.849,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+AT,DE_BY,Power,All,7,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+AT,HU,Gas_Natural,All,185.0579,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,HU,Power,All,0.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,IT,Gas_Natural,All,1633.042,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,IT,Power,All,0.41,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,SI,Gas_Natural,All,160.5055,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,SI,Power,All,0.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+AT,SK,Gas_Natural,All,353.1407,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 AT,SK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,DE,Gas_Natural,All,446.6692,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,DE,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,DE_NRW,Gas_Natural,All,380.373,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,DK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,FR,Gas_Natural,All,1116.81,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,FR,Power,All,2.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,LU,Gas_Natural,All,54.2152,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,LU,Power,All,0.68,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,NL,Gas_Natural,All,516.361,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,NL,Power,All,2.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 BE,OBZ,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BE,UK,Gas_Natural,All,1146.2235,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 BE,UK,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,GR,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,GR,Power,All,0.77,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,NONEU_Balkan,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,NONEU_Balkan,Power,All,0.82,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,RO,Gas_Natural,All,20.5162,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,RO,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+BG,TR,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 BG,TR,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,AT,Power,All,1.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CH,DE,Power,All,4.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,DE_BW,Gas_Natural,All,227.041,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+CH,DE_BW,Power,All,13.78,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+CH,FR,Gas_Natural,All,131.389,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CH,FR,Power,All,3.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CH,IT,Gas_Natural,All,888.2223,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CH,IT,Power,All,3.75,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 CZ,AT,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,DE,Gas_Natural,All,1575.6649,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,DE,Power,All,1.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,DE_BY,Gas_Natural,All,1191.57,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+CZ,DE_BY,Power,All,2.807,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+CZ,DE_SN,Gas_Natural,All,260.545,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+CZ,DE_SN,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+CZ,PL,Gas_Natural,All,36.7891,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,PL,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+CZ,SK,Gas_Natural,All,994.1356,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 CZ,SK,Power,All,1.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,AT,Gas_Natural,All,517.0418,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,AT,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,BE,Gas_Natural,All,502.4893,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,BE,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,CH,Gas_Natural,All,830.3343,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,CH,Power,All,4.2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,CZ,Gas_Natural,All,2641.1206,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,CZ,Power,All,1.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,DK,Gas_Natural,All,144.3334,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,DK,Power,All,3.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,FR,Gas_Natural,All,823.3577,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,FR,Power,All,3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,LU,Gas_Natural,All,55.2139,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,LU,Power,All,2.3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,NL,Gas_Natural,All,1329.4267,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,NL,Power,All,3.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,NO,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,OBZ,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE,PL,Gas_Natural,All,303.919,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,PL,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,SE,Power,All,0.615,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DE,UK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DE_BB,DE_BE,Gas_Natural,All,400,,PJ,ONTRAS/GASCADE network; BE-BB link missing in SciGRID_gas,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BB,DE_BE,Power,All,9.094,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,DE_MV,Gas_Natural,All,913.409,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BB,DE_MV,Power,All,6,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,DE_SN,Gas_Natural,All,2046.42,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BB,DE_SN,Power,All,8.69,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,DE_ST,Gas_Natural,All,3261.64,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BB,DE_ST,Power,All,10.902,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BB,PL,Gas_Natural,All,306.794,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BB,PL,Power,All,1.044,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BE,DE_BB,Gas_Natural,All,400,,PJ,ONTRAS/GASCADE network; BE-BB link missing in SciGRID_gas,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE_BE,DE_BB,Power,All,9.094,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,AT,Power,All,3.43,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,CH,Gas_Natural,All,429.249,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BW,CH,Power,All,14,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,DE_BY,Gas_Natural,All,291.397,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BW,DE_BY,Power,All,15.379,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,DE_HE,Power,All,10.918,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,DE_RP,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BW,DE_RP,Power,All,3.508,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BW,FR,Power,All,2.478,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,AT,Gas_Natural,All,804.104,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BY,AT,Power,All,6.69,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,CZ,Power,All,2.807,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_BW,Gas_Natural,All,78.1343,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BY,DE_BW,Power,All,15.379,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_HE,Gas_Natural,All,1764.63,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_BY,DE_HE,Power,All,6,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_SN,Power,All,0.776,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_BY,DE_TH,Power,All,9.476,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HB,DE_NI,Power,All,7,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_BW,Gas_Natural,All,445.461,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_HE,DE_BW,Power,All,11,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_BY,Gas_Natural,All,787.933,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_HE,DE_BY,Power,All,6.368,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_NI,Power,All,3.345,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_NRW,Gas_Natural,All,755.143,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_HE,DE_NRW,Power,All,27.296,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_RP,Gas_Natural,All,926.304,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_HE,DE_RP,Power,All,13.257,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HE,DE_TH,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,DE_NI,Power,All,3.396,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_HH,DE_SH,Power,All,14,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,DE_BB,Gas_Natural,All,1932.72,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_MV,DE_BB,Power,All,6,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_MV,DE_NI,Gas_Natural,All,1899.98,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_MV,DE_SH,Power,All,3.554,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_HB,Gas_Natural,All,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,DE_HB,Power,All,6.541,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_HE,Power,All,3.345,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_HH,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,DE_HH,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_NRW,Gas_Natural,All,1234.41,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,DE_NRW,Power,All,33,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_SH,Gas_Natural,All,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,DE_SH,Power,All,7,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,DE_ST,Gas_Natural,All,1165.46,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,DE_ST,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NI,NL,Gas_Natural,All,750.103,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NI,NL,Power,All,5,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,BE,Gas_Natural,All,525.558,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,DE_HE,Gas_Natural,All,1144.92,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,DE_HE,Power,All,27,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,DE_NI,Gas_Natural,All,1739.25,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,DE_NI,Power,All,33,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,DE_RP,Gas_Natural,All,1771.43,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,DE_RP,Power,All,18,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_NRW,NL,Gas_Natural,All,122.981,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_NRW,NL,Power,All,8.528,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_BW,Gas_Natural,All,1414.45,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_RP,DE_BW,Power,All,4,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_HE,Gas_Natural,All,1714.24,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_RP,DE_HE,Power,All,13.257,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_NRW,Gas_Natural,All,445.461,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_RP,DE_NRW,Power,All,18,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,DE_SL,Gas_Natural,All,727.414,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_RP,DE_SL,Power,All,10.229,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_RP,LU,Power,All,0.984,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,DE_HH,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SH,DE_HH,Power,All,14.222,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,DE_MV,Gas_Natural,All,49.4488,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SH,DE_MV,Power,All,3.554,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,DE_NI,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SH,DE_NI,Power,All,7.306,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SH,DK,Gas_Natural,All,218.763,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SH,DK,Power,All,3.618,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,DE_RP,Power,All,10.229,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SL,FR,Gas_Natural,All,795.826,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SL,FR,Power,All,4,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,CZ,Gas_Natural,All,1847.34,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SN,CZ,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_BB,Gas_Natural,All,603.805,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SN,DE_BB,Power,All,8.69,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_BY,Power,All,0.776,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_ST,Gas_Natural,All,1399.75,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SN,DE_ST,Power,All,0.709,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,DE_TH,Gas_Natural,All,1153.34,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_SN,DE_TH,Power,All,18.804,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_SN,PL,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_BB,Gas_Natural,All,2250.25,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_ST,DE_BB,Power,All,11,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_NI,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_SN,Gas_Natural,All,503.427,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_ST,DE_SN,Power,All,0.709,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_ST,DE_TH,Gas_Natural,All,1232.57,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_ST,DE_TH,Power,All,4.738,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_BY,Power,All,9,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_HE,Gas_Natural,All,356.987,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_TH,DE_HE,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_SN,Gas_Natural,All,196.188,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_TH,DE_SN,Power,All,18.804,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DE_TH,DE_ST,Gas_Natural,All,67.1074,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DE_TH,DE_ST,Power,All,4.738,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
 DK,BE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,DE,Gas_Natural,All,129.8711,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,DE,Power,All,3.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,DE_SH,Gas_Natural,All,119.564,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+DK,DE_SH,Power,All,3.618,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+DK,NL,Gas_Natural,All,564.9794,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,NL,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,NO,Power,All,1.64,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,OBZ,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,PL,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+DK,SE,Gas_Natural,All,125.551,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,SE,Power,All,2.45,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 DK,UK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 EE,FI,Power,All,1.016,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+EE,LV,Gas_Natural,All,285.3432,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,LV,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,FR,Gas_Natural,All,321.011,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,FR,Power,All,2.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+ES,PT,Gas_Natural,All,205.4471,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,PT,Power,All,2.3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,EE,Power,All,1.016,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,NO,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FI,SE,Power,All,2.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,BE,Gas_Natural,All,354.752,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 FR,BE,Power,All,2.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,CH,Gas_Natural,All,342.138,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 FR,CH,Power,All,3.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,DE,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 FR,DE,Power,All,3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+FR,DE_BW,Power,All,2.478,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+FR,DE_SL,Power,All,3.862,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+FR,ES,Gas_Natural,All,235.4081,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 FR,ES,Power,All,2.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,IE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 FR,IT,Power,All,2.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -190,44 +228,69 @@ FR,LU,Power,All,0.38,,GW,https://ember-climate.org/data/data-tools/electricity-i
 FR,UK,Power,All,3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,BG,Power,All,1.1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,IT,Power,All,0.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+GR,NONEU_Balkan,Gas_Natural,All,20.2594,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,NONEU_Balkan,Power,All,1.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 GR,TR,Power,All,0.66,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HR,HU,Gas_Natural,All,108.4304,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 HR,HU,Power,All,1.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,NONEU_Balkan,Power,All,1.25,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HR,SI,Power,All,2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,AT,Power,All,0.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,HR,Gas_Natural,All,109.4291,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 HU,HR,Power,All,1.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,NONEU_Balkan,Gas_Natural,All,202.6864,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 HU,NONEU_Balkan,Power,All,0.75,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+HU,RO,Gas_Natural,All,73.6185,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 HU,RO,Power,All,1.1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,SI,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 HU,SK,Power,All,1.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IE,FR,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IE,UK,Gas_Natural,All,126.9777,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 IE,UK,Power,All,0.63,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,AT,Gas_Natural,All,1633.042,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 IT,AT,Power,All,0.41,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,CH,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 IT,CH,Power,All,3.75,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,FR,Power,All,3.1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,GR,Power,All,0.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 IT,NONEU_Balkan,Power,All,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+IT,SI,Gas_Natural,All,40.3761,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 IT,SI,Power,All,0.66,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LT,LV,Gas_Natural,All,96.1606,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 LT,LV,Power,All,0.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,PL,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LT,SE,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,BE,Power,All,0.68,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LU,DE,Power,All,2.3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LU,DE_RP,Power,All,0.984,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
 LU,FR,Power,All,0.38,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,EE,Gas_Natural,All,261.089,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 LV,EE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+LV,LT,Gas_Natural,All,92.7365,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 LV,LT,Power,All,0.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 LV,SE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,BE,Gas_Natural,All,1887.85,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 NL,BE,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,DE,Gas_Natural,All,2629.8277,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 NL,DE,Power,All,3.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,DE_NI,Gas_Natural,All,660.889,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NL,DE_NI,Power,All,5.301,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+NL,DE_NRW,Gas_Natural,All,1313.89,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NL,DE_NRW,Power,All,8.528,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
 NL,DK,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NL,NO,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NL,UK,Gas_Natural,All,704.7976,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 NL,UK,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,BE,Gas_Natural,All,616.12,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NO,DE,Gas_Natural,All,2354.98,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 NO,DE,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,DK,Power,All,1.64,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,FI,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,FR,Gas_Natural,All,800.08,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+NO,NL,Gas_Natural,All,754.7612,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 NO,NL,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NO,SE,Power,All,3.695,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+NO,UK,Gas_Natural,All,2576.82,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 NO,UK,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,BG,Power,All,0.82,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,GR,Power,All,1.5,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -236,13 +299,20 @@ NONEU_Balkan,HU,Power,All,0.75,,GW,https://ember-climate.org/data/data-tools/ele
 NONEU_Balkan,IT,Power,All,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 NONEU_Balkan,RO,Power,All,0.68,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,CZ,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,DE,Gas_Natural,All,1328.3295,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,DE,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PL,DE_BB,Gas_Natural,All,1223.89,,PJ,SciGRID_gas_IGGIELGN,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
+PL,DE_BB,Power,All,1.044,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
+PL,DE_SN,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
 PL,DK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,LT,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,SE,Power,All,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 PL,SK,Power,All,1.98,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+PT,ES,Gas_Natural,All,114.1373,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 PT,ES,Power,All,2.7,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,BG,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,BG,Power,All,0.9,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+RO,HU,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,HU,Power,All,1.1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 RO,NONEU_Balkan,Power,All,0.68,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,DE,Power,All,0.615,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
@@ -252,100 +322,30 @@ SE,LT,Power,All,0.7,,GW,https://ember-climate.org/data/data-tools/electricity-in
 SE,LV,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,NO,Power,All,3.695,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SE,PL,Power,All,0.6,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,AT,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,AT,Power,All,0.95,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,HR,Gas_Natural,All,76.6146,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,HR,Power,All,2,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SI,HU,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SI,IT,Gas_Natural,All,30.5241,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,IT,Power,All,0.66,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,AT,Gas_Natural,All,2196.0009,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 SK,AT,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,CZ,Gas_Natural,All,741.8922,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 SK,CZ,Power,All,1.8,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+SK,HU,Gas_Natural,All,181.143,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 SK,HU,Power,All,1.3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 SK,PL,Power,All,1.98,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 TR,BG,Power,All,0.9,,GW,assumption: symmetrical to BG-TR,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+TR,GR,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 TR,GR,Power,All,0.66,,GW,assumption: symmetrical to GR-TR,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,BE,Gas_Natural,All,898.9736,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 UK,BE,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,DE,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,DK,Power,All,0,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,FR,Power,All,3,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,IE,Gas_Natural,All,487.9368,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 UK,IE,Power,All,0.63,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
+UK,NL,Gas_Natural,All,0,,PJ,EntsoG2019,20.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 UK,NL,Power,All,1,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
 UK,NO,Power,All,1.4,,GW,https://ember-climate.org/data/data-tools/electricity-interconnection-europe/,20.02.2025,Konstantin Loffler <kl@wip.tu-berlin.de>
-AT,DE_BW,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-AT,DE_BY,Power,All,7,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-CH,DE_BW,Power,All,13.78,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-CZ,DE_BY,Power,All,2.807,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-CZ,DE_SN,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,DE_BE,Power,All,9.094,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,DE_MV,Power,All,6,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,DE_SN,Power,All,8.69,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,DE_ST,Power,All,10.902,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,PL,Power,All,1.044,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BE,DE_BB,Power,All,9.094,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,AT,Power,All,3.43,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,CH,Power,All,14,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,DE_BY,Power,All,15.379,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,DE_HE,Power,All,10.918,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,DE_RP,Power,All,3.508,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BW,FR,Power,All,2.478,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,AT,Power,All,6.69,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,CZ,Power,All,2.807,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,DE_BW,Power,All,15.379,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,DE_HE,Power,All,6,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,DE_TH,Power,All,9.476,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BY,DE_SN,Power,All,0.776,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HB,DE_NI,Power,All,7,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,DE_BW,Power,All,11,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,DE_BY,Power,All,6.368,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,DE_NI,Power,All,3.345,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,DE_NRW,Power,All,27.296,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,DE_RP,Power,All,13.257,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HE,DE_TH,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,DE_NI,Power,All,3.396,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_HH,DE_SH,Power,All,14,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,DE_BB,Power,All,6,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_MV,DE_SH,Power,All,3.554,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,DE_HB,Power,All,6.541,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,DE_HE,Power,All,3.345,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,DE_HH,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,DE_NRW,Power,All,33,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,DE_SH,Power,All,7,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,DE_ST,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NI,NL,Power,All,5,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,DE_HE,Power,All,27,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,DE_NI,Power,All,33,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,DE_RP,Power,All,18,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_NRW,NL,Power,All,8.528,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,DE_BW,Power,All,4,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,DE_HE,Power,All,13.257,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,DE_NRW,Power,All,18,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,DE_SL,Power,All,10.229,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_RP,LU,Power,All,0.984,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,DE_HH,Power,All,14.222,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,DE_MV,Power,All,3.554,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,DE_NI,Power,All,7.306,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SH,DK,Power,All,3.618,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,DE_RP,Power,All,10.229,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SL,FR,Power,All,4,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,CZ,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,DE_BB,Power,All,8.69,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,DE_ST,Power,All,0.709,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,DE_TH,Power,All,18.804,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,PL,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_SN,DE_BY,Power,All,0.776,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,DE_BB,Power,All,11,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,DE_NI,Power,All,3,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,DE_SN,Power,All,0.709,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_ST,DE_TH,Power,All,4.738,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,DE_BY,Power,All,9,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,DE_HE,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,DE_SN,Power,All,18.804,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_TH,DE_ST,Power,All,4.738,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DK,DE_SH,Power,All,3.618,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-FR,DE_SL,Power,All,3.862,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-FR,DE_BW,Power,All,2.478,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-LU,DE_RP,Power,All,0.984,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-NL,DE_NI,Power,All,5.301,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-NL,DE_NRW,Power,All,8.528,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-PL,DE_BB,Power,All,1.044,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-PL,DE_SN,Power,All,3.318,,GW,Leitungen | uebertragungsnetz.de,11.12.2025,Julian Bornemann <jb@wip.tu-berlin.de>
-DE_BB,DE_BE,Gas_Natural,All,400,,PJ,ONTRAS/GASCADE network; BE-BB link missing in SciGRID_gas,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE_BE,DE_BB,Gas_Natural,All,400,,PJ,ONTRAS/GASCADE network; BE-BB link missing in SciGRID_gas,28.09.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>

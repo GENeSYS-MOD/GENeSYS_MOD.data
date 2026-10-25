@@ -419,6 +419,7 @@ DE,R_Wood,2045,19.49968815,,PJ,Biomass Future Atlas of Technical and Economic Bi
 DE,R_Wood,2050,18.89130633,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DE,R_Wood,2055,18.89130633,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DE,R_Wood,2060,18.89130633,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+DE,Z_Import_Gas,All,2000,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 DK,R_Biogas,2018,0.71845488,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,R_Biogas,2020,0.879228,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 DK,R_Biogas,2025,0.8551539,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -539,6 +540,16 @@ EE,R_Wood,2045,0.734343786,,PJ,Biomass Future Atlas of Technical and Economic Bi
 EE,R_Wood,2050,0.663565932,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 EE,R_Wood,2055,0.663565932,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,R_Wood,2060,0.663565932,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Z_Import_Gas,2018,94.8708,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Z_Import_Gas,2021,325.229,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Z_Import_Gas,2025,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Z_Import_Gas,2030,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Z_Import_Gas,2035,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Z_Import_Gas,2040,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Z_Import_Gas,2045,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Z_Import_Gas,2050,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Z_Import_Gas,2055,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+EE,Z_Import_Gas,2060,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,R_Biogas,2018,4.68230778,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,R_Biogas,2020,5.0827752,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,R_Biogas,2025,4.9603113,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -599,6 +610,10 @@ ES,R_Wood,2045,13.81917189,,PJ,Biomass Future Atlas of Technical and Economic Bi
 ES,R_Wood,2050,13.63914995,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 ES,R_Wood,2055,13.63914995,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,R_Wood,2060,13.63914995,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2030,20,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2040,156,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2050,570,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,Z_Import_Gas,All,450,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,R_Biogas,2018,2.95441542,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,R_Biogas,2020,3.64419072,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,R_Biogas,2025,3.2227893,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -659,6 +674,7 @@ FI,R_Wood,2045,6.014817589,,PJ,Biomass Future Atlas of Technical and Economic Bi
 FI,R_Wood,2050,5.395357501,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 FI,R_Wood,2055,5.395357501,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,R_Wood,2060,5.395357501,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+FI,Z_Import_Gas,All,289.08,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FR,R_Biogas,2018,6.63440328,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 FR,R_Biogas,2020,8.28483984,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 FR,R_Biogas,2025,8.017722,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -779,6 +795,11 @@ GR,R_Wood,2045,3.982607671,,PJ,Biomass Future Atlas of Technical and Economic Bi
 GR,R_Wood,2050,4.129394785,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 GR,R_Wood,2055,4.129394785,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 GR,R_Wood,2060,4.129394785,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2030,3.7583,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2035,24.8392,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2040,51.6431,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2045,97.9006,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2050,159.3065,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HR,R_Biogas,2018,0.546,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 HR,R_Biogas,2020,0.668181818,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 HR,R_Biogas,2025,0.649886364,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -899,6 +920,7 @@ HU,R_Wood,2045,5.26187813,,PJ,Biomass Future Atlas of Technical and Economic Bio
 HU,R_Wood,2050,5.221257797,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 HU,R_Wood,2055,5.221257797,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,R_Wood,2060,5.221257797,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+HU,Z_Import_Gas,All,788.794,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IE,R_Biogas,2018,0.3171501,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 IE,R_Biogas,2020,0.3537846,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 IE,R_Biogas,2025,0.35043516,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1019,6 +1041,7 @@ IT,R_Wood,2045,9.418334297,,PJ,Biomass Future Atlas of Technical and Economic Bi
 IT,R_Wood,2050,9.136146071,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 IT,R_Wood,2055,9.136146071,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 IT,R_Wood,2060,9.136146071,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+IT,Z_Import_Gas,All,1449,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,R_Biogas,2018,0.4301937,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 LT,R_Biogas,2020,0.48525012,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 LT,R_Biogas,2025,0.51372036,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1079,6 +1102,7 @@ LT,R_Wood,2045,1.787998061,,PJ,Biomass Future Atlas of Technical and Economic Bi
 LT,R_Wood,2050,1.829849314,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 LT,R_Wood,2055,1.829849314,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LT,R_Wood,2060,1.829849314,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LT,Z_Import_Gas,All,426.393,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LU,R_Biogas,2018,0.02114334,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 LU,R_Biogas,2020,0.0230274,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 LU,R_Biogas,2025,0.02114334,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1199,6 +1223,7 @@ LV,R_Wood,2045,2.131411957,,PJ,Biomass Future Atlas of Technical and Economic Bi
 LV,R_Wood,2050,2.215729922,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 LV,R_Wood,2055,2.215729922,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 LV,R_Wood,2060,2.215729922,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+LV,Z_Import_Gas,All,262.8,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NL,R_Biogas,2018,0.63032274,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 NL,R_Biogas,2020,0.680355,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 NL,R_Biogas,2025,0.64183644,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1319,6 +1344,8 @@ NO,R_Wood,2045,9.532816037,,PJ,Biomass Future Atlas of Technical and Economic Bi
 NO,R_Wood,2050,9.19366951,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 NO,R_Wood,2055,9.19366951,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NO,R_Wood,2060,9.19366951,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,X_Electrolysis,2030,4,,PJ,partner feedback IFE,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+NO,X_Electrolysis,2050,216,,PJ,partner feedback IFE,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 NONEU_Balkan,R_Biogas,2018,0.47725392,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 NONEU_Balkan,R_Biogas,2020,0.502560878,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 NONEU_Balkan,R_Biogas,2025,0.497358238,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1439,6 +1466,7 @@ PL,R_Wood,2045,10.00514363,,PJ,Biomass Future Atlas of Technical and Economic Bi
 PL,R_Wood,2050,9.52046919,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 PL,R_Wood,2055,9.52046919,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PL,R_Wood,2060,9.52046919,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+PL,Z_Import_Gas,All,1160.61,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 PT,R_Biogas,2018,1.27027512,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 PT,R_Biogas,2020,1.3628034,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 PT,R_Biogas,2025,1.27446192,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1559,6 +1587,7 @@ RO,R_Wood,2045,8.306544211,,PJ,Biomass Future Atlas of Technical and Economic Bi
 RO,R_Wood,2050,8.40009407,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 RO,R_Wood,2055,8.40009407,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RO,R_Wood,2060,8.40009407,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+RO,Z_Import_Gas,All,992.464,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 RU,R_Biogas,2018,0,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 RU,R_Biogas,2020,0,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 RU,R_Biogas,2025,0,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1679,6 +1708,8 @@ SE,R_Wood,2045,6.614890699,,PJ,Biomass Future Atlas of Technical and Economic Bi
 SE,R_Wood,2050,5.918498161,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 SE,R_Wood,2055,5.918498161,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SE,R_Wood,2060,5.918498161,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,X_Electrolysis,2030,45,,PJ,partner feedback LTU,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SE,X_Electrolysis,2050,234,,PJ,partner feedback LTU,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SI,R_Biogas,2018,0.20954934,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,R_Biogas,2020,0.23153004,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 SI,R_Biogas,2025,0.24325308,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1799,6 +1830,16 @@ SK,R_Wood,2045,2.549579074,,PJ,Biomass Future Atlas of Technical and Economic Bi
 SK,R_Wood,2050,2.561580536,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 SK,R_Wood,2055,2.561580536,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 SK,R_Wood,2060,2.561580536,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Z_Import_Gas,2018,1135.99,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Z_Import_Gas,2021,1211.36,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Z_Import_Gas,2025,1311.84,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Z_Import_Gas,2030,1347.01,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Z_Import_Gas,2035,1382.18,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Z_Import_Gas,2040,1417.35,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Z_Import_Gas,2045,1452.52,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Z_Import_Gas,2050,1487.69,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Z_Import_Gas,2055,1487.69,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+SK,Z_Import_Gas,2060,1487.69,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,R_Biogas,2018,3.600648,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 TR,R_Biogas,2020,3.791576654,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 TR,R_Biogas,2025,3.752325275,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1859,6 +1900,16 @@ TR,R_Wood,2045,10.91666637,,PJ,Biomass Future Atlas of Technical and Economic Bi
 TR,R_Wood,2050,10.85896684,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 TR,R_Wood,2055,10.85896684,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,R_Wood,2060,10.85896684,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Z_Import_Gas,2018,2613.35,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Z_Import_Gas,2021,2932.8,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Z_Import_Gas,2025,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Z_Import_Gas,2030,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Z_Import_Gas,2035,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Z_Import_Gas,2040,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Z_Import_Gas,2045,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Z_Import_Gas,2050,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Z_Import_Gas,2055,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+TR,Z_Import_Gas,2060,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UA,R_Biogas,2018,0,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 UA,R_Biogas,2020,0,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 UA,R_Biogas,2025,0,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
@@ -1979,54 +2030,3 @@ UK,R_Wood,2045,12.86706845,,PJ,Biomass Future Atlas of Technical and Economic Bi
 UK,R_Wood,2050,12.79906016,,PJ,Biomass Future Atlas of Technical and Economic Biomass Potential,07.09.2023,Jonathan Hanto <joh@wip.tu-berlin.de>
 UK,R_Wood,2055,12.79906016,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 UK,R_Wood,2060,12.79906016,,PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-DE,Z_Import_Gas,All,2000,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Z_Import_Gas,2018,94.8708,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Z_Import_Gas,2021,325.229,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Z_Import_Gas,2025,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Z_Import_Gas,2030,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Z_Import_Gas,2035,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Z_Import_Gas,2040,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Z_Import_Gas,2045,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Z_Import_Gas,2050,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Z_Import_Gas,2055,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-EE,Z_Import_Gas,2060,632.374,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,Z_Import_Gas,All,450,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-FI,Z_Import_Gas,All,289.08,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-HU,Z_Import_Gas,All,788.794,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-IT,Z_Import_Gas,All,1449,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LT,Z_Import_Gas,All,426.393,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-LV,Z_Import_Gas,All,262.8,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-PL,Z_Import_Gas,All,1160.61,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-RO,Z_Import_Gas,All,992.464,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Z_Import_Gas,2018,1135.99,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Z_Import_Gas,2021,1211.36,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Z_Import_Gas,2025,1311.84,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Z_Import_Gas,2030,1347.01,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Z_Import_Gas,2035,1382.18,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Z_Import_Gas,2040,1417.35,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Z_Import_Gas,2045,1452.52,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Z_Import_Gas,2050,1487.69,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Z_Import_Gas,2055,1487.69,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SK,Z_Import_Gas,2060,1487.69,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Z_Import_Gas,2018,2613.35,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Z_Import_Gas,2021,2932.8,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Z_Import_Gas,2025,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Z_Import_Gas,2030,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Z_Import_Gas,2035,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Z_Import_Gas,2040,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Z_Import_Gas,2045,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Z_Import_Gas,2050,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Z_Import_Gas,2055,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-TR,Z_Import_Gas,2060,3358.74,,PJ,entso-g 2021: pipeline connections to outside EU,29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,X_Electrolysis,2030,4,,PJ,partner feedback IFE,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-NO,X_Electrolysis,2050,216,,PJ,partner feedback IFE,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,X_Electrolysis,2030,45,,PJ,partner feedback LTU,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-SE,X_Electrolysis,2050,234,,PJ,partner feedback LTU,22.07.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,X_Electrolysis,2030,20,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,X_Electrolysis,2040,156,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,X_Electrolysis,2050,570,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2030,3.7583,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2035,24.8392,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2040,51.6431,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2045,97.9006,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2050,159.3065,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>

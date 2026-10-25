@@ -31,6 +31,36 @@ World,P_H2_OCGT,1,2045,1.4145,,MEUR/PJ,assumend 115% of OCGT (lower)- https://ww
 World,P_H2_OCGT,1,2050,1.357,,MEUR/PJ,assumend 115% of OCGT (lower)- https://www.sciencedirect.com/science/article/pii/S0360319921039768,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,P_H2_OCGT,1,2055,1.357,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,P_H2_OCGT,1,2060,1.357,,MEUR/PJ,same as 2050 for now,29.01.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2018,2.2843,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2021,4.0289,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2025,3.1632,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2030,1.6629,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2035,1.4586,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2040,1.2545,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2045,1.1961,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2050,1.1377,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2055,1.1377,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Coal_Hardcoal,1,2060,1.1377,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2018,4.4409,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2021,13.0472,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2025,8.0228,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2030,3.5657,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2035,3.4441,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2040,3.3225,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2045,3.2821,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2050,3.2415,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2055,3.2415,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Gas,1,2060,3.2415,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2018,8.6198,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2021,9.8353,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2025,9.8593,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2030,5.8677,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2035,5.0294,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2040,4.1912,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2045,3.8419,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2050,3.4927,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2055,3.4927,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,R_Oil,1,2060,3.4927,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,X_Biofuel,1,2025,2.255,,MEUR/PJ,HVO / renwable diesel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Biofuel,1,2030,2.255,,MEUR/PJ,HVO / renwable diesel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
 World,X_Biofuel,1,2035,2.255,,MEUR/PJ,HVO / renwable diesel (lower)- https://ens.dk/en/our-services/technology-catalogues/technology-data-renewable-fuels,18.11.2024,Alena Diesing <ad@wip.tu-berlin.de>
@@ -65,6 +95,13 @@ World,Z_Import_Gas,1,2045,3.4548,,MEUR/PJ,IEA World Energy Outlook 2024: Natural
 World,Z_Import_Gas,1,2050,3.4121,,MEUR/PJ,IEA World Energy Outlook 2024: Natural gas (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_Gas,1,2055,3.4121,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_Gas,1,2060,3.4121,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_H2,1,2030,34.5931,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_H2,1,2035,31.1338,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_H2,1,2040,27.6745,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_H2,1,2045,24.2152,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_H2,1,2050,20.7559,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_H2,1,2055,20.7559,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
+World,Z_Import_H2,1,2060,20.7559,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_Hardcoal,1,2018,2.4045,,MEUR/PJ,World Bank Commodity Outlook 2022,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_Hardcoal,1,2021,4.2409,,MEUR/PJ,World Bank Commodity Outlook 2022,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_Hardcoal,1,2025,3.3297,,MEUR/PJ,IEA World Energy Outlook 2024: Steam coal (European Union): NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -95,40 +132,3 @@ World,Z_Import_Oil,1,2045,4.0441,,MEUR/PJ,IEA World Energy Outlook 2024: Crude o
 World,Z_Import_Oil,1,2050,3.6765,,MEUR/PJ,IEA World Energy Outlook 2024: Crude oil: NZE,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_Oil,1,2055,3.6765,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
 World,Z_Import_Oil,1,2060,3.6765,,MEUR/PJ,same as 2050 for now,04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Gas,1,2018,4.4409,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Gas,1,2021,13.0472,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Gas,1,2025,8.0228,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Gas,1,2030,3.5657,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Gas,1,2035,3.4441,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Gas,1,2040,3.3225,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Gas,1,2045,3.2821,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Gas,1,2050,3.2415,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Gas,1,2055,3.2415,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Gas,1,2060,3.2415,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Oil,1,2018,8.6198,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Oil,1,2021,9.8353,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Oil,1,2025,9.8593,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Oil,1,2030,5.8677,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Oil,1,2035,5.0294,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Oil,1,2040,4.1912,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Oil,1,2045,3.8419,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Oil,1,2050,3.4927,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Oil,1,2055,3.4927,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Oil,1,2060,3.4927,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Coal_Hardcoal,1,2018,2.2843,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Coal_Hardcoal,1,2021,4.0289,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Coal_Hardcoal,1,2025,3.1632,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Coal_Hardcoal,1,2030,1.6629,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Coal_Hardcoal,1,2035,1.4586,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Coal_Hardcoal,1,2040,1.2545,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Coal_Hardcoal,1,2045,1.1961,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Coal_Hardcoal,1,2050,1.1377,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Coal_Hardcoal,1,2055,1.1377,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,R_Coal_Hardcoal,1,2060,1.1377,,MEUR/PJ,"Assumption: 95% of ""Z_Import"" value",04.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_H2,1,2030,34.5931,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_H2,1,2035,31.1338,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_H2,1,2040,27.6745,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_H2,1,2045,24.2152,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_H2,1,2050,20.7559,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_H2,1,2055,20.7559,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>
-World,Z_Import_H2,1,2060,20.7559,,MEUR/PJ,Fraunhofer ISI (2024): HYPAT Final Report. Values for 2030/2050 - rest interpolated,17.09.2025,Nikita Moskalenko <nim@wip.tu-berlin.de>

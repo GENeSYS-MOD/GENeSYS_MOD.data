@@ -13,6 +13,9 @@ EE,Z_Import_Gas,2045,474.2805,,PJ,entso-g 2021: pipeline connections to outside 
 EE,Z_Import_Gas,2050,474.2805,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,Z_Import_Gas,2055,474.2805,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 EE,Z_Import_Gas,2060,474.2805,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2030,5,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2040,84,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+ES,X_Electrolysis,2050,432,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Z_Import_Gas,2018,450,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Z_Import_Gas,2021,450,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),30.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 ES,Z_Import_Gas,2025,450,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),31.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -21,6 +24,11 @@ FI,Z_Import_Gas,2018,289.08,,PJ,entso-g 2021: pipeline connections to outside EU
 FI,Z_Import_Gas,2021,289.08,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),30.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,Z_Import_Gas,2025,289.08,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),31.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 FI,Z_Import_Gas,All,216.81,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),01.02.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2030,3.7583,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2035,10.4984,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2040,23.3676,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2045,39.0215,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
+GR,X_Electrolysis,2050,68.8576,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Z_Import_Gas,2018,788.794,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Z_Import_Gas,2021,788.794,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),30.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 HU,Z_Import_Gas,2025,788.794,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),31.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
@@ -65,11 +73,3 @@ TR,Z_Import_Gas,2045,2519.055,,PJ,entso-g 2021: pipeline connections to outside 
 TR,Z_Import_Gas,2050,2519.055,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,Z_Import_Gas,2055,2519.055,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
 TR,Z_Import_Gas,2060,2519.055,,PJ,entso-g 2021: pipeline connections to outside EU (slightly reduced from 2030: 75%),29.01.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,X_Electrolysis,2030,5,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,X_Electrolysis,2040,84,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-ES,X_Electrolysis,2050,432,,PJ,partner feedback CIEMAT,12.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2030,3.7583,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2035,10.4984,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2040,23.3676,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2045,39.0215,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
-GR,X_Electrolysis,2050,68.8576,,PJ,partner feedback E3M,17.08.2026,Nikita Moskalenko <nim@wip.tu-berlin.de>
